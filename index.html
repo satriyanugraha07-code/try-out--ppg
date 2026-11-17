@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="id">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#ffffff">
+  <meta name="description" content="Pilih paket latihan UTBK UKPPPG sesuai format soal dan lanjutkan pengerjaanmu di browser.">
+  <title>Tryout PPG</title>
+  <link rel="icon" href="./assets/illustrations/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./styles/main.css">
+  <script src="./data/questions.js" defer></script>
+  <script src="./js/engine.js" defer></script>
+  <script src="./js/question-view.js" defer></script>
+  <script src="./js/catalog.js" defer></script>
+  <script src="./js/app.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#konten">Lewati ke konten utama</a>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="brand" href="#beranda" aria-label="Tryout PPG, beranda">Tryout <span>PPG</span></a>
+    </div>
+  </header>
+
+  <main id="konten" tabindex="-1">
+    <section class="home" aria-labelledby="home-title">
+      <div class="home-hero">
+        <div class="hero-backdrop" aria-hidden="true">
+          <svg viewBox="0 0 1180 280" preserveAspectRatio="xMidYMid slice" fill="none">
+            <defs>
+              <radialGradient id="hero-glow" cx="76%" cy="50%" r="48%">
+                <stop offset="0%" stop-color="#3b82f6" stop-opacity="0.34"/>
+                <stop offset="55%" stop-color="#1e54b7" stop-opacity="0.12"/>
+                <stop offset="100%" stop-color="#102963" stop-opacity="0"/>
+              </radialGradient>
+            </defs>
+            <rect width="1180" height="280" fill="url(#hero-glow)"/>
+            <circle cx="880" cy="145" r="395" stroke="#ffffff" stroke-opacity="0.065" stroke-width="1.5"/>
+            <circle cx="880" cy="145" r="295" stroke="#ffffff" stroke-opacity="0.075" stroke-width="1.5"/>
+            <circle cx="880" cy="145" r="205" stroke="#ffffff" stroke-opacity="0.07" stroke-width="1.2"/>
+            <circle cx="880" cy="145" r="130" fill="#6aa5ff" fill-opacity="0.09"/>
+          </svg>
+        </div>
+        <div class="hero-inner">
+          <div class="hero-content">
+            <h1 id="home-title" tabindex="-1">Latihan UTBK UKPPPG</h1>
+            <p>Pilih format soal yang ingin kamu latih dan kerjakan tryout sesuai ritmemu.</p>
+            <div class="hero-actions">
+              <a class="button button-primary hero-cta" href="#paket">
+                Jelajahi Paket
+                <svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 4v15m-6-6 6 6 6-6"/></svg>
+              </a>
+              <span class="home-totals"></span>
+            </div>
+          </div>
+          <div class="hero-art" aria-hidden="true">
+            <img src="./assets/illustrations/hero-laptop.webp" width="1400" height="717" alt="" fetchpriority="high">
+          </div>
+        </div>
+      </div>
+      <section class="catalog" id="paket" aria-labelledby="catalog-title">
+        <div class="catalog-heading">
+          <div class="catalog-heading-copy">
+            <h2 id="catalog-title" tabindex="-1">Paket Latihan</h2>
+            <p class="catalog-subtitle">Pilih jalur <strong>Umum</strong> atau <strong>Program Studi</strong> untuk langsung melihat paket tryout.</p>
+          </div>
+        </div>
+        <div class="catalog-nav">
+          <div class="catalog-tracks" role="group" aria-label="Pilih jalur atau program studi"></div>
+          <div class="catalog-tools">
+            <div class="catalog-filters" role="group" aria-label="Filter format soal"></div>
+            <label class="catalog-search">
+              <span class="control-icon" aria-hidden="true">
+                <svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><circle cx="10.5" cy="10.5" r="5.5"/><path d="m15 15 4 4"/></svg>
+              </span>
+              <span class="sr-only">Cari paket latihan</span>
+              <input id="catalog-search" type="search" placeholder="Cari paket latihan" autocomplete="off">
+            </label>
+          </div>
+        </div>
+        <div class="catalog-sections"></div>
+        <p class="catalog-empty" hidden>Tidak ada paket yang cocok. Coba kata kunci atau format lain.</p>
+        <p class="sr-only catalog-count" role="status"></p>
+      </section>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="site-footer-inner">
+      <span><strong>Tryout PPG by ST08</strong> • Gratis untuk belajar, tidak untuk diperjualbelikan.</span>
+    </div>
+  </footer>
+
+  <dialog class="dialog" id="dialog" aria-labelledby="dialog-title">
+    <div class="dialog-content" id="dialog-content"></div>
+  </dialog>
+  <dialog class="dialog image-dialog" id="image-dialog" aria-label="Perbesar gambar soal">
+    <div class="dialog-content" id="image-content"></div>
+  </dialog>
+  <p class="sr-only" id="announcement" aria-live="polite"></p>
+  <noscript><p class="noscript">Aktifkan JavaScript di browser untuk membuka paket dan mengerjakan tryout.</p></noscript>
+</body>
+</html>
