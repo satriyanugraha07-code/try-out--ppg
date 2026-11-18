@@ -31737,5 +31737,4318 @@ window.TRYOUT_PACKS = [
         ]
       }
     ]
+  },
+  {
+    "id": "teknik-mesin-to-1",
+    "title": "Tryout UTBK/PCK Teknik Mesin",
+    "description": "Latihan 82 soal UKPPPG Pendidikan Teknik Mesin (40 Pilihan Ganda, 40 PGK MCMA, dan 2 Esai Studi Kasus K3 & Bengkel) beserta kunci dan rubrik.",
+    "durationMinutes": 150,
+    "category": "prodi",
+    "programId": "teknik-mesin",
+    "groupLabel": "Teknik Mesin",
+    "source": "Tryout_UTBK_PCK_UKPPPG_Teknik_Mesin.md",
+    "sourcePageCount": 1,
+    "questions": [
+      {
+        "id": "teknik-mesin-to-1-q001",
+        "number": 1,
+        "type": "single",
+        "section": "PCK Teknik Mesin (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Peserta didik salah menentukan urutan kerja pada praktik mesin frais. Umpan balik yang paling tepat diberikan guru adalah …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "“Kamu kurang teliti.”"
+          },
+          {
+            "id": "B",
+            "text": "“Langkahmu salah, ulangi dari awal.”"
+          },
+          {
+            "id": "C",
+            "text": "“Periksa kembali urutan persiapan, pemasangan benda kerja, dan penyetelan alat. Menurutmu, bagian mana yang menyebabkan hasil tidak sesuai?”"
+          },
+          {
+            "id": "D",
+            "text": "“Lihat pekerjaan temanmu yang benar.”"
+          },
+          {
+            "id": "E",
+            "text": "“Kamu harus lebih banyak membaca buku.”"
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Kunci jawaban benar (Bagian Pilihan Ganda no. 1): C.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q002",
+        "number": 2,
+        "type": "single",
+        "section": "PCK Teknik Mesin (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Guru ingin mengembangkan kemampuan peserta didik untuk merencanakan, memantau, dan mengevaluasi proses belajarnya sendiri. Strategi yang paling tepat adalah …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Memberikan instruksi rinci untuk semua kegiatan"
+          },
+          {
+            "id": "B",
+            "text": "Meminta peserta didik mengikuti contoh tanpa modifikasi"
+          },
+          {
+            "id": "C",
+            "text": "Menggunakan jurnal refleksi, perencanaan kerja, dan evaluasi hasil praktik"
+          },
+          {
+            "id": "D",
+            "text": "Memberikan nilai hanya berdasarkan produk akhir"
+          },
+          {
+            "id": "E",
+            "text": "Mengurangi kesempatan peserta didik mengambil keputusan"
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Kunci jawaban benar (Bagian Pilihan Ganda no. 2): C.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q003",
+        "number": 3,
+        "type": "single",
+        "section": "PCK Teknik Mesin (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam praktik bengkel, guru memberikan kasus hasil pembubutan yang tidak sesuai ukuran. Peserta didik diminta mengidentifikasi kemungkinan penyebab, mengumpulkan data, berdiskusi, dan menyusun alternatif penyelesaian. Model pembelajaran yang paling sesuai adalah …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Direct instruction"
+          },
+          {
+            "id": "B",
+            "text": "Problem-Based Learning"
+          },
+          {
+            "id": "C",
+            "text": "Drill and practice"
+          },
+          {
+            "id": "D",
+            "text": "Ceramah interaktif"
+          },
+          {
+            "id": "E",
+            "text": "Demonstrasi terbimbing"
+          }
+        ],
+        "correctAnswer": "B",
+        "explanation": "Kunci jawaban benar (Bagian Pilihan Ganda no. 3): B.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q004",
+        "number": 4,
+        "type": "single",
+        "section": "PCK Teknik Mesin (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Guru menggunakan video simulasi untuk memperlihatkan proses kerja mesin CNC sebelum peserta didik melakukan praktik langsung. Agar penggunaan teknologi tersebut efektif, guru sebaiknya …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Memutar video tanpa penjelasan agar peserta didik bebas menyimpulkan"
+          },
+          {
+            "id": "B",
+            "text": "Meminta peserta didik menyalin seluruh isi video"
+          },
+          {
+            "id": "C",
+            "text": "Menyertakan pertanyaan pengamatan, diskusi, dan kegiatan praktik atau verifikasi"
+          },
+          {
+            "id": "D",
+            "text": "Menggantikan seluruh praktik langsung dengan video"
+          },
+          {
+            "id": "E",
+            "text": "Menilai peserta didik berdasarkan lama waktu menonton video"
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Kunci jawaban benar (Bagian Pilihan Ganda no. 4): C.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q005",
+        "number": 5,
+        "type": "single",
+        "section": "PCK Teknik Mesin (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam kelompok praktik, satu peserta didik selalu mengerjakan seluruh pekerjaan, sedangkan anggota lainnya hanya mengamati. Perbaikan yang paling tepat dilakukan guru adalah …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Membubarkan seluruh kelompok dan mengganti dengan tugas individu"
+          },
+          {
+            "id": "B",
+            "text": "Membiarkan kondisi tersebut karena produk kelompok tetap selesai"
+          },
+          {
+            "id": "C",
+            "text": "Menetapkan pembagian peran dan tanggung jawab yang jelas bagi setiap anggota"
+          },
+          {
+            "id": "D",
+            "text": "Menunjuk peserta didik yang paling terampil sebagai satu-satunya operator"
+          },
+          {
+            "id": "E",
+            "text": "Memberikan nilai yang sama tanpa memperhatikan kontribusi setiap anggota"
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Kunci jawaban benar (Bagian Pilihan Ganda no. 5): C.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q006",
+        "number": 6,
+        "type": "single",
+        "section": "PCK Teknik Mesin (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Sebelum praktik pengelasan, guru menjelaskan bahwa penggunaan pelindung wajah, sarung tangan, pakaian kerja, dan ventilasi yang memadai diperlukan untuk mengurangi risiko paparan panas, percikan, dan asap pengelasan. Guru kemudian meminta peserta didik mengidentifikasi risiko pada setiap tahap kerja. Tujuan pedagogis utama kegiatan tersebut adalah …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Membuat peserta didik menghafalkan jenis APD"
+          },
+          {
+            "id": "B",
+            "text": "Mengembangkan kemampuan mengidentifikasi risiko dan menerapkan K3 dalam situasi nyata"
+          },
+          {
+            "id": "C",
+            "text": "Menggantikan praktik pengelasan dengan pembelajaran teori"
+          },
+          {
+            "id": "D",
+            "text": "Menilai kemampuan peserta didik menyebutkan nama alat pelindung"
+          },
+          {
+            "id": "E",
+            "text": "Memastikan peserta didik mengikuti semua instruksi tanpa memahami alasannya"
+          }
+        ],
+        "correctAnswer": "B",
+        "explanation": "Kunci jawaban benar (Bagian Pilihan Ganda no. 6): B.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q007",
+        "number": 7,
+        "type": "single",
+        "section": "PCK Teknik Mesin (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dua kelompok mengalami hambatan berbeda. Kelompok pertama memahami teori tetapi salah menggunakan alat ukur, sedangkan kelompok kedua terampil menggunakan alat ukur tetapi tidak memahami alasan pemilihannya. Tindakan guru yang paling tepat adalah …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Memberikan bantuan yang sama kepada kedua kelompok"
+          },
+          {
+            "id": "B",
+            "text": "Memberikan tugas berbeda dengan tujuan kompetensi yang berbeda"
+          },
+          {
+            "id": "C",
+            "text": "Memberikan scaffolding praktik kepada kelompok pertama dan penguatan konseptual kepada kelompok kedua"
+          },
+          {
+            "id": "D",
+            "text": "Mengulang seluruh materi kepada semua kelompok"
+          },
+          {
+            "id": "E",
+            "text": "Meminta kedua kelompok saling menilai tanpa bimbingan guru"
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Kunci jawaban benar (Bagian Pilihan Ganda no. 7): C.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q008",
+        "number": 8,
+        "type": "single",
+        "section": "PCK Teknik Mesin (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Guru mengajarkan konsep toleransi ukuran dengan mengaitkannya pada pembuatan poros dan lubang yang harus dirakit. Pendekatan tersebut tepat karena …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Peserta didik tidak perlu memahami konsep teoritis"
+          },
+          {
+            "id": "B",
+            "text": "Konsep menjadi lebih bermakna karena dihubungkan dengan situasi nyata"
+          },
+          {
+            "id": "C",
+            "text": "Semua materi kejuruan harus selalu diajarkan di bengkel"
+          },
+          {
+            "id": "D",
+            "text": "Pembelajaran kontekstual hanya sesuai untuk peserta didik berkemampuan tinggi"
+          },
+          {
+            "id": "E",
+            "text": "Peserta didik cukup memahami contoh tanpa perlu melakukan analisis"
+          }
+        ],
+        "correctAnswer": "B",
+        "explanation": "Kunci jawaban benar (Bagian Pilihan Ganda no. 8): B.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q009",
+        "number": 9,
+        "type": "single",
+        "section": "PCK Teknik Mesin (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Seorang guru Teknik Mesin diminta mengajarkan materi yang belum dikuasainya secara mendalam. Sikap profesional yang paling tepat adalah …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Mengajar berdasarkan perkiraan agar pembelajaran tetap berjalan"
+          },
+          {
+            "id": "B",
+            "text": "Menghindari materi tersebut dan menggantinya dengan materi yang dikuasai"
+          },
+          {
+            "id": "C",
+            "text": "Mempelajari sumber yang relevan, berkonsultasi dengan pihak yang kompeten, dan menyiapkan pembelajaran secara bertanggung jawab"
+          },
+          {
+            "id": "D",
+            "text": "Meminta peserta didik mempelajari sendiri tanpa pendampingan"
+          },
+          {
+            "id": "E",
+            "text": "Menyampaikan bahwa materi tersebut tidak penting bagi peserta didik"
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Kunci jawaban benar (Bagian Pilihan Ganda no. 9): C.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q010",
+        "number": 10,
+        "type": "single",
+        "section": "PCK Teknik Mesin (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Guru ingin menilai kemampuan peserta didik dalam melakukan pekerjaan bubut secara utuh. Penilaian tidak hanya berfokus pada ukuran akhir benda kerja, tetapi juga memperhatikan persiapan alat, penerapan K3, ketepatan prosedur, penggunaan alat ukur, dan kemampuan mengatasi kesalahan. Bentuk asesmen yang paling tepat adalah …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Tes pilihan ganda tentang teori mesin bubut"
+          },
+          {
+            "id": "B",
+            "text": "Tes tertulis mengenai bagian-bagian mesin bubut"
+          },
+          {
+            "id": "C",
+            "text": "Penilaian kinerja menggunakan rubrik"
+          },
+          {
+            "id": "D",
+            "text": "Penilaian berdasarkan kecepatan menyelesaikan pekerjaan"
+          },
+          {
+            "id": "E",
+            "text": "Penilaian hanya berdasarkan kualitas produk akhir"
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Kunci jawaban benar (Bagian Pilihan Ganda no. 10): C.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q011",
+        "number": 11,
+        "type": "single",
+        "section": "PCK Teknik Mesin (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Peserta didik memperoleh nilai tinggi pada tes teori mesin bubut, tetapi melakukan banyak kesalahan ketika mengoperasikan mesin. Kesimpulan yang paling tepat adalah …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Peserta didik pasti tidak belajar dengan sungguh-sungguh"
+          },
+          {
+            "id": "B",
+            "text": "Tes teori tidak boleh digunakan dalam pembelajaran vokasi"
+          },
+          {
+            "id": "C",
+            "text": "Guru perlu membandingkan bukti pengetahuan dengan bukti keterampilan praktik"
+          },
+          {
+            "id": "D",
+            "text": "Nilai praktik harus diabaikan karena lebih sulit dilakukan"
+          },
+          {
+            "id": "E",
+            "text": "Guru perlu mengganti seluruh penilaian dengan tes tertulis"
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Kunci jawaban benar (Bagian Pilihan Ganda no. 11): C.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q012",
+        "number": 12,
+        "type": "single",
+        "section": "PCK Teknik Mesin (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam pembelajaran pengukuran Teknik Mesin, guru menjelaskan bahwa jangka sorong dapat digunakan untuk mengukur dimensi luar, dimensi dalam, dan kedalaman sesuai bagian alat yang digunakan. Guru kemudian meminta peserta didik memilih bagian alat yang sesuai dengan objek ukur. Kegiatan tersebut terutama menunjukkan …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Penguasaan profesional yang digunakan untuk mendukung pembelajaran bermakna"
+          },
+          {
+            "id": "B",
+            "text": "Pembelajaran yang hanya menekankan hafalan nama alat"
+          },
+          {
+            "id": "C",
+            "text": "Penilaian sumatif terhadap seluruh kompetensi pemesinan"
+          },
+          {
+            "id": "D",
+            "text": "Penggunaan teknologi untuk menggantikan praktik"
+          },
+          {
+            "id": "E",
+            "text": "Penerapan remedial tanpa asesmen awal"
+          }
+        ],
+        "correctAnswer": "A",
+        "explanation": "Kunci jawaban benar (Bagian Pilihan Ganda no. 12): A.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q013",
+        "number": 13,
+        "type": "single",
+        "section": "PCK Teknik Mesin (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Peserta didik dapat melakukan pengukuran diameter benda silinder pada contoh yang diberikan guru. Namun, ketika bentuk benda dan posisi pengukuran diubah, mereka mengalami kesulitan. Masalah utama yang perlu ditangani guru adalah …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Peserta didik kurang menghafal nama alat ukur"
+          },
+          {
+            "id": "B",
+            "text": "Peserta didik belum mampu mentransfer konsep ke situasi baru"
+          },
+          {
+            "id": "C",
+            "text": "Peserta didik membutuhkan waktu praktik yang lebih singkat"
+          },
+          {
+            "id": "D",
+            "text": "Peserta didik belum memahami seluruh teori mesin"
+          },
+          {
+            "id": "E",
+            "text": "Peserta didik tidak perlu diberikan variasi masalah"
+          }
+        ],
+        "correctAnswer": "B",
+        "explanation": "Kunci jawaban benar (Bagian Pilihan Ganda no. 13): B.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q014",
+        "number": 14,
+        "type": "single",
+        "section": "PCK Teknik Mesin (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam pembelajaran pemesinan, peserta didik mampu menghitung hasil operasi matematika, tetapi kesulitan menggunakan hasil perhitungan untuk menentukan keputusan kerja. Perbaikan pembelajaran yang paling tepat adalah …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menambah latihan hitung dengan angka yang lebih sulit"
+          },
+          {
+            "id": "B",
+            "text": "Meminta peserta didik menghafalkan semua rumus"
+          },
+          {
+            "id": "C",
+            "text": "Menggunakan kasus pemesinan yang mengharuskan peserta didik menafsirkan dan menerapkan hasil perhitungan"
+          },
+          {
+            "id": "D",
+            "text": "Mengurangi penggunaan perhitungan dalam praktik"
+          },
+          {
+            "id": "E",
+            "text": "Mengganti seluruh tugas numerasi dengan pertanyaan definisi"
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Kunci jawaban benar (Bagian Pilihan Ganda no. 14): C.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q015",
+        "number": 15,
+        "type": "single",
+        "section": "PCK Teknik Mesin (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Saat praktik, beberapa peserta didik berbicara terlalu dekat dengan mesin yang sedang beroperasi. Guru ingin menjaga keselamatan sekaligus mempertahankan keterlibatan peserta didik. Tindakan yang paling tepat adalah …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menghentikan seluruh kegiatan praktik sampai pembelajaran berakhir"
+          },
+          {
+            "id": "B",
+            "text": "Memberikan hukuman kepada seluruh kelas"
+          },
+          {
+            "id": "C",
+            "text": "Mengingatkan aturan keselamatan, mengatur posisi peserta didik, dan menjelaskan alasannya"
+          },
+          {
+            "id": "D",
+            "text": "Membiarkan peserta didik karena mesin sedang digunakan oleh temannya"
+          },
+          {
+            "id": "E",
+            "text": "Meminta peserta didik yang melanggar meninggalkan bengkel tanpa penjelasan"
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Kunci jawaban benar (Bagian Pilihan Ganda no. 15): C.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q016",
+        "number": 16,
+        "type": "single",
+        "section": "PCK Teknik Mesin (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Setelah pembelajaran, guru menemukan bahwa peserta didik dapat menyelesaikan tugas sesuai contoh, tetapi kesulitan ketika menghadapi gangguan yang berbeda. Berdasarkan temuan tersebut, refleksi guru yang paling tepat adalah …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Peserta didik perlu diberi lebih banyak tugas yang sama"
+          },
+          {
+            "id": "B",
+            "text": "Guru perlu mengurangi seluruh bantuan selama praktik"
+          },
+          {
+            "id": "C",
+            "text": "Guru perlu menambahkan kasus bervariasi yang mendorong analisis dan troubleshooting"
+          },
+          {
+            "id": "D",
+            "text": "Guru perlu mengganti semua kegiatan praktik dengan ceramah"
+          },
+          {
+            "id": "E",
+            "text": "Guru perlu mempercepat penyampaian materi agar lebih banyak topik selesai"
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Kunci jawaban benar (Bagian Pilihan Ganda no. 16): C.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q017",
+        "number": 17,
+        "type": "single",
+        "section": "PCK Teknik Mesin (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam pembelajaran gambar teknik, beberapa peserta didik lebih mudah memahami materi melalui contoh visual, sedangkan peserta didik lainnya membutuhkan praktik menggambar secara bertahap. Guru ingin menerapkan pembelajaran berdiferensiasi. Strategi yang paling tepat adalah …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Memberikan materi dan aktivitas yang sama, tetapi dengan waktu pengerjaan berbeda"
+          },
+          {
+            "id": "B",
+            "text": "Menyediakan berbagai bentuk representasi dan aktivitas sesuai kebutuhan peserta didik"
+          },
+          {
+            "id": "C",
+            "text": "Mengelompokkan peserta didik berdasarkan nilai dan memberikan tujuan pembelajaran yang berbeda"
+          },
+          {
+            "id": "D",
+            "text": "Memberikan tugas menggambar yang lebih mudah kepada seluruh peserta didik yang mengalami kesulitan"
+          },
+          {
+            "id": "E",
+            "text": "Membebaskan peserta didik memilih materi tanpa mengacu pada tujuan pembelajaran"
+          }
+        ],
+        "correctAnswer": "B",
+        "explanation": "Kunci jawaban benar (Bagian Pilihan Ganda no. 17): B.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q018",
+        "number": 18,
+        "type": "single",
+        "section": "PCK Teknik Mesin (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Hasil asesmen menunjukkan bahwa sebagian peserta didik belum mampu membaca skala jangka sorong. Tindakan remedial yang paling tepat adalah …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Memberikan tugas tambahan dengan jumlah lebih banyak"
+          },
+          {
+            "id": "B",
+            "text": "Mengulang materi menggunakan pendekatan dan contoh yang lebih sesuai"
+          },
+          {
+            "id": "C",
+            "text": "Menurunkan standar kompetensi agar seluruh peserta didik memperoleh nilai tuntas"
+          },
+          {
+            "id": "D",
+            "text": "Meminta peserta didik mempelajari materi secara mandiri tanpa pendampingan"
+          },
+          {
+            "id": "E",
+            "text": "Mengganti materi pengukuran dengan materi yang lebih mudah"
+          }
+        ],
+        "correctAnswer": "B",
+        "explanation": "Kunci jawaban benar (Bagian Pilihan Ganda no. 18): B.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q019",
+        "number": 19,
+        "type": "single",
+        "section": "PCK Teknik Mesin (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Guru menemukan bahwa peserta didik mampu mengikuti langkah kerja dalam jobsheet, tetapi tidak dapat menjelaskan alasan di balik setiap langkah. Perbaikan pembelajaran yang paling tepat adalah …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menambah jumlah langkah kerja yang harus dihafalkan"
+          },
+          {
+            "id": "B",
+            "text": "Mengurangi penjelasan teori agar waktu praktik lebih banyak"
+          },
+          {
+            "id": "C",
+            "text": "Menekankan kemampuan menjelaskan alasan, memilih prosedur, dan mengambil keputusan"
+          },
+          {
+            "id": "D",
+            "text": "Mengganti praktik dengan tes tertulis secara keseluruhan"
+          },
+          {
+            "id": "E",
+            "text": "Meminta peserta didik menyalin kembali jobsheet"
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Kunci jawaban benar (Bagian Pilihan Ganda no. 19): C.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q020",
+        "number": 20,
+        "type": "single",
+        "section": "PCK Teknik Mesin (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam penilaian praktik, guru hanya menilai apakah produk peserta didik selesai. Padahal, terdapat peserta didik yang menghasilkan produk baik tetapi mengabaikan K3 dan menggunakan alat secara tidak tepat. Kelemahan utama penilaian tersebut adalah …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Penilaian produk tidak sesuai untuk pembelajaran vokasi"
+          },
+          {
+            "id": "B",
+            "text": "Penilaian belum mencakup proses dan indikator kompetensi secara menyeluruh"
+          },
+          {
+            "id": "C",
+            "text": "Penilaian seharusnya hanya dilakukan melalui tes tertulis"
+          },
+          {
+            "id": "D",
+            "text": "K3 tidak perlu dimasukkan dalam penilaian hasil praktik"
+          },
+          {
+            "id": "E",
+            "text": "Produk akhir tidak boleh digunakan sebagai bukti kompetensi"
+          }
+        ],
+        "correctAnswer": "B",
+        "explanation": "Kunci jawaban benar (Bagian Pilihan Ganda no. 20): B.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q021",
+        "number": 21,
+        "type": "single",
+        "section": "PCK Teknik Mesin (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Ketika peserta didik sedang melakukan praktik pengelasan, guru mengamati proses kerja, mengajukan pertanyaan, dan memberikan koreksi sebelum pekerjaan selesai. Tujuan utama kegiatan tersebut adalah …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menentukan nilai akhir praktik"
+          },
+          {
+            "id": "B",
+            "text": "Mengelompokkan peserta didik berdasarkan hasil kerja"
+          },
+          {
+            "id": "C",
+            "text": "Mengetahui kesalahan untuk memperbaiki proses belajar"
+          },
+          {
+            "id": "D",
+            "text": "Membandingkan kemampuan peserta didik dalam satu kelas"
+          },
+          {
+            "id": "E",
+            "text": "Menentukan peserta didik yang harus mengikuti ujian ulang"
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Kunci jawaban benar (Bagian Pilihan Ganda no. 21): C.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q022",
+        "number": 22,
+        "type": "single",
+        "section": "PCK Teknik Mesin (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Hasil asesmen menunjukkan bahwa peserta didik memahami konsep secara lisan, tetapi kesulitan menuangkan langkah kerja dalam bentuk diagram. Guru sebaiknya …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Mengulang semua materi secara lisan"
+          },
+          {
+            "id": "B",
+            "text": "Memberikan latihan membuat diagram secara bertahap dengan contoh dan umpan balik"
+          },
+          {
+            "id": "C",
+            "text": "Mengurangi tuntutan kemampuan membuat diagram"
+          },
+          {
+            "id": "D",
+            "text": "Mengganti diagram dengan hafalan istilah"
+          },
+          {
+            "id": "E",
+            "text": "Memberikan tugas yang sama tanpa bantuan tambahan"
+          }
+        ],
+        "correctAnswer": "B",
+        "explanation": "Kunci jawaban benar (Bagian Pilihan Ganda no. 22): B.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q023",
+        "number": 23,
+        "type": "single",
+        "section": "PCK Teknik Mesin (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Guru meminta peserta didik merancang dan membuat produk sederhana dari logam. Mereka harus menentukan kebutuhan, membuat gambar kerja, memilih bahan, melakukan proses pengerjaan, menguji produk, dan mempresentasikan hasilnya. Ciri utama pembelajaran tersebut adalah …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Peserta didik hanya mengikuti langkah guru"
+          },
+          {
+            "id": "B",
+            "text": "Pembelajaran berpusat pada hafalan prosedur"
+          },
+          {
+            "id": "C",
+            "text": "Peserta didik menghasilkan produk melalui proses investigasi dan penyelesaian masalah"
+          },
+          {
+            "id": "D",
+            "text": "Penilaian hanya dilakukan melalui tes teori"
+          },
+          {
+            "id": "E",
+            "text": "Guru menentukan seluruh keputusan tanpa melibatkan peserta didik"
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Kunci jawaban benar (Bagian Pilihan Ganda no. 23): C.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q024",
+        "number": 24,
+        "type": "single",
+        "section": "PCK Teknik Mesin (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Guru ingin mendorong peserta didik berpikir kritis saat membahas kegagalan hasil pengelasan. Pertanyaan yang paling sesuai adalah …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "“Apa definisi pengelasan?”"
+          },
+          {
+            "id": "B",
+            "text": "“Sebutkan jenis-jenis cacat las!”"
+          },
+          {
+            "id": "C",
+            "text": "“Siapa yang melakukan kesalahan dalam praktik?”"
+          },
+          {
+            "id": "D",
+            "text": "“Mengapa cacat tersebut dapat terjadi dan bukti apa yang mendukung dugaan kalian?”"
+          },
+          {
+            "id": "E",
+            "text": "“Apakah kalian sudah membaca materi pengelasan?”"
+          }
+        ],
+        "correctAnswer": "D",
+        "explanation": "Kunci jawaban benar (Bagian Pilihan Ganda no. 24): D.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q025",
+        "number": 25,
+        "type": "single",
+        "section": "PCK Teknik Mesin (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Sebelum praktik mesin bubut, guru meminta peserta didik memeriksa kondisi mesin, memastikan benda kerja terpasang kuat, menggunakan APD, dan memahami prosedur penghentian mesin. Tindakan guru tersebut menunjukkan bahwa …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "K3 hanya digunakan untuk memenuhi administrasi pembelajaran"
+          },
+          {
+            "id": "B",
+            "text": "K3 merupakan bagian integral dari kompetensi praktik"
+          },
+          {
+            "id": "C",
+            "text": "K3 hanya perlu dijelaskan setelah terjadi kecelakaan"
+          },
+          {
+            "id": "D",
+            "text": "K3 dapat menggantikan seluruh tujuan pembelajaran praktik"
+          },
+          {
+            "id": "E",
+            "text": "K3 hanya menjadi tanggung jawab teknisi bengkel"
+          }
+        ],
+        "correctAnswer": "B",
+        "explanation": "Kunci jawaban benar (Bagian Pilihan Ganda no. 25): B.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q026",
+        "number": 26,
+        "type": "single",
+        "section": "PCK Teknik Mesin (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pada awal pembelajaran praktik mesin bubut, guru memberikan asesmen diagnostik. Hasilnya menunjukkan bahwa sebagian peserta didik belum memahami fungsi alat ukur, sebagian lainnya memahami teori tetapi belum terampil menggunakannya, dan beberapa peserta didik sudah mampu melakukan pengukuran dengan benar. Tindakan pedagogis yang paling tepat adalah …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Memberikan materi yang sama kepada seluruh peserta didik agar proses pembelajaran seragam"
+          },
+          {
+            "id": "B",
+            "text": "Mengulang seluruh materi dari awal karena masih terdapat peserta didik yang belum menguasai konsep"
+          },
+          {
+            "id": "C",
+            "text": "Mengelompokkan peserta didik berdasarkan kebutuhan belajar dan memberikan bantuan yang sesuai"
+          },
+          {
+            "id": "D",
+            "text": "Meminta peserta didik yang sudah terampil menunggu sampai seluruh temannya menguasai materi"
+          },
+          {
+            "id": "E",
+            "text": "Melanjutkan pembelajaran karena hasil asesmen diagnostik tidak digunakan untuk penilaian"
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Kunci jawaban benar (Bagian Pilihan Ganda no. 26): C.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q027",
+        "number": 27,
+        "type": "single",
+        "section": "PCK Teknik Mesin (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Guru ingin mengembangkan kemampuan berpikir tingkat tinggi melalui pembelajaran Teknik Mesin. Aktivitas yang paling tepat adalah …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menghafalkan bagian-bagian mesin"
+          },
+          {
+            "id": "B",
+            "text": "Menyalin prosedur kerja dari buku"
+          },
+          {
+            "id": "C",
+            "text": "Menganalisis masalah hasil produksi dan menentukan solusi berdasarkan data"
+          },
+          {
+            "id": "D",
+            "text": "Menjawab soal definisi sebanyak-banyaknya"
+          },
+          {
+            "id": "E",
+            "text": "Mengulangi demonstrasi guru tanpa perubahan kondisi"
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Kunci jawaban benar (Bagian Pilihan Ganda no. 27): C.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q028",
+        "number": 28,
+        "type": "single",
+        "section": "PCK Teknik Mesin (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam satu kelas, terdapat peserta didik yang cepat memahami penjelasan, peserta didik yang membutuhkan contoh konkret, dan peserta didik yang memerlukan latihan berulang. Sikap guru yang paling tepat adalah …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menggunakan satu metode agar seluruh peserta didik memperoleh perlakuan yang sama"
+          },
+          {
+            "id": "B",
+            "text": "Menyesuaikan strategi pembelajaran berdasarkan kebutuhan tanpa mengubah tujuan kompetensi"
+          },
+          {
+            "id": "C",
+            "text": "Memprioritaskan peserta didik yang cepat agar target pembelajaran tercapai"
+          },
+          {
+            "id": "D",
+            "text": "Memberikan materi tambahan hanya kepada peserta didik yang memperoleh nilai rendah"
+          },
+          {
+            "id": "E",
+            "text": "Memisahkan peserta didik berdasarkan kemampuan secara permanen"
+          }
+        ],
+        "correctAnswer": "B",
+        "explanation": "Kunci jawaban benar (Bagian Pilihan Ganda no. 28): B.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q029",
+        "number": 29,
+        "type": "single",
+        "section": "PCK Teknik Mesin (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Tiga peserta didik telah mampu menyelesaikan praktik pengukuran dan menjelaskan alasan pemilihan alat ukur. Sementara itu, peserta didik lain masih memerlukan bimbingan dasar. Aktivitas pengayaan yang paling tepat adalah …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Meminta peserta didik mahir mengulang tugas yang sama"
+          },
+          {
+            "id": "B",
+            "text": "Meminta peserta didik mahir membantu guru mengoreksi semua pekerjaan"
+          },
+          {
+            "id": "C",
+            "text": "Memberikan kasus pengukuran dengan kondisi berbeda yang menuntut analisis"
+          },
+          {
+            "id": "D",
+            "text": "Meminta peserta didik mahir menunggu sampai semua temannya selesai"
+          },
+          {
+            "id": "E",
+            "text": "Memberikan tambahan soal hafalan tentang nama alat ukur"
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Kunci jawaban benar (Bagian Pilihan Ganda no. 29): C.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q030",
+        "number": 30,
+        "type": "single",
+        "section": "PCK Teknik Mesin (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Peserta didik harus memahami prosedur keselamatan sebelum menggunakan mesin gerinda. Guru perlu memastikan bahwa peserta didik dapat melihat prosedur secara langsung dan memahami risiko setiap tindakan. Metode yang paling sesuai digunakan pada tahap awal adalah …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Demonstrasi disertai penjelasan dan pengamatan terarah"
+          },
+          {
+            "id": "B",
+            "text": "Diskusi bebas tanpa contoh praktik"
+          },
+          {
+            "id": "C",
+            "text": "Penugasan membaca tanpa kegiatan lanjutan"
+          },
+          {
+            "id": "D",
+            "text": "Tes tertulis sebelum peserta didik melihat alat"
+          },
+          {
+            "id": "E",
+            "text": "Simulasi mandiri tanpa arahan keselamatan"
+          }
+        ],
+        "correctAnswer": "A",
+        "explanation": "Kunci jawaban benar (Bagian Pilihan Ganda no. 30): A.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q031",
+        "number": 31,
+        "type": "single",
+        "section": "PCK Teknik Mesin (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam praktik kelompok, guru ingin menilai tanggung jawab, komunikasi, kerja sama, dan kepatuhan terhadap K3 secara objektif. Instrumen yang paling tepat digunakan adalah …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Penilaian berdasarkan kesan umum guru"
+          },
+          {
+            "id": "B",
+            "text": "Daftar hadir kelompok"
+          },
+          {
+            "id": "C",
+            "text": "Rubrik atau lembar observasi dengan indikator perilaku yang jelas"
+          },
+          {
+            "id": "D",
+            "text": "Tes tertulis tentang pengertian kerja sama"
+          },
+          {
+            "id": "E",
+            "text": "Penilaian berdasarkan produk akhir kelompok saja"
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Kunci jawaban benar (Bagian Pilihan Ganda no. 31): C.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q032",
+        "number": 32,
+        "type": "single",
+        "section": "PCK Teknik Mesin (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Seorang peserta didik menghasilkan gambar teknik dengan ukuran yang tidak konsisten. Guru memberikan komentar, “Gambarmu masih salah.” Umpan balik tersebut perlu diperbaiki karena …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Umpan balik seharusnya hanya diberikan dalam bentuk angka"
+          },
+          {
+            "id": "B",
+            "text": "Umpan balik harus disampaikan di depan seluruh kelas"
+          },
+          {
+            "id": "C",
+            "text": "Umpan balik tidak boleh membahas kesalahan peserta didik"
+          },
+          {
+            "id": "D",
+            "text": "Umpan balik seharusnya diberikan setelah nilai akhir ditentukan"
+          },
+          {
+            "id": "E",
+            "text": "Umpan balik belum menunjukkan bagian yang perlu diperbaiki dan cara memperbaikinya"
+          }
+        ],
+        "correctAnswer": "E",
+        "explanation": "Kunci jawaban benar (Bagian Pilihan Ganda no. 32): E.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q033",
+        "number": 33,
+        "type": "single",
+        "section": "PCK Teknik Mesin (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Peserta didik tampak kurang tertarik mempelajari gambar teknik karena menganggap materi tersebut tidak berhubungan dengan pekerjaan. Strategi yang paling tepat adalah …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menambah jumlah latihan menggambar tanpa penjelasan"
+          },
+          {
+            "id": "B",
+            "text": "Mengaitkan materi dengan kebutuhan kerja dan proyek nyata di bidang Teknik Mesin"
+          },
+          {
+            "id": "C",
+            "text": "Memberikan nilai tambahan bagi peserta didik yang menyelesaikan tugas lebih cepat"
+          },
+          {
+            "id": "D",
+            "text": "Mengurangi materi gambar teknik agar peserta didik tidak merasa terbebani"
+          },
+          {
+            "id": "E",
+            "text": "Meminta peserta didik menghafalkan seluruh simbol gambar teknik"
+          }
+        ],
+        "correctAnswer": "B",
+        "explanation": "Kunci jawaban benar (Bagian Pilihan Ganda no. 33): B.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q034",
+        "number": 34,
+        "type": "single",
+        "section": "PCK Teknik Mesin (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Seorang peserta didik memiliki keterbatasan dalam mengikuti aktivitas praktik dengan kecepatan yang sama seperti teman-temannya. Guru tetap ingin memastikan peserta didik mencapai kompetensi yang ditetapkan. Tindakan yang paling tepat adalah …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Membebaskan peserta didik dari seluruh kegiatan praktik"
+          },
+          {
+            "id": "B",
+            "text": "Memberikan tujuan pembelajaran yang lebih rendah tanpa analisis kebutuhan"
+          },
+          {
+            "id": "C",
+            "text": "Menyesuaikan alat bantu, waktu, atau tahapan kerja tanpa menghilangkan inti kompetensi"
+          },
+          {
+            "id": "D",
+            "text": "Meminta peserta didik hanya mengamati teman selama praktik"
+          },
+          {
+            "id": "E",
+            "text": "Menempatkan peserta didik pada tugas administratif di luar pembelajaran"
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Kunci jawaban benar (Bagian Pilihan Ganda no. 34): C.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q035",
+        "number": 35,
+        "type": "single",
+        "section": "PCK Teknik Mesin (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pada pembelajaran CNC, guru tidak langsung memberikan solusi ketika program tidak berjalan. Guru meminta peserta didik menjelaskan dugaan penyebab, memeriksa langkah program, dan menguji perbaikannya. Pendekatan tersebut terutama bertujuan untuk …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Mengurangi tanggung jawab guru dalam pembelajaran"
+          },
+          {
+            "id": "B",
+            "text": "Membiasakan peserta didik menunggu instruksi"
+          },
+          {
+            "id": "C",
+            "text": "Mengembangkan kemandirian dan kemampuan pemecahan masalah"
+          },
+          {
+            "id": "D",
+            "text": "Mempercepat penyelesaian praktik dengan mengurangi diskusi"
+          },
+          {
+            "id": "E",
+            "text": "Menghindari penggunaan demonstrasi oleh guru"
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Kunci jawaban benar (Bagian Pilihan Ganda no. 35): C.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q036",
+        "number": 36,
+        "type": "single",
+        "section": "PCK Teknik Mesin (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Guru menemukan bahwa peserta didik terlalu bergantung pada jobsheet dan tidak mampu mengambil keputusan ketika kondisi praktik berubah. Perbaikan penggunaan jobsheet yang paling tepat adalah …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menghapus jobsheet dari seluruh kegiatan pembelajaran"
+          },
+          {
+            "id": "B",
+            "text": "Menambahkan lebih banyak instruksi rinci pada setiap langkah"
+          },
+          {
+            "id": "C",
+            "text": "Menggunakan jobsheet secara bertahap dan menyisipkan pertanyaan analitis serta ruang pengambilan keputusan"
+          },
+          {
+            "id": "D",
+            "text": "Meminta peserta didik menghafalkan isi jobsheet sebelum praktik"
+          },
+          {
+            "id": "E",
+            "text": "Mengurangi kegiatan refleksi agar peserta didik lebih cepat menyelesaikan pekerjaan"
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Kunci jawaban benar (Bagian Pilihan Ganda no. 36): C.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q037",
+        "number": 37,
+        "type": "single",
+        "section": "PCK Teknik Mesin (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Seorang peserta didik selalu menghindari praktik pengelasan. Setelah ditanya secara personal, diketahui bahwa peserta didik takut melakukan kesalahan dan ditertawakan teman-temannya. Tindakan guru yang paling tepat adalah …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Memaksa peserta didik langsung melakukan praktik agar terbiasa"
+          },
+          {
+            "id": "B",
+            "text": "Mengurangi target kompetensi peserta didik tersebut"
+          },
+          {
+            "id": "C",
+            "text": "Memberikan dukungan bertahap dan membangun lingkungan belajar yang aman"
+          },
+          {
+            "id": "D",
+            "text": "Memindahkan peserta didik ke kelompok yang lebih cepat"
+          },
+          {
+            "id": "E",
+            "text": "Mengganti seluruh kegiatan praktik dengan tugas tertulis"
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Kunci jawaban benar (Bagian Pilihan Ganda no. 37): C.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q038",
+        "number": 38,
+        "type": "single",
+        "section": "PCK Teknik Mesin (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Saat membahas proses pemotongan logam, seorang peserta didik menyatakan bahwa semakin tinggi putaran mesin, semakin baik hasil pemesinan dalam semua kondisi. Guru ingin memanfaatkan pernyataan tersebut sebagai sumber belajar. Tindakan yang paling tepat adalah …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Langsung menyatakan bahwa pendapat peserta didik salah"
+          },
+          {
+            "id": "B",
+            "text": "Meminta peserta didik menghafalkan aturan putaran mesin yang benar"
+          },
+          {
+            "id": "C",
+            "text": "Mengabaikan pernyataan tersebut agar pembelajaran tetap berlangsung"
+          },
+          {
+            "id": "D",
+            "text": "Mengajak peserta didik menguji pernyataan melalui contoh dan kondisi pemesinan yang berbeda"
+          },
+          {
+            "id": "E",
+            "text": "Memberikan nilai rendah agar peserta didik lebih berhati-hati dalam menjawab"
+          }
+        ],
+        "correctAnswer": "D",
+        "explanation": "Kunci jawaban benar (Bagian Pilihan Ganda no. 38): D.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q039",
+        "number": 39,
+        "type": "single",
+        "section": "PCK Teknik Mesin (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Setelah beberapa pertemuan, guru menyadari bahwa metode ceramah yang dominan menyebabkan peserta didik pasif dalam praktik. Perubahan yang paling tepat adalah …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menambah durasi ceramah agar penjelasan lebih lengkap"
+          },
+          {
+            "id": "B",
+            "text": "Mengurangi kegiatan praktik agar kelas lebih terkendali"
+          },
+          {
+            "id": "C",
+            "text": "Menggunakan demonstrasi singkat, praktik terbimbing, diskusi, dan refleksi berdasarkan kebutuhan peserta didik"
+          },
+          {
+            "id": "D",
+            "text": "Membebaskan peserta didik bekerja tanpa arahan sama sekali"
+          },
+          {
+            "id": "E",
+            "text": "Mengganti semua kegiatan dengan tugas rumah"
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Kunci jawaban benar (Bagian Pilihan Ganda no. 39): C.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q040",
+        "number": 40,
+        "type": "single",
+        "section": "PCK Teknik Mesin (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Seorang peserta didik belum mampu melakukan penyetelan awal mesin frais secara mandiri. Guru kemudian memberikan contoh, petunjuk langkah demi langkah, dan pertanyaan pengarah. Setelah peserta didik mulai memahami prosesnya, bantuan tersebut dikurangi secara bertahap. Strategi guru tersebut menunjukkan penerapan …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Scaffolding"
+          },
+          {
+            "id": "B",
+            "text": "Drill secara penuh"
+          },
+          {
+            "id": "C",
+            "text": "Remediasi tanpa pendampingan"
+          },
+          {
+            "id": "D",
+            "text": "Pembelajaran individual tanpa bantuan"
+          },
+          {
+            "id": "E",
+            "text": "Evaluasi sumatif"
+          }
+        ],
+        "correctAnswer": "A",
+        "explanation": "Kunci jawaban benar (Bagian Pilihan Ganda no. 40): A.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q041",
+        "number": 41,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Seorang peserta didik mampu menjelaskan teori mesin frais, tetapi ketika praktik tidak mampu menentukan langkah kerja yang tepat. Guru sebaiknya …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menghubungkan konsep yang telah dipelajari dengan situasi praktik."
+          },
+          {
+            "id": "B",
+            "text": "Memberikan demonstrasi sebagai jembatan antara teori dan praktik."
+          },
+          {
+            "id": "C",
+            "text": "Memberikan latihan praktik secara bertahap dengan tingkat bantuan yang disesuaikan."
+          },
+          {
+            "id": "D",
+            "text": "Menggunakan pertanyaan penuntun agar peserta didik mempertimbangkan alasan setiap langkah."
+          },
+          {
+            "id": "E",
+            "text": "Memberikan kesempatan kepada peserta didik merefleksikan hubungan antara konsep dan tindakan praktik."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Kunci jawaban benar (Bagian PGK no. 1): A, B, C, D, E.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q042",
+        "number": 42,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam pembelajaran berbasis proyek mengenai troubleshooting mesin, kegiatan yang mendukung kemampuan berpikir tingkat tinggi adalah …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menggunakan masalah yang relevan dengan pekerjaan Teknik Mesin."
+          },
+          {
+            "id": "B",
+            "text": "Menginvestigasi kemungkinan penyebab masalah."
+          },
+          {
+            "id": "C",
+            "text": "Memberikan solusi yang benar sebelum peserta didik melakukan analisis."
+          },
+          {
+            "id": "D",
+            "text": "Membandingkan beberapa alternatif solusi."
+          },
+          {
+            "id": "E",
+            "text": "Menggunakan bukti hasil pengamatan untuk mendukung keputusan."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "D",
+          "E"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Kunci jawaban benar (Bagian PGK no. 2): A, B, D, E.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q043",
+        "number": 43,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam kerja kelompok praktik, terdapat anggota yang terlalu dominan dan anggota lain cenderung pasif. Upaya guru yang tepat adalah …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menetapkan pembagian peran yang jelas dalam kelompok."
+          },
+          {
+            "id": "B",
+            "text": "Memberikan tanggung jawab individual sekaligus tanggung jawab kelompok."
+          },
+          {
+            "id": "C",
+            "text": "Membiarkan peserta didik yang paling terampil menyelesaikan pekerjaan tersulit."
+          },
+          {
+            "id": "D",
+            "text": "Mengamati kontribusi setiap anggota selama kegiatan."
+          },
+          {
+            "id": "E",
+            "text": "Melakukan refleksi kelompok mengenai pembagian peran dan kontribusi anggota."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "D",
+          "E"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Kunci pedagogis (Bagian PGK no. 3): A, B, D, E.\nCatatan kunci Google Form asli (A, B, C, D, E): opsi pengecoh C ikut tercentang pada kunci form asli.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q044",
+        "number": 44,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Peserta didik memahami konsep toleransi ukuran, tetapi belum mampu menjelaskan dampaknya terhadap proses perakitan. Strategi pembelajaran yang tepat adalah …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menghubungkan konsep toleransi dengan produk nyata."
+          },
+          {
+            "id": "B",
+            "text": "Memberikan kasus perakitan dengan variasi ukuran."
+          },
+          {
+            "id": "C",
+            "text": "Meminta peserta didik menganalisis hubungan antara ukuran dan hasil perakitan."
+          },
+          {
+            "id": "D",
+            "text": "Menambah hafalan definisi toleransi tanpa memberikan kasus penerapan."
+          },
+          {
+            "id": "E",
+            "text": "Meminta peserta didik menjelaskan hasil analisis berdasarkan data."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "E"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Kunci pedagogis (Bagian PGK no. 4): A, B, C, E.\nCatatan kunci Google Form asli (A, B, D, E): opsi pengecoh D ikut tercentang pada kunci form asli; opsi C tidak tercentang pada kunci form asli.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q045",
+        "number": 45,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Untuk mengembangkan kemampuan metakognitif setelah praktik, guru dapat meminta peserta didik …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menjelaskan strategi yang digunakan selama menyelesaikan pekerjaan."
+          },
+          {
+            "id": "B",
+            "text": "Mengidentifikasi bagian kompetensi yang belum dikuasai."
+          },
+          {
+            "id": "C",
+            "text": "Mengevaluasi apakah strategi yang digunakan efektif."
+          },
+          {
+            "id": "D",
+            "text": "Merencanakan perbaikan untuk kegiatan berikutnya."
+          },
+          {
+            "id": "E",
+            "text": "Menghafalkan kembali seluruh langkah kerja tanpa melakukan evaluasi."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Kunci jawaban benar (Bagian PGK no. 5): A, B, C, D.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q046",
+        "number": 46,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Guru memberikan kasus hasil pembubutan yang tidak sesuai ukuran dan meminta peserta didik menemukan penyebabnya. Agar kegiatan tersebut mengembangkan berpikir kritis, guru dapat …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Mengidentifikasi beberapa kemungkinan penyebab berdasarkan kondisi benda kerja."
+          },
+          {
+            "id": "B",
+            "text": "Mengumpulkan data hasil pengamatan sebagai dasar analisis."
+          },
+          {
+            "id": "C",
+            "text": "Memberikan penyebab utama sejak awal agar peserta didik tidak mengalami kesulitan."
+          },
+          {
+            "id": "D",
+            "text": "Membandingkan beberapa kemungkinan penyebab berdasarkan bukti yang tersedia."
+          },
+          {
+            "id": "E",
+            "text": "Menyusun alasan berdasarkan hubungan antara data, penyebab, dan hasil pekerjaan."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "D",
+          "E"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Kunci jawaban benar (Bagian PGK no. 6): A, B, D, E.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q047",
+        "number": 47,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pada awal pembelajaran praktik mesin bubut, guru menemukan bahwa kemampuan awal peserta didik sangat beragam. Beberapa peserta didik telah mampu menggunakan alat ukur, sedangkan lainnya masih kesulitan membaca skala. Tindakan yang tepat dilakukan guru adalah …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Melakukan asesmen diagnostik untuk mengetahui kemampuan awal peserta didik."
+          },
+          {
+            "id": "B",
+            "text": "Memberikan materi dan latihan dengan tingkat kesulitan yang sama kepada seluruh peserta didik."
+          },
+          {
+            "id": "C",
+            "text": "Menggunakan hasil asesmen untuk menentukan bentuk bantuan yang diperlukan peserta didik."
+          },
+          {
+            "id": "D",
+            "text": "Menyesuaikan proses pembelajaran berdasarkan tingkat kesiapan peserta didik."
+          },
+          {
+            "id": "E",
+            "text": "Menetapkan tujuan akhir yang sama dengan memberikan dukungan belajar yang berbeda sesuai kebutuhan."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "C",
+          "D",
+          "E"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Kunci jawaban benar (Bagian PGK no. 7): A, C, D, E.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q048",
+        "number": 48,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam pembelajaran pengukuran, sebagian peserta didik mampu membaca skala alat ukur, tetapi masih kesulitan menggunakannya secara tepat. Strategi yang dapat dilakukan guru adalah …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Memberikan latihan secara mandiri tanpa contoh agar peserta didik belajar dari kesalahan."
+          },
+          {
+            "id": "B",
+            "text": "Memberikan demonstrasi konkret mengenai cara penggunaan alat ukur."
+          },
+          {
+            "id": "C",
+            "text": "Memberikan latihan penggunaan alat ukur secara bertahap dari sederhana ke kompleks."
+          },
+          {
+            "id": "D",
+            "text": "Memberikan umpan balik selama peserta didik melakukan praktik."
+          },
+          {
+            "id": "E",
+            "text": "Menunda seluruh kegiatan praktik sampai semua peserta didik menguasai teori secara sempurna."
+          }
+        ],
+        "correctAnswer": [
+          "B",
+          "C",
+          "D"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Kunci jawaban benar (Bagian PGK no. 8): B, C, D.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q049",
+        "number": 49,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Guru memberikan tugas memperbaiki benda kerja yang ukurannya tidak sesuai. Agar tugas tersebut mengembangkan HOTS, guru dapat …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menyediakan data hasil pengukuran sebagai bahan analisis."
+          },
+          {
+            "id": "B",
+            "text": "Meminta peserta didik menganalisis kemungkinan penyebab."
+          },
+          {
+            "id": "C",
+            "text": "Menetapkan satu prosedur yang wajib digunakan seluruh peserta didik."
+          },
+          {
+            "id": "D",
+            "text": "Meminta peserta didik membandingkan beberapa alternatif perbaikan."
+          },
+          {
+            "id": "E",
+            "text": "Meminta peserta didik memberikan alasan terhadap solusi yang dipilih."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "D",
+          "E"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Kunci jawaban benar (Bagian PGK no. 9): A, B, D, E.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q050",
+        "number": 50,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Peserta didik memiliki kesiapan yang berbeda dalam menggunakan alat ukur. Guru dapat melakukan diferensiasi proses dengan …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Memberikan demonstrasi tambahan kepada kelompok yang memerlukan bantuan."
+          },
+          {
+            "id": "B",
+            "text": "Menyediakan panduan langkah demi langkah bagi peserta didik yang membutuhkan."
+          },
+          {
+            "id": "C",
+            "text": "Memberikan kasus pengukuran yang lebih kompleks kepada peserta didik yang telah siap."
+          },
+          {
+            "id": "D",
+            "text": "Menghilangkan kompetensi pengukuran bagi peserta didik yang mengalami kesulitan."
+          },
+          {
+            "id": "E",
+            "text": "Memberikan kesempatan memilih strategi penyelesaian setelah prosedur dasar dikuasai."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "E"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Kunci jawaban benar (Bagian PGK no. 10): A, B, C, E.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q051",
+        "number": 51,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Guru ingin mengembangkan kemampuan komunikasi peserta didik dalam pembelajaran praktik. Kegiatan yang dapat dilakukan adalah …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Meminta peserta didik mempresentasikan hasil pekerjaan."
+          },
+          {
+            "id": "B",
+            "text": "Melakukan diskusi mengenai permasalahan yang ditemukan."
+          },
+          {
+            "id": "C",
+            "text": "Meminta peserta didik menjelaskan alasan pemilihan prosedur kerja."
+          },
+          {
+            "id": "D",
+            "text": "Meminta peserta didik menyalin hasil pekerjaan kelompok lain."
+          },
+          {
+            "id": "E",
+            "text": "Mengajak peserta didik merefleksikan komunikasi dan kerja sama kelompok."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "E"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Kunci pedagogis (Bagian PGK no. 11): A, B, C, E.\nCatatan kunci Google Form asli (A, B, D, E): opsi pengecoh D ikut tercentang pada kunci form asli; opsi C tidak tercentang pada kunci form asli.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q052",
+        "number": 52,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Guru menemukan bahwa beberapa peserta didik telah menguasai kompetensi praktik lebih cepat dibandingkan teman lainnya. Bentuk diferensiasi yang tepat adalah …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Memberikan tugas pengayaan dengan tingkat kompleksitas yang lebih tinggi."
+          },
+          {
+            "id": "B",
+            "text": "Mengubah standar kompetensi akhir menjadi lebih tinggi hanya untuk peserta didik yang cepat belajar."
+          },
+          {
+            "id": "C",
+            "text": "Memberikan bantuan tambahan kepada peserta didik yang masih mengalami kesulitan."
+          },
+          {
+            "id": "D",
+            "text": "Memberikan kesempatan menggunakan strategi penyelesaian yang berbeda selama memenuhi kriteria yang ditetapkan."
+          },
+          {
+            "id": "E",
+            "text": "Menggunakan hasil asesmen untuk menentukan kebutuhan belajar masing-masing peserta didik."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "C",
+          "D",
+          "E"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Kunci jawaban benar (Bagian PGK no. 12): A, C, D, E.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q053",
+        "number": 53,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Setelah pembelajaran, guru membandingkan hasil asesmen awal dan asesmen selama proses. Berdasarkan data tersebut, guru dapat … ."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Mengidentifikasi perkembangan kemampuan peserta didik."
+          },
+          {
+            "id": "B",
+            "text": "Menentukan kebutuhan belajar berikutnya."
+          },
+          {
+            "id": "C",
+            "text": "Mengetahui kompetensi yang masih mengalami kesulitan."
+          },
+          {
+            "id": "D",
+            "text": "Menentukan bentuk tindak lanjut pembelajaran."
+          },
+          {
+            "id": "E",
+            "text": "Merefleksikan efektivitas strategi pembelajaran yang telah digunakan"
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Kunci jawaban benar (Bagian PGK no. 13): A, B, C, D, E.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q054",
+        "number": 54,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Guru ingin mengintegrasikan K3 secara bermakna dalam praktik pengelasan. Kegiatan yang dapat dilakukan adalah …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Mengidentifikasi potensi bahaya sebelum praktik."
+          },
+          {
+            "id": "B",
+            "text": "Menghubungkan penggunaan APD dengan risiko yang mungkin terjadi."
+          },
+          {
+            "id": "C",
+            "text": "Menghafalkan daftar APD tanpa mengaitkannya dengan kondisi pekerjaan."
+          },
+          {
+            "id": "D",
+            "text": "Memeriksa kondisi lingkungan kerja sebelum praktik."
+          },
+          {
+            "id": "E",
+            "text": "Menilai penerapan K3 selama proses praktik berlangsung."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "D",
+          "E"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Kunci jawaban benar (Bagian PGK no. 14): A, B, D, E.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q055",
+        "number": 55,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Sebuah benda hasil pemesinan tidak sesuai dengan ukuran pada gambar kerja. Guru meminta peserta didik mencari penyebab dan menentukan tindakan korektif. Kegiatan tersebut dapat mengembangkan …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Kemampuan menganalisis permasalahan."
+          },
+          {
+            "id": "B",
+            "text": "Kemampuan mengambil keputusan berdasarkan kondisi pekerjaan."
+          },
+          {
+            "id": "C",
+            "text": "Kemampuan menggunakan bukti atau data dalam pemecahan masalah."
+          },
+          {
+            "id": "D",
+            "text": "Kemampuan mengevaluasi efektivitas solusi."
+          },
+          {
+            "id": "E",
+            "text": "Kemampuan menghubungkan konsep dengan praktik."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Kunci jawaban benar (Bagian PGK no. 15): A, B, C, D, E.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q056",
+        "number": 56,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Guru ingin mengetahui apakah peserta didik benar-benar memahami prosedur praktik, bukan sekadar menghafalnya. Bentuk asesmen yang tepat adalah …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Meminta peserta didik menjelaskan alasan di balik setiap langkah kerja."
+          },
+          {
+            "id": "B",
+            "text": "Mengamati peserta didik ketika melakukan praktik."
+          },
+          {
+            "id": "C",
+            "text": "Memberikan kasus dengan kondisi yang sedikit berbeda dari contoh."
+          },
+          {
+            "id": "D",
+            "text": "Memberikan kesempatan peserta didik memperbaiki prosedur berdasarkan hasil pengamatan."
+          },
+          {
+            "id": "E",
+            "text": "Memberikan tugas troubleshooting untuk melihat penerapan pemahaman."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Kunci jawaban benar (Bagian PGK no. 16): A, B, C, D, E.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q057",
+        "number": 57,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam pembelajaran mesin frais, guru ingin peserta didik mampu mengambil keputusan, bukan hanya mengikuti prosedur. Kegiatan yang tepat adalah …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Memberikan beberapa kondisi benda kerja yang berbeda."
+          },
+          {
+            "id": "B",
+            "text": "Meminta peserta didik memilih prosedur sesuai kondisi benda kerja."
+          },
+          {
+            "id": "C",
+            "text": "Meminta peserta didik menjelaskan alasan pemilihan prosedur."
+          },
+          {
+            "id": "D",
+            "text": "Memberikan satu prosedur wajib tanpa mempertimbangkan kondisi benda kerja."
+          },
+          {
+            "id": "E",
+            "text": "Meminta peserta didik mengevaluasi keputusan setelah praktik."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "E"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Kunci jawaban benar (Bagian PGK no. 17): A, B, C, E.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q058",
+        "number": 58,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Guru melakukan asesmen praktik mesin bubut untuk memperoleh gambaran kompetensi peserta didik secara menyeluruh. Bukti yang dapat digunakan adalah …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Ketepatan prosedur kerja."
+          },
+          {
+            "id": "B",
+            "text": "Kepatuhan terhadap prosedur K3."
+          },
+          {
+            "id": "C",
+            "text": "Kemampuan menggunakan alat ukur."
+          },
+          {
+            "id": "D",
+            "text": "Kecepatan menyelesaikan pekerjaan sebagai satu-satunya indikator keberhasilan."
+          },
+          {
+            "id": "E",
+            "text": "Kualitas hasil benda kerja."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "E"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Kunci jawaban benar (Bagian PGK no. 18): A, B, C, E.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q059",
+        "number": 59,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Seorang peserta didik terlalu bergantung pada instruksi guru ketika menyelesaikan pekerjaan praktik. Untuk meningkatkan kemandirian, guru dapat …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Memberikan masalah yang mengharuskan peserta didik mengambil keputusan."
+          },
+          {
+            "id": "B",
+            "text": "Mengurangi bantuan secara bertahap ketika kemampuan peserta didik meningkat."
+          },
+          {
+            "id": "C",
+            "text": "Meminta peserta didik menjelaskan alasan di balik keputusan yang diambil."
+          },
+          {
+            "id": "D",
+            "text": "Memberikan seluruh langkah secara rinci pada setiap kondisi pekerjaan."
+          },
+          {
+            "id": "E",
+            "text": "Mengajak peserta didik melakukan refleksi terhadap keputusan yang telah dibuat."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "E"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Kunci jawaban benar (Bagian PGK no. 19): A, B, C, E.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q060",
+        "number": 60,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Guru memberikan proyek pembuatan produk sederhana. Agar pembelajaran tetap terarah, guru dapat …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menetapkan tujuan pembelajaran dan kriteria keberhasilan."
+          },
+          {
+            "id": "B",
+            "text": "Melakukan monitoring secara berkala."
+          },
+          {
+            "id": "C",
+            "text": "Memberikan umpan balik selama proses pengerjaan."
+          },
+          {
+            "id": "D",
+            "text": "Membiarkan setiap kelompok menetapkan standar keberhasilan tanpa mengacu pada tujuan pembelajaran."
+          },
+          {
+            "id": "E",
+            "text": "Melakukan refleksi setelah proyek selesai."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "E"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Kunci jawaban benar (Bagian PGK no. 20): A, B, C, E.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q061",
+        "number": 61,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Guru ingin mengintegrasikan kompetensi profesional Teknik Mesin dengan pendekatan pedagogis yang sesuai. Strategi yang tepat adalah …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menggunakan permasalahan pemesinan sebagai konteks pembelajaran pemecahan masalah."
+          },
+          {
+            "id": "B",
+            "text": "Mengajarkan prosedur kerja sekaligus mengintegrasikan prinsip K3."
+          },
+          {
+            "id": "C",
+            "text": "Menggunakan kinerja praktik sebagai salah satu bukti asesmen kompetensi."
+          },
+          {
+            "id": "D",
+            "text": "Menyampaikan seluruh materi secara seragam tanpa mempertimbangkan karakteristik peserta didik."
+          },
+          {
+            "id": "E",
+            "text": "Meminta peserta didik menjelaskan alasan teknis dari keputusan yang mereka ambil."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "E"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Kunci jawaban benar (Bagian PGK no. 21): A, B, C, E.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q062",
+        "number": 62,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam proyek kelompok, guru menemukan adanya masalah pembagian pekerjaan. Tindakan yang tepat adalah …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Memfasilitasi kelompok untuk mengidentifikasi masalah kerja sama."
+          },
+          {
+            "id": "B",
+            "text": "Membantu kelompok menyusun pembagian peran yang lebih jelas."
+          },
+          {
+            "id": "C",
+            "text": "Memantau kontribusi setiap anggota selama proyek."
+          },
+          {
+            "id": "D",
+            "text": "Mengambil alih seluruh pekerjaan agar proyek cepat selesai."
+          },
+          {
+            "id": "E",
+            "text": "Mengevaluasi pelaksanaan pembagian peran setelah proyek selesai."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "E"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Kunci jawaban benar (Bagian PGK no. 22): A, B, C, E.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q063",
+        "number": 63,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Asesmen formatif dalam pembelajaran praktik Teknik Mesin dapat digunakan untuk …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Memantau pemahaman peserta didik selama proses pembelajaran."
+          },
+          {
+            "id": "B",
+            "text": "Mengidentifikasi kesulitan yang dialami peserta didik."
+          },
+          {
+            "id": "C",
+            "text": "Menentukan nilai akhir peserta didik sebagai satu-satunya dasar penilaian."
+          },
+          {
+            "id": "D",
+            "text": "Memberikan umpan balik untuk memperbaiki proses belajar."
+          },
+          {
+            "id": "E",
+            "text": "Menyesuaikan strategi pembelajaran berdasarkan hasil asesmen."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "D",
+          "E"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Kunci jawaban benar (Bagian PGK no. 23): A, B, D, E.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q064",
+        "number": 64,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Peserta didik melakukan kesalahan saat mengoperasikan mesin. Guru ingin memberikan umpan balik yang mendukung proses belajar. Tindakan yang tepat adalah …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menunjukkan bagian proses yang perlu diperbaiki."
+          },
+          {
+            "id": "B",
+            "text": "Menjelaskan dampak dari kesalahan terhadap proses atau hasil kerja."
+          },
+          {
+            "id": "C",
+            "text": "Memberikan kesempatan kepada peserta didik untuk memperbaiki pekerjaannya."
+          },
+          {
+            "id": "D",
+            "text": "Menggunakan pertanyaan yang membantu peserta didik menemukan penyebab kesalahan."
+          },
+          {
+            "id": "E",
+            "text": "Meminta peserta didik menjelaskan kembali alasan perubahan yang dilakukan."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Kunci jawaban benar (Bagian PGK no. 24): A, B, C, D, E.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q065",
+        "number": 65,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Seorang peserta didik mengukur diameter poros menggunakan jangka sorong. Untuk menilai pemahaman profesional dan pedagogis secara terpadu, guru dapat meminta peserta didik …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Membaca hasil pengukuran dengan tepat."
+          },
+          {
+            "id": "B",
+            "text": "Menjelaskan cara memperoleh hasil pengukuran."
+          },
+          {
+            "id": "C",
+            "text": "Menentukan alat ukur yang sesuai."
+          },
+          {
+            "id": "D",
+            "text": "Menghubungkan hasil pengukuran dengan ukuran yang dipersyaratkan pada benda kerja."
+          },
+          {
+            "id": "E",
+            "text": "Menghafalkan berbagai jenis alat ukur tanpa melakukan penerapan."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Kunci jawaban benar (Bagian PGK no. 25): A, B, C, D.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q066",
+        "number": 66,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Sebelum praktik pengelasan, guru meminta peserta didik mengidentifikasi bahaya dan menentukan tindakan perlindungan. Kegiatan yang tepat meliputi …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Mengidentifikasi potensi bahaya di lingkungan kerja."
+          },
+          {
+            "id": "B",
+            "text": "Menghubungkan bahaya dengan risiko yang mungkin terjadi."
+          },
+          {
+            "id": "C",
+            "text": "Menentukan APD berdasarkan risiko pekerjaan."
+          },
+          {
+            "id": "D",
+            "text": "Memeriksa kondisi lingkungan dan peralatan sebelum praktik."
+          },
+          {
+            "id": "E",
+            "text": "Mengevaluasi penerapan K3 setelah kegiatan praktik selesai."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Kunci jawaban benar (Bagian PGK no. 26): A, B, C, D, E.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q067",
+        "number": 67,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam pembelajaran pengukuran diameter poros menggunakan jangka sorong, kegiatan yang dapat menunjukkan pemahaman peserta didik adalah …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menentukan alat ukur yang sesuai dengan karakteristik benda."
+          },
+          {
+            "id": "B",
+            "text": "Melakukan pengukuran secara langsung."
+          },
+          {
+            "id": "C",
+            "text": "Membaca dan mencatat hasil pengukuran."
+          },
+          {
+            "id": "D",
+            "text": "Memilih alat ukur secara acak agar peserta didik mencoba semua alat."
+          },
+          {
+            "id": "E",
+            "text": "Menjelaskan alasan pemilihan alat ukur untuk pekerjaan tersebut."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "E"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Kunci jawaban benar (Bagian PGK no. 27): A, B, C, E.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q068",
+        "number": 68,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Peserta didik kurang tertarik mempelajari gambar teknik karena merasa materi tersebut tidak berkaitan dengan dunia kerja. Guru dapat …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menghubungkan materi dengan situasi pekerjaan nyata."
+          },
+          {
+            "id": "B",
+            "text": "Menunjukkan penggunaan gambar teknik dalam industri."
+          },
+          {
+            "id": "C",
+            "text": "Memberikan proyek yang menggunakan gambar kerja sebagai dasar pengerjaan."
+          },
+          {
+            "id": "D",
+            "text": "Menambah jumlah latihan tanpa menjelaskan relevansinya."
+          },
+          {
+            "id": "E",
+            "text": "Mendiskusikan manfaat keterampilan tersebut bagi pekerjaan dan pembelajaran berikutnya."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "E"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Kunci jawaban benar (Bagian PGK no. 28): A, B, C, E.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q069",
+        "number": 69,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam pembelajaran berdiferensiasi berdasarkan kesiapan belajar, guru dapat …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Memberikan bentuk dukungan yang berbeda sesuai kebutuhan peserta didik."
+          },
+          {
+            "id": "B",
+            "text": "Memberikan kegiatan pengayaan kepada peserta didik yang telah menguasai kompetensi."
+          },
+          {
+            "id": "C",
+            "text": "Memberikan bantuan lebih intensif kepada peserta didik yang belum siap."
+          },
+          {
+            "id": "D",
+            "text": "Memberikan standar kompetensi akhir yang berbeda untuk setiap peserta didik."
+          },
+          {
+            "id": "E",
+            "text": "Menggunakan asesmen awal sebagai dasar menentukan strategi pembelajaran."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "E"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Kunci jawaban benar (Bagian PGK no. 29): A, B, C, E.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q070",
+        "number": 70,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam asesmen praktik Teknik Mesin, guru ingin memperoleh bukti kompetensi secara lebih komprehensif. Bukti yang dapat digunakan adalah …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Kualitas produk yang dihasilkan."
+          },
+          {
+            "id": "B",
+            "text": "Ketepatan proses kerja."
+          },
+          {
+            "id": "C",
+            "text": "Kemampuan menjelaskan alasan keputusan teknis."
+          },
+          {
+            "id": "D",
+            "text": "Penerapan prosedur K3."
+          },
+          {
+            "id": "E",
+            "text": "Tes tertulis yang relevan dengan kompetensi praktik."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Kunci jawaban benar (Bagian PGK no. 30): A, B, C, D, E.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q071",
+        "number": 71,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Peserta didik telah mampu melakukan pengukuran dasar, tetapi belum mampu menentukan alat ukur yang sesuai untuk kondisi tertentu. Guru dapat …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Memberikan beberapa kasus pengukuran dengan karakteristik benda yang berbeda."
+          },
+          {
+            "id": "B",
+            "text": "Meminta peserta didik menjelaskan alasan pemilihan alat ukur."
+          },
+          {
+            "id": "C",
+            "text": "Mengurangi variasi benda kerja agar peserta didik hanya menggunakan satu alat ukur."
+          },
+          {
+            "id": "D",
+            "text": "Mengajak peserta didik membandingkan fungsi beberapa alat ukur."
+          },
+          {
+            "id": "E",
+            "text": "Memeriksa kembali keputusan peserta didik setelah proses pengukuran selesai."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "D",
+          "E"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Kunci jawaban benar (Bagian PGK no. 31): A, B, D, E.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q072",
+        "number": 72,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Penerapan asesmen berkelanjutan dalam pembelajaran praktik dapat dilakukan melalui …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Melakukan asesmen sebelum pembelajaran untuk mengetahui kesiapan peserta didik."
+          },
+          {
+            "id": "B",
+            "text": "Melakukan observasi selama proses praktik."
+          },
+          {
+            "id": "C",
+            "text": "Memberikan umpan balik berdasarkan hasil pengamatan."
+          },
+          {
+            "id": "D",
+            "text": "Menggunakan asesmen akhir sebagai satu-satunya sumber informasi perkembangan peserta didik."
+          },
+          {
+            "id": "E",
+            "text": "Menggunakan hasil asesmen untuk menentukan tindak lanjut pembelajaran."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "E"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Kunci jawaban benar (Bagian PGK no. 32): A, B, C, E.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q073",
+        "number": 73,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam pembelajaran berbasis proyek, guru ingin peserta didik tidak hanya menghasilkan produk, tetapi juga mengalami pembelajaran yang bermakna. Guru dapat …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Memulai proyek dari permasalahan atau kebutuhan yang relevan."
+          },
+          {
+            "id": "B",
+            "text": "Memberikan kesempatan kepada peserta didik merencanakan tahapan pekerjaan."
+          },
+          {
+            "id": "C",
+            "text": "Menentukan seluruh keputusan proyek agar hasil setiap kelompok seragam."
+          },
+          {
+            "id": "D",
+            "text": "Melakukan monitoring selama proses pengerjaan proyek."
+          },
+          {
+            "id": "E",
+            "text": "Meminta peserta didik mempresentasikan hasil dan proses pengerjaannya."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "D",
+          "E"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Kunci jawaban benar (Bagian PGK no. 33): A, B, D, E.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q074",
+        "number": 74,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Setelah praktik, guru ingin mengembangkan kemampuan refleksi peserta didik. Kegiatan yang sesuai adalah …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Meminta peserta didik mengidentifikasi bagian pekerjaan yang telah berhasil."
+          },
+          {
+            "id": "B",
+            "text": "Meminta peserta didik mengidentifikasi kesulitan selama praktik."
+          },
+          {
+            "id": "C",
+            "text": "Meminta peserta didik menjelaskan kemungkinan penyebab kesalahan."
+          },
+          {
+            "id": "D",
+            "text": "Meminta peserta didik merencanakan perbaikan pada praktik berikutnya."
+          },
+          {
+            "id": "E",
+            "text": "Meminta peserta didik hanya menyatakan bahwa tugas telah selesai."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Kunci jawaban benar (Bagian PGK no. 34): A, B, C, D.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q075",
+        "number": 75,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Hasil asesmen menunjukkan bahwa sebagian peserta didik belum mencapai target pembelajaran. Sebelum menentukan tindakan perbaikan, guru sebaiknya …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menganalisis hasil asesmen secara lebih mendalam."
+          },
+          {
+            "id": "B",
+            "text": "Mengidentifikasi kompetensi yang belum tercapai."
+          },
+          {
+            "id": "C",
+            "text": "Meninjau kesesuaian strategi pembelajaran dengan kebutuhan peserta didik."
+          },
+          {
+            "id": "D",
+            "text": "Menentukan tindak lanjut berdasarkan bukti hasil asesmen."
+          },
+          {
+            "id": "E",
+            "text": "Menganggap rendahnya hasil belajar selalu disebabkan oleh kemampuan peserta didik."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Kunci jawaban benar (Bagian PGK no. 35): A, B, C, D.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q076",
+        "number": 76,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam pembelajaran praktik Teknik Mesin, guru ingin mengembangkan peserta didik yang mandiri, aman, dan bertanggung jawab. Strategi yang dapat diterapkan adalah …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Memberikan situasi yang mendorong peserta didik mengambil keputusan secara aman."
+          },
+          {
+            "id": "B",
+            "text": "Mengintegrasikan prinsip K3 dalam seluruh proses praktik."
+          },
+          {
+            "id": "C",
+            "text": "Menggunakan asesmen kinerja disertai umpan balik."
+          },
+          {
+            "id": "D",
+            "text": "Memberikan tugas pemecahan masalah yang relevan dengan praktik."
+          },
+          {
+            "id": "E",
+            "text": "Melakukan refleksi untuk membantu peserta didik mengevaluasi proses dan hasil belajarnya."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Kunci jawaban benar (Bagian PGK no. 36): A, B, C, D, E.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q077",
+        "number": 77,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Peserta didik berulang kali melakukan kesalahan yang sama meskipun telah mendapat penjelasan. Guru sebaiknya …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Mencari penyebab kesalahan melalui observasi dan dialog."
+          },
+          {
+            "id": "B",
+            "text": "Memberikan bentuk penjelasan atau bantuan yang berbeda."
+          },
+          {
+            "id": "C",
+            "text": "Memberikan kesempatan mencoba kembali setelah memperoleh bantuan."
+          },
+          {
+            "id": "D",
+            "text": "Menganggap peserta didik tidak memiliki kemampuan untuk melakukan tugas tersebut."
+          },
+          {
+            "id": "E",
+            "text": "Memantau apakah strategi bantuan yang diberikan menghasilkan perbaikan."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "E"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Kunci pedagogis (Bagian PGK no. 37): A, B, C, E.\nCatatan kunci Google Form asli (A, B, C, D, E): opsi pengecoh D ikut tercentang pada kunci form asli.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q078",
+        "number": 78,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pada kegiatan refleksi, guru menemukan bahwa sebagian besar peserta didik hanya mampu menyelesaikan masalah ketika tersedia contoh yang sama persis. Perbaikan pembelajaran yang tepat adalah …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Memberikan masalah dengan kondisi yang bervariasi."
+          },
+          {
+            "id": "B",
+            "text": "Mengurangi ketergantungan terhadap contoh secara bertahap."
+          },
+          {
+            "id": "C",
+            "text": "Memberikan pertanyaan yang mendorong peserta didik mengambil keputusan."
+          },
+          {
+            "id": "D",
+            "text": "Memberikan contoh yang semakin lengkap pada setiap latihan."
+          },
+          {
+            "id": "E",
+            "text": "Meminta peserta didik menjelaskan strategi yang digunakan untuk menyelesaikan masalah."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "E"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Kunci pedagogis (Bagian PGK no. 38): A, B, C, E.\nCatatan kunci Google Form asli (A, B, C, D, E): opsi pengecoh D ikut tercentang pada kunci form asli.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q079",
+        "number": 79,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Seorang peserta didik takut melakukan praktik pengelasan karena khawatir melakukan kesalahan. Upaya guru yang tepat adalah …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Memberikan tugas praktik yang sama sulitnya dengan peserta didik yang sudah mahir."
+          },
+          {
+            "id": "B",
+            "text": "Membangun lingkungan praktik yang aman secara fisik maupun psikologis."
+          },
+          {
+            "id": "C",
+            "text": "Memberikan latihan dari prosedur sederhana menuju prosedur yang lebih kompleks."
+          },
+          {
+            "id": "D",
+            "text": "Memberikan konsekuensi agar peserta didik tidak menghindari kegiatan praktik."
+          },
+          {
+            "id": "E",
+            "text": "Memberikan umpan balik yang berfokus pada proses dan perkembangan peserta didik."
+          }
+        ],
+        "correctAnswer": [
+          "B",
+          "C",
+          "E"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Kunci jawaban benar (Bagian PGK no. 39): B, C, E.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q080",
+        "number": 80,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Peserta didik memperoleh nilai tinggi pada tes teori, tetapi kesulitan menerapkan konsep ketika praktik. Upaya perbaikan yang tepat adalah …"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Memberikan situasi nyata yang menuntut penerapan konsep."
+          },
+          {
+            "id": "B",
+            "text": "Menggunakan demonstrasi dan latihan terbimbing."
+          },
+          {
+            "id": "C",
+            "text": "Menambah kegiatan menghafal definisi tanpa memperbanyak praktik."
+          },
+          {
+            "id": "D",
+            "text": "Memberikan kasus yang menuntut peserta didik mengambil keputusan."
+          },
+          {
+            "id": "E",
+            "text": "Menggunakan asesmen kinerja untuk melihat kemampuan penerapan."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "D",
+          "E"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Kunci jawaban benar (Bagian PGK no. 40): A, B, D, E.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q081",
+        "number": 81,
+        "type": "essay",
+        "section": "PCK Teknik Mesin (Esai)",
+        "formatLabel": "Uraian",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam kegiatan praktik Teknik Mesin, siswa diberikan tugas untuk mengerjakan sebuah benda kerja sesuai gambar kerja dan ukuran yang telah ditentukan. Saat bekerja, beberapa siswa mengalami kendala, seperti salah membaca gambar kerja, kesulitan menggunakan alat ukur, hasil pengerjaan tidak sesuai ukuran, serta kurang mampu mengatur waktu penyelesaian pekerjaan. Sebagian siswa langsung meminta guru memperbaiki pekerjaannya karena merasa tidak mampu menyelesaikannya sendiri.\n\nSebagai guru, bagaimana Anda membimbing siswa agar mampu menghadapi kendala selama bekerja, menemukan penyebab masalah, menentukan solusi, serta menyelesaikan pekerjaan secara mandiri, aman, dan sesuai standar kerja?"
+          }
+        ],
+        "correctAnswer": "",
+        "explanation": "Contoh Jawaban:\n1. Memastikan kondisi kerja tetap aman sesuai prosedur K3 dan menenangkan siswa.\n2. Memberikan bimbingan bertahap (scaffolding) tanpa mengambil alih pekerjaan siswa, dengan mengajukan pertanyaan penuntun agar siswa mampu membaca ulang gambar kerja, memeriksa cara penggunaan alat ukur (memberi demonstrasi singkat bila perlu), dan mengidentifikasi penyebab ketidaksesuaian ukuran.\n3. Membimbing siswa menentukan alternatif solusi dan langkah perbaikan, serta membuat jadwal/target waktu kerja per tahapan agar manajemen waktu lebih teratur.\n4. Memantau proses perbaikan, memberi umpan balik formatif, dan mengajak siswa merefleksikan kesalahan agar mandiri dan sesuai standar kerja.\n\nKata Kunci / Rubrik Penilaian:\nIdentifikasi kendala – analisis penyebab – membaca gambar kerja – penggunaan alat ukur – ketelitian ukuran – mencari alternatif solusi – bimbingan bertahap – kemandirian siswa – manajemen waktu – K3 – evaluasi hasil kerja.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-1-q082",
+        "number": 82,
+        "type": "essay",
+        "section": "PCK Teknik Mesin (Esai)",
+        "formatLabel": "Uraian",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Saat pembelajaran praktik di bengkel Teknik Mesin, seorang siswa mengalami kecelakaan kerja ketika mengoperasikan mesin. Siswa tersebut mengalami luka dan tampak panik, sementara beberapa siswa lain berkerumun di sekitar korban dan ingin segera membantu tanpa memperhatikan prosedur keselamatan. Sebagai guru, Anda harus menangani kondisi tersebut sekaligus memastikan kegiatan praktik tetap berjalan dengan aman.\n\nSebagai guru, bagaimana tindakan yang tepat dalam menangani kecelakaan tersebut berdasarkan prinsip K3, dan langkah apa yang Anda lakukan setelah kondisi korban tertangani agar kejadian serupa tidak terulang kembali?"
+          }
+        ],
+        "correctAnswer": "",
+        "explanation": "Contoh Jawaban:\nTindakan penanganan berdasarkan prinsip K3:\n1. Segera mematikan mesin/sumber daya (emergency stop) untuk mengamankan lokasi dan mencegah cedera lanjutan.\n2. Mengarahkan siswa yang berkerumun untuk menjauh ke zona aman agar tidak mengganggu evakuasi atau terpapar bahaya mesin.\n3. Menenangkan korban, melakukan pertolongan pertama (P3K) sesuai prosedur keselamatan, dan segera merujuk ke UKS/fasilitas medis jika diperlukan sambil memastikan pengawasan kelas tetap aman.\nLangkah pencegahan setelah korban tertangani:\n1. Menginvestigasi akar penyebab kecelakaan (kondisi mesin, penggunaan APD, dan kepatuhan SOP).\n2. Memeriksa serta memastikan kelayakan mesin, APD, dan rambu keselamatan sebelum praktik dilanjutkan.\n3. Memberikan evaluasi, refleksi, dan penguatan ulang SOP K3 serta prosedur tanggap darurat kepada seluruh siswa.\n\nKata Kunci / Rubrik Penilaian:\nK3 – amankan area – hentikan mesin – pertolongan pertama – jangan memindahkan korban sembarangan – identifikasi penyebab kecelakaan – evaluasi prosedur kerja – penggunaan APD – pencegahan kecelakaan berulang.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      }
+    ]
   }
 ];

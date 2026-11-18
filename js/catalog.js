@@ -308,10 +308,14 @@
       arcColor: '#4a9b8e',
       arcPath: 'M-6 58 C48 22, 112 18, 172 36',
       art: '<svg viewBox="0 0 92 84" fill="none" aria-hidden="true">' +
-        '<rect x="18" y="14" width="54" height="56" rx="10" fill="#ffffff" stroke="#185c52" stroke-width="2"/>' +
-        '<circle cx="45" cy="42" r="15" fill="#c5e8e1" stroke="#185c52" stroke-width="2"/>' +
-        '<circle cx="45" cy="42" r="6" fill="#185c52"/>' +
-        '<path d="M45 21v6M45 57v6M24 42h6M60 42h6" stroke="#185c52" stroke-width="2" stroke-linecap="round"/>' +
+        '<g transform="translate(36 44)">' +
+        '<path d="M16.4,-3.6 L22,-3.4 L22,3.4 L16.4,3.6 L14.2,9 L18.4,13.6 L13.6,18.4 L9,14.2 L3.6,16.4 L3.4,22 L-3.4,22 L-3.6,16.4 L-9,14.2 L-13.6,18.4 L-18.4,13.6 L-14.2,9 L-16.4,3.6 L-22,3.4 L-22,-3.4 L-16.4,-3.6 L-14.2,-9 L-18.4,-13.6 L-13.6,-18.4 L-9,-14.2 L-3.6,-16.4 L-3.4,-22 L3.4,-22 L3.6,-16.4 L9,-14.2 L13.6,-18.4 L18.4,-13.6 L14.2,-9 Z" fill="#c5e8e1" stroke="#185c52" stroke-width="2" stroke-linejoin="round"/>' +
+        '<circle cx="0" cy="0" r="8" fill="#ffffff" stroke="#185c52" stroke-width="2"/>' +
+        '</g>' +
+        '<g transform="translate(66 36) rotate(32)">' +
+        '<rect x="-4" y="-8" width="8" height="32" rx="3.5" fill="#ffffff" stroke="#185c52" stroke-width="2"/>' +
+        '<path d="M-7 -15a9 9 0 0 1 14 0v6l-4 3v-6a3 3 0 0 0-6 0v6l-4-3v-6Z" fill="#a8ddd3" stroke="#185c52" stroke-width="1.9" stroke-linejoin="round"/>' +
+        '</g>' +
         '</svg>'
     },
     other: {
