@@ -1099,6 +1099,17 @@ body[data-screen="ujian"] .site-footer {
   --pack-btn-bg-hover: #fff6fa;
 }
 
+.pack-card[data-program="bahasa-indonesia"][data-format="mixed"] {
+  --pack-border: #f1c491;
+  --pack-border-hover: #d88432;
+  --pack-bg: linear-gradient(148deg, #fffaf4 0%, #fdf0e0 54%, #fae4c8 100%);
+  --pack-shadow: 0 8px 22px rgba(125, 65, 13, .07), 0 2px 6px rgba(125, 65, 13, .04);
+  --pack-shadow-hover: 0 12px 28px rgba(125, 65, 13, .14), 0 3px 8px rgba(125, 65, 13, .06);
+  --pack-btn-border: #f2cea2;
+  --pack-btn-border-hover: #dd8e3d;
+  --pack-btn-bg-hover: #fff9f2;
+}
+
 .pack-card > :not(.pack-card-bg, .pack-art, .pack-link) {
   position: relative;
   z-index: 1;
@@ -1646,10 +1657,10 @@ progress::-moz-progress-bar {
 
 .question-parts {
   display: grid;
-  gap: .6rem;
+  gap: .82rem;
   overflow-wrap: anywhere;
   font-size: clamp(.98rem, 1.16vw, 1.1rem);
-  line-height: 1.55;
+  line-height: 1.58;
 }
 
 .question-parts p {

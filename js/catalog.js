@@ -403,11 +403,71 @@
     }
   };
 
+  const bahasaCardThemes = {
+    single: {
+      blobA: '#f7d1a8',
+      blobB: '#fde8d0',
+      arcColor: '#d48236',
+      arcPath: 'M46 -6 C74 36, 134 46, 194 22',
+      art: '<svg viewBox="0 0 92 84" fill="none" aria-hidden="true">' +
+        '<rect x="16" y="16" width="54" height="52" rx="8" fill="#ffffff" stroke="#854512" stroke-width="2"/>' +
+        '<path d="M26 30h34M26 40h28M26 50h20" stroke="#d48236" stroke-width="2.2" stroke-linecap="round"/>' +
+        '</svg>'
+    },
+    category: {
+      blobA: '#f4c6a8',
+      blobB: '#fce2d0',
+      arcColor: '#c96b38',
+      arcPath: 'M-8 60 C44 26, 108 22, 166 52',
+      art: '<svg viewBox="0 0 92 84" fill="none" aria-hidden="true">' +
+        '<rect x="16" y="18" width="56" height="48" rx="8" fill="#ffffff" stroke="#853912" stroke-width="2"/>' +
+        '<path d="M16 36h56M44 18v48" stroke="#853912" stroke-width="1.8"/>' +
+        '</svg>'
+    },
+    multiple: {
+      blobA: '#f2c2b8',
+      blobB: '#fbe0da',
+      arcColor: '#c45b4b',
+      arcPath: 'M-8 66 C48 24, 114 20, 174 34',
+      art: '<svg viewBox="0 0 92 84" fill="none" aria-hidden="true">' +
+        '<rect x="18" y="18" width="52" height="48" rx="8" fill="#fce4df" stroke="#7d2b20" stroke-width="2"/>' +
+        '<path d="M28 34l4 4 8-8M28 50l4 4 8-8M48 35h14M48 51h12" stroke="#7d2b20" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>' +
+        '</svg>'
+    },
+    mixed: {
+      blobA: '#f7cfa2',
+      blobB: '#fde7cd',
+      arcColor: '#d17f2c',
+      arcPath: 'M-6 58 C48 22, 112 18, 172 36',
+      art: '<svg viewBox="0 0 92 84" fill="none" aria-hidden="true">' +
+        '<path d="M14 25c0-3.3 2.7-6 6-6h18c3.3 0 6 2.7 6 6v36c-3-2.1-6.5-3.1-10-3.1H20c-3.3 0-6 1.5-6 3.1V25Z" fill="#ffffff" stroke="#7d410d" stroke-width="2" stroke-linejoin="round"/>' +
+        '<path d="M74 25c0-3.3-2.7-6-6-6H50c-3.3 0-6 2.7-6 6v36c3-2.1 6.5-3.1 10-3.1h14c3.3 0 6 1.5 6 3.1V25Z" fill="#fef0dd" stroke="#7d410d" stroke-width="2" stroke-linejoin="round"/>' +
+        '<path d="M22 31h14M22 39h14M22 47h10" stroke="#d17f2c" stroke-width="2.1" stroke-linecap="round"/>' +
+        '<path d="M52 31h14M52 39h11" stroke="#d17f2c" stroke-width="2.1" stroke-linecap="round"/>' +
+        '<path d="M54 12h22a5 5 0 0 1 5 5v10a5 5 0 0 1-5 5H64l-6 5v-5h-4a5 5 0 0 1-5-5V17a5 5 0 0 1 5-5Z" fill="#fbd7ad" stroke="#7d410d" stroke-width="1.9" stroke-linejoin="round"/>' +
+        '<path d="M57 20h15M57 25h10" stroke="#7d410d" stroke-width="1.8" stroke-linecap="round"/>' +
+        '</svg>'
+    },
+    other: {
+      blobA: '#f7cfa2',
+      blobB: '#fde7cd',
+      arcColor: '#d17f2c',
+      arcPath: 'M-8 60 C46 24, 112 20, 170 38',
+      art: '<svg viewBox="0 0 92 84" fill="none" aria-hidden="true">' +
+        '<rect x="18" y="13" width="52" height="58" rx="8" fill="#ffffff" stroke="#7d410d" stroke-width="2"/>' +
+        '<rect x="28" y="25" width="32" height="5" rx="2.5" fill="#efb677"/>' +
+        '<rect x="28" y="38" width="26" height="5" rx="2.5" fill="#f7d3a8"/>' +
+        '<rect x="28" y="51" width="20" height="5" rx="2.5" fill="#f7d3a8"/>' +
+        '</svg>'
+    }
+  };
+
   function resolveCardTheme(category, programId, format) {
     if (category !== 'prodi') return umumCardThemes[format] || umumCardThemes.other;
     if (programId === 'pgsd') return pgsdCardThemes[format] || pgsdCardThemes.other;
     if (programId === 'ipa') return ipaCardThemes[format] || ipaCardThemes.other;
     if (programId === 'dkv') return dkvCardThemes[format] || dkvCardThemes.other;
+    if (programId === 'bahasa-indonesia') return bahasaCardThemes[format] || bahasaCardThemes.other;
     return prodiCardThemes[format] || prodiCardThemes.other;
   }
 
