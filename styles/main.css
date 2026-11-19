@@ -1088,6 +1088,17 @@ body[data-screen="ujian"] .site-footer {
   --pack-btn-bg-hover: #f6fcf0;
 }
 
+.pack-card[data-program="dkv"][data-format="mixed"] {
+  --pack-border: #efb2ce;
+  --pack-border-hover: #d8659b;
+  --pack-bg: linear-gradient(148deg, #fff6fa 0%, #fcebf3 54%, #f9dfec 100%);
+  --pack-shadow: 0 8px 22px rgba(133, 34, 80, .07), 0 2px 6px rgba(133, 34, 80, .04);
+  --pack-shadow-hover: 0 12px 28px rgba(133, 34, 80, .14), 0 3px 8px rgba(133, 34, 80, .06);
+  --pack-btn-border: #f1bfd6;
+  --pack-btn-border-hover: #dc6fa2;
+  --pack-btn-bg-hover: #fff6fa;
+}
+
 .pack-card > :not(.pack-card-bg, .pack-art, .pack-link) {
   position: relative;
   z-index: 1;

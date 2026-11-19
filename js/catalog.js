@@ -332,10 +332,82 @@
     }
   };
 
+  const dkvCardThemes = {
+    single: {
+      blobA: '#f8c8b6',
+      blobB: '#fde4da',
+      arcColor: '#d97652',
+      arcPath: 'M46 -6 C74 36, 134 46, 194 22',
+      art: '<svg viewBox="0 0 92 84" fill="none" aria-hidden="true">' +
+        '<rect x="16" y="16" width="56" height="50" rx="8" fill="#ffffff" stroke="#8a3319" stroke-width="2"/>' +
+        '<circle cx="35" cy="36" r="10" fill="#fbd2c1" stroke="#8a3319" stroke-width="2"/>' +
+        '<path d="M51 28h13M51 36h10M24 53h40" stroke="#d97652" stroke-width="2.2" stroke-linecap="round"/>' +
+        '</svg>'
+    },
+    category: {
+      blobA: '#f5d29c',
+      blobB: '#fce9ca',
+      arcColor: '#cc8d2d',
+      arcPath: 'M-8 60 C44 26, 108 22, 166 52',
+      art: '<svg viewBox="0 0 92 84" fill="none" aria-hidden="true">' +
+        '<rect x="15" y="17" width="26" height="22" rx="5" fill="#fde3b8" stroke="#7c4e0e" stroke-width="2"/>' +
+        '<rect x="47" y="17" width="28" height="22" rx="5" fill="#ffffff" stroke="#7c4e0e" stroke-width="2"/>' +
+        '<rect x="15" y="45" width="26" height="22" rx="5" fill="#ffffff" stroke="#7c4e0e" stroke-width="2"/>' +
+        '<rect x="47" y="45" width="28" height="22" rx="5" fill="#f9d49a" stroke="#7c4e0e" stroke-width="2"/>' +
+        '</svg>'
+    },
+    multiple: {
+      blobA: '#e0c2f7',
+      blobB: '#f0e0fc',
+      arcColor: '#965cc9',
+      arcPath: 'M-8 66 C48 24, 114 20, 174 34',
+      art: '<svg viewBox="0 0 92 84" fill="none" aria-hidden="true">' +
+        '<circle cx="38" cy="40" r="18" fill="#e8d0fa" stroke="#53257d" stroke-width="2"/>' +
+        '<circle cx="56" cy="44" r="16" fill="#ffffff" fill-opacity="0.82" stroke="#53257d" stroke-width="2"/>' +
+        '<path d="M45 36l3 3 6-6" stroke="#53257d" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>' +
+        '</svg>'
+    },
+    mixed: {
+      blobA: '#f6bfd6',
+      blobB: '#fce0ec',
+      arcColor: '#cc5d8f',
+      arcPath: 'M-6 58 C48 22, 112 18, 172 36',
+      art: '<svg viewBox="0 0 92 84" fill="none" aria-hidden="true">' +
+        '<path d="M16 62 C26 26, 54 20, 74 32" stroke="#852250" stroke-width="2" stroke-dasharray="4 3" stroke-linecap="round"/>' +
+        '<circle cx="16" cy="62" r="4" fill="#ffffff" stroke="#852250" stroke-width="1.9"/>' +
+        '<circle cx="74" cy="32" r="4" fill="#ffffff" stroke="#852250" stroke-width="1.9"/>' +
+        '<rect x="37" y="21" width="8" height="8" rx="1.5" fill="#f8bdd7" stroke="#852250" stroke-width="1.9"/>' +
+        '<g transform="translate(46 47) rotate(-32)">' +
+        '<path d="M0 -20 L11 4 L6 16 L-6 16 L-11 4 Z" fill="#ffffff" stroke="#852250" stroke-width="2" stroke-linejoin="round"/>' +
+        '<path d="M0 -20 L0 -3" stroke="#852250" stroke-width="2" stroke-linecap="round"/>' +
+        '<circle cx="0" cy="-1" r="3.4" fill="#f6b2d0" stroke="#852250" stroke-width="1.8"/>' +
+        '<rect x="-8" y="16" width="16" height="6" rx="2.5" fill="#f6b2d0" stroke="#852250" stroke-width="1.9"/>' +
+        '</g>' +
+        '<circle cx="70" cy="60" r="8" fill="#fbd1e3" stroke="#852250" stroke-width="1.9"/>' +
+        '<circle cx="67" cy="58" r="2" fill="#852250"/>' +
+        '<circle cx="73" cy="58" r="2" fill="#cc5d8f"/>' +
+        '<circle cx="70" cy="63" r="2" fill="#ffffff" stroke="#852250" stroke-width="1.2"/>' +
+        '</svg>'
+    },
+    other: {
+      blobA: '#f6bfd6',
+      blobB: '#fce0ec',
+      arcColor: '#cc5d8f',
+      arcPath: 'M-8 60 C46 24, 112 20, 170 38',
+      art: '<svg viewBox="0 0 92 84" fill="none" aria-hidden="true">' +
+        '<rect x="18" y="13" width="52" height="58" rx="8" fill="#ffffff" stroke="#852250" stroke-width="2"/>' +
+        '<rect x="28" y="25" width="32" height="5" rx="2.5" fill="#f3a6c8"/>' +
+        '<rect x="28" y="38" width="26" height="5" rx="2.5" fill="#f9cbe0"/>' +
+        '<rect x="28" y="51" width="20" height="5" rx="2.5" fill="#f9cbe0"/>' +
+        '</svg>'
+    }
+  };
+
   function resolveCardTheme(category, programId, format) {
     if (category !== 'prodi') return umumCardThemes[format] || umumCardThemes.other;
     if (programId === 'pgsd') return pgsdCardThemes[format] || pgsdCardThemes.other;
     if (programId === 'ipa') return ipaCardThemes[format] || ipaCardThemes.other;
+    if (programId === 'dkv') return dkvCardThemes[format] || dkvCardThemes.other;
     return prodiCardThemes[format] || prodiCardThemes.other;
   }
 

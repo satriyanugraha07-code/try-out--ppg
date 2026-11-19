@@ -17,6 +17,12 @@ window.TRYOUT_PROGRAMS = [
     "label": "Teknik Mesin",
     "fullName": "Pendidikan Teknik Mesin",
     "subtitle": "PCK Pendidikan Teknik Mesin"
+  },
+  {
+    "id": "dkv",
+    "label": "DKV",
+    "fullName": "Desain Komunikasi Visual",
+    "subtitle": "PCK Desain Komunikasi Visual"
   }
 ];
 window.TRYOUT_PACKS = [
@@ -44734,6 +44740,17121 @@ window.TRYOUT_PACKS = [
         ],
         "correctAnswer": "",
         "explanation": "Contoh Jawaban Ideal:\n1. Tahap 1 UbD — Tujuan Pembelajaran & Pemahaman Bermakna:\n- Menetapkan capaian utama: murid mampu membaca gambar kerja potongan komponen dudukan bantalan, merencanakan operation plan & parameter potong, memproduksi komponen sesuai toleransi lubang bantalan dengan kepatuhan penuh K3/5R, dan memverifikasi mutu (QC).\n\n2. Tahap 2 UbD — Bukti Asesmen Autentik (Disusun Sebelum Aktivitas):\n- Kinerja proses & produk menggunakan rubrik analitik (perencanaan gambar & parameter, kepatuhan K3/LOTO/5R, ketepatan proses frais/CNC, hasil pengukuran QC memakai dial bore gauge/mikrometer/jangka sorong, serta laporan refleksi troubleshooting).\n- Asesmen diagnostik awal (membaca gambar potongan & kesiapan K3), asesmen formatif di tiap milestone (verifikasi gambar/simulasi sebelum potong), dan Assessment as Learning (lembar QC mandiri & peer review).\n\n3. Tahap 3 UbD — Pengalaman Belajar Berdiferensiasi, Inklusif, & Teori Belajar (Vygotsky & Bruner):\n- Akomodasi Inklusif (murid tunarungu ringan): briefing di area tenang saat mesin mati dengan posisi menghadap langsung (kontak mata & artikulasi jelas), SOP & rambu K3 visual bergambar, lampu indikator peringatan darurat visual, serta pasangan kerja suportif.\n- Diferensiasi & Scaffolding (Vygotsky/TaRL & Bruner): 6 murid yang kesulitan gambar potongan dibimbing dengan model fisik potong & tampilan 3D exploded view (enaktif → ikonik → simbolik) serta ceklis langkah bertahap; 15 murid menengah mendapat umpan balik pada verifikasi datum & parameter potong; 6 murid mahir diberi pengayaan validasi program CAM/CNC, optimasi waktu siklus, dan peran koordinator inspeksi QC (MKO).\n\n4. Manajemen Bengkel K3/5R (Station Rotation 4 Stasiun × 7 Murid, berpasangan aman):\n- Stasiun 1: Analisis Gambar Kerja, CAD/CAM & Simulasi Collision.\n- Stasiun 2: Pemesinan Frais Konvensional (4 unit mesin, pengawasan K3 ketat & rotasi peran operator/pengukur).\n- Stasiun 3: Pemesinan CNC Milling (2 unit, wajib dry run & single block).\n- Stasiun 4: Inspeksi Mutu (QC), Deburring, Perawatan Harian TPM, & Audit 5R.\n\n5. Kolaborasi Ekosistem Sekolah & DUDI:\n- Toolman/teknisi (kalibrasi alat ukur, kesiapan mesin, pengelolaan limbah coolant/beram B3), guru BK/wali kelas (dukungan inklusi), dan mitra DUDI (validasi gambar kerja standar industri, guru tamu QC, serta umpan balik produk akhir).\n\nKata Kunci / Rubrik Penilaian:\nUbD (3 tahap backward design: tujuan, bukti rubrik, rencana belajar) – inklusi tunarungu ringan (visual SOP, kontak mata, lampu indikator) – diferensiasi konten/proses/pengayaan (Vygotsky/TaRL/Bruner) – manajemen bengkel station rotation (4 frais + 2 CNC) – K3, dry run, 5R, TPM – kolaborasi toolman/BK/DUDI – asesmen diagnostik, formatif, QC, dan refleksi.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "id": "teknik-mesin-mcb-1",
+    "category": "prodi",
+    "programId": "teknik-mesin",
+    "groupLabel": "Teknik Mesin",
+    "title": "Tryout PCK (MCB) Teknik Mesin 1",
+    "description": "Latihan 80 soal UKPPPG Pendidikan Teknik Mesin (50 soal studi kasus PCK Teknik Mesin + 30 soal Pedagogi Umum) campuran PG, PGK Kategori, dan PGK MCMA beserta pembahasan lengkap.",
+    "durationMinutes": 150,
+    "questions": [
+      {
+        "id": "teknik-mesin-mcb-1-q001",
+        "number": 1,
+        "type": "single",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Menjelang semester genap, Pak Hendra menyusun modul ajar Teknik Pemesinan Bubut kelas XI tentang pembuatan poros bertingkat berbahan baja karbon rendah St37. Agar rumusan tujuan pembelajaran tersebut selaras dengan Capaian Pembelajaran Kurikulum Merdeka SMK yang memadukan penguasaan konsep parameter potong, kecakapan praktik aman, dan karakter Profil Pelajar Pancasila (PF.1 & P.1), rumusan yang paling tepat adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Peserta didik mampu menghafalkan seluruh nama tuas pengatur putaran spindel, posisi tabel gerak makan pada kepala tetap mesin bubut konvensional, serta jenis pahat HSS secara lisan di depan kelas tanpa kesalahan urutan."
+          },
+          {
+            "id": "B",
+            "text": "Peserta didik dapat menyalin tabel kecepatan potong (vc) untuk baja lunak, kuningan, dan aluminium dari buku referensi ke buku catatan bengkel lalu mengerjakan dua puluh soal latihan konversi satuan RPM secara mandiri."
+          },
+          {
+            "id": "C",
+            "text": "Peserta didik mampu menentukan putaran spindel dari hubungan kecepatan potong dan diameter, membubut poros bertingkat sesuai toleransi dengan disiplin K3, serta merefleksikan penyimpangan hasil ukurnya secara jujur."
+          },
+          {
+            "id": "D",
+            "text": "Peserta didik mampu menyelesaikan tes objektif mengenai prosedur perawatan harian mesin bubut konvensional, geometri sudut pahat karbida, dan aturan keselamatan bengkel dengan capaian skor minimal delapan puluh."
+          },
+          {
+            "id": "E",
+            "text": "Peserta didik menyimak paparan guru tentang perkembangan teknologi mesin bubut dari konvensional hingga otomatis, kemudian merangkum langkah kerja pembubutan rata sesuai urutan dalam jobsheet cetak sekolah."
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Tujuan pendidikan Teknik Mesin pada Kurikulum Merdeka SMK (PF.1) mengintegrasikan pemahaman konseptual parameter pemesinan (hubungan vc, diameter, dan putaran spindel), keterampilan praktik prosedural yang patuh K3, serta dimensi Profil Pelajar Pancasila (bernalar kritis, mandiri, dan jujur/berintegritas terhadap hasil ukur). Opsi C secara utuh mewujudkan pembelajaran konseptual, kontekstual, dan reflektif (P.1), sedangkan opsi lainnya berhenti pada hafalan pasif atau penguasaan teori dangkal.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q002",
+        "number": 2,
+        "type": "single",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Saat pembelajaran pembubutan konvensional di kelas XI, sebagian besar peserta didik meyakini bahwa ketika membubut poros baja St37 berdiameter besar (Ø50 mm), putaran spindel (RPM) harus diatur lebih tinggi daripada saat membubut poros berdiameter kecil (Ø16 mm) agar waktu pemotongan cepat dan hasilnya mengilap. Strategi perubahan konseptual (conceptual change) yang paling efektif dilakukan guru (PF.2 & P.1) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Meminta peserta didik menuliskan rumus n = (1000 × vc) / (π × d) berulang kali di papan tulis serta melatih soal hitungan putaran spindel untuk sepuluh variasi diameter poros hingga mereka hafal urutan operasinya."
+          },
+          {
+            "id": "B",
+            "text": "Mengabaikan keyakinan keliru tersebut untuk sementara karena pada praktik bengkel peserta didik cukup mengikuti daftar angka putaran spindel dan posisi tuas kepala tetap yang sudah ditentukan pada jobsheet standar."
+          },
+          {
+            "id": "C",
+            "text": "Langsung memotong nilai kedisiplinan praktik setiap kali menemukan kelompok memasang tuas putaran spindel terlalu tinggi pada poros besar, lalu mengganti posisi tuasnya oleh guru agar pahat tidak cepat tumpul."
+          },
+          {
+            "id": "D",
+            "text": "Membandingkan panjang lintasan keliling (π × d) satu putaran poros Ø50 mm dan Ø16 mm diikuti uji pemotongan terkendali agar murid mengamati sendiri bahwa RPM tinggi pada diameter besar memicu panas ekstrem dan keausan cepat pahat HSS."
+          },
+          {
+            "id": "E",
+            "text": "Menurunkan persamaan kecepatan linier tangensial v = ω · r dari konsep gerak melingkar fisika secara matematis penuh di papan tulis agar peserta didik langsung menerima bukti aljabar hubungan terbalik antara diameter dan RPM."
+          }
+        ],
+        "correctAnswer": "D",
+        "explanation": "Miskonsepsi bahwa diameter besar memerlukan RPM besar timbul karena murid menyamakan kecepatan putar sudut (n) dengan kecepatan potong keliling (vc = π · d · n / 1000) (PF.2). Membangun konflik kognitif melalui perbandingan konkret panjang lintasan keliling dan bukti empiris keausan/panas pahat HSS membantu murid merekonstruksi pemahaman konseptual hubungan berbanding terbalik antara diameter dan putaran spindel (P.1).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q003",
+        "number": 3,
+        "type": "category",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam praktikum penyelidikan pengaruh jenis fluida pendingin (coolant) terhadap tingkat kekasaran permukaan (Ra) dan keausan tepi pahat HSS saat membubut baja karbon rendah St37, guru membimbing peserta didik menerapkan rancangan penyelidikan teknik yang terkontrol (PF.2 & P.1)."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan SESUAI atau TIDAK SESUAI identifikasi variabel dan prosedur pengujian berikut!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Jika hipotesisnya adalah 'penggunaan coolant emulsi menurunkan kekasaran permukaan hasil bubut dibandingkan pemotongan kering', maka jenis material benda kerja, geometri sudut pahat HSS, kedalaman potong, dan gerak makan (feed) ditetapkan sebagai variabel kontrol."
+          },
+          {
+            "id": "B",
+            "text": "Variasi perlakuan media pendingin yang digunakan (pemotongan kering, emulsi 5%, dan oli potong murni) merupakan variabel terikat yang nilainya baru diukur setelah proses selesai."
+          },
+          {
+            "id": "C",
+            "text": "Nilai kekasaran permukaan (Ra dalam µm) dan lebar keausan tepi pahat yang diukur setelah panjang pemotongan tertentu merupakan variabel terikat (respons)."
+          },
+          {
+            "id": "D",
+            "text": "Menyertakan satu spesimen uji yang dibubut tanpa cairan pendingin (pemotongan kering) pada parameter identik berfungsi sebagai kelompok pembanding (kontrol) untuk mengukur besarnya efek pendinginan dan pelumasan."
+          }
+        ],
+        "categories": [
+          {
+            "id": "sesuai",
+            "text": "Sesuai"
+          },
+          {
+            "id": "tidak-sesuai",
+            "text": "Tidak Sesuai"
+          }
+        ],
+        "correctAnswer": {
+          "A": "sesuai",
+          "B": "tidak-sesuai",
+          "C": "sesuai",
+          "D": "sesuai"
+        },
+        "explanation": "A) Sesuai: Material St37, geometri pahat, kedalaman potong, dan gerak makan harus dijaga konstan (variabel kontrol) agar perubahan hasil benar-benar akibat media pendingin. B) Tidak Sesuai: Variasi media pendingin adalah variabel bebas (manipulasi) yang sengaja diubah sebelum pemotongan. C) Sesuai: Kekasaran permukaan Ra dan keausan pahat adalah variabel terikat yang diukur sebagai respons perlakuan. D) Sesuai: Kondisi pemotongan kering menjadi baseline pembanding yang valid (PF.2 & P.1).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q004",
+        "number": 4,
+        "type": "multiple",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pada pembelajaran Metalurgi dan Perlakuan Panas (Heat Treatment) di kelas XI Teknik Mesin, guru mengidentifikasi sejumlah gagasan peserta didik mengenai klasifikasi baja karbon, diagram Fe-C dasar, serta proses hardening, quenching, dan tempering (PF.2 & P.2). Manakah pernyataan ilmiah-teknis yang BENAR dan perlu dikuatkan guru kepada peserta didik?"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Baja karbon sedang hingga tinggi (kadar karbon di atas sekitar 0,3%) dapat dikeraskan secara signifikan melalui pemanasan hingga daerah fasa austenit diikuti pendinginan cepat (quenching) sehingga terbentuk struktur mikro martensit yang keras."
+          },
+          {
+            "id": "B",
+            "text": "Baja karbon rendah (kadar karbon di bawah 0,15%) dapat langsung menghasilkan kekerasan setara pahat potong cukup dengan dipanaskan dan dicelupkan ke air dingin tanpa proses pengerasan permukaan seperti karburasi."
+          },
+          {
+            "id": "C",
+            "text": "Proses tempering yang dilakukan setelah quenching bertujuan menurunkan tegangan sisa dan kegetasan struktur martensit sehingga baja memperoleh kombinasi kekerasan dan ketangguhan yang lebih aman dipakai sebagai komponen mesin."
+          },
+          {
+            "id": "D",
+            "text": "Perbedaan laju perpindahan panas pada media quenching (seperti air garam, air tawar, oli, dan udara tenang) memengaruhi transformasi struktur mikro akhir baja serta risiko timbulnya distorsi atau retak celup."
+          },
+          {
+            "id": "E",
+            "text": "Semakin tinggi persentase kadar karbon pada baja, semakin tinggi pula sifat keuletan (ductility) dan kemudahan pengelasannya tanpa memerlukan pemanasan awal."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "C",
+          "D"
+        ],
+        "minSelections": 2,
+        "maxSelections": 4,
+        "instruction": "Pilih dua, tiga, atau empat jawaban yang benar.",
+        "explanation": "Prinsip dasar metalurgi perlakuan panas (PF.2): Pengerasan martensitik efektif pada baja berkadar karbon memadai (≥0,3% C) melalui austenitisasi dan quenching (A); tempering wajib dilakukan untuk mengurangi kegetasan dan tegangan sisa akibat martensit (C); pemilihan media pendingin mengatur laju pendinginan serta mencegah retak/distorsi (D). Opsi B keliru karena baja karbon rendah tidak cukup karbon untuk membentuk martensit keras tanpa karburasi; opsi E keliru karena peningkatan kadar karbon justru menurunkan keuletan dan kemampuan las (weldability).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q005",
+        "number": 5,
+        "type": "single",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam pembelajaran pengelasan SMAW kelas XI, banyak peserta didik beranggapan bahwa lapisan fluks pada elektroda E6013 atau E7018 hanyalah pelapis antikaratan saat penyimpanan, sekaligus meyakini bahwa menaikkan arus las (ampere) setinggi mungkin selalu membuat sambungan las semakin kuat tanpa cacat. Desain penyelidikan atau demonstrasi bengkel yang paling efektif untuk meluruskan kedua miskonsepsi tersebut (PF.2 & P.1) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menugaskan peserta didik menghafalkan makna setiap digit kode klasifikasi AWS pada elektroda E6013 dan E7018 beserta tabel rentang ampere pabrikan, lalu mengujinya secara lisan sebelum menyalakan trafo las."
+          },
+          {
+            "id": "B",
+            "text": "Memfasilitasi uji pengelasan terkendali yang membandingkan elektroda berfluks utuh versus sebagian fluks dikupas (mengamati terak pelindung dan porositas), serta arus standar versus arus berlebih (mengamati undercut dan spatter)."
+          },
+          {
+            "id": "C",
+            "text": "Meminta peserta didik menggambar skema penampang kawah las, zona pengaruh panas (HAZ), arah gerakan ayunan elektroda zig-zag, serta ketebalan lapisan terak menggunakan spidol warna pada kertas gambar A3."
+          },
+          {
+            "id": "D",
+            "text": "Menjelaskan secara rinci reaksi dekomposisi kimia fluks menjadi gas pelindung dan bahaya masukan panas berlebih melalui salindia ceramah satu arah tanpa melibatkan pengamatan langsung pada spesimen las."
+          },
+          {
+            "id": "E",
+            "text": "Mengunci kenop pengatur arus seluruh mesin las pada satu angka tetap oleh teknisi bengkel sepanjang semester agar peserta didik tidak pernah mencoba mengubah parameter arus maupun melihat munculnya cacat las."
+          }
+        ],
+        "correctAnswer": "B",
+        "explanation": "Pengalaman empiris terpandu di bengkel las (PF.2 & P.1) memungkinkan murid membuktikan sendiri bahwa fluks menghasilkan gas pelindung dan terak (slag) pencegah kontaminasi oksigen/nitrogen sekaligus menstabilkan busur, sedangkan arus yang melampaui rentang optimal justru merusak profil manik las (undercut, burn-through, percikan berlebih) yang melemahkan sambungan.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q006",
+        "number": 6,
+        "type": "single",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Saat mempersiapkan praktikum pengelasan Oxy-Acetylene Welding (OAW), seorang peserta didik bertanya mengapa sambungan regulator tabung oksigen yang seret tidak boleh dilumasi dengan oli mesin atau gemuk, serta katup mana yang harus ditutup terlebih dahulu pada pembakar (torch) ketika mematikan nyala api las. Penjelasan konseptual dan prosedural K3 yang wajib ditekankan guru Teknik Mesin (PF.2 & P.3) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Oli mesin sebenarnya boleh dioleskan tipis pada drat regulator oksigen asalkan sisa minyaknya segera dilap majun kering, kemudian saat mematikan api tutup katup oksigen terlebih dahulu agar nyala cepat mengecil dan padam."
+          },
+          {
+            "id": "B",
+            "text": "Larangan pemakaian oli bertujuan menjaga ulir kuningan regulator tidak cepat licin dan kotor di tangan operator, sedangkan urutan penutupan katup oksigen maupun asetilin pada torch tidak berpengaruh besar terhadap keselamatan."
+          },
+          {
+            "id": "C",
+            "text": "Atur tekanan kerja asetilin di atas 2 bar supaya nyala api netral lebih stabil terhadap angin bengkel, lalu matikan api dengan langsung memutar katup induk tabung utama sebelum menyentuh katup pengatur di gagang torch."
+          },
+          {
+            "id": "D",
+            "text": "Gunakan gemuk sintetis khusus suhu tinggi pada sambungan regulator oksigen untuk mencegah kebocoran gas halus, serta dinginkan ujung tip nozzle yang membara dengan mencelupkan seluruh kepala torch ke bak oli dingin."
+          },
+          {
+            "id": "E",
+            "text": "Oksigen murni bertekanan tinggi bereaksi eksotermik spontan dengan oli/gemuk hingga berisiko meledak; selain itu tutup katup asetilin pada torch lebih dahulu baru katup oksigen guna mencegah nyala balik (flashback) dan jelaga."
+          }
+        ],
+        "correctAnswer": "E",
+        "explanation": "Prinsip keselamatan kerja OAW (PF.2 & P.3): Hidrokarbon seperti minyak/gemuk yang kontak dengan oksigen murni bertekanan tinggi sangat mudah mengalami oksidasi cepat yang memicu ledakan spontan. Saat mematikan nyala pada torch, menutup katup asetilin lebih dahulu menghentikan suplai bahan bakar seketika sementara sisa aliran oksigen membantu meniup sisa panas sehingga mencegah flashback ke dalam selang.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q007",
+        "number": 7,
+        "type": "category",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Guru Gambar Teknik Manufaktur merancang aktivitas studi kasus untuk melatih peserta didik memilih jenis toleransi suaian ISO, proyeksi ortogonal, dan simbol kekasaran permukaan (Ra) sesuai fungsi komponen mekanis (PF.2 & P.1)."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan TEPAT atau TIDAK TEPAT penerapan standar gambar kerja manufaktur berikut!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Memilih suaian longgar berbasis lubang Ø30 H7/g6 untuk pasangan poros baja yang berputar kontinu di dalam bantalan luncur (bushing) agar tersedia celah tipis yang stabil bagi lapisan pelumas."
+          },
+          {
+            "id": "B",
+            "text": "Mencantumkan simbol kekasaran permukaan Ra 25 µm tanpa pembuangan serpihan (tanda lingkaran tertutup) pada permukaan luncur presisi poros silinder hidrolik yang bersentuhan langsung dengan seal karet."
+          },
+          {
+            "id": "C",
+            "text": "Memilih suaian paksa Ø40 H7/p6 untuk pemasangan cincin/bushing baja yang harus terikat kuat secara permanen pada dudukan rumah transmisi tanpa tambahan pasak terhadap beban putar ringan."
+          },
+          {
+            "id": "D",
+            "text": "Pada gambar kerja dengan simbol proyeksi sudut ketiga (Amerika), pandangan atas diletakkan tepat di atas pandangan depan dan pandangan samping kanan diletakkan di sebelah kanan pandangan depan."
+          }
+        ],
+        "categories": [
+          {
+            "id": "tepat",
+            "text": "Tepat"
+          },
+          {
+            "id": "tidak-tepat",
+            "text": "Tidak Tepat"
+          }
+        ],
+        "correctAnswer": {
+          "A": "tepat",
+          "B": "tidak-tepat",
+          "C": "tepat",
+          "D": "tepat"
+        },
+        "explanation": "A) Tepat: Suaian H7/g6 adalah suaian longgar presisi yang menyediakan celah pelumasan ideal bagi poros putar. B) Tidak Tepat: Permukaan luncur yang kontak dengan seal karet menuntut kekasaran sangat halus (sekitar Ra 0,2–0,4 µm hasil penggerindaan/polishing), bukan Ra 25 µm yang sangat kasar dan merusak seal. C) Tepat: H7/p6 merupakan suaian sesak/paksa (interference fit) untuk ikatan tetap. D) Tepat: Kaidah proyeksi Amerika (third-angle) menempatkan pandangan sesuai arah pandang pengamat (atas di atas, kanan di kanan).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q008",
+        "number": 8,
+        "type": "single",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam praktikum Pneumatik Dasar kelas XI, peserta didik merangkai unit FRL (Filter-Regulator-Lubricator), katup kontrol arah 5/2, dan silinder kerja ganda untuk mendorong benda kerja dengan kecepatan langkah maju yang lambat dan stabil. Guru meminta murid membandingkan pemasangan katup pengatur aliran satu arah (one-way flow control valve) secara meter-out (mencekik udara buang) versus meter-in (mencekik udara masuk) dan menjelaskan alasannya. Jawaban teknis yang paling tepat menunjukkan pemahaman konseptual murid (PF.2 & P.2) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Meter-out menghasilkan gerak batang piston lebih stabil karena tekanan penuh di sisi dorong ditahan oleh bantalan tekanan balik (back pressure) di saluran buang, sehingga mengurangi gejala tersendat (stick-slip) udara kompresibel."
+          },
+          {
+            "id": "B",
+            "text": "Meter-in selalu menghasilkan gerak langkah lebih stabil untuk silinder kerja ganda karena udara bertekanan dari kompresor bersifat inkompresibel layaknya fluida oli pada rangkaian hidrolik bertekanan tinggi."
+          },
+          {
+            "id": "C",
+            "text": "Pemasangan one-way flow control valve di saluran masuk maupun saluran buang memberi kestabilan langkah identik karena katup kontrol arah 5/2 otomatis menyamakan laju aliran kedua ruang silinder."
+          },
+          {
+            "id": "D",
+            "text": "Pengaturan kecepatan langkah maju silinder kerja ganda paling akurat dilakukan dengan menurunkan regulator tekanan unit FRL mendekati 0,5 bar sehingga komponen katup pengatur aliran tidak perlu lagi dipasang."
+          },
+          {
+            "id": "E",
+            "text": "Pemasangan meter-out berfungsi menggandakan gaya dorong efektif piston jauh melampaui persamaan F = P × A karena sebagian udara buang yang tertahan dialirkan balik untuk membantu mendorong permukaan piston."
+          }
+        ],
+        "correctAnswer": "A",
+        "explanation": "Berbeda dengan fluida hidrolik, udara pneumatik bersifat kompresibel (PF.2). Pada sistem meter-in, tekanan di sisi dorong membangun perlahan sehingga begitu gaya gesek statis terlampaui, piston meloncat tersendat (stick-slip). Dengan meter-out, ruang di depan piston terjepit oleh tekanan balik terkendali (cushioned) sehingga gerak maju jauh lebih stabil terhadap variasi beban dan gesekan.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q009",
+        "number": 9,
+        "type": "multiple",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pada praktikum pengelasan SMAW pelat baja karbon sedang, guru membimbing peserta didik menganalisis hubungan antara pemilihan polaritas arus searah (DCEN/DCEP), penanganan elektroda E7018, dan pencegahan cacat las seperti porositas serta slag inclusion (PF.2 & P.1). Manakah pernyataan teknis yang BENAR mengenai proses pengelasan SMAW tersebut?"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Elektroda jenis low-hydrogen seperti E7018 tidak terpengaruh oleh kelembapan udara bengkel sehingga sisa elektroda yang kemasannya sudah terbuka dapat disimpan bebas di rak terbuka tanpa oven pengering."
+          },
+          {
+            "id": "B",
+            "text": "Pembersihan terak (slag) secara tuntas menggunakan palu terak dan sikat kawat baja setiap selesai satu jalur las (interpass cleaning) merupakan langkah kunci untuk mencegah cacat slag inclusion pada pengelasan berlapis."
+          },
+          {
+            "id": "C",
+            "text": "Cacat porositas yang berupa rongga-rongga gas di dalam logam las hanya disebabkan oleh kesalahan sudut kemiringan benda kerja dan tidak berkaitan dengan adanya karat, oli, kelembapan fluks, atau panjang busur berlebih."
+          },
+          {
+            "id": "D",
+            "text": "Pada pengelasan SMAW dengan polaritas DCEP (elektroda terhubung kutub positif), penetrasi kampuh umumnya lebih dalam dibandingkan DCEN sehingga banyak dipersyaratkan pada penggunaan elektroda low-hydrogen E7018 untuk sambungan konstruksi."
+          },
+          {
+            "id": "E",
+            "text": "Cacat undercut pada tepi jalur las terjadi karena kecepatan gerak pengelasan terlalu lambat dan arus pengelasan jauh di bawah rekomendasi minimum elektroda."
+          }
+        ],
+        "correctAnswer": [
+          "B",
+          "D"
+        ],
+        "minSelections": 2,
+        "maxSelections": 4,
+        "instruction": "Pilih dua, tiga, atau empat jawaban yang benar.",
+        "explanation": "Pembersihan terak menyeluruh antar-lapisan mencegah terperangkapnya terak/slag inclusion (B), dan polaritas DCEP (reverse polarity) menghasilkan penetrasi dalam serta kestabilan busur yang sesuai bagi elektroda E7018 (D). Opsi A salah karena E7018 sangat higroskopis dan wajib disimpan di oven pengering agar tidak memicu retak hidrogen/porositas; opsi C salah karena porositas terutama dipicu kontaminasi karat, oli, fluks lembap, dan busur terlalu panjang; opsi E salah karena undercut umumnya dipicu arus terlalu tinggi, busur terlalu panjang, atau kecepatan gerak terlalu cepat tanpa pengisian tepi memadai.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q010",
+        "number": 10,
+        "type": "single",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Sebagian peserta didik kelas X beranggapan bahwa jangka sorong ketelitian 0,02 mm selalu dapat menggantikan mikrometer luar 0,01 mm untuk memeriksa poros presisi berukuran Ø25 h6 (rentang toleransi 0,013 mm), serta mengira bahwa menekan rahang alat ukur sekuat tenaga akan membuat pembacaan semakin akurat. Penjelasan konseptual metrologi yang paling akurat disampaikan guru Teknik Mesin (PF.2) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Jangka sorong 0,02 mm sebenarnya lebih presisi daripada mikrometer luar 0,01 mm karena permukaan kontak rahang ukurnya lebih panjang sehingga mampu meratakan ketidakbulatan poros secara langsung."
+          },
+          {
+            "id": "B",
+            "text": "Menekan rahang jangka sorong sekuat tenaga memang dianjurkan dalam standar metrologi agar lapisan tipis oli pemotong maupun udara di antara permukaan poros dan rahang ukur tersingkir sempurna."
+          },
+          {
+            "id": "C",
+            "text": "Ketelitian alat ukur cukup bernilai sama besar atau sedikit lebih kasar daripada rentang toleransi gambar kerja asalkan operator melakukan pengukuran ulang minimal dua kali dan merata-ratakan hasilnya."
+          },
+          {
+            "id": "D",
+            "text": "Resolusi alat ukur wajib jauh lebih halus daripada rentang toleransi benda kerja, sementara tekanan berlebih melenturkan rahang ukur; mikrometer luar dilengkapi ratchet stop untuk menjaga gaya sentuh konstan dan akurat."
+          },
+          {
+            "id": "E",
+            "text": "Mikrometer luar 0,01 mm menggunakan konstruksi ulir presisi permanen sehingga tidak mungkin mengalami pergeseran titik nol dan tidak memerlukan kalibrasi dengan batang standar sebelum pengukuran kritis."
+          }
+        ],
+        "correctAnswer": "D",
+        "explanation": "Dalam metrologi industri (PF.2), resolusi jangka sorong 0,02 mm (20 µm) lebih kasar daripada rentang toleransi Ø25 h6 sebesar 13 µm, sehingga tidak valid untuk verifikasi kelayakan toleransi presisi tersebut (aturan praktis ketidakpastian/rule of ten menghendaki resolusi jauh lebih halus dari toleransi). Selain itu, gaya ukur berlebih melenturkan rahang jangka sorong dan menyebabkan galat sistematis; mikrometer luar dilengkapi ratchet stop/friction thimble untuk menghasilkan gaya sentuh konstan.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q011",
+        "number": 11,
+        "type": "single",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Di sekitar lokasi SMK terdapat banyak pelaku UMKM pengolahan hasil pertanian (mesin perajang umbi dan penggiling kopi skala kecil) yang kerap mengeluhkan cepat ausnya poros penggerak serta bushing dudukan mesin mereka. Guru Teknik Mesin kelas XI ingin merancang pembelajaran berbasis Teaching Factory (TeFa) yang kontekstual dan berdampak bagi ekonomi lokal (PF.3 & P.5). Desain kegiatan belajar yang paling bermakna adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Meminta peserta didik terus memproduksi poros latihan seragam mengikuti ukuran dari buku jobsheet lama sepanjang semester, lalu mengumpulkan hasilnya di kotak logam bekas untuk dijual per kilogram."
+          },
+          {
+            "id": "B",
+            "text": "Membimbing murid mengukur komponen aus milik UMKM, membuat gambar kerja CAD bersuaian H7/g6, memproduksi poros-bushing pengganti di mesin bubut sesuai SOP mutu, lalu melakukan uji pasang dan evaluasi bersama pelaku UMKM."
+          },
+          {
+            "id": "C",
+            "text": "Mengajak peserta didik membeli poros dan bushing jadi dari toko suku cadang kota, kemudian melakukan pengecatan ulang dan pengemasan berlabel sekolah untuk dipasarkan kembali kepada pelaku UMKM sekitar."
+          },
+          {
+            "id": "D",
+            "text": "Menyerahkan seluruh pesanan perbaikan poros UMKM kepada dua siswa tercepat sebagai kegiatan lembur sukarela di luar jam belajar, sementara jam praktik reguler tetap diisi latihan rutin tanpa konteks mitra."
+          },
+          {
+            "id": "E",
+            "text": "Meminta teknisi bengkel sekolah mengerjakan seluruh pesanan pembubutan poros UMKM demi mengejar ketepatan waktu serah terima, sedangkan peserta didik cukup mengamati prosesnya dari luar batas garis kuning."
+          }
+        ],
+        "correctAnswer": "B",
+        "explanation": "Esensi Teaching Factory (PF.3 & P.5) adalah menghadirkan alur produksi nyata berbasis kebutuhan industri/UMKM lokal ke dalam proses belajar murid: mulai dari reverse engineering/pengukuran komponen rusak, gambar kerja bertoleransi, pemesinan sesuai standar mutu, hingga validasi fungsi bersama pelanggan lokal sehingga kompetensi teknis dan jiwa kewirausahaan terasah secara autentik.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q012",
+        "number": 12,
+        "type": "single",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Di kelas X Teknik Pemesinan terdapat seorang peserta didik bertangan kidal (dominan kiri) dan seorang peserta didik dengan hambatan pendengaran ringan yang mengikuti praktik kerja bangku (mengikir rata, menggergaji tangan, tap/snei) serta pengenalan mesin bubut konvensional. Penyesuaian ergonomi, media instruksi, dan strategi pembimbingan yang paling tepat sesuai prinsip bengkel inklusif (PF.3 & P.2) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Mewajibkan murid kidal berlatih memindahkan dominansi ke tangan kanan secara kaku saat mengikir dan menggergaji, serta membebaskan murid berhambatan pendengaran dari praktik mesin demi menghilangkan seluruh risiko."
+          },
+          {
+            "id": "B",
+            "text": "Menempatkan kedua murid tersebut sebagai petugas pencatat daftar pinjaman alat di ruang toolman sepanjang semester agar ritme penyelesaian jobsheet kelas tetap cepat dan tidak terhambat akomodasi khusus."
+          },
+          {
+            "id": "C",
+            "text": "Melonggarkan standar toleransi dimensi dan kesikuan benda kerja khusus bagi kedua murid tersebut supaya nilai mereka tetap tuntas meskipun guru tidak menyesuaikan media instruksi maupun tata letak ragumnya."
+          },
+          {
+            "id": "D",
+            "text": "Memindahkan meja praktik kedua murid tersebut ke sudut belakang yang terpisah jauh dari kelompok lain agar guru lebih leluasa mengawasi murid mayoritas di zona tengah bengkel."
+          },
+          {
+            "id": "E",
+            "text": "Menyesuaikan posisi kuda-kuda ragum dan tata perkakas yang aman bagi murid kidal, serta melengkapi briefing K3 dengan indikator lampu/visual, teks instruksi jelas, dan demonstrasi tatap muka bagi murid berhambatan pendengaran."
+          }
+        ],
+        "correctAnswer": "E",
+        "explanation": "Pembelajaran vokasi inklusif (PF.3 & P.2) tidak menyingkirkan murid dari pengalaman praktik maupun menurunkan standar capaian secara diskriminatif, melainkan menyediakan akomodasi wajar: penyesuaian ergonomi kerja bangku dan posisi pengawasan aman bagi murid kidal serta dukungan komunikasi multimodal (isyarat visual, lampu peringatan, jobsheet bergambar, tatap muka saat briefing) bagi murid berhambatan pendengaran ringan.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q013",
+        "number": 13,
+        "type": "category",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam mengajarkan pemodelan parametrik CAD 3D dan penyajian gambar kerja 2D (Autodesk Inventor/AutoCAD) pada kelas dengan kemampuan spasial dan kemahiran komputer yang beragam, guru menerapkan pembelajaran berdiferensiasi (PF.3 & P.2)."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan TEPAT atau TIDAK TEPAT strategi diferensiasi pembelajaran CAD berikut!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Memberikan kebebasan kepada murid memilih objek mekanis proyek (misalnya dudukan puli, braket motor, atau flens pipa) sesuai minatnya selama tetap memenuhi standar kelengkapan proyeksi, ukuran, dan toleransi gambar kerja."
+          },
+          {
+            "id": "B",
+            "text": "Menyediakan kartu referensi cepat perintah sketch/constraint dan video mikro bertahap bagi murid pemula, sambil memberi tantangan pemodelan rakitan (assembly) dan animasi gerak bagi murid yang sudah mahir."
+          },
+          {
+            "id": "C",
+            "text": "Menghapus kewajiban mencantumkan proyeksi ortogonal, garis sumbu, dan toleransi dimensi bagi kelompok murid yang masih lambat agar mereka tetap mendapat nilai tuntas."
+          },
+          {
+            "id": "D",
+            "text": "Menyusun latihan pemodelan secara bertingkat dari komponen prismatis sederhana ke benda berkontur kompleks (revolve/loft) berdasarkan hasil pemetaan asesmen awal keterampilan spasial."
+          }
+        ],
+        "categories": [
+          {
+            "id": "tepat",
+            "text": "Tepat"
+          },
+          {
+            "id": "tidak-tepat",
+            "text": "Tidak Tepat"
+          }
+        ],
+        "correctAnswer": {
+          "A": "tepat",
+          "B": "tepat",
+          "C": "tidak-tepat",
+          "D": "tepat"
+        },
+        "explanation": "A) Tepat: Diferensiasi produk berdasarkan minat tetap menjaga keutuhan standar kompetensi gambar teknik. B) Tepat: Diferensiasi proses melalui scaffolding bagi pemula dan pengayaan bermakna bagi murid mahir. C) Tidak Tepat: Menghapus elemen esensial gambar manufaktur melanggar standar kompetensi keahlian dan merugikan kesiapan kerja murid (P.2). D) Tepat: Diferensiasi konten berbasis asesmen kesiapan membangun kecakapan spasial secara bertahap.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q014",
+        "number": 14,
+        "type": "multiple",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Sekolah berada dekat kawasan sentra bengkel bubut umum, bengkel fabrikasi pagar/konstruksi baja, dan bengkel perbaikan mesin pertanian. Guru Teknik Mesin ingin memanfaatkan lingkungan industri kecil tersebut sebagai sumber belajar autentik untuk topik Analisis Kerusakan Komponen, Korosi Logam, dan Proses Perbaikan Pemesinan/Las (PF.3 & P.5). Langkah pembelajaran yang tepat dan aman adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Merancang lembar observasi terstruktur agar murid mengidentifikasi jenis kerusakan nyata (keausan poros, korosi sambungan, atau retak las) beserta penyebab mekanis dan lingkungan kerjanya."
+          },
+          {
+            "id": "B",
+            "text": "Memfasilitasi wawancara teknis terarah dengan pemilik atau operator bengkel mengenai pertimbangan pemilihan material pengganti, elektroda las, dan estimasi biaya perbaikan."
+          },
+          {
+            "id": "C",
+            "text": "Meminta murid langsung mengoperasikan mesin bubut berat dan trafo las milik bengkel warga tanpa pendampingan SOP, izin resmi, maupun perlengkapan APD demi pengalaman instan."
+          },
+          {
+            "id": "D",
+            "text": "Menerapkan prosedur keselamatan kunjungan lapangan secara ketat, termasuk penggunaan sepatu safety, kacamata pelindung, pembatasan jarak aman dari zona percikan las, serta perizinan resmi sekolah dan mitra."
+          },
+          {
+            "id": "E",
+            "text": "Membawa sampel komponen rusak yang dihibahkan bengkel mitra ke sekolah untuk dikaji lebih lanjut di kelas melalui pengukuran dimensi sisa, analisis metalurgi dasar, dan perancangan solusi perbaikannya."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "D",
+          "E"
+        ],
+        "minSelections": 2,
+        "maxSelections": 4,
+        "instruction": "Pilih dua, tiga, atau empat jawaban yang benar.",
+        "explanation": "Pemanfaatan ekosistem bengkel lokal sebagai sumber belajar autentik (PF.3 & P.5) mengintegrasikan observasi analitis kerusakan nyata (A), penggalian praktik keteknikan pelaku lokal (B), kepatuhan penuh pada K3 lapangan dan tata kelola izin (D), serta tindak lanjut investigasi teknis di kelas (E). Opsi C sangat berbahaya dan melanggar hukum keselamatan kerja serta etika kemitraan.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q015",
+        "number": 15,
+        "type": "single",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam pendekatan pembelajaran berbasis fenomena (Phenomenon-Based Learning), guru mengawali topik 'Pembubutan Tirus (Taper Turning) dan Kesenteran Pencekaman' dengan mendemonstrasikan dua fenomena nyata: ujung center bertirus Morse yang mengunci kokoh di lubang kepala lepas (tailstock) tanpa baut pengikat, serta sebuah poros mesin yang berputar oleng (run-out) ketika dipasang pada chuck 3 rahang yang aus, lalu meminta murid merumuskan pertanyaan investigasi. Dampak pedagogis utama dari strategi ini (PF.3, P.3 & P.1) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menghubungkan geometri tirus dan kesumbuan dengan fungsi nyata rekayasa, memicu rasa ingin tahu, serta menempatkan perhitungan sudut tirus sebagai alat memecahkan fenomena yang diamati murid."
+          },
+          {
+            "id": "B",
+            "text": "Memangkas sebagian besar alokasi jam praktik bengkel sehingga guru tidak perlu lagi membimbing murid menyetel kemiringan eretan atas maupun memeriksa run-out memakai dial indicator."
+          },
+          {
+            "id": "C",
+            "text": "Menunjukkan betapa rumitnya penyetelan mesin bubut konvensional agar murid lebih patuh mengikuti setiap instruksi guru tanpa banyak mengajukan pertanyaan di luar panduan jobsheet."
+          },
+          {
+            "id": "D",
+            "text": "Menggantikan kebutuhan penilaian unjuk kerja pembubutan poros bertirus di akhir unit dengan penilaian keaktifan bertanya secara lisan pada sesi pembukaan kelas."
+          },
+          {
+            "id": "E",
+            "text": "Menghadirkan tontonan pembuka yang menghibur agar murid tidak mengantuk sebelum guru mulai mendiktekan definisi ketirusan standar Morse dan rumus trigonometri sudut eretan."
+          }
+        ],
+        "correctAnswer": "A",
+        "explanation": "Fenomena pemicu (anchoring phenomenon) seperti self-holding taper Morse dan poros oleng menghadirkan kebermaknaan (meaningful) dan rasa ingin tahu (joyful) dalam pembelajaran Teknik Mesin (PF.3, P.1 & P.3). Murid melihat langsung urgensi geometri tirus dan kesumbuan sebelum menurunkan perhitungan tan α = (D − d) / (2L) dan prosedur penyetelan mesin.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q016",
+        "number": 16,
+        "type": "single",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Bengkel SMK tempat Anda mengajar sedang mengalami kendala: mesin uji kekerasan Rockwell rusak dan stok batang baja karbon sedang baru sangat terbatas, padahal minggu depan dijadwalkan praktikum pengaruh perlakuan panas (annealing, hardening, dan tempering) terhadap kekerasan logam. Sebagai guru Teknik Mesin yang adaptif dan menguasai substansi metalurgi (PF.3, P.5 & PF.2), solusi ilmiah-teknis terbaik yang tetap aman adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menghapus seluruh jadwal praktikum perlakuan panas pada semester ini dan menggantinya dengan penugasan menyalin grafik diagram Fe-C beserta tabel kekerasan HRC dari buku referensi metalurgi."
+          },
+          {
+            "id": "B",
+            "text": "Meminta murid memukul spesimen baja yang baru dipanaskan merah menggunakan palu godam di atas lantai beton tanpa pelindung wajah untuk memperkirakan kekerasannya dari nyaring bunyi benturan."
+          },
+          {
+            "id": "C",
+            "text": "Memanfaatkan potongan baja pegas daun bekas atau kikir bekas berkarbon tinggi sebagai spesimen, lalu membandingkan hasil annealing, hardening, dan tempering melalui uji kikir terkalibrasi dan warna temper ber-K3 ketat."
+          },
+          {
+            "id": "D",
+            "text": "Mengganti seluruh benda uji baja karbon dengan potongan pelat aluminium bekas wadah minuman karena lebih murah, lebih mudah meleleh di dapur pemanas bengkel, dan cepat menunjukkan hasil quenching."
+          },
+          {
+            "id": "E",
+            "text": "Mewajibkan setiap kelompok peserta didik mengumpulkan iuran pribadi untuk membeli satu unit alat uji kekerasan digital portabel supaya praktikum tetap menggunakan standar pengujian laboratorium industri."
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Keterbatasan alat uji tidak boleh menghalangi eksperimen bermakna maupun mengorbankan kebenaran metalurgi (PF.2, PF.3 & P.5). Baja pegas bekas memiliki kadar karbon cukup tinggi (~0,5–0,7% C) untuk menunjukkan respons hardening/tempering yang kontras, sedangkan uji kikir komparatif (tergelincir pada martensit keras vs termakan pada spesimen annealed) dan pengamatan warna oksida temper merupakan metode bengkel valid secara ilmiah dan aman jika dilakukan dengan K3 tepat. Aluminium (D) memiliki mekanisme penguatan berbeda (precipitation hardening), bukan transformasi martensit baja.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q017",
+        "number": 17,
+        "type": "single",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pada pembelajaran pembubutan ulir metris luar (misalnya M16 × 2) dan pembubutan tirus dengan memutar eretan atas, sebagian peserta didik sebenarnya paham secara visual bagaimana profil ulir dan kemiringan tirus terbentuk, tetapi terus mengalami hambatan ketika menghitung kedalaman ulir (h = 0,6134 × P) serta menentukan sudut eretan menggunakan rumus tan α = (D − d) / (2L) akibat lemahnya operasi desimal dan trigonometri dasar. Langkah perancah (scaffolding) pedagogis yang paling tepat dilakukan guru (PF.3 & P.2) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Melarang seluruh murid menggunakan kalkulator maupun tabel bantu trigonometri di bengkel supaya mereka terdorong menghafalkan nilai tangen sudut dan perkalian desimal secara manual."
+          },
+          {
+            "id": "B",
+            "text": "Menuliskan langsung angka sudut derajat kemiringan eretan dan total kedalaman ulir yang sudah dihitung guru pada papan tulis agar murid bisa langsung praktik tanpa perlu menghitung."
+          },
+          {
+            "id": "C",
+            "text": "Menunda seluruh kegiatan praktik mesin bubut selama satu bulan penuh untuk mengulang seluruh materi pecahan, desimal, dan trigonometri dari kurikulum matematika tingkat SMP."
+          },
+          {
+            "id": "D",
+            "text": "Menyediakan sketsa segitiga tirus berlabel D, d, dan L, kartu alur langkah substitusi satuan bertahap dari angka sederhana ke desimal, serta bimbingan mengecek kewajaran hasil hitung terhadap geometri fisik."
+          },
+          {
+            "id": "E",
+            "text": "Membagi penugasan bengkel secara terpisah sehingga murid yang kesulitan berhitung hanya mengerjakan pembubutan rata, sementara pekerjaan tirus dan ulir khusus bagi murid yang kuat matematika."
+          }
+        ],
+        "correctAnswer": "D",
+        "explanation": "Scaffolding numerasi vokasi (PF.3 & P.2) menjembatani pemahaman visual-konseptual dengan representasi matematis melalui pemetaan visual variabel pada gambar benda kerja, pengorganisasian langkah substitusi satuan secara eksplisit, peningkatan kompleksitas angka bertahap, serta verifikasi logika hasil hitung secara nyata pada benda kerja.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q018",
+        "number": 18,
+        "type": "category",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Penerapan K3 Bengkel, prosedur Lockout/Tagout (LOTO), dan budaya kerja 5R (Ringkas, Rapi, Resik, Rawat, Rajin) merupakan kompetensi karakter industri yang sangat kontekstual dalam pembelajaran SMK Teknik Mesin (PF.3 & P.5)."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan SESUAI atau TIDAK SESUAI praktik manajemen keselamatan dan budaya bengkel berikut!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Membersihkan serpihan beram baja yang menempel pada pakaian praktik dan rambut menggunakan semprotan pistol udara kompresor pneumatik bertekanan 6 bar agar murid cepat rapi setelah praktik."
+          },
+          {
+            "id": "B",
+            "text": "Memasang gembok pengunci (lockout) dan kartu identitas pekerja (tagout) pada sakelar utama daya mesin bubut sebelum membuka tutup puli untuk mengganti sabuk-V yang kendor."
+          },
+          {
+            "id": "C",
+            "text": "Menyediakan papan bayangan (shadow board) berlabel untuk kunci chuck, kunci pahat, dan alat ukur di dekat mesin agar kehilangan alat terdeteksi seketika sebagai wujud prinsip Rapi dalam 5R."
+          },
+          {
+            "id": "D",
+            "text": "Membiarkan kunci chuck tetap terpasang pada lubang rahang mesin bubut selama jeda istirahat agar murid tidak repot mencarinya kembali saat melanjutkan pembubutan."
+          }
+        ],
+        "categories": [
+          {
+            "id": "sesuai",
+            "text": "Sesuai"
+          },
+          {
+            "id": "tidak-sesuai",
+            "text": "Tidak Sesuai"
+          }
+        ],
+        "correctAnswer": {
+          "A": "tidak-sesuai",
+          "B": "sesuai",
+          "C": "sesuai",
+          "D": "tidak-sesuai"
+        },
+        "explanation": "A) Tidak Sesuai: Menyemprotkan udara kompresor ke tubuh sangat berbahaya karena dapat melontarkan serpihan logam ke mata atau memicu emboli udara menembus luka kulit. B) Sesuai: LOTO mencegah penyalaan mesin tidak disengaja saat perawatan transmisi/kelistrikan. C) Sesuai: Shadow board merupakan standar visual 5R (Rapi) untuk efisiensi dan pengendalian alat. D) Tidak Sesuai: Meninggalkan kunci chuck di rahang mesin bubut merupakan pelanggaran K3 fatal karena kunci dapat terpental keras ketika spindel dinyalakan.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q019",
+        "number": 19,
+        "type": "single",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam pembelajaran isu sosio-teknologi manufaktur mengenai 'Pemesinan Berpendingin Coolant Emulsi Konvensional versus Minimum Quantity Lubrication (MQL) dan Pemotongan Kering pada Industri Pemesinan Kecil', guru menerapkan kerangka argumentasi ilmiah Claim–Evidence–Reasoning (CER). Tujuan utama penggunaan kerangka CER tersebut dalam pembelajaran Teknik Mesin (PF.3 & P.3) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Melatih murid mengambil keputusan teknis bertanggung jawab dengan menopang klaim pilihan metode memakai data uji aus/kekasaran/biaya limbah (evidence) serta prinsip perpindahan panas dan tribologi (reasoning)."
+          },
+          {
+            "id": "B",
+            "text": "Mengarahkan seluruh kelompok diskusi agar menyepakati satu kesimpulan seragam bahwa penggunaan coolant emulsi konvensional wajib segera dihapus pada seluruh jenis operasi pembubutan logam."
+          },
+          {
+            "id": "C",
+            "text": "Mengasah keterampilan debat retorika cepat di depan kelas agar peserta didik mampu mematahkan pendapat kelompok lawan secara meyakinkan meskipun belum didukung data pengukuran maupun literatur teknik."
+          },
+          {
+            "id": "D",
+            "text": "Mengurangi porsi penguasaan konsep tribologi dan parameter pemotongan karena fokus pembelajaran dialihkan sementara ke penulisan esai opini bebas mengenai kebijakan lingkungan industri."
+          },
+          {
+            "id": "E",
+            "text": "Memudahkan guru menetapkan skor diskusi kelas secara praktis berdasarkan banyaknya argumen yang disampaikan tiap kelompok tanpa perlu menyusun kriteria penilaian ketepatan bukti teknis."
+          }
+        ],
+        "correctAnswer": "A",
+        "explanation": "Kerangka Claim–Evidence–Reasoning (CER, PF.3 & P.3) membiasakan calon teknisi manufaktur berpikir rekayasa berbasis bukti: klaim pilihan metode pelumasan/pendinginan tidak boleh didasarkan opini sepihak, melainkan harus didukung data empiris (kekasaran, laju aus, limbah B3, biaya) yang dihubungkan secara logis dengan konsep fisika-teknik (gesekan, konduksi kalor, dampak ekologis).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q020",
+        "number": 20,
+        "type": "multiple",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pada topik Perlakuan Panas (Heat Treatment) dan Pencegahan Korosi Logam, guru Teknik Mesin ingin mengaitkan konsep metalurgi modern dengan kearifan lokal sentra pandai besi tradisional Nusantara di daerah sekitar sekolah (PF.3 & P.5). Contoh integrasi pembelajaran yang relevan, ilmiah, dan akurat adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menyimpulkan di depan kelas bahwa teknik pandai besi membaca warna pijar merah ceri baja sebelum penyepuhan hanyalah mitos budaya tanpa kaitan dengan suhu transformasi austenit."
+          },
+          {
+            "id": "B",
+            "text": "Mengkaji praktik penyepuhan (quenching) bilah perkakas pertanian oleh pandai besi lokal menggunakan media air garam, air tawar, atau minyak nabati untuk dikaitkan dengan perbedaan laju pendinginan dan kekerasan struktur martensit."
+          },
+          {
+            "id": "C",
+            "text": "Menganalisis kebiasaan pengolesan minyak nabati/pelumas serta penghitaman permukaan (bluing) pada perkakas baja tradisional sebagai mekanisme lapisan penghalang oksigen dan uap air untuk menghambat korosi elektrokimia."
+          },
+          {
+            "id": "D",
+            "text": "Menganjurkan murid membakar sampah plastik bersama arang tempa untuk menaikkan panas tungku tanpa memperhitungkan gas beracun maupun kontaminasi permukaan logam."
+          },
+          {
+            "id": "E",
+            "text": "Merancang proyek penyelidikan perbandingan ketahanan aus dan korosi antara baja hasil metode penyepuhan tradisional dengan perlakuan panas terkontrol termokopel untuk memberi rekomendasi mutu yang santun kepada perajin lokal."
+          }
+        ],
+        "correctAnswer": [
+          "B",
+          "C",
+          "E"
+        ],
+        "minSelections": 2,
+        "maxSelections": 4,
+        "instruction": "Pilih dua, tiga, atau empat jawaban yang benar.",
+        "explanation": "Integrasi kearifan lokal pandai besi dengan metalurgi modern (PF.3 & P.5) dilakukan secara ilmiah dan menghargai pengetahuan empiris lokal: mengaitkan media penyepuhan tradisional dengan laju pendinginan martensit (B), menjelaskan lapisan minyak/oksida hitam sebagai proteksi korosi (C), dan menguji perbandingan terukur guna memberi umpan balik konstruktif bagi perajin (E). Opsi A keliru karena warna pijar berkorelasi nyata dengan rentang suhu baja (pyrometri visual); opsi D melanggar K3 lingkungan dan metalurgi.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q021",
+        "number": 21,
+        "type": "single",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Saat mengajarkan pemrograman CNC Bubut Dasar mengenai perbedaan sistem koordinat absolut (G90) versus inkremental (G91) serta interpolasi G00, G01, G02, dan G03, guru memanfaatkan perangkat lunak simulator CNC interaktif sebelum murid mengoperasikan mesin nyata. Agar pemanfaatan simulator tersebut benar-benar memperdalam model mental pemrograman murid dan tidak sekadar meniru kode secara mekanis (P.4 & PF.4), langkah pedagogis yang paling tepat adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Meminta peserta didik menyalin satu paket kode G-code jadi dari salindia guru ke editor simulator, menjalankan mode otomatis penuh, lalu langsung mengekspornya ke flashdisk mesin CNC bengkel."
+          },
+          {
+            "id": "B",
+            "text": "Menampilkan animasi simulasi pemotongan CNC di layar proyektor secara satu arah dari komputer guru sementara seluruh peserta didik menyalin definisi kode G dan kode M ke buku catatan teori."
+          },
+          {
+            "id": "C",
+            "text": "Membebaskan peserta didik mengeksplorasi seluruh tombol kontroler pada simulator selama dua jam pelajaran tanpa lembar kerja, target dimensi kontur, maupun pertanyaan panduan analisis lintasan."
+          },
+          {
+            "id": "D",
+            "text": "Menonaktifkan tampilan grafis lintasan pahat (toolpath) serta fitur deteksi tabrakan pada simulator agar peserta didik terbiasa membayangkan koordinat X/Z secara abstrak seperti mesin tua."
+          },
+          {
+            "id": "E",
+            "text": "Memandu murid dengan siklus POE: menggambar prediksi lintasan pahat dari kode G90/G91 dan G02/G03 di kertas milimeter, menjalankannya per blok (single block) di simulator, lalu mendiagnosis selisih lintasan."
+          }
+        ],
+        "correctAnswer": "E",
+        "explanation": "Simulasi digital (P.4 & PF.4) menjadi alat kognitif yang kuat bila dipadukan dengan siklus Predict–Observe–Explain (POE) dan eksekusi single block. Prediksi lintasan pahat memaksa murid memaknai koordinat X/Z absolut maupun inkremental secara spasial sebelum diverifikasi secara visual-empiris di simulator CNC.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q022",
+        "number": 22,
+        "type": "single",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam mengevaluasi ketercapaian kompetensi kerja bangku kelas X pada topik 'Mengikir Rata, Siku 90°, serta Pembuatan Ulir Dalam dengan Tap dan Ulir Luar dengan Snei', bentuk asesmen yang paling valid dan autentik (PF.4 & P.6) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Tes pilihan ganda tertulis tentang klasifikasi kekasaran gigi kikir (bastard, second cut, smooth), sudut puncak ulir metris 60°, serta rumus diameter lubang bor sebelum pengetapan."
+          },
+          {
+            "id": "B",
+            "text": "Pemeriksaan cepat benda kerja jadi dengan mengamati kilap permukaan pelat secara visual dari meja guru dan memastikan seluruh murid mengumpulkan produk sebelum bel pulang berbunyi."
+          },
+          {
+            "id": "C",
+            "text": "Asesmen kinerja berubrik analitik yang menilai proses kerja (postur mengikir, uji penyiku/pisau perata, teknik putar maju-mundur tap dan oli potong) sekaligus verifikasi dimensi dan uji pasang fungsi ulir."
+          },
+          {
+            "id": "D",
+            "text": "Penugasan merangkum bab peralatan kerja bangku dari buku referensi dalam bentuk kliping bergambar urutan kerja mengikir dan mengetap yang dikumpulkan pada akhir bulan."
+          },
+          {
+            "id": "E",
+            "text": "Ujian lisan singkat di depan ruang perkakas di mana setiap murid menyebutkan nama serta urutan pemakaian tap nomor satu, nomor dua, dan nomor tiga secara bergantian tanpa benda kerja."
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Kompetensi vokasi kerja bangku mencakup keterampilan psikomotor prosedural (teknik mengikir agar tidak cembung, kesegaris-sumbuan pengetapan, pematahan tatal mencegah tap patah) dan ketepatan produk nyata. Asesmen kinerja menggunakan rubrik analitik proses-dan-produk (C) merupakan asesmen autentik paling valid (PF.4 & P.6).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q023",
+        "number": 23,
+        "type": "category",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pada evaluasi awal Gambar Teknik Manufaktur kelas X, Bu Rina mendapati banyak murid memilih simbol proyeksi Amerika dan Eropa secara tepat, namun tetap keliru meletakkan pandangan samping serta garis arsir gambar potongan saat menggambar komponen blok beralur. Ia lalu merancang instrumen diagnostik dua tingkat (two-tier test) untuk memetakan akar miskonsepsi spasial murid (P.6 & PF.4)."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan BENAR atau SALAH pernyataan terkait perancangan dan pemanfaatan tes diagnostik Gambar Teknik berikut!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Tingkat pertama soal dapat menguji ketepatan memilih gambar potongan atau letak pandangan samping, sedangkan tingkat kedua menuntut murid memilih alasan prinsip arah pandang proyeksi atau aturan pengarsiran bidang potong."
+          },
+          {
+            "id": "B",
+            "text": "Jika seorang murid memilih gambar pandangan samping yang benar pada tingkat pertama tetapi memilih alasan aturan proyeksi yang terbalik pada tingkat kedua, hal itu mengindikasikan tebakan atau miskonsepsi tersembunyi (false positive)."
+          },
+          {
+            "id": "C",
+            "text": "Tes pilihan ganda biasa satu tingkat tanpa permintaan alasan sudah cukup efektif untuk memetakan secara akurat letak kesalahan penalaran spasial 3D peserta didik."
+          },
+          {
+            "id": "D",
+            "text": "Peta hasil tes diagnostik bertingkat digunakan guru untuk menentukan kelompok murid yang memerlukan bantuan model blok 3D fisik/CAD sebelum masuk ke gambar kerja komponen bertoleransi."
+          }
+        ],
+        "categories": [
+          {
+            "id": "benar",
+            "text": "Benar"
+          },
+          {
+            "id": "salah",
+            "text": "Salah"
+          }
+        ],
+        "correctAnswer": {
+          "A": "benar",
+          "B": "benar",
+          "C": "salah",
+          "D": "benar"
+        },
+        "explanation": "A) Benar: Format two-tier memadukan identifikasi konten/visual (tier 1) dengan penalaran prosedural/konseptual (tier 2). B) Benar: Kombinasi jawaban benar + alasan salah membongkar false positive dan miskonsepsi spasial tersembunyi. C) Salah: Pilihan ganda satu tingkat tidak mampu membedakan jawaban benar karena paham versus karena kebetulan menebak. D) Benar: Fungsi utama asesmen diagnostik (P.6) adalah dasar penentuan scaffolding dan diferensiasi pembelajaran berikutnya.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q024",
+        "number": 24,
+        "type": "single",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Keterbatasan alat ukur khusus seperti takometer optik digital dan kamera berkecepatan tinggi sering menyulitkan bengkel SMK dalam memverifikasi putaran spindel aktual mesin bubut tua serta mengamati respons cepat gerakan silinder pneumatik. Guru Teknik Mesin memanfaatkan aplikasi sensor ponsel pintar (seperti stroboskop/takometer akustik, rekaman gerak lambat/slow-motion, dan penampil model CAD 3D interaktif) secara berkelompok dengan aturan keselamatan bengkel yang ketat. Nilai tambah pedagogis dan teknis utama dari inovasi ini (P.4 & PF.4) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Membebaskan murid dari kewajiban menguasai pembacaan skala nonius jangka sorong 0,02 mm dan mikrometer luar mekanis karena seluruh pemeriksaan kualitas beralih penuh ke aplikasi ponsel."
+          },
+          {
+            "id": "B",
+            "text": "Mengubah gawai akrab menjadi instrumen akuisisi dan observasi data bengkel sehingga murid dapat membandingkan RPM aktual versus tabel mesin serta menganalisis gerak mekanis cepat dan geometri 3D."
+          },
+          {
+            "id": "C",
+            "text": "Memberi keleluasaan bagi murid untuk memegang dan membalas pesan media sosial di dekat rahang chuck yang sedang berputar selama aplikasi pengukur putaran juga tetap menyala di latar belakang."
+          },
+          {
+            "id": "D",
+            "text": "Membuktikan kepada pimpinan sekolah bahwa jurusan Teknik Mesin tidak perlu lagi mengajukan anggaran pengadaan maupun kalibrasi instrumen metrologi standar industri untuk lima tahun ke depan."
+          },
+          {
+            "id": "E",
+            "text": "Membuat suasana praktik bengkel lebih santai dan menarik bagi murid karena porsi waktu pemesinan fisik dapat dialihkan menjadi kegiatan merekam dan menyunting video pendek kelompok."
+          }
+        ],
+        "correctAnswer": "B",
+        "explanation": "Integrasi TIK adaptif di bengkel (P.4 & PF.4) memperluas daya observasi dan analisis empiris murid: rekaman slow-motion memudahkan diagnosis gejala stick-slip silinder pneumatik, aplikasi takometer membandingkan RPM aktual dengan tabel mesin, dan CAD 3D viewer membantu pemahaman gambar kerja—tentunya tetap dengan aturan ketat ponsel dijauhkan dari zona putar mesin saat pemotongan aktif.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q025",
+        "number": 25,
+        "type": "multiple",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Tim guru produktif Teknik Pemesinan SMK sedang menyusun bank soal Penilaian Akhir Semester untuk kelas XI dan XII agar tidak lagi didominasi pertanyaan ingatan definisi, melainkan benar-benar mengukur nalar rekayasa dan pemecahan masalah bengkel tingkat tinggi (P.6 & PF.4). Kriteria kualitas butir soal yang wajib dipenuhi tim guru tersebut meliputi..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menyajikan stimulus fungsional seperti potongan gambar kerja bertoleransi suaian H7/g6, data parameter pemotongan, atau foto cacat las SMAW yang wajib dianalisis murid untuk mengambil keputusan teknis."
+          },
+          {
+            "id": "B",
+            "text": "Menanyakan ulang definisi hafalan nama komponen mesin bubut persis seperti kalimat di buku paket agar tingkat kelulusan kelas melampaui 95%."
+          },
+          {
+            "id": "C",
+            "text": "Merancang opsi pengecoh (distraktor) yang rasional berdasarkan pola miskonsepsi nyata murid di bengkel, seperti tertukar posisi pembilang-penyebut rumus RPM atau salah membaca garis skala nonius 0,02 mm."
+          },
+          {
+            "id": "D",
+            "text": "Menggunakan simbol standar ISO gambar teknik, notasi kode G/M CNC, satuan SI, serta terminologi pemesinan yang baku dan tidak ambigu."
+          },
+          {
+            "id": "E",
+            "text": "Menempelkan foto mesin CNC modern berukuran besar sekadar sebagai hiasan visual meskipun pokok soal dapat dijawab tanpa melihat gambar tersebut."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "C",
+          "D"
+        ],
+        "minSelections": 2,
+        "maxSelections": 4,
+        "instruction": "Pilih dua, tiga, atau empat jawaban yang benar.",
+        "explanation": "Butir soal HOTS kejuruan berkualitas tinggi (P.6 & PF.4) mensyaratkan stimulus fungsional autentik yang menuntut analisis/evaluasi keputusan rekayasa (A), pengecoh homogen yang diturunkan dari miskonsepsi teknis faktual murid (C), serta ketepatan kaidah simbol ISO dan bahasa teknik baku (D). Opsi B hanya mengukur hafalan LOTS, sedangkan opsi E mencontohkan stimulus pajangan (non-fungsional).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q026",
+        "number": 26,
+        "type": "single",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Guru Teknik Mesin merancang proyek kolaboratif STEM untuk kelas XII berupa perancangan dan pembuatan prototipe alat pengupas biji atau pencacah sampah organik sederhana untuk bank sampah sekitar sekolah. Murid memodelkan rangka dan poros pisau di CAD 3D, memfabrikasi komponen melalui pembubutan, kerja bangku, dan pengelasan SMAW, menguji kapasitas kerja serta getaran poros, lalu memodifikasi dudukan bantalan berdasarkan temuan uji. Tahapan paling esensial dari Engineering Design Process (EDP) dalam proyek ini (PF.4 & P.1) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Memprioritaskan hasil akhir pengecatan semprot mengilap pada rangka pelindung luar mesin sejak minggu awal meskipun kesumbuan dudukan bantalan dan keseimbangan poros pisau belum dihitung."
+          },
+          {
+            "id": "B",
+            "text": "Menginstruksikan seluruh kelompok menyalin mentah ukuran rancangan mesin pencacah komersial dari brosur daring agar proyek cepat selesai tanpa melewati tahapan pengujian kinerja maupun revisi."
+          },
+          {
+            "id": "C",
+            "text": "Menetapkan proyek sudah selesai begitu seluruh bagian rangka dan poros berhasil dirakit utuh meskipun saat diuji coba mesin bergetar keras, mata pisau tersangkut, dan sambungan las retak."
+          },
+          {
+            "id": "D",
+            "text": "Menjalankan siklus iterasi berbasis bukti uji: menerjemahkan kebutuhan ke model CAD bertoleransi, memfabrikasi prototipe, mengukur kegagalan mekanisnya, lalu memperbaiki desain secara terjustifikasi."
+          },
+          {
+            "id": "E",
+            "text": "Memisahkan secara kaku pekerjaan menggambar CAD dan fabrikasi bengkel sehingga selisih ukuran pada dudukan bantalan cukup diganjal pelat tipis tanpa memperbarui dokumentasi gambar kerja."
+          }
+        ],
+        "correctAnswer": "D",
+        "explanation": "Inti Engineering Design Process (EDP) dalam pendidikan keteknikan (PF.4 & P.1) adalah siklus desain-uji-perbaikan (iterative redesign) berbasis bukti empiris. Pengujian getaran dan kesumbuan poros yang diikuti revisi gambar CAD dan modifikasi mekanis melatih penalaran rekayasa otentik.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q027",
+        "number": 27,
+        "type": "single",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Saat memeriksa lembar inspeksi kualitas hasil pembubutan poros bertingkat (target Ø20,00 ± 0,03 mm) menggunakan mikrometer luar 0,01 mm dan Dial Indicator, guru menemukan sebuah kelompok menuliskan angka seragam '20,00 mm' dan run-out '0,00 mm' di seluruh titik ukur pada laporan, padahal pengukuran aktual di bengkel menunjukkan 19,98 mm, 20,02 mm, dan run-out 0,02 mm. Murid mengaku mengubah angka agar laporannya terlihat sempurna dan tidak dipotong nilainya. Umpan balik konstruktif yang paling tepat diberikan guru (P.6, PF.4 & PF.2) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menghargai keterbukaan saat dikonfirmasi, menegaskan integritas data inspeksi industri, menjelaskan bahwa 19,98–20,02 mm masih masuk batas toleransi ±0,03 mm, lalu membimbing analisis variasi ukur secara jujur."
+          },
+          {
+            "id": "B",
+            "text": "Membiarkan catatan angka 20,00 mm tersebut tetap tercantum pada lembar laporan kelompok agar rata-rata mutu produk praktik bengkel kelas XI terlihat sangat tinggi saat diperiksa pengawas."
+          },
+          {
+            "id": "C",
+            "text": "Langsung memberi nilai nol permanen dan mencabut izin penggunaan mesin bubut bagi seluruh anggota kelompok sampai akhir semester tanpa mendiskusikan konsep batas toleransi ukuran gambar kerja."
+          },
+          {
+            "id": "D",
+            "text": "Menyarankan kelompok mengganti angka laporan dengan perkiraan angka acak antara 19,99 mm hingga 20,01 mm supaya data pengukuran terlihat lebih alami dan tidak menimbulkan kecurigaan pembaca."
+          },
+          {
+            "id": "E",
+            "text": "Mewajibkan kelompok mengambil bahan baja baru dan membubut ulang poros yang sebenarnya masih masuk toleransi hingga seluruh titik permukaannya terbaca tepat 20,00 mm tanpa simpangan sekecil apa pun."
+          }
+        ],
+        "correctAnswer": "A",
+        "explanation": "Dalam metrologi dan penjaminan mutu manufaktur (PF.2, PF.4 & P.6), tidak ada proses pemesinan yang bebas variasi absolut—itulah alasan diciptakannya toleransi dimensi (±0,03 mm). Meluruskan miskonsepsi 'sempurna = selisih nol' sekaligus menanamkan kejujuran data inspeksi membangun karakter profesional teknisi sekaligus memperdalam pemahaman konsep toleransi.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q028",
+        "number": 28,
+        "type": "category",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Peserta didik SMK kerap menonton video pendek viral berisi 'trik cepat bengkel' di media sosial, seperti membubut sambil mengenakan sarung tangan kain longgar agar tangan tidak kotor, mengelas cepat tanpa topeng las cukup memejamkan mata, atau memakai kecepatan potong asal-asalan. Guru Teknik Mesin melatih literasi digital teknik dan verifikasi standar K3/ISO murid (P.4 & PF.4)."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan TEPAT atau TIDAK TEPAT strategi penguatan literasi digital teknik berikut!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Menayangkan potongan video 'trik bengkel viral' yang bermasalah lalu menugaskan murid mengaudit pelanggaran K3 dan kesalahan teknisnya dengan merujuk SOP pabrikan mesin serta regulasi K3 resmi."
+          },
+          {
+            "id": "B",
+            "text": "Menjadikan jumlah penayangan (views) dan tanda suka terbanyak pada video bengkel daring sebagai indikator utama bahwa teknik pemesinan tersebut aman ditiru di bengkel sekolah."
+          },
+          {
+            "id": "C",
+            "text": "Melarang keras seluruh murid mengakses sumber belajar video daring apa pun sehingga referensi tunggal kelas hanyalah diktat cetak milik guru."
+          },
+          {
+            "id": "D",
+            "text": "Melatih murid memeriksa silang rekomendasi kecepatan potong, pemilihan elektroda, dan kode G-code dari forum internet terhadap katalog produsen pahat/elektroda (AWS/ISO) dan spesifikasi daya mesin bengkel."
+          }
+        ],
+        "categories": [
+          {
+            "id": "tepat",
+            "text": "Tepat"
+          },
+          {
+            "id": "tidak-tepat",
+            "text": "Tidak Tepat"
+          }
+        ],
+        "correctAnswer": {
+          "A": "tepat",
+          "B": "tidak-tepat",
+          "C": "tidak-tepat",
+          "D": "tepat"
+        },
+        "explanation": "A) Tepat: Mengaudit video viral terhadap standar K3 resmi (misalnya larangan sarung tangan longgar di dekat spindel berputar karena risiko terlilit, serta bahaya sinar UV las terhadap kornea/arc eye) melatih berpikir kritis digital (P.4). B) Tidak Tepat: Popularitas algoritma media sosial bukan bukti kebenaran maupun keselamatan teknis. C) Tidak Tepat: Pelarangan total justru menutup peluang melatih murid menyaring informasi digital secara mandiri. D) Tepat: Verifikasi silang ke standar produsen/ISO/AWS menumbuhkan kebiasaan kerja teknik berbasis rujukan kredibel.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q029",
+        "number": 29,
+        "type": "single",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pak Dimas berencana menerapkan model siklus belajar 5E (Engage, Explore, Explain, Elaborate, Evaluate) di bengkel pemesinan untuk kompetensi 'Pencekaman Benda Kerja Tidak Simetris pada Chuck 4 Rahang Independen dan Penyetelan Kesenteran dengan Dial Indicator'. Alur kegiatan yang paling mencerminkan esensi konstruktivisme vokasi pada kelima tahapan tersebut (PF.4 & P.1) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Guru mendiktekan fungsi chuck 4 rahang dan membaca simpangan dial indicator (Explain), memberi tes tertulis tentang cara pencekaman (Evaluate), baru memperlihatkan bentuk fisik rahang di bengkel (Explore)."
+          },
+          {
+            "id": "B",
+            "text": "Murid langsung mencekam balok persegi dan menyalakan putaran spindel cepat tanpa arahan K3 (Explore), lalu guru mencatat kesalahan pencekaman dan memotong nilai kelompok yang baloknya terlepas (Evaluate)."
+          },
+          {
+            "id": "C",
+            "text": "Murid menyalin diagram alir penyetelan dari modul cetak (Engage), mengerjakan soal pilihan ganda urutan penyetelan (Evaluate), lalu menonton video pembubutan CNC otomatis (Elaborate) tanpa menyentuh chuck."
+          },
+          {
+            "id": "D",
+            "text": "Guru mendemonstrasikan penyetelan dari awal hingga selesai secara penuh (Explain), murid mengulang gerakan persis tanpa diskusi pola gerak jarum dial (Elaborate), kemudian sesi ditutup dengan merapikan alat."
+          },
+          {
+            "id": "E",
+            "text": "Pemicu kasus pembubutan balok persegi (Engage); eksplorasi gerak rahang dan jarum dial diputar tangan (Explore); perumusan prinsip koreksi setengah simpangan (Explain); aplikasi ke profil eksentrik (Elaborate); uji kesumbuan dan refleksi (Evaluate)."
+          }
+        ],
+        "correctAnswer": "E",
+        "explanation": "Model siklus belajar 5E (Bybee, PF.4 & P.1) mengawali belajar dari tantangan nyata (Engage), memberi ruang eksplorasi kinestetik-empiris membaca pergerakan rahang dan jarum dial indicator secara aman dengan putaran tangan (Explore), memformalkan prinsip teknis dari pengalaman murid (Explain), mentransfernya ke geometri baru yang menantang (Elaborate), dan menutupnya dengan asesmen kinerja serta refleksi (Evaluate).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q030",
+        "number": 30,
+        "type": "multiple",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam rapat koordinasi jurusan Teknik Pemesinan SMK, para guru merumuskan agar dimensi Profil Pelajar Pancasila (berintegritas, bernalar kritis, gotong royong, dan kreatif) tidak hanya hadir dalam kegiatan seremonial, tetapi melekat langsung dalam kebiasaan praktik harian di bengkel bubut, las, dan CAD/CNC (PF.4 & P.1). Manakah wujud praktik bengkel yang paling efektif membangun karakter tersebut?"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Membiasakan peserta didik melaporkan hasil pengukuran dimensi serta cacat benda kerja secara jujur sesuai pembacaan mikrometer/jangka sorong tanpa rekayasa angka."
+          },
+          {
+            "id": "B",
+            "text": "Melatih murid bernalar kritis mendiagnosis akar penyebab getaran pahat (chatter) atau cacat porositas las berdasarkan bukti fisik dan parameter proses."
+          },
+          {
+            "id": "C",
+            "text": "Melarang peserta didik mengusulkan urutan operasi pemesinan atau rancangan jig alternatif di luar pola tunggal jobsheet guru agar bengkel tenang."
+          },
+          {
+            "id": "D",
+            "text": "Menerapkan kerja sama tim yang adil dalam pelaksanaan budaya 5R, perawatan preventif mesin, dan pembagian peran proyek Teaching Factory."
+          },
+          {
+            "id": "E",
+            "text": "Mendorong kreativitas murid mengoptimalkan desain parametrik CAD 3D dan efisiensi lintasan program CNC Bubut untuk meminimalkan limbah material dan waktu siklus."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "D",
+          "E"
+        ],
+        "minSelections": 2,
+        "maxSelections": 4,
+        "instruction": "Pilih dua, tiga, atau empat jawaban yang benar.",
+        "explanation": "Integritas data ukur melatih akhlak mulia/kejujuran (A), diagnosis cacat berbasis bukti menguatkan bernalar kritis (B), kolaborasi 5R dan TeFa menguatkan gotong royong (D), dan optimasi desain/lintasan pahat mengasah kreativitas rekayasa (E). Sebaliknya, membungkam inisiatif dan pertanyaan kritis murid (C) menghambat kemandirian dan kreativitas vokasi (PF.4 & P.1).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q031",
+        "number": 31,
+        "type": "single",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam menilai sikap kerja industri peserta didik (disiplin penggunaan APD kacamata/sepatu safety, ketelitian mengecek titik nol alat ukur, kepedulian keselamatan rekan di area mesin berputar, serta kepatuhan 5R pascapraktik) selama kegiatan bengkel Teknik Mesin, instrumen dan metode asesmen yang paling tepat (P.6 & PF.4) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Kuesioner evaluasi diri pilihan 'Ya/Tidak' pada minggu terakhir semester yang meminta setiap murid menilai sendiri seberapa disiplin mereka mematuhi aturan K3 selama praktik."
+          },
+          {
+            "id": "B",
+            "text": "Pemberian nilai sikap kerja maksimal (sangat baik) secara otomatis bagi seluruh murid yang berhasil menyelesaikan produk poros bertingkat sesuai batas toleransi ukuran gambar kerja."
+          },
+          {
+            "id": "C",
+            "text": "Lembar observasi terstruktur berbasis indikator perilaku kerja teramati selama proses praktik berlangsung, dilengkapi catatan anekdotal guru atas kebiasaan konsisten maupun kejadian khusus keselamatan."
+          },
+          {
+            "id": "D",
+            "text": "Tes uraian tertulis pada ujian tengah semester yang meminta murid menjabarkan sepuluh manfaat budaya 5R serta menghafalkan isi pasal-pasal undang-undang keselamatan kerja nasional."
+          },
+          {
+            "id": "E",
+            "text": "Penilaian holistik berdasarkan ingatan dan kesan umum guru terhadap kepatuhan masing-masing murid menjelang batas akhir pengisian rapor tanpa pencatatan observasi selama proses."
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Sikap kerja dan budaya K3 (work ethic & safety attitude, P.6 & PF.4) hanya dapat diukur secara valid dari perilaku nyata yang ditampilkan secara konsisten di bengkel, bukan sekadar pengetahuan tertulis (D) atau klaim diri sepihak (A). Observasi berbasis indikator perilaku konkret dan catatan anekdotal menjamin objektivitas dan menjadi dasar pembinaan langsung.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q032",
+        "number": 32,
+        "type": "single",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Bengkel SMK hanya memiliki 3 unit mesin bubut konvensional dan 2 unit trainer pneumatik yang siap beroperasi untuk satu kelas berisi 30 peserta didik pada jadwal praktik 4 jam pelajaran. Strategi pengorganisasian pembelajaran dan adaptasi media yang paling efektif agar seluruh murid aktif belajar bermakna tanpa kerumunan berbahaya di sekitar mesin (PF.4 & P.2) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Mengelompokkan sepuluh murid berdiri melingkar di sekeliling setiap mesin bubut agar seluruh anggota dapat menyaksikan langsung satu rekannya melakukan penyayatan secara bergantian cepat."
+          },
+          {
+            "id": "B",
+            "text": "Menerapkan rotasi stasiun terstruktur dengan batas aman 2 murid per mesin (operator dan asisten inspeksi/K3), sementara kelompok lain terjadwal aktif di stasiun pneumatik, simulasi CAD/CNC, serta kerja bangku/metrologi."
+          },
+          {
+            "id": "C",
+            "text": "Menunda seluruh penggunaan mesin bubut dan trainer pneumatik selama satu semester, lalu mengganti jadwal praktik bengkel dengan penayangan video tutorial pemesinan industri di ruang kelas teori."
+          },
+          {
+            "id": "D",
+            "text": "Menyeleksi enam murid yang paling terampil untuk fokus mengoperasikan seluruh mesin bubut dan trainer hingga mahir, sementara dua puluh empat murid lainnya bertugas menyusun laporan pengamatan proses."
+          },
+          {
+            "id": "E",
+            "text": "Mengizinkan dua puluh murid yang sedang menunggu antrean mesin beristirahat bebas di teras bengkel atau kantin sekolah hingga giliran kelompok mereka dipanggil oleh teknisi bengkel."
+          }
+        ],
+        "correctAnswer": "B",
+        "explanation": "Model Station Rotation (PF.4 & P.2) menyelesaikan kendala rasio mesin terbatas secara aman dan berkeadilan: kepadatan di zona mesin berputar tetap terjaga sesuai standar K3, waktu tunggu pasif dihilangkan, dan seluruh murid memperoleh pengalaman belajar terpadu antara pemesinan, pneumatik, metrologi, dan perencanaan CAD/CNC.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q033",
+        "number": 33,
+        "type": "category",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pengelolaan asesmen formatif dan umpan balik yang tepat sangat menentukan keselamatan serta ketepatan pemrograman murid pada topik CNC Bubut Dasar (G00/G01/G02/G03, G90/G91, dan prosedur dry run) (P.6 & PF.4)."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan BENAR atau SALAH pernyataan terkait pengelolaan asesmen praktik CNC berikut!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Memberikan kuis keluar singkat (exit ticket) berisi satu potongan kode CNC yang mengandung kesalahan koordinat G90/G91 membantu guru memetakan miskonsepsi pemrograman murid secara cepat di akhir sesi."
+          },
+          {
+            "id": "B",
+            "text": "Umpan balik terhadap kesalahan penulisan kode G00 (gerak cepat tanpa pemakanan) yang mengarah ke dalam benda kerja sebaiknya ditunda sampai pemotongan logam nyata dijalankan agar murid jera saat pahat menabrak benda kerja."
+          },
+          {
+            "id": "C",
+            "text": "Menilai ketepatan penetapan titik nol benda kerja (work offset), urutan lintasan pengasaran-finishing, dan alasan pemilihan kode interpolasi jauh lebih bermakna daripada menilai kerapian hiasan sampul jobsheet."
+          },
+          {
+            "id": "D",
+            "text": "Menerapkan tinjauan antarteman (peer-review) daftar kode program diikuti simulasi grafis dan uji dry run tanpa benda kerja sebelum pemotongan nyata menumbuhkan budaya verifikasi keselamatan industri."
+          }
+        ],
+        "categories": [
+          {
+            "id": "benar",
+            "text": "Benar"
+          },
+          {
+            "id": "salah",
+            "text": "Salah"
+          }
+        ],
+        "correctAnswer": {
+          "A": "benar",
+          "B": "salah",
+          "C": "benar",
+          "D": "benar"
+        },
+        "explanation": "A) Benar: Exit ticket formatif mendeteksi cepat kekeliruan logika koordinat. B) Salah: Membiarkan tabrakan pahat pada mesin CNC nyata sangat berbahaya bagi keselamatan murid dan merusak mesin bernilai tinggi; koreksi wajib dilakukan sebelum eksekusi (via pengecekan kode, simulasi, dan dry run). C) Benar: Fokus asesmen harus pada penalaran dan akurasi proses CNC. D) Benar: Peer-review dan dry run melatih prosedur verifikasi standar manufaktur (P.6 & PF.4).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q034",
+        "number": 34,
+        "type": "single",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pembelajaran vokasi Teknik Mesin di SMK menuntut keterpaduan antar-elemen kompetensi kejuruan agar murid memahami alur rekayasa produk secara utuh, bukan terpisah kaku antara teori gambar, pengetahuan bahan, pengukuran, dan praktik mesin. Contoh desain pembelajaran terpadu yang paling koheren pada tema 'Pembuatan Poros Transmisi Berulir dan Bushing Penumpu' (PF.4 & P.1) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Mengajarkan aturan suaian ISO pada semester pertama, komposisi baja karbon dan kuningan pada semester ketiga, serta membubut poros ulir pada semester kelima tanpa pernah menghubungkannya dalam satu proyek."
+          },
+          {
+            "id": "B",
+            "text": "Menugaskan peserta didik langsung membubut batang baja menjadi poros berulir berpatokan sketsa kasar papan tulis tanpa spesifikasi jenis bahan, batas toleransi suaian, maupun prosedur inspeksi pascaproduksi."
+          },
+          {
+            "id": "C",
+            "text": "Memusatkan seluruh pertemuan proyek pada pembuatan model 3D CAD beserta video animasi putaran poros berwarna realistis tanpa menyertakan hitungan proses potong maupun fabrikasi komponen fisik di bengkel."
+          },
+          {
+            "id": "D",
+            "text": "Menyatukan satu proyek utuh: murid menggambar CAD bersuaian H7/g6 dan Ra, memilih pasangan bahan baja-kuningan tahan aus, menghitung parameter bubut bertingkat/ulir, lalu menguji suaian memakai mikrometer dan dial indicator."
+          },
+          {
+            "id": "E",
+            "text": "Membagi kelas secara permanen menjadi empat regu spesialis sehingga satu regu hanya menggambar CAD, regu kedua hanya memilih logam, regu ketiga hanya membubut, dan regu keempat hanya mengukur tanpa rotasi kompetensi."
+          }
+        ],
+        "correctAnswer": "D",
+        "explanation": "Keterpaduan elemen kompetensi Teknik Mesin (PF.4 & P.1) tercermin ketika Gambar Teknik (toleransi & Ra), Metalurgi (pasangan bahan tahan aus baja-kuningan), Pemesinan Bubut (parameter potong & ulir), dan Metrologi Presisi (mikrometer & dial indicator) saling terhubung menjelaskan dan memecahkan satu kebutuhan rekayasa komponen utuh.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q035",
+        "number": 35,
+        "type": "multiple",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Di akhir sesi praktik pengelasan SMAW sambungan sudut dan pembubutan poros bertingkat, guru memandu sesi refleksi bersama peserta didik (P.6 & P.1). Manakah pertanyaan refleksi yang paling efektif untuk menumbuhkan kesadaran konseptual, analisis proses, dan pemikiran metakognitif teknis peserta didik?"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "'Penyimpangan parameter, sudut elektroda, atau setelan pahat mana yang paling memengaruhi kualitas manik las atau permukaan bubut Anda hari ini, dan bukti pengukuran atau pengamatan visual apa yang mendukung analisis tersebut?'"
+          },
+          {
+            "id": "B",
+            "text": "'Berapa banyak batang elektroda dan menit waktu yang paling cepat dihabiskan kelompok tercepat di kelas hari ini?'"
+          },
+          {
+            "id": "C",
+            "text": "'Apakah semua murid sudah menandatangani daftar hadir bengkel dan merasa senang karena jam praktik selesai lebih awal?'"
+          },
+          {
+            "id": "D",
+            "text": "'Jika pada proyek berikutnya Anda menghadapi benda kerja berdiameter lebih besar atau pelat yang lebih tipis, perubahan strategi persiapan, parameter potong/arus, dan langkah verifikasi K3 apa yang akan Anda terapkan?'"
+          },
+          {
+            "id": "E",
+            "text": "'Siapakah di antara teman kelompok kalian yang paling banyak berbuat salah saat menyetel mesin tadi?'"
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "D"
+        ],
+        "minSelections": 2,
+        "maxSelections": 4,
+        "instruction": "Pilih dua, tiga, atau empat jawaban yang benar.",
+        "explanation": "Refleksi metakognitif pembelajaran vokasi (P.6 & P.1) mendorong murid menautkan bukti cacat/hasil ukur dengan pilihan teknik/parameter kerjanya (A) serta merencanakan transfer perbaikan strategi pada tantangan material/geometri baru (D). Opsi B dan C hanya menyentuh hal administratif/superfisial, sedangkan opsi E memicu budaya saling menyalahkan yang merusak keamanan psikologis kelas.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q036",
+        "number": 36,
+        "type": "single",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Hasil evaluasi formatif menunjukkan 64% peserta didik kelas X Teknik Mesin mengalami kesulitan besar menafsirkan gambar potongan (section view) komponen berlubang bertingkat dan masih sering tertukar penempatan pandangan proyeksi Amerika versus Eropa. Untuk mengembangkan praktik profesional secara empiris dan inovatif (PF.5), guru merancang Penelitian Tindakan Kelas (PTK). Desain tindakan yang paling tepat adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Memberikan penugasan remedial menyalin ulang dua puluh lembar gambar potongan komponen mekanis dari buku referensi standar ISO bagi seluruh peserta didik yang memperoleh nilai di bawah batas ketuntasan."
+          },
+          {
+            "id": "B",
+            "text": "Merancang PTK bersiklus memakai model fisik benda berlubang belah-pasang (3D print/busa) dipadukan fitur section analysis CAD 3D sebelum menggambar 2D, lalu mengukur peningkatan akurasi baca gambar di tiap siklus."
+          },
+          {
+            "id": "C",
+            "text": "Menyebarkan angket minat hobi menggambar peserta didik di luar jam sekolah lalu menyusun laporan kesimpulan bahwa kecakapan spasial tiga dimensi merupakan bakat bawaan yang sulit diubah lewat pembelajaran."
+          },
+          {
+            "id": "D",
+            "text": "Mengubah seluruh instrumen evaluasi topik gambar potongan dan proyeksi ortogonal menjadi tes pilihan ganda hafalan nama jenis garis tipis, garis sumbu, dan sudut kemiringan arsiran 45 derajat."
+          },
+          {
+            "id": "E",
+            "text": "Menghapuskan materi proyeksi sudut pertama (Eropa) dari alur tujuan pembelajaran kelas X agar seluruh peserta didik cukup menghafalkan satu sistem proyeksi Amerika tanpa mengalami kebingungan."
+          }
+        ],
+        "correctAnswer": "B",
+        "explanation": "PTK yang efektif (PF.5) menyasar langsung akar hambatan belajar (kesulitan transisi mental 3D ke 2D) melalui tindakan inovatif berbasis bukti: kombinasi model fisik belah-pasang (konkret) dan section analysis CAD 3D (semi-konkret) secara sistematis menjembatani kemampuan visualisasi spasial murid menuju penyajian gambar kerja 2D standar ISO.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q037",
+        "number": 37,
+        "type": "single",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Bengkel pemesinan dan pneumatik di SMK Negeri 3 menghadapi dua tantangan sekaligus: meningkatnya volume limbah beram serta cairan pendingin bekas, dan terbatasnya anggaran untuk membeli papan trainer mekanisme baru. Guru Teknik Mesin ingin mengembangkan inovasi sarana bengkel yang selaras dengan prinsip Green Manufacturing (PF.5 & P.5). Langkah inovatif yang paling tepat adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Mengajukan pembelian penuh paket papan trainer pneumatik dan alat peraga transmisi impor berharga sangat mahal meskipun menyerap habis anggaran pengadaan bahan praktik baja lunak tahunan."
+          },
+          {
+            "id": "B",
+            "text": "Memangkas jadwal praktik mesin bubut dan pengelasan hingga separuhnya setiap bulan agar pemakaian daya listrik motor spindel, elektroda, serta timbulan limbah cairan coolant turun drastis."
+          },
+          {
+            "id": "C",
+            "text": "Mengumpulkan seluruh serpihan beram bercampur oli dan kain majun bekas untuk dibakar rutin di halaman belakang sekolah setiap pekan agar bengkel tampak bersih tanpa biaya pengangkutan limbah."
+          },
+          {
+            "id": "D",
+            "text": "Mengganti cairan emulsi pendingin standar mesin bubut dengan oli pelumas bekas kendaraan bengkel otomotif agar sekolah menghemat biaya pembelian fluida pemotongan sepanjang tahun ajaran."
+          },
+          {
+            "id": "E",
+            "text": "Membangun sistem filtrasi sirkulasi coolant ramah lingkungan agar usia pakainya panjang, memilah beram bersih untuk daur ulang, serta merekondisi komponen pneumatik bekas industri menjadi papan peraga fungsional."
+          }
+        ],
+        "correctAnswer": "E",
+        "explanation": "Prinsip Green Manufacturing dan inovasi sarana bengkel (PF.5 & P.5) menekankan efisiensi sumber daya, pencegahan polusi (memperpanjang usia coolant melalui filtrasi dan tidak membakar limbah B3 atau memakai oli bekas karsinogenik), daur ulang beram terpilah, serta rekondisi komponen bekas menjadi media ajar edukatif tanpa menurunkan kualitas praktik.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q038",
+        "number": 38,
+        "type": "category",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Menjelang pelaksanaan blok praktik pengelasan SMAW, las gas OAW, dan pemesinan bubut bagi kelas XI, kepala bengkel bersama guru Teknik Mesin melakukan audit standar tata kelola keselamatan kerja bengkel (PF.5)."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan BENAR atau SALAH ketepatan prosedur keselamatan bengkel berikut!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Tabung gas oksigen dan asetilin OAW diperbolehkan disimpan dalam posisi tidur mendatar di lantai bengkel dekat area penggerindaan selama katup utamanya sudah diputar tertutup."
+          },
+          {
+            "id": "B",
+            "text": "Bilik pengelasan SMAW wajib dilengkapi tirai/sekat pelindung radiasi sinar UV dan sistem penghisap asap las (fume extractor) guna melindungi penglihatan dan saluran pernapasan murid di sekitar area kerja."
+          },
+          {
+            "id": "C",
+            "text": "Alat Pemadam Api Ringan (APAR) sesuai kelas kebakaran, kotak P3K, sakelar pemutus daya darurat induk (master emergency stop), dan jalur evakuasi bebas hambatan wajib diperiksa kesiapannya secara berkala."
+          },
+          {
+            "id": "D",
+            "text": "Melaksanakan safety briefing singkat serta memverifikasi kelengkapan APD (kacamata pelindung, helm las dengan shade sesuai arus, sarung tangan kulit las, dan sepatu safety) wajib dilakukan sebelum mesin dinyalakan."
+          }
+        ],
+        "categories": [
+          {
+            "id": "benar",
+            "text": "Benar"
+          },
+          {
+            "id": "salah",
+            "text": "Salah"
+          }
+        ],
+        "correctAnswer": {
+          "A": "salah",
+          "B": "benar",
+          "C": "benar",
+          "D": "benar"
+        },
+        "explanation": "A) Salah: Tabung asetilin wajib selalu berdiri tegak dan diikat rantai jauh dari sumber panas/percikan gerinda; posisi tidur menyebabkan aseton cair mengalir ke regulator dan memicu ledakan berbahaya. B) Benar: Radiasi busur UV/IR dapat menyebabkan arc eye dan fume las berbahaya bagi paru-paru. C) Benar: Fasilitas tanggap darurat bengkel harus selalu siaga dan terawat. D) Benar: Safety briefing dan cek APD mencegah kecelakaan kerja sejak awal (PF.5).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q039",
+        "number": 39,
+        "type": "single",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pada awal praktik mesin bubut konvensional kelas X, seorang peserta didik tampak gemetar dan menolak mendekati mesin karena trauma mendengar cerita kecelakaan kerja akibat lilitan spindel, sementara beberapa teman di dekatnya mulai mengejeknya sebagai penakut. Sikap dan keputusan profesional guru Teknik Mesin yang berpihak pada keselamatan psikologis dan membangun efikasi diri murid (PF.5 & P.2) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menghentikan ejekan sambil menegaskan kewaspadaan itu positif, memvalidasi perasaannya, lalu membimbing bertahap dari tombol emergency stop saat mesin mati, gerak eretan, hingga putaran rendah didampingi dekat."
+          },
+          {
+            "id": "B",
+            "text": "Meminta murid tersebut segera menyalakan spindel mesin bubut pada putaran tinggi di hadapan seluruh rekan kelompoknya supaya kecemasannya hilang seketika melalui metode terapi kejut langsung."
+          },
+          {
+            "id": "C",
+            "text": "Mengeluarkan rekomendasi perpindahan program keahlian ke jurusan non-teknik pada minggu itu juga karena rasa takut terhadap mesin perkakas dianggap tanda ketidakcocokan bakat permanen."
+          },
+          {
+            "id": "D",
+            "text": "Mempersilakan murid tersebut duduk menyimak di ruang kelas teori tanpa perlu mendekati bengkel pemesinan sepanjang semester agar ia merasa nyaman dan terhindar dari tekanan teman sebayanya."
+          },
+          {
+            "id": "E",
+            "text": "Memberikan pengurangan nilai kesiapan praktik secara tegas sebagai peringatan agar murid berusaha mengatasi sendiri kecemasannya sebelum jadwal uji kompetensi tengah semester berlangsung."
+          }
+        ],
+        "correctAnswer": "A",
+        "explanation": "Menghadapi kecemasan mesin (machine anxiety) memerlukan perpaduan keamanan psikologis dan penguatan efikasi diri bertahap (Bandura, PF.5 & P.2). Terapi kejut (B) sangat berisiko memicu kecelakaan nyata akibat panik, sedangkan pembiaran (D) atau pelabelan gagal (C) merampas hak belajar murid. Pendampingan bertahap dari kondisi mati ke putaran terkendali membangun penguasaan nyata (mastery experience).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q040",
+        "number": 40,
+        "type": "multiple",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Guru Teknik Mesin mendapat tugas membina tim peserta didik untuk menghadapi Lomba Kompetensi Siswa (LKS) bidang CNC Turning dan Mechanical Engineering CAD. Praktik pembimbingan yang profesional, beretika, dan mengembangkan potensi murid secara autentik (PF.5 & P.5) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Guru menyusun sendiri seluruh model 3D CAD dan program G-code utama secara diam-diam agar karya atas nama peserta didik hampir pasti memenangkan medali emas."
+          },
+          {
+            "id": "B",
+            "text": "Membimbing murid menganalisis gambar kerja lomba, merancang strategi urutan pemesinan secara mandiri, serta mengevaluasi sendiri penyebab selisih ukuran pada setiap sesi latihan uji potong."
+          },
+          {
+            "id": "C",
+            "text": "Menanamkan budaya kerja profesional, kepatuhan K3 tanpa kompromi, sportivitas, dan ketahanan mental ketika menghadapi kegagalan simulasi atau keterbatasan waktu lomba."
+          },
+          {
+            "id": "D",
+            "text": "Melibatkan siswa kelas X dan XI sebagai tim pendamping/cadangan dalam sesi latihan terbuka guna membangun budaya berbagi keterampilan dan regenerasi kompetensi di jurusan."
+          },
+          {
+            "id": "E",
+            "text": "Melatih murid mendokumentasikan lembar perencanaan proses (process sheet) serta menjelaskan secara lugas alasan teknis pemilihan pahat, toleransi, dan parameter potongnya."
+          }
+        ],
+        "correctAnswer": [
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "minSelections": 2,
+        "maxSelections": 4,
+        "instruction": "Pilih dua, tiga, atau empat jawaban yang benar.",
+        "explanation": "Pembinaan LKS berbasis integritas vokasi (PF.5 & P.5) menempatkan murid sebagai pelaku utama analisis dan eksekusi (B), membangun mentalitas K3 dan sportivitas (C), menumbuhkan ekosistem belajar lintas angkatan (D), serta mengasah komunikasi rekayasa (E). Mengambil alih pekerjaan murid (A) merupakan pelanggaran berat integritas akademik dan merusak tujuan pendidikan lomba.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q041",
+        "number": 41,
+        "type": "single",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Guru Teknik Mesin mengembangkan e-modul interaktif berbasis web untuk topik 'Pemodelan Parametrik CAD 3D dan Analisis Gambar Kerja Manufaktur' yang memadukan ringkasan konsep standar ISO, penampil model 3D yang dapat diputar 360 derajat, video mikro urutan pemberian constraint dan dimensi, simulasi bidang potong, serta kuis diagnostik dengan umpan balik otomatis. Keunggulan utama inovasi bahan ajar ini bagi pembelajaran peserta didik (PF.5 & P.4) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menggantikan sepenuhnya peran pendampingan guru di laboratorium CAD sehingga jadwal tatap muka pemodelan dapat dialihkan seluruhnya menjadi belajar mandiri di rumah tanpa supervisi."
+          },
+          {
+            "id": "B",
+            "text": "Menyeragamkan tempo pengerjaan latihan seluruh peserta didik di laboratorium komputer supaya setiap murid menyelesaikan satu gambar kerja komponen pada durasi menit yang persis sama."
+          },
+          {
+            "id": "C",
+            "text": "Menyajikan representasi multipel (visual 3D interaktif, prosedural, teks ISO, dan umpan balik diagnostik) yang menjembatani geometri ruang dengan gambar kerja 2D sesuai laju belajar murid."
+          },
+          {
+            "id": "D",
+            "text": "Membebaskan murid dari keharusan memahami simbol kekasaran permukaan Ra dan tabel suaian H7/g6 karena seluruh anotasi gambar kerja sudah terisi otomatis oleh templat perangkat lunak."
+          },
+          {
+            "id": "E",
+            "text": "Menghemat anggaran fotokopi lembar kerja di sekolah semata karena isi e-modul pada dasarnya cukup memindahkan halaman diktat cetak lama ke layar komputer agar tampak lebih modern."
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "E-modul interaktif yang memadukan model 3D berputar, video mikro prosedural, animasi potongan, dan umpan balik diagnostik mewujudkan kekuatan representasi multipel (multiple representations, PF.5 & P.4). Hal ini sangat strategis mengatasi hambatan visualisasi spasial sekaligus melayani diferensiasi kecepatan belajar murid.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q042",
+        "number": 42,
+        "type": "single",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Saat melakukan demonstrasi rangkaian Pneumatik Dasar di depan kelas menggunakan katup kontrol arah 5/2, silinder kerja ganda, dan unit FRL—misalnya dengan menurunkan tekanan kerja regulator dari 6 bar menjadi 3 bar lalu membandingkan gaya dorong langkah maju (F = P × A) terhadap langkah mundur (luas efektif terpotong batang piston)—guru menerapkan strategi Predict–Observe–Explain (POE). Alasan pedagogis mengapa tahap 'Predict' (meminta murid menuliskan prediksi dan alasannya sebelum katup udara diaktifkan) sangat krusial (PF.5 & P.3) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Untuk menyeleksi sejak menit pertama siapa peserta didik yang paling jeli menebak perilaku rangkaian pneumatik agar langsung mendapatkan bonus nilai keaktifan pada buku penilaian guru."
+          },
+          {
+            "id": "B",
+            "text": "Untuk memperpanjang durasi apersepsi teori di papan trainer sehingga jatah waktu praktik pemasangan selang pneumatik tiap kelompok dapat dipersingkat agar konsumsi udara kompresor lebih hemat."
+          },
+          {
+            "id": "C",
+            "text": "Agar peserta didik yang prediksinya tidak tepat menyadari kekeliruannya di depan kelas lalu termotivasi menghafalkan rumus gaya dorong silinder tanpa menanyakan kembali penurunannya."
+          },
+          {
+            "id": "D",
+            "text": "Untuk mengaktifkan pengetahuan awal dan komitmen kognitif murid sehingga mereka mengamati selisih gaya maju-mundur secara fokus (Observe) dan terdorong merekonstruksi konsep saat prediksi berbeda dari data (Explain)."
+          },
+          {
+            "id": "E",
+            "text": "Agar guru tidak perlu menjelaskan lagi fungsi penyaringan udara pada filter, penstabil tekanan regulator, dan pengabutan oli pada lubricator karena peserta didik telah menuliskan dugaannya sendiri."
+          }
+        ],
+        "correctAnswer": "D",
+        "explanation": "Strategi Predict–Observe–Explain (White & Gunstone, PF.5 & P.3) mengubah demonstrasi bengkel dari tontonan pasif menjadi penyelidikan kognitif aktif. Komitmen awal pada prediksi memicu konflik kognitif produktif saat murid mengamati gaya langkah mundur lebih kecil daripada langkah maju akibat pengurangan luas penampang efektif oleh batang piston.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q043",
+        "number": 43,
+        "type": "category",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pengelolaan limbah hasil praktik pemesinan dan pengelasan (beram logam, cairan coolant emulsi bekas, majun berminyak, dan puntung elektroda las) merupakan bagian tak terpisahkan dari tanggung jawab profesional dan pendidikan lingkungan guru Teknik Mesin (PF.5)."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan TEPAT atau TIDAK TEPAT tindakan pengelolaan limbah bengkel berikut!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Menyediakan wadah terpisah dan berlabel untuk menampung beram baja, beram aluminium, dan beram kuningan agar aman dari risiko pencampuran serbuk reaktif sekaligus meningkatkan nilai ekonomis daur ulangnya."
+          },
+          {
+            "id": "B",
+            "text": "Menampung cairan coolant emulsi bekas yang sudah jenuh dan oli pelumas mesin bekas ke dalam drum limbah B3 tertutup berlabel jelas untuk diserahkan kepada pengelola limbah berizin."
+          },
+          {
+            "id": "C",
+            "text": "Menyimpan kain majun yang basah oleh oli atau pelarut pembersih di dalam tempat sampah logam tertutup tahan api guna mencegah risiko penyalaan spontan (swabakar) di sudut bengkel."
+          },
+          {
+            "id": "D",
+            "text": "Membuang sisa cairan coolant emulsi mesin bubut yang sudah berbau ke saluran air hujan di belakang bengkel setelah dicampur sabun cuci piring agar lapisan minyaknya tidak tampak di permukaan air."
+          }
+        ],
+        "categories": [
+          {
+            "id": "tepat",
+            "text": "Tepat"
+          },
+          {
+            "id": "tidak-tepat",
+            "text": "Tidak Tepat"
+          }
+        ],
+        "correctAnswer": {
+          "A": "tepat",
+          "B": "tepat",
+          "C": "tepat",
+          "D": "tidak-tepat"
+        },
+        "explanation": "A) Tepat: Segregasi beram logam mencegah bahaya serbuk halus tercampur serta mendukung ekonomi sirkular. B) Tepat: Coolant bekas dan oli termasuk limbah B3 yang wajib ditampung tertutup berlabel dan dikelola pihak berizin. C) Tepat: Majun berminyak berisiko swabakar sehingga wajib diletakkan di wadah logam tertutup (oily waste can). D) Tidak Tepat: Membuang coolant emulsi ke saluran drainase—meski ditambah deterjen—tetap mencemari tanah dan perairan dengan logam berat, hidrokarbon, serta bahan kimia aditif (PF.5).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q044",
+        "number": 44,
+        "type": "single",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Guru Teknik Mesin mengangkat studi kasus nyata dilema etika rekayasa mengenai insiden patah lelah (fatigue failure) poros sambungan las pada alat angkut pertanian lokal yang melukai operatornya, setelah diketahui bengkel pembuatnya memangkas biaya produksi dengan menurunkan spesifikasi baja karbon dan meniadakan tahapan perlakuan panas pasca-las. Pendekatan pembelajaran berbasis isu sosio-teknologi (SSI) seperti ini mengembangkan praktik profesional pendidikan Teknik Mesin (PF.5 & P.2) karena..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Memberikan peringatan keras agar lulusan SMK tidak tergesa-gesa membuka bengkel fabrikasi mandiri sebelum memiliki modal besar untuk membeli mesin uji tak merusak."
+          },
+          {
+            "id": "B",
+            "text": "Menghubungkan konsep metalurgi, las, dan toleransi desain dengan dilema keselamatan publik serta biaya nyata, sehingga mengasah penalaran moral rekayasa dan tanggung jawab profesi berbasis bukti."
+          },
+          {
+            "id": "C",
+            "text": "Menggeser fokus mata pelajaran pemesinan dan pengelasan ke pembahasan hukum ketenagakerjaan sehingga murid tidak lagi dibebani analisis tegangan beban maupun pemeriksaan cacat las."
+          },
+          {
+            "id": "D",
+            "text": "Membantu murid memahami bahwa kerusakan komponen mekanis di lapangan sering kali disebabkan faktor kelelahan operator semata dibandingkan keputusan pemilihan material di tahap fabrikasi."
+          },
+          {
+            "id": "E",
+            "text": "Mewajibkan seluruh peserta didik menghafalkan pasal sanksi pelanggaran standar mutu industri tanpa perlu mengkaji hubungan mikrostruktur baja, tegangan sisa las, dan retak lelah."
+          }
+        ],
+        "correctAnswer": "B",
+        "explanation": "Isu sosio-teknologi/etika rekayasa (PF.5 & P.2) memperlihatkan bahwa keputusan teknis (pemilihan mutu baja, kontrol cacat las, dan perlakuan panas) berdampak langsung pada nyawa dan keselamatan masyarakat. Diskusi berbasis kasus nyata ini membangun kompetensi bernalar kritis sekaligus etika profesi keteknikan yang kokoh.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q045",
+        "number": 45,
+        "type": "multiple",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Blok praktik pembubutan bertingkat dan verifikasi presisi poros baja kelas XI baru saja rampung selama tiga pekan. Sebelum merancang blok praktik ulir berikutnya, Pak Ridwan melakukan evaluasi diri berbasis data bengkel untuk menakar seberapa efektif rancangan pembelajaran yang telah dijalankan (PF.5 & P.6). Indikator empiris manakah yang paling tepat dijadikan acuan refleksi profesional beliau?"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Penurunan persentase benda kerja gagal toleransi (reject/rework) serta peningkatan ketepatan murid memilih parameter potong dibandingkan hasil asesmen awal unit."
+          },
+          {
+            "id": "B",
+            "text": "Tingkat konsistensi kepatuhan peserta didik terhadap SOP keselamatan kerja, penggunaan APD lengkap, pengecekan kunci chuck, dan pelaksanaan 5R secara mandiri tanpa harus selalu diingatkan."
+          },
+          {
+            "id": "C",
+            "text": "Kemampuan peserta didik menghafalkan seluruh istilah bagian mesin bubut dalam bahasa asing tanpa mampu menyetel ujung pahat tepat setinggi senter."
+          },
+          {
+            "id": "D",
+            "text": "Kualitas penalaran teknis dalam lembar refleksi dan laporan inspeksi murid saat mendiagnosis penyebab permukaan kasar, tirus tidak sengaja, atau ukuran menyimpang."
+          },
+          {
+            "id": "E",
+            "text": "Umpan balik anonim dari peserta didik mengenai kejelasan ilustrasi jobsheet, efektivitas pembagian giliran mesin, serta rasa aman dan dukungan selama praktik di bengkel."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "D",
+          "E"
+        ],
+        "minSelections": 2,
+        "maxSelections": 4,
+        "instruction": "Pilih dua, tiga, atau empat jawaban yang benar.",
+        "explanation": "Evaluasi empiris efektivitas pembelajaran bengkel (PF.5 & P.6) menyoroti kemajuan kualitas produk/ketepatan parameter (A), pembudayaan K3 dan 5R mandiri (B), kedalaman diagnosis teknis murid (D), dan suara refleksi murid terhadap iklim serta sarana belajar (E). Opsi C keliru karena hafalan verbal tanpa penguasaan keterampilan penyetelan dasar bukan ukuran keberhasilan pendidikan vokasi.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q046",
+        "number": 46,
+        "type": "single",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Sebagai guru Teknik Mesin, Anda menginisiasi program 'Audit K3, Kebocoran Udara Pneumatik, dan Budaya 5R Bengkel Jurusan' bersama teknisi bengkel dan seluruh kelas Teknik Pemesinan sebagai penerapan autentik konsep sistem pneumatik, perawatan mesin perkakas, dan efisiensi energi kompresor (PF.5 & P.1). Langkah pertama yang paling ilmiah dan edukatif dalam program tersebut adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Langsung mengganti seluruh jaringan selang pneumatik, fitting cepat, dan unit FRL bengkel memakai dana pemeliharaan jurusan sebelum memetakan titik kebocoran maupun mencatat kondisi tekanan awalnya."
+          },
+          {
+            "id": "B",
+            "text": "Mencetak spanduk kampanye besar bertuliskan slogan hemat energi dan budaya 5R untuk dipasang di setiap dinding bengkel lalu menganggap tahap sosialisasi audit telah tuntas terlaksana."
+          },
+          {
+            "id": "C",
+            "text": "Mematikan pasokan listrik kompresor induk bengkel selama satu bulan penuh pada jadwal reguler supaya catatan pemakaian daya listrik bulanan jurusan menunjukkan penghematan signifikan."
+          },
+          {
+            "id": "D",
+            "text": "Memberikan sanksi piket pembersihan tambahan kepada kelas yang kondisi mesin bubutnya terlihat paling berantakan tanpa terlebih dahulu menyepakati rubrik indikator audit 5R dan keselamatan bengkel."
+          },
+          {
+            "id": "E",
+            "text": "Membimbing murid menyusun ceklis audit berbasis data, menguji kebocoran sambungan pneumatik via air sabun dan penurunan manometer, memetakan bahaya K3 dan 5R, lalu menganalisis temuan baseline untuk rencana perbaikan."
+          }
+        ],
+        "correctAnswer": "E",
+        "explanation": "Program audit teknis yang edukatif (PF.5 & P.1) selalu diawali dengan pengumpulan data baseline secara empiris (uji kebocoran tekanan manometer/air sabun, pemetaan bahaya K3, dan skor awal 5R). Hal ini mengubah konsep tekanan pneumatik dan perawatan preventif menjadi proyek nyata perbaikan ekosistem bengkel yang berdampak terukur.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q047",
+        "number": 47,
+        "type": "single",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Saat menjelaskan prinsip tekanan kerja, debit aliran, dan fungsi katup cekik (flow control valve) pada sistem Pneumatik Dasar, guru Teknik Mesin menggunakan analogi 'aliran air di dalam selang kebun yang ujungnya dipencet'. Agar penggunaan analogi tersebut tidak memicu miskonsepsi teknis baru pada peserta didik (PF.5 & P.3), hal terpenting yang wajib dilakukan guru adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Memetakan kesamaan analogi (hambatan saluran mengatur laju alir) sekaligus menegaskan batasannya, yakni udara pneumatik bersifat kompresibel sehingga respons geraknya elastis dibanding air/oli yang inkompresibel."
+          },
+          {
+            "id": "B",
+            "text": "Menegaskan kepada seluruh kelas bahwa perilaku fluida udara di dalam silinder pneumatik identik 100% dengan aliran air pada selang kebun agar murid cukup mengingat satu model mental yang sederhana."
+          },
+          {
+            "id": "C",
+            "text": "Menghapus penggunaan segala bentuk analogi kehidupan sehari-hari dalam pelajaran Teknik Mesin agar penjelasan guru selalu menggunakan persamaan mekanika fluida murni tanpa penyederhanaan apa pun."
+          },
+          {
+            "id": "D",
+            "text": "Meminta murid mengalirkan air keran ke dalam katup kontrol arah 5/2 dan selang trainer pneumatik untuk membuktikan secara nyata apakah analogi selang kebun bekerja persis sama di papan peraga."
+          },
+          {
+            "id": "E",
+            "text": "Menyampaikan analogi selang kebun sekali saja di awal pertemuan sebagai pemecah suasana tanpa pernah menghubungkannya kembali dengan pembacaan simbol diagram sirkuit pneumatik ISO 1219."
+          }
+        ],
+        "correctAnswer": "A",
+        "explanation": "Berdasarkan model Teaching With Analogies (TWA - Glynn, PF.5 & P.3), setiap analogi teknis memiliki area kesesuaian dan titik kegagalan (where the analogy breaks down). Menegaskan sifat kompresibilitas udara dibandingkan air/oli mencegah miskonsepsi serius ketika murid membandingkan karakteristik posisi dan gaya antara sistem pneumatik dan hidrolik.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q048",
+        "number": 48,
+        "type": "category",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Peserta didik kelas XII mulai memanfaatkan kecerdasan artifisial (AI generatif) saat belajar pemrograman CNC Bubut Dasar (G-code) dan optimasi skrip/langkah pemodelan CAD. Guru Teknik Mesin menetapkan pedoman etis, keselamatan mesin, dan integritas akademik (PF.5 & P.4)."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan ETIS atau TIDAK ETIS praktik pemanfaatan teknologi AI berikut!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Memanfaatkan AI generatif untuk meminta penjelasan perbedaan sintaks G02 dan G03 atau mencari alternatif urutan pemakanan pengasaran, lalu memverifikasinya terhadap manual kontroler mesin dan mengujinya di simulator CNC sebelum dry run."
+          },
+          {
+            "id": "B",
+            "text": "Menyalin langsung blok G-code hasil luaran AI generatif lalu langsung mengeksekusinya pada mesin CNC nyata di bengkel tanpa mengecek sistem koordinat, offset pahat, maupun simulasi lintasan."
+          },
+          {
+            "id": "C",
+            "text": "Mencantumkan secara transparan bagian bantuan AI pada catatan proyek serta mampu menjelaskan dan memodifikasi sendiri logika setiap baris koordinat program saat diuji lisan oleh guru."
+          },
+          {
+            "id": "D",
+            "text": "Mengunduh model 3D CAD atau meminta AI menghasilkan laporan analisis kegagalan material secara utuh lalu mengumpulkannya atas nama sendiri sebagai bukti ujian kompetensi."
+          }
+        ],
+        "categories": [
+          {
+            "id": "etis",
+            "text": "Etis"
+          },
+          {
+            "id": "tidak-etis",
+            "text": "Tidak Etis"
+          }
+        ],
+        "correctAnswer": {
+          "A": "etis",
+          "B": "tidak-etis",
+          "C": "etis",
+          "D": "tidak-etis"
+        },
+        "explanation": "A) Etis: AI digunakan sebagai tutor bantu belajar yang wajib diverifikasi terhadap standar manual mesin dan simulator (P.4). B) Tidak Etis: Eksekusi langsung kode AI tanpa verifikasi sangat membahayakan keselamatan operator dan merusak mesin CNC akibat halusinasi koordinat/sintaks (PF.5). C) Etis: Transparansi penggunaan AI dan penguasaan intelektual pribadi menjaga integritas akademik. D) Tidak Etis: Plagiarisme dan klaim karya instan meniadakan validitas uji kompetensi vokasi.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q049",
+        "number": 49,
+        "type": "single",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Kepala Program Keahlian Teknik Mesin menugaskan Anda memperluas jejaring eksternal jurusan agar peserta didik mengenal standar lantai produksi manufaktur modern, tuntutan budaya K3, serta peluang karier teknisi pemesinan dan pengelasan pasca-SMK (PF.5 & P.5). Bentuk kemitraan luar sekolah yang paling relevan dan berdampak langsung pada mutu belajar murid adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menyelenggarakan perjalanan wisata rekreasi akhir semester ke taman hiburan bersama seluruh kelas tanpa lembar observasi teknis, agenda wawancara praktisi, maupun tindak lanjut pembelajaran di bengkel."
+          },
+          {
+            "id": "B",
+            "text": "Mengundang sales distributor perkakas teknik komersial untuk mempresentasikan dan menawarkan paket pembelian jangka sorong digital pribadi kepada orang tua murid pada rapat awal tahun."
+          },
+          {
+            "id": "C",
+            "text": "Membangun kemitraan link and match bersama industri manufaktur lokal dan politeknik melalui guru tamu praktisi untuk sinkronisasi standar gambar kerja/K3, proyek TeFa nyata, serta observasi lantai produksi terstruktur."
+          },
+          {
+            "id": "D",
+            "text": "Melimpahkan penuh penyusunan perangkat soal dan pelaksanaan penilaian ujian praktik semester ke lembaga kursus eksternal tanpa menyelaraskannya bersama tim guru pengampu mata pelajaran produktif."
+          },
+          {
+            "id": "E",
+            "text": "Menempatkan seluruh peserta didik praktik kerja lapangan di bengkel bubut paling dekat dengan sekolah meskipun bengkel tersebut tidak menerapkan standar APD, pelindung mesin, maupun pengelolaan limbah."
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Kemitraan strategis SMK (PF.5 & P.5) bersama DUDI manufaktur dan pendidikan tinggi vokasi (politeknik) melalui sinkronisasi standar industri, guru tamu praktisi, TeFa, dan observasi terstruktur menghadirkan pembelajaran autentik sekaligus mempersiapkan transisi karier murid secara nyata.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q050",
+        "number": 50,
+        "type": "multiple",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Perkembangan kontroler CNC, perangkat lunak CAD parametrik, serta tuntutan keselamatan dan efisiensi industri manufaktur bergerak sangat cepat. Sebagai pendidik kejuruan yang berkomitmen meningkatkan kualitas praktik pengajaran bengkel secara berkelanjutan dan berbasis bukti (PF.5), langkah pengembangan profesi manakah yang paling tepat dilakukan guru Teknik Mesin?"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Mengikuti program magang guru di industri manufaktur, pelatihan pemutakhiran CAD/CAM/CNC, atau sertifikasi kompetensi teknis dan asesor profesi secara berkala."
+          },
+          {
+            "id": "B",
+            "text": "Mempertahankan seluruh jobsheet dan aturan praktik tahun 2005 tanpa penyesuaian standar ISO gambar teknik maupun teknologi CNC karena dianggap sudah teruji lama."
+          },
+          {
+            "id": "C",
+            "text": "Melaksanakan Penelitian Tindakan Kelas (PTK) atau menulis artikel praktik baik mengenai inovasi media bantu bengkel, pembelajaran TeFa, dan strategi mengatasi miskonsepsi pemesinan."
+          },
+          {
+            "id": "D",
+            "text": "Aktif berkolaborasi dalam MGMP Teknik Mesin dan komunitas belajar antarguru untuk membedah kesulitan metrologi/gambar kerja murid serta melaksanakan lesson study."
+          },
+          {
+            "id": "E",
+            "text": "Melakukan refleksi rutin pascapraktik berbasis data tingkat cacat produk, catatan insiden/hampir celaka (near-miss) K3, dan hasil umpan balik belajar peserta didik."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "C",
+          "D",
+          "E"
+        ],
+        "minSelections": 2,
+        "maxSelections": 4,
+        "instruction": "Pilih dua, tiga, atau empat jawaban yang benar.",
+        "explanation": "Pengembangan profesional berkelanjutan guru Teknik Mesin (PF.5) menuntut pembaruan kompetensi industri dan sertifikasi (A), riset praktik/publikasi inovasi bengkel (C), kolaborasi MGMP/lesson study (D), serta refleksi empiris berbasis data mutu dan K3 (E). Sikap stagnan dengan perangkat usang (B) bertentangan dengan sifat teknologi manufaktur yang dinamis.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q051",
+        "number": 51,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Seorang guru di sekolah menengah merancang unit pembelajaran lintas topik bertema 'Efisiensi Penggunaan Listrik dan Pengelolaan Sampah Organik di Lingkungan Sekolah'. Guru ingin memastikan peserta didik tidak sekadar menghafal definisi konsep dari buku paket, melainkan benar-benar membangun pemahaman konseptual, menerapkannya secara kontekstual, dan merefleksikan proses berpikirnya (P.1). Strategi desain pembelajaran yang paling mencerminkan prinsip tersebut adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Meminta peserta didik menyalin ringkasan dua bab buku pegangan ke buku catatan pada pertemuan pertama, lalu mengadakan tes hafalan istilah dan rumus pada pertemuan berikutnya secara serentak."
+          },
+          {
+            "id": "B",
+            "text": "Mengawali unit dari data riil tagihan listrik dan volume sampah kantin sekolah, memfasilitasi investigasi kolaboratif merancang solusi terukur, serta menutup tiap tahap dengan jurnal refleksi perubahan pemahaman."
+          },
+          {
+            "id": "C",
+            "text": "Menerapkan metode ceramah terstruktur penuh di setiap jam pelajaran dengan salindia padat agar seluruh cakupan konsep dalam silabus tersampaikan seragam tepat sesuai jadwal kalender akademik."
+          },
+          {
+            "id": "D",
+            "text": "Menugaskan peserta didik menjawab empat puluh soal pilihan ganda dari bank soal daring setiap pekan sebagai latihan rutin penguatan daya ingat menjelang pelaksanaan penilaian tengah semester."
+          },
+          {
+            "id": "E",
+            "text": "Menayangkan film dokumenter panjang mengenai krisis energi dan pengelolaan sampah di negara lain selama dua jam penuh tanpa lembar diskusi maupun keterkaitan dengan kondisi nyata lingkungan sekolah."
+          }
+        ],
+        "correctAnswer": "B",
+        "explanation": "Subkompetensi P.1 menuntut pengalaman belajar yang berpusat pada murid melalui keterpaduan pemahaman konseptual, penerapan kontekstual, dan refleksi mendalam. Mengangkat data riil sekolah (kontekstual), memfasilitasi investigasi kolaboratif (konseptual), dan menyematkan jurnal refleksi perubahan pemahaman (metakognitif) mewujudkan pembelajaran bermakna secara utuh.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q052",
+        "number": 52,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Di sebuah kelas X yang baru menerima murid dari berbagai SMP dengan latar belakang beragam, asesmen awal menunjukkan bahwa sepertiga murid sudah lancar menganalisis grafik dan artikel teknis, separuh murid berada di tingkat sedang, sementara seperenam lainnya masih memerlukan perancah (scaffolding) visual dan contoh konkret dalam literasi maupun numerasi dasar. Penerapan pembelajaran berdiferensiasi yang paling tepat dilakukan guru (P.2) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Membagi tempat duduk kelas secara permanen sepanjang tahun ajaran ke dalam blok 'kelompok unggul' di depan dan 'kelompok bimbingan khusus' di belakang supaya guru mudah memantau tugas harian mereka."
+          },
+          {
+            "id": "B",
+            "text": "Menurunkan kedalaman indikator Capaian Pembelajaran bagi seluruh peserta didik di kelas tersebut ke tingkat paling dasar agar tidak ada satu pun murid yang merasa tertinggal atau terbebani."
+          },
+          {
+            "id": "C",
+            "text": "Meminta sepertiga murid yang cepat menuntaskan latihan untuk duduk tenang membaca ulang catatan sebelumnya sambil menunggu seluruh teman lainnya menyelesaikan soal dasar di papan tulis."
+          },
+          {
+            "id": "D",
+            "text": "Memberikan kebebasan penuh kepada masing-masing peserta didik memilih sendiri paket soal ujian akhir semester dari level mudah, sedang, atau sulit sesuai tingkat kepercayaan diri mereka."
+          },
+          {
+            "id": "E",
+            "text": "Menyediakan sumber belajar variatif (infografis konkret, teks terstruktur, data autentik), menerapkan kelompok fleksibel dengan scaffolding bertahap, serta tantangan perluasan bagi yang siap tanpa menurunkan tujuan inti."
+          }
+        ],
+        "correctAnswer": "E",
+        "explanation": "Pembelajaran berdiferensiasi (P.2) memetakan kebutuhan berdasarkan asesmen awal lalu menyesuaikan konten, proses, dan pengelompokan fleksibel secara dinamis agar semua murid bergerak mencapai tujuan pembelajaran yang sama tingginya. Pelabelan permanen (A) memicu stigma, sedangkan penurunan standar (B) merugikan hak belajar murid.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q053",
+        "number": 53,
+        "type": "category",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Bu Ratna sedang mengevaluasi empat skenario aktivitas kelas menengah yang dirancang tim gurunya agar selaras dengan kerangka Pembelajaran Mendalam (Deep Learning), yakni prinsip berkesadaran (mindful), bermakna (meaningful), dan menggembirakan (joyful)."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan SESUAI atau TIDAK SESUAI skenario aktivitas belajar berikut dengan ketiga prinsip Pembelajaran Mendalam!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Guru mengajak murid menetapkan target belajar pribadi di awal proyek dan mengisi daftar pantau kemajuan serta hambatan belajarnya secara berkala (Berkesadaran)."
+          },
+          {
+            "id": "B",
+            "text": "Guru menghabiskan lebih dari separuh jam pelajaran dengan permainan kuis berhadiah makanan ringan yang tidak memiliki keterkaitan dengan capaian materi agar suasana kelas selalu ramai tertawa (Menggembirakan)."
+          },
+          {
+            "id": "C",
+            "text": "Guru mengaitkan tugas pengolahan data dan penulisan laporan dengan kebutuhan nyata pengembangan koperasi siswa atau kegiatan produktif di sekolah (Bermakna)."
+          },
+          {
+            "id": "D",
+            "text": "Guru merespons pertanyaan unik peserta didik dengan antusias serta menegakkan budaya kelas bebas ejekan sehingga murid merasa aman bereksplorasi dan berani mencoba gagasan baru (Menggembirakan & Berkesadaran)."
+          }
+        ],
+        "categories": [
+          {
+            "id": "sesuai",
+            "text": "Sesuai"
+          },
+          {
+            "id": "tidak-sesuai",
+            "text": "Tidak Sesuai"
+          }
+        ],
+        "correctAnswer": {
+          "A": "sesuai",
+          "B": "tidak-sesuai",
+          "C": "sesuai",
+          "D": "sesuai"
+        },
+        "explanation": "A) Sesuai: Penetapan target pribadi dan pemantauan regulasi diri merupakan inti berkesadaran (mindful). B) Tidak Sesuai: Menggembirakan (joyful) bukanlah hiburan kosong yang terlepas dari tujuan belajar, melainkan kegembiraan intelektual dan keterlibatan positif dalam proses memahami. C) Sesuai: Keterhubungan dengan kebutuhan nyata membangun kebermaknaan (meaningful). D) Sesuai: Keamanan psikologis dan apresiasi rasa ingin tahu mendukung suasana belajar menggembirakan dan berkesadaran.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q054",
+        "number": 54,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam proyek pemecahan masalah di kelas XI, seorang guru mengintegrasikan papan kerja kolaboratif daring dan aplikasi lembar sebar (spreadsheet) interaktif untuk mengolah data observasi murid. Indikator evaluasi yang paling tepat untuk menilai bahwa pemanfaatan teknologi tersebut benar-benar memperdalam pemahaman peserta didik (P.4) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Peserta didik mampu menguji pola hubungan antarvariabel data lapangan, membandingkan alternatif solusi secara kolaboratif di papan daring, dan menyusun argumen berbasis bukti yang lebih mendalam."
+          },
+          {
+            "id": "B",
+            "text": "Tata letak warna latar, ikon stiker animasi, serta keseragaman jenis huruf pada papan kerja digital setiap kelompok tampak sangat rapi dan memukau saat ditampilkan di proyektor kelas."
+          },
+          {
+            "id": "C",
+            "text": "Seluruh tahapan kegiatan belajar selama tiga pertemuan berturut-turut berlangsung sepenuhnya di depan layar perangkat digital tanpa lagi memerlukan sesi diskusi tatap muka di kelas."
+          },
+          {
+            "id": "D",
+            "text": "Peserta didik berhasil menyalin grafik dan tabel jadi dari artikel internet ke dalam dokumen proyek jauh lebih singkat waktunya dibandingkan ketika harus mengolah data mentah sendiri."
+          },
+          {
+            "id": "E",
+            "text": "Guru dapat memangkas waktu pemberian umpan balik konseptual secara lisan karena seluruh berkas lembar kerja kelompok sudah tersimpan otomatis di dalam folder penyimpanan awan."
+          }
+        ],
+        "correctAnswer": "A",
+        "explanation": "Mengacu kerangka TPACK dan SAMR (P.4), keberhasilan integrasi TIK diukur dari transformasi kualitas berpikir tingkat tinggi—bagaimana teknologi memfasilitasi analisis pola data, kolaborasi argumentasi, dan konstruksi pemahaman yang mendalam—bukan sekadar estetika visual (B), durasi layar (C), atau kemudahan menyalin (D).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q055",
+        "number": 55,
+        "type": "multiple",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Seorang guru merancang proyek pembelajaran kokurikuler yang mengangkat potensi wilayah sekitar sekolah (sentra usaha kecil, sistem pengelolaan air warga, dan tradisi musyawarah kampung) untuk memperkuat karakter dan pemahaman kontekstual murid (P.5). Langkah-langkah yang mencerminkan implementasi optimal subkompetensi tersebut adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menugaskan peserta didik menyalin artikel profil kecamatan dari ensiklopedia daring tanpa perlu melakukan pengamatan atau interaksi dengan warga sekitar."
+          },
+          {
+            "id": "B",
+            "text": "Memfasilitasi observasi lapangan terstruktur dan wawancara langsung bersama pelaku usaha kecil atau tokoh warga sekitar sekolah sebagai sumber data autentik."
+          },
+          {
+            "id": "C",
+            "text": "Mengundang praktisi lokal atau perwakilan komunitas setempat sebagai narasumber tamu untuk memberi masukan atas rancangan proyek peserta didik."
+          },
+          {
+            "id": "D",
+            "text": "Menghindari penggunaan studi kasus daerah sendiri dan menggantinya seluruhnya dengan contoh kota metropolitan luar negeri agar tampak lebih modern."
+          },
+          {
+            "id": "E",
+            "text": "Mengkaji nilai-nilai kearifan lokal seperti gotong royong, etos kerja, dan keberlanjutan lingkungan secara kritis lalu mengintegrasikannya ke dalam karya solusi murid."
+          }
+        ],
+        "correctAnswer": [
+          "B",
+          "C",
+          "E"
+        ],
+        "minSelections": 2,
+        "maxSelections": 4,
+        "instruction": "Pilih dua, tiga, atau empat jawaban yang benar.",
+        "explanation": "Optimalisasi lingkungan sekitar dan kearifan lokal sebagai sumber belajar (P.5) diwujudkan melalui observasi/wawancara nyata (B), pelibatan praktisi/tokoh komunitas sebagai mitra belajar (C), dan kajian kritis nilai kearifan lokal yang diintegrasikan ke proyek murid (E). Opsi A dan D memutus keterhubungan murid dengan realitas kontekstualnya.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q056",
+        "number": 56,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pada minggu kedua pelaksanaan proyek lintas mata pelajaran, guru memeriksa buku catatan perkembangan (logbook) kelompok dan menemukan sebagian besar kelompok keliru merumuskan indikator keberhasilan prototipe sehingga langkah kerja mereka melenceng dari tujuan proyek. Tindakan asesmen formatif dan umpan balik yang paling efektif dilakukan guru saat itu (P.6) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Membiarkan seluruh kelompok meneruskan langkah kerjanya hingga gelar karya akhir bulan selesai, lalu memberikan nilai rendah sebagai pengalaman konsekuensi dari kesalahan perencanaan."
+          },
+          {
+            "id": "B",
+            "text": "Membubuhkan komentar apresiatif umum seperti 'Bagus, teruskan kerja keras kelompok kalian!' di setiap logbook agar semangat peserta didik tetap tinggi menghadapi tenggat waktu."
+          },
+          {
+            "id": "C",
+            "text": "Langsung mencoret rumusan murid dan menggantinya dengan daftar indikator keberhasilan jadi buatan guru supaya jadwal penyelesaian seluruh prototipe tidak mengalami keterlambatan."
+          },
+          {
+            "id": "D",
+            "text": "Memberi umpan balik spesifik merujuk kriteria rubrik pada tiap logbook, menunjukkan letak penyimpangan terhadap tujuan proyek, lalu mengajukan pertanyaan pemantik agar kelompok merevisi sendiri arah kerjanya."
+          },
+          {
+            "id": "E",
+            "text": "Menghentikan seluruh rangkaian proyek lintas mata pelajaran secara mendadak dan mengalihkan sisa jam pelajaran menjadi persiapan tes tertulis individu berbasis rangkuman buku."
+          }
+        ],
+        "correctAnswer": "D",
+        "explanation": "Asesmen formatif (assessment for learning, P.6) dilakukan di tengah proses untuk segera meluruskan arah belajar. Umpan balik berkualitas bersifat spesifik, terhubung dengan kriteria rubrik, dan memberdayakan murid memperbaiki karyanya sendiri—bukan menunda sampai terlambat (A), pujian hampa (B), atau mengambil alih peran berpikir murid (C).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q057",
+        "number": 57,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Sebelum memulai unit pembelajaran analisis data dan penerapan rumus di kelas XI, guru memberikan asesmen diagnostik kognitif selama 15 menit. Hasilnya menunjukkan 68% peserta didik belum menguasai keterampilan prasyarat berupa konversi satuan dan pembacaan skala grafik dasar. Keputusan pedagogis yang paling tepat diambil guru (P.1, P.2 & P.6) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Tetap melaju menyampaikan materi analisis inti sesuai alokasi kalender akademik supaya target penyelesaian seluruh bab tidak mundur meskipun mayoritas kelas masih kebingungan."
+          },
+          {
+            "id": "B",
+            "text": "Menyampaikan keluhan di depan kelas mengenai kurang tuntasnya pengajaran tahun sebelumnya lalu meminta peserta didik belajar mandiri mengejar materi dasar tersebut di rumah."
+          },
+          {
+            "id": "C",
+            "text": "Menyisipkan sesi penguatan prasyarat (bridging) secara proporsional memakai contoh konkret bagi kelompok yang memerlukan, sekaligus memberi pengayaan terapan bagi 32% murid yang telah siap."
+          },
+          {
+            "id": "D",
+            "text": "Menunda seluruh materi kurikulum kelas XI selama enam pekan penuh untuk mengulang kembali semua bab dari buku pelajaran kelas X mulai halaman pertama hingga akhir."
+          },
+          {
+            "id": "E",
+            "text": "Memberikan enam puluh soal latihan konversi satuan dan pembacaan grafik sebagai pekerjaan rumah wajib tanpa bimbingan konsep dan menjadikannya syarat boleh masuk pertemuan berikutnya."
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Asesmen awal (P.6) bertujuan memandu penyesuaian strategi belajar yang adil dan adaptif (P.1 & P.2). Menyisipkan jembatan penguatan prasyarat secara terukur bagi yang membutuhkan sekaligus memfasilitasi pengayaan bagi murid yang siap menjaga keberlangsungan belajar seluruh kelas tanpa membuang waktu maupun mengorbankan pemahaman.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q058",
+        "number": 58,
+        "type": "category",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pemahaman guru dalam membedakan dan mengintegrasikan fungsi Assessment for Learning, Assessment as Learning, dan Assessment of Learning sangat menentukan efektivitas peningkatan mutu belajar murid (P.6)."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan BENAR atau SALAH pernyataan terkait fungsi asesmen pembelajaran berikut!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Membimbing peserta didik menilai draf karyanya sendiri menggunakan daftar cek dan rubrik sederhana sebelum dikumpulkan merupakan penerapan Assessment as Learning yang melatih metakognisi."
+          },
+          {
+            "id": "B",
+            "text": "Nilai kuis latihan formatif harian yang bertujuan memetakan kesulitan belajar awal wajib langsung dimasukkan dengan bobot besar ke nilai rapor akhir agar murid terbiasa bekerja di bawah tekanan."
+          },
+          {
+            "id": "C",
+            "text": "Membagikan dan mendiskusikan kriteria rubrik penilaian sejak awal penugasan proyek membantu peserta didik memahami standar kualitas kinerja yang diharapkan secara transparan."
+          },
+          {
+            "id": "D",
+            "text": "Setelah nilai asesmen sumatif akhir semester ditetapkan dan rapor dibagikan, guru tidak perlu lagi menganalisis sebaran butir soal yang banyak dijawab salah karena periode pembelajaran telah selesai."
+          }
+        ],
+        "categories": [
+          {
+            "id": "benar",
+            "text": "Benar"
+          },
+          {
+            "id": "salah",
+            "text": "Salah"
+          }
+        ],
+        "correctAnswer": {
+          "A": "benar",
+          "B": "salah",
+          "C": "benar",
+          "D": "salah"
+        },
+        "explanation": "A) Benar: Penilaian diri berbasis rubrik menumbuhkan kemandirian dan regulasi diri (Assessment as Learning). B) Salah: Asesmen formatif adalah ruang aman berlatih dan mendiagnosis kesulitan; memasukkannya dengan bobot besar ke rapor justru memicu ketakutan berbuat salah dan merusak fungsi formatif. C) Benar: Transparansi rubrik sejak awal mengarahkan upaya belajar murid secara terukur. D) Salah: Analisis hasil sumatif tetap krusial sebagai umpan balik evaluasi desain pembelajaran guru pada siklus/semester berikutnya (P.6).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q059",
+        "number": 59,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Saat sesi presentasi hasil investigasi kelompok di depan kelas, seorang peserta didik tampak gugup, berbicara terbata-bata, dan keliru menyebutkan istilah kunci materi sehingga beberapa murid di barisan belakang mulai bersiul dan melontarkan ejekan. Tindakan segera yang paling tepat dilakukan guru untuk menjaga iklim kelas yang aman, berkesadaran, dan bermartabat (P.3) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Meminta penyaji segera menghentikan presentasinya dan menyerahkan giliran bicara kepada anggota kelompok lain yang lebih lancar agar jalannya diskusi kembali terkendali."
+          },
+          {
+            "id": "B",
+            "text": "Menghentikan ejekan secara tenang sambil mengingatkan kesepakatan saling menghargai, mengapresiasi keberanian penyaji, lalu membantunya meluruskan istilah secara suportif sebagai bahan belajar bersama."
+          },
+          {
+            "id": "C",
+            "text": "Menanggapi santai dengan tersenyum dan menasihati penyaji agar membiasakan diri menghadapi tekanan verbal karena suasana di lingkungan kerja kelak bisa jauh lebih keras."
+          },
+          {
+            "id": "D",
+            "text": "Langsung mengeluarkan seluruh murid di barisan belakang ke luar kelas seketika serta membatalkan seluruh jadwal presentasi kelompok tersisa pada pertemuan hari itu."
+          },
+          {
+            "id": "E",
+            "text": "Memilih tidak mengomentari siulan maupun ejekan tersebut agar suasana tidak semakin gaduh, sambil langsung mencatat pengurangan skor kepercayaan diri pada lembar penilaian penyaji."
+          }
+        ],
+        "correctAnswer": "B",
+        "explanation": "Menciptakan keamanan psikologis (psychological safety, P.3) menuntut intervensi cepat yang tenang dan berprinsip disiplin positif: menghentikan perilaku perundungan verbal tanpa merendahkan siapa pun, menjaga martabat penyaji, dan membingkai kekeliruan sebagai bagian alami dari proses belajar kolektif.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q060",
+        "number": 60,
+        "type": "multiple",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pada semester ganjil, Pak Bima merancang unit Problem-Based Learning (PBL) bagi siswa kelas XI dengan mengangkat kasus antrean panjang pembuangan limbah dan genangan air di kawasan sekitar sekolah (P.1 & P.5). Ciri khas esensial manakah yang semestinya tampak jelas dalam skenario fasilitasi Pak Bima selama pembelajaran berlangsung?"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menghadirkan permasalahan autentik dan terbuka (ill-structured) yang memicu murid mengidentifikasi apa yang sudah diketahui serta informasi apa yang perlu diselidiki lebih lanjut."
+          },
+          {
+            "id": "B",
+            "text": "Menyediakan satu alur langkah penyelesaian baku beserta jawaban akhir yang sudah pasti di lembar kerja agar seluruh kelompok menghasilkan kesimpulan seragam."
+          },
+          {
+            "id": "C",
+            "text": "Menempatkan guru sebagai fasilitator metakognitif yang memantau dinamika inkuiri dan mengajukan pertanyaan pemantik ketika diskusi kelompok menemui kebuntuan."
+          },
+          {
+            "id": "D",
+            "text": "Memfokuskan penilaian hanya pada keindahan salindia presentasi akhir tanpa memantau proses penyelidikan dan kontribusi kolaboratif anggota kelompok."
+          },
+          {
+            "id": "E",
+            "text": "Mendorong peserta didik mengumpulkan bukti empiris secara kolaboratif, membandingkan alternatif solusi berdasarkan kriteria logis, dan mempertanggungjawabkan rekomendasinya."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "C",
+          "E"
+        ],
+        "minSelections": 2,
+        "maxSelections": 4,
+        "instruction": "Pilih dua, tiga, atau empat jawaban yang benar.",
+        "explanation": "Esensi Problem-Based Learning (P.1 & P.5) adalah masalah autentik terbuka yang menuntut penyelidikan mandiri (A), peran guru sebagai fasilitator metakognitif (C), serta kolaborasi pengumpulan bukti dan pengambilan keputusan rasional (E). Opsi B mengubah PBL menjadi latihan resep mekanis, dan opsi D mengabaikan validitas asesmen proses.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q061",
+        "number": 61,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam penugasan riset singkat di kelas XI, guru menemukan banyak peserta didik mengutip angka statistik yang keliru dari unggahan akun media sosial anonim serta ringkasan otomatis tanpa menelusuri sumber primer. Strategi pedagogis yang paling tepat untuk membangun literasi digital kritis peserta didik (P.4) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Melarang seluruh peserta didik menggunakan mesin pencari maupun referensi internet untuk semua tugas kelas dan mewajibkan mereka hanya mengutip satu buku paket cetak resmi dari perpustakaan."
+          },
+          {
+            "id": "B",
+            "text": "Langsung memberi nilai nol tanpa kesempatan revisi kepada seluruh murid yang mengutip sumber tidak sahih agar mereka jera dan mencari sendiri cara mengevaluasi data di luar jam sekolah."
+          },
+          {
+            "id": "C",
+            "text": "Mengabaikan ketidakakuratan sumber data pada laporan selama tata tulis, susunan paragraf, kelengkapan daftar pustaka, dan jumlah halaman tugas sudah memenuhi ketentuan minimal."
+          },
+          {
+            "id": "D",
+            "text": "Melatih murid menerapkan pembacaan lateral (lateral reading) dan ceklis kredibilitas sumber—mengecek otoritas lembaga, tahun terbit, serta bukti primer—lalu merevisi laporannya berbasis rujukan valid."
+          },
+          {
+            "id": "E",
+            "text": "Menghapuskan penugasan riset mandiri dan menggantinya sepenuhnya dengan lembar rangkuman data yang sudah disusun guru agar peserta didik tidak pernah berjumpa informasi keliru di dunia maya."
+          }
+        ],
+        "correctAnswer": "D",
+        "explanation": "Subkompetensi P.4 menekankan kecakapan memanfaatkan TIK secara kritis dan bertanggung jawab. Membekali murid keterampilan verifikasi sumber (lateral reading, pemeriksaan otoritas dan bukti primer) melatih daya saring informasi jangka panjang di era digital.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q062",
+        "number": 62,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Setiap lima menit sebelum jam pelajaran berakhir, seorang guru membiasakan sesi refleksi singkat bersama peserta didik. Rumusan pertanyaan refleksi yang paling efektif untuk mengukur kedalaman pemahaman konseptual dan menumbuhkan kesadaran metakognitif peserta didik (P.6 & P.1) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "'Konsep inti apa yang mengubah cara pandangmu hari ini, bagian mana yang masih meragukan beserta alasannya, dan bagaimana strategimu menerapkannya pekan depan?'"
+          },
+          {
+            "id": "B",
+            "text": "'Apakah seluruh peserta didik di kelas ini sudah merasa paham dengan seluruh penjelasan yang Bapak sampaikan dari awal hingga akhir sesi? Silakan jawab serentak ya!'"
+          },
+          {
+            "id": "C",
+            "text": "'Kelompok dan peserta didik mana sajakah yang hari ini berhasil menyelesaikan seluruh butir soal latihan di papan tulis dengan catatan waktu tercepat?'"
+          },
+          {
+            "id": "D",
+            "text": "'Sebutkan kembali nomor halaman berapa saja pada buku pegangan siswa yang sudah kita bahas dan rangkum bersama sejak menit pertama pelajaran tadi?'"
+          },
+          {
+            "id": "E",
+            "text": "'Apakah kalian semua merasa senang dan bersemangat karena pertemuan hari ini bisa kita tutup tepat waktu tanpa tambahan pekerjaan rumah akhir pekan?'"
+          }
+        ],
+        "correctAnswer": "A",
+        "explanation": "Refleksi bermakna (P.1 & P.6) mendorong murid meninjau ulang perubahan pemahaman (conceptual shift), mengenali celah kebingungannya secara sadar (monitoring), dan merencanakan transfer penerapan ke situasi baru (planning). Pertanyaan tertutup (B, E) atau faktual dangkal (C, D) tidak memicu metakognisi.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q063",
+        "number": 63,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Menjelang tenggat pendaftaran lomba inovasi karya siswa tingkat provinsi, seorang koordinator panitia internal sekolah meminta Anda memperbesar angka hasil uji coba dan menambah catatan jam pembinaan secara fiktif pada berkas portofolio agar peluang sekolah lolos seleksi administrasi unggulan lebih tinggi. Sikap yang paling mencerminkan kematangan moral, perilaku etis, dan keteladanan seorang guru (K.1) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menyetujui permintaan tersebut secara diam-diam dengan pertimbangan bahwa banyak sekolah pesaing mungkin melakukan penyesuaian berkas serupa demi membawa pulang prestasi bagi nama baik sekolah."
+          },
+          {
+            "id": "B",
+            "text": "Menyarankan peserta didik sendiri yang mengubah data uji coba pada lembar portofolio lomba supaya secara administratif nama guru pembimbing tidak tercatat terlibat langsung dalam perubahan angka."
+          },
+          {
+            "id": "C",
+            "text": "Menegur koordinator panitia tersebut dengan nada tinggi di dalam grup percakapan resmi seluruh warga sekolah agar semua rekan guru mengetahui upaya ketidakjujuran administrasi yang sedang terjadi."
+          },
+          {
+            "id": "D",
+            "text": "Langsung membatalkan keikutsertaan tim peserta didik dari ajang lomba provinsi pada hari itu juga tanpa berdialog dengan murid maupun kepala sekolah meskipun karya asli mereka sebenarnya kompetitif."
+          },
+          {
+            "id": "E",
+            "text": "Menolak ajakan manipulasi data secara santun dan tegas demi menjaga keteladanan kejujuran bagi murid, sekaligus menawarkan pendampingan untuk mempertajam penyajian data orisinal secara akurat."
+          }
+        ],
+        "correctAnswer": "E",
+        "explanation": "Subkompetensi K.1 menuntut integritas moral sekaligus kematangan emosional dalam keteladanan profesi. Menolak rekayasa data dengan komunikasi santun namun teguh, lalu tetap mengupayakan perbaikan kualitas penyajian data orisinal secara jujur, menjadi contoh nyata integritas bagi peserta didik dan rekan kerja.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q064",
+        "number": 64,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Di SMK tempat Bu Dina mengajar, panitia kegiatan sekolah menetapkan jadwal wajib gladi bersih dan latihan proyek kokurikuler pada hari Jumat siang hingga sore serta Minggu pagi, sehingga berbenturan langsung dengan waktu ibadah rutin sebagian peserta didik dari beberapa keyakinan berbeda. Sebagai pendidik yang menjunjung nilai Ketuhanan Yang Maha Esa dan penghargaan keberagaman (K.1), sikap profesional yang paling tepat adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Tetap mewajibkan seluruh peserta didik hadir tanpa pengecualian mengikuti jadwal yang telah dicetak panitia agar aturan kedisiplinan kegiatan sekolah berjalan seragam bagi semua murid."
+          },
+          {
+            "id": "B",
+            "text": "Memberikan izin tertulis bagi peserta didik yang hendak beribadah untuk tidak mengikuti latihan, tetapi tetap menerapkan pengurangan nilai kehadiran sebagai konsekuensi administratif kegiatan."
+          },
+          {
+            "id": "C",
+            "text": "Menjamin hak beribadah peserta didik tanpa diskriminasi nilai sekaligus berkoordinasi dengan panitia dan pimpinan sekolah untuk menata ulang jadwal atau menyediakan sesi pengganti yang adil dan inklusif."
+          },
+          {
+            "id": "D",
+            "text": "Mengarahkan peserta didik yang jadwal ibadahnya berbenturan untuk pindah ke tugas dokumentasi individu di rumah agar jadwal latihan kelompok mayoritas di sekolah tidak perlu diubah."
+          },
+          {
+            "id": "E",
+            "text": "Menyerahkan sepenuhnya keputusan kepada masing-masing peserta didik untuk memilih antara menghadiri ibadah rutinnya atau mengejar nilai penuh proyek sebagai latihan menanggung risiko pilihan."
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Subkompetensi K.1 mencerminkan penghormatan terhadap kebebasan beribadah berdasarkan nilai Ketuhanan Yang Maha Esa dan keberagaman. Menghargai hak ibadah tanpa merugikan hak belajar murid sekaligus mengupayakan solusi sistemik penjadwalan inklusif menunjukkan kepemimpinan etis dan adil.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q065",
+        "number": 65,
+        "type": "category",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Setelah mengikuti sesi supervisi klinis semester ganjil, empat orang guru di sekolah menengah menunjukkan respons yang berbeda terhadap hasil evaluasi pembelajaran dan tawaran pelatihan kurikulum baru (K.2)."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan SESUAI atau TIDAK SESUAI respons guru berikut dengan pola pikir bertumbuh (growth mindset) dan semangat belajar sepanjang hayat!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Menolak mengikuti pelatihan pemanfaatan instrumen asesmen digital baru di sekolah karena merasa cara mengajar dan menilai selama lima belas tahun terakhir sudah paling terbukti berhasil."
+          },
+          {
+            "id": "B",
+            "text": "Mencatat penyebab kurang efektifnya diskusi kelompok hari ini di jurnal refleksi mengajar, lalu merancang ulang pertanyaan pemantik untuk dicoba pada pertemuan pekan berikutnya."
+          },
+          {
+            "id": "C",
+            "text": "Menyalahkan rendahnya motivasi dan kualitas input peserta didik setiap kali rata-rata capaian kelas menurun tanpa pernah mengevaluasi kejelasan strategi pengajarannya sendiri."
+          },
+          {
+            "id": "D",
+            "text": "Mengundang rekan sejawat melakukan observasi terbuka di kelasnya serta menerima masukan konstruktif mengenai pola interaksi dan kejelasan umpan balik kepada murid."
+          }
+        ],
+        "categories": [
+          {
+            "id": "sesuai",
+            "text": "Sesuai"
+          },
+          {
+            "id": "tidak-sesuai",
+            "text": "Tidak Sesuai"
+          }
+        ],
+        "correctAnswer": {
+          "A": "tidak-sesuai",
+          "B": "sesuai",
+          "C": "tidak-sesuai",
+          "D": "sesuai"
+        },
+        "explanation": "A) Tidak Sesuai: Menutup diri dari pembaruan kompetensi mencerminkan fixed mindset dan stagnasi profesi. B) Sesuai: Menjadikan hambatan kelas sebagai data refleksi dan perbaikan berkelanjutan adalah inti growth mindset (K.2). C) Tidak Sesuai: Sikap defensif dan menyalahkan murid menghambat pertumbuhan profesional guru. D) Sesuai: Keterbukaan terhadap observasi sejawat menunjukkan kerendahan hati intelektual untuk terus belajar.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q066",
+        "number": 66,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Seorang peserta didik kelas XI yang capaian tes hafalan teorinya berada di kategori rata-rata ternyata memiliki bakat menonjol dalam merancang prototipe mekanis sederhana dan fotografi dokumentasi kegiatan sekolah. Namun, beberapa rekan guru menyarankan agar ia diwajibkan keluar dari seluruh kegiatan ekstrakurikuler teknis dan difokuskan mengikuti bimbingan belajar soal ujian tulis saja. Keputusan konsisten yang paling tepat diambil guru untuk mengembangkan potensi murid (K.3) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Segera mengeluarkan surat rekomendasi agar murid tersebut berhenti dari seluruh ekstrakurikuler sekolah sehingga sore harinya dapat digunakan penuh untuk menghafal soal latihan ujian tulis."
+          },
+          {
+            "id": "B",
+            "text": "Tetap mendukung pengembangan bakat prototipe dan dokumentasinya lewat proyek/lomba relevan, sambil mendampingi penataan jadwal belajar dan strategi konseptual agar ketuntasan mapel wajib tetap terjaga."
+          },
+          {
+            "id": "C",
+            "text": "Mendorong peserta didik mengabaikan capaian mata pelajaran teori wajib di kelas dan mengarahkan seluruh energinya semata-mata pada kegiatan ekstrakurikuler fotografi serta perakitan mekanis."
+          },
+          {
+            "id": "D",
+            "text": "Menyarankan kepada orang tua agar mempertimbangkan memindahkan anaknya ke lembaga kursus nonformal karena sekolah dianggap sulit menyeimbangkan pengembangan bakat unik dengan target nilai ujian."
+          },
+          {
+            "id": "E",
+            "text": "Menyetujui secara diam-diam usulan rekan guru yang melarang murid mengikuti ekstrakurikuler supaya suasana diskusi di ruang guru tetap rukun tanpa silang pendapat mengenai pola pembinaan anak."
+          }
+        ],
+        "correctAnswer": "B",
+        "explanation": "Subkompetensi K.3 menekankan keberpihakan konsisten dalam menumbuhkan potensi unik dan budaya belajar murid secara utuh. Mematikan bakat autentik anak (A) mengabaikan kodrat potensinya, sementara mengabaikan fondasi akademik (C) juga tidak bijak; pendampingan keseimbangan manajemen waktu dan strategi belajar memberi ruang tumbuh optimal bagi murid.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q067",
+        "number": 67,
+        "type": "multiple",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pada jam istirahat yang ramai di depan ruang guru, seorang wali murid datang dengan nada suara tinggi memprotes nilai proyek dan teguran disiplin anaknya di hadapan beberapa peserta didik yang sedang melintas. Sikap yang mencerminkan kematangan emosional, keteladanan etis, dan sikap reflektif guru (K.1 & K.2) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menyapa wali murid dengan tenang dan sopan, lalu mengajaknya berpindah ke ruang konsultasi tertutup demi meredakan ketegangan serta menjaga privasi dan martabat peserta didik."
+          },
+          {
+            "id": "B",
+            "text": "Meninggikan nada suara balik di koridor terbuka agar para murid yang melintas melihat bahwa kewibawaan guru tidak bisa ditekan orang tua."
+          },
+          {
+            "id": "C",
+            "text": "Segera menaikkan nilai proyek anak tersebut di tempat supaya wali murid cepat pulang dan kejadian tidak terdengar oleh kepala sekolah."
+          },
+          {
+            "id": "D",
+            "text": "Mendengarkan kekhawatiran wali murid secara empatik tanpa memotong pembicaraan, kemudian menjelaskan secara objektif bukti rubrik, catatan proses, serta merancang langkah perbaikan belajar bersama."
+          },
+          {
+            "id": "E",
+            "text": "Setelah pertemuan selesai, merefleksikan sistem pelaporan kemajuan belajar berkala agar komunikasi preventif dengan orang tua ke depan berjalan lebih awal dan transparan."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "D",
+          "E"
+        ],
+        "minSelections": 2,
+        "maxSelections": 4,
+        "instruction": "Pilih dua, tiga, atau empat jawaban yang benar.",
+        "explanation": "Kematangan emosional dan etika profesi (K.1) terlihat melalui de-eskalasi tenang dan perlindungan privasi anak (A) serta komunikasi empatik berbasis bukti objektif dan solusi bersama (D), lalu dilanjutkan refleksi sistem komunikasi preventif (K.2, opsi E). Membalas emosi di ruang publik (B) dan mengubah nilai demi menghindari konflik (C) melanggar kode etik profesi guru.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q068",
+        "number": 68,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Seorang guru menginisiasi program 'Jurnal Eksplorasi Mingguan dan Pojok Baca Tematik' di kelasnya untuk menumbuhkan budaya rasa ingin tahu dan literasi kritis. Pada bulan pertama murid sangat antusias, namun memasuki bulan kedua banyak murid mulai jenuh dan mengisi jurnal secara asal-asalan. Tindakan konsisten yang paling tepat dilakukan guru untuk merawat budaya belajar tersebut (K.3) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menghentikan seluruh program pojok baca dan jurnal eksplorasi pada pekan itu juga lalu menyimpulkan bahwa minat baca peserta didik memang belum siap dibina secara rutin."
+          },
+          {
+            "id": "B",
+            "text": "Memberlakukan aturan denda uang kas kelas serta kewajiban menulis ulang tiga halaman penuh bagi setiap peserta didik yang catatan jurnal mingguannya belum mencapai satu halaman."
+          },
+          {
+            "id": "C",
+            "text": "Membiarkan jadwal kegiatan pojok baca tetap tercantum rapi di papan informasi kelas sebagai kelengkapan administrasi supervisi meskipun sebagian besar murid tidak lagi membacanya."
+          },
+          {
+            "id": "D",
+            "text": "Mengajak murid mengevaluasi penyebab kejenuhan, memperkaya variasi bacaan sesuai minat, memberi teladan dengan ikut berbagi catatan bacaan pribadi guru, serta menghadirkan bincang santai temuan mereka."
+          },
+          {
+            "id": "E",
+            "text": "Menyeragamkan bahan bacaan wajib menjadi satu buku referensi tebal yang sama bagi seluruh murid, lalu mengujinya setiap Jumat pagi dengan kuis tertulis mendadak yang masuk nilai rapor."
+          }
+        ],
+        "correctAnswer": "D",
+        "explanation": "Merawat budaya belajar secara konsisten (K.3) memerlukan partisipasi murid (voice & choice) untuk menumbuhkan motivasi intrinsik, variasi sumber yang relevan dengan minat, keteladanan langsung dari guru sebagai pembelajar, serta ruang apresiasi dialogis—bukan ancaman hukuman (B) atau penyeragaman kaku (E).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q069",
+        "number": 69,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dua hari sebelum tenggat penginputan nilai rapor semester, Anda memeriksa proyek akhir peserta didik dan menemukan bahwa karya milik putra seorang rekan guru senior belum memenuhi kriteria ketuntasan minimal pada rubrik penilaian. Sebelumnya, rekan sejawat tersebut sempat menyapa Anda di ruang guru sambil berharap agar nilai anaknya 'dibantu aman' supaya mudah mendaftar beasiswa. Tindakan profesional yang paling sesuai dengan kode etik dan kematangan moral guru (K.1) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Tetap menilai objektif sesuai rubrik yang sama, mengomunikasikan kekurangannya secara santun dan transparan, serta memberi kesempatan pendampingan perbaikan yang setara sebelum tenggat rapor ditutup."
+          },
+          {
+            "id": "B",
+            "text": "Langsung meloloskan dan menaikkan nilai karya anak rekan guru senior tersebut sedikit di atas batas ketuntasan demi menjaga keharmonisan relasi kerja serta menghindari ketegangan di ruang guru."
+          },
+          {
+            "id": "C",
+            "text": "Menutup seluruh peluang perbaikan karya khusus bagi anak rekan sejawat tersebut supaya semua guru melihat ketegasan prinsip Anda bahwa hubungan kekerabatan tidak pernah memengaruhi penilaian."
+          },
+          {
+            "id": "D",
+            "text": "Meminta bantuan guru mata pelajaran serumpun lain untuk menandatangani lembar penilaian proyek khusus milik anak rekan senior tersebut agar Anda terbebas dari dilema maupun rasa canggung."
+          },
+          {
+            "id": "E",
+            "text": "Menjadikan permintaan rekan guru senior tersebut sebagai bahan cerita teguran di depan kelas agar peserta didik memahami bahwa praktik menitipkan nilai bertentangan dengan nilai integritas."
+          }
+        ],
+        "correctAnswer": "A",
+        "explanation": "Integritas dan keadilan tanpa pilih kasih (K.1) mengharuskan guru berpegang teguh pada standar rubrik objektif bagi seluruh murid tanpa terkecuali, sembari tetap menunjukkan sikap kolegial yang santun dan memberikan kesempatan remedial/perbaikan edukatif yang setara dengan murid lain yang belum tuntas.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q070",
+        "number": 70,
+        "type": "category",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Profesionalisme guru tercermin dari integritas akademik, etika menjaga privasi serta martabat peserta didik, dan objektivitas penilaian sehari-hari (K.1, K.2 & K.3)."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan BENAR atau SALAH pernyataan praktik profesional guru berikut!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Mencantumkan secara lengkap sumber referensi buku, artikel ilmiah, atau lisensi gambar digital ketika menyusun modul ajar yang dibagikan kepada peserta didik merupakan wujud integritas akademik dan keteladanan."
+          },
+          {
+            "id": "B",
+            "text": "Mengunduh laporan Penelitian Tindakan Kelas milik guru lain dari internet lalu mengganti nama penulis dan nama sekolahnya demi memenuhi syarat pengembangan profesi adalah praktik yang wajar selama topiknya mirip."
+          },
+          {
+            "id": "C",
+            "text": "Membagikan cerita kendala ekonomi keluarga atau tangkapan layar masalah pribadi seorang murid di media sosial pribadi guru untuk dijadikan konten motivasi diperbolehkan asalkan wajah murid disamarkan sebagian."
+          },
+          {
+            "id": "D",
+            "text": "Memberikan nilai lebih rendah secara subjektif kepada murid yang kritis mempertanyakan penjelasan guru merupakan langkah tepat untuk menjaga kedisiplinan kelas."
+          }
+        ],
+        "categories": [
+          {
+            "id": "benar",
+            "text": "Benar"
+          },
+          {
+            "id": "salah",
+            "text": "Salah"
+          }
+        ],
+        "correctAnswer": {
+          "A": "benar",
+          "B": "salah",
+          "C": "salah",
+          "D": "salah"
+        },
+        "explanation": "A) Benar: Menghargai hak cipta dan mencantumkan sumber rujukan adalah bentuk kejujuran akademik (K.1/K.2). B) Salah: Plagiarisme karya ilmiah melanggar kode etik profesi guru dan hukum hak cipta. C) Salah: Mempublikasikan masalah pribadi/keluarga murid di media sosial melanggar hak privasi, perlindungan anak, dan martabat murid. D) Salah: Penilaian wajib objektif berbasis kriteria capaian belajar, bukan sentimen pribadi terhadap kekritisan murid (K.1/K.3).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q071",
+        "number": 71,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Tata tertib lama di sekolah menetapkan bahwa peserta didik yang datang terlambat lebih dari 15 menit dilarang masuk ruang belajar pada jam pertama dan dihukum berdiri di lapangan sambil membersihkan selokan. Suatu pagi, Anda mengetahui seorang murid kelas XI beberapa kali terlambat bukan karena bermalas-malasan, melainkan harus membantu orang tuanya menyiapkan dagangan pasar subuh sebelum berangkat menggunakan angkutan umum yang jadwalnya jarang. Keputusan yang paling bijaksana, berbasis disiplin positif, dan berpihak pada murid (K.3) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Tetap melarang murid masuk pelajaran jam pertama dan menjalankannya membersihkan selokan sesuai bunyi tata tertib lama agar tidak timbul kesan perlakuan istimewa dari teman sekelasnya."
+          },
+          {
+            "id": "B",
+            "text": "Membiarkan murid tersebut datang pada jam berapa pun tanpa pencatatan kehadiran maupun komunikasi dengan keluarga supaya ia tidak merasa terbebani oleh aturan ketepatan waktu sekolah."
+          },
+          {
+            "id": "C",
+            "text": "Menasihatinya dengan suara keras di depan kelas agar segera menentukan pilihan tegas antara fokus bersekolah tepat waktu atau berhenti sementara membantu usaha dagangan orang tuanya."
+          },
+          {
+            "id": "D",
+            "text": "Meminta pengurus kelas mencatat akumulasi poin pelanggaran disiplin setiap kali ia datang lewat pukul tujuh agar segera diproses bagian kesiswaan untuk penerbitan surat peringatan."
+          },
+          {
+            "id": "E",
+            "text": "Tetap mengizinkannya masuk belajar agar hak pendidikannya terjaga, berdialog empatik seusai pelajaran, lalu berkoordinasi dengan BK, wali kelas, dan keluarga untuk solusi jadwal serta peninjauan sanksi edukatif."
+          }
+        ],
+        "correctAnswer": "E",
+        "explanation": "Keberpihakan pada murid dan penerapan disiplin positif (K.3) tidak pernah menghukum murid dengan mencabut hak utamanya untuk belajar di kelas. Mengizinkan belajar, mendengarkan akar masalah secara empatik, melibatkan BK dan keluarga untuk solusi nyata, serta mendorong evaluasi tata tertib punitif mencerminkan keputusan etis yang berpusat pada murid.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q072",
+        "number": 72,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Di kelas reguler yang Anda ampu terdapat seorang murid pindahan dari luar daerah yang memiliki logat daerah cukup kental sekaligus mengalami hambatan pendengaran ringan, sehingga ia kerap ragu bertanya saat instruksi disampaikan terlalu cepat di ruang kelas yang bising. Strategi komunikasi lisan dan tulisan yang paling inklusif, empatik, dan efektif diterapkan guru (S.1) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menyampaikan seluruh instruksi tugas dengan suara berteriak keras tepat di samping meja murid tersebut agar setiap kata terdengar menembus kebisingan kelas dan cepat dipahami."
+          },
+          {
+            "id": "B",
+            "text": "Menempatkan murid tersebut di sudut paling tenang di barisan belakang dan memintanya cukup menyalin catatan lengkap dari teman sebangkunya setiap kali pelajaran akan berakhir."
+          },
+          {
+            "id": "C",
+            "text": "Menempatkannya di barisan depan agar mudah membaca gerak bibir, berbicara dengan tempo wajar dan artikulasi jelas menghadap kelas, melengkapi instruksi visual/tertulis, serta menghargai logat bahasanya."
+          },
+          {
+            "id": "D",
+            "text": "Menghindari memanggil nama maupun mengajukan pertanyaan lisan kepadanya selama satu semester penuh agar ia merasa tenang dan tidak canggung berbicara di hadapan teman barunya."
+          },
+          {
+            "id": "E",
+            "text": "Menyarankan secara terbuka saat diskusi kelas agar murid tersebut segera membiasakan intonasi kota supaya pertanyaan dan pendapatnya lebih cepat dimengerti oleh seluruh anggota kelas."
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Komunikasi inklusif dan empatik (S.1) mengakomodasi aksesibilitas pendengaran (posisi duduk depan, kontak visual/membaca gerak bibir, artikulasi jelas, dukungan teks visual) sekaligus menghormati keragaman latar budaya dan logat bahasa murid tanpa merendahkan atau mengisolasinya.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q073",
+        "number": 73,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Seorang peserta didik kelas X yang biasanya sangat cekatan saat bekerja dalam kelompok praktik tiba-tiba tampak sering mengantuk, menarik diri dari diskusi, dan tidak mengumpulkan dua tugas proyek terakhir selama tiga pekan berturut-turut. Anda perlu menghubungi orang tuanya secara personal. Kalimat pembuka komunikasi tertulis atau lisan yang paling empatik, objektif, dan kolaboratif (S.1) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "'Selamat siang Bapak/Ibu, saya sampaikan bahwa akhir-akhir ini putra Bapak/Ibu bersikap sangat malas di kelas dan tidak peduli lagi pada tugas proyek sehingga terancam gagal naik kelas.'"
+          },
+          {
+            "id": "B",
+            "text": "'Selamat siang Bapak/Ibu, Ananda biasanya sangat cekatan dalam kerja kelompok. Namun tiga pekan ini tampak kelelahan dan dua tugas belum terkumpul; adakah kondisi tertentu agar kita bisa mendampinginya bersama?'"
+          },
+          {
+            "id": "C",
+            "text": "'Selamat siang Bapak/Ibu, mohon segera batasi jam bermain ponsel dan waktu tidur malam putra Bapak/Ibu di rumah karena kebiasaannya itu membuatnya selalu mengantuk saat jam pelajaran saya.'"
+          },
+          {
+            "id": "D",
+            "text": "'Sebagai orang tua, seharusnya Bapak/Ibu lebih rutin memeriksa buku tugas dan jadwal proyek Ananda setiap malam supaya guru di sekolah tidak terus kesulitan mengejar ketertinggalan nilainya.'"
+          },
+          {
+            "id": "E",
+            "text": "'Kami minta Bapak/Ibu hadir besok pagi pukul delapan menghadap bagian kesiswaan guna menandatangani surat peringatan keterlambatan dua tugas proyek dan penurunan keaktifan putra Bapak/Ibu.'"
+          }
+        ],
+        "correctAnswer": "B",
+        "explanation": "Komunikasi kemitraan yang empatik dengan orang tua (S.1) menerapkan pendekatan berbasis kekuatan (strength-based opening), menyampaikan observasi perilaku faktual tanpa memberi label negatif ('malas'), tidak menyudutkan orang tua, dan membuka dialog sejajar untuk menemukan solusi bersama bagi kebaikan anak.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q074",
+        "number": 74,
+        "type": "category",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pada rapat evaluasi semester, tim pengembang kurikulum SMK mengkaji berbagai pola kerja sama antara guru mata pelajaran, tenaga kependidikan, orang tua, komite sekolah, dan mitra dunia kerja untuk mendukung kesejahteraan belajar murid (S.2)."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan TEPAT atau TIDAK TEPAT bentuk kolaborasi ekosistem pendidikan berikut!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Guru mata pelajaran berkoordinasi erat dengan wali kelas dan guru Bimbingan Konseling (BK) untuk menyusun rencana pendampingan terpadu bagi peserta didik yang mengalami penurunan kehadiran dan motivasi secara drastis."
+          },
+          {
+            "id": "B",
+            "text": "Guru bekerja sama dengan teknisi laboratorium/bengkel dan pustakawan sekolah dalam menata jadwal, keselamatan fasilitas, dan ketersediaan referensi sumber belajar bagi proyek peserta didik."
+          },
+          {
+            "id": "C",
+            "text": "Guru menolak secara prinsip masukan dari komite sekolah dan praktisi dunia kerja lokal terkait penyelarasan program pengenalan karier karena dianggap mencampuri wilayah kewenangan eksklusif guru."
+          },
+          {
+            "id": "D",
+            "text": "Guru membangun komunikasi dua arah yang konstruktif dengan paguyuban orang tua untuk menyelaraskan pembiasaan literasi, kedisiplinan positif, dan keamanan digital murid di sekolah dan di rumah."
+          }
+        ],
+        "categories": [
+          {
+            "id": "tepat",
+            "text": "Tepat"
+          },
+          {
+            "id": "tidak-tepat",
+            "text": "Tidak Tepat"
+          }
+        ],
+        "correctAnswer": {
+          "A": "tepat",
+          "B": "tepat",
+          "C": "tidak-tepat",
+          "D": "tepat"
+        },
+        "explanation": "A) Tepat: Kolaborasi lintas peran internal (guru mapel, wali kelas, BK) menghadirkan dukungan holistik bagi murid. B) Tepat: Tenaga kependidikan (teknisi/laboran/pustakawan) adalah mitra penting ekosistem pembelajaran. C) Tidak Tepat: Menolak partisipasi komite sekolah dan dunia kerja bertentangan dengan subkompetensi S.2 yang menuntut sinergi masyarakat/mitra eksternal. D) Tepat: Kemitraan keluarga-sekolah memperkuat kesinambungan pendidikan karakter.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q075",
+        "number": 75,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Kepala sekolah baru saja meluncurkan forum Komunitas Belajar (Kombel) lintas mata pelajaran yang bertemu rutin dua pekan sekali guna menguatkan praktik pembelajaran mendalam dan asesmen autentik di kelas. Agar keterlibatan Anda benar-benar memperkuat pengembangan keprofesian berkelanjutan bersama sejawat (S.3), bentuk kontribusi paling bermakna adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menghadiri setiap jadwal pertemuan secara fisik sekadar untuk menandatangani presensi dan berfoto dokumentasi demi melengkapi bukti dukung pengelolaan kinerja tahunan."
+          },
+          {
+            "id": "B",
+            "text": "Memanfaatkan forum diskusi untuk menyoroti kekurangan metode mengajar rekan sejawat yang lebih muda secara terbuka tanpa menawarkan contoh strategi maupun solusi pengganti."
+          },
+          {
+            "id": "C",
+            "text": "Menyimpan sendiri seluruh modul inovatif, media interaktif, dan rubrik penilaian terbaik agar tetap tampil sebagai guru paling menonjol ketika jadwal supervisi berlangsung."
+          },
+          {
+            "id": "D",
+            "text": "Berbagi praktik baik rancangan pembelajaran dan rubrik asesmen yang telah dicoba di kelas, terbuka menerima umpan balik atas kendala mengajar, serta berkolaborasi merancang perbaikan bersama."
+          },
+          {
+            "id": "E",
+            "text": "Mengusulkan kepada koordinator Kombel agar sesi diskusi tatap muka ditiadakan saja dan diganti dengan mengirim tautan berkas bacaan di grup pesan agar tidak menyita waktu istirahat."
+          }
+        ],
+        "correctAnswer": "D",
+        "explanation": "Subkompetensi S.3 menekankan partisipasi aktif dan kontributif dalam komunitas belajar dan organisasi profesi. Esensi Kombel adalah budaya saling berbagi praktik baik, kerendahan hati menerima masukan sejawat, dan kolaborasi reflektif yang berdampak langsung pada kualitas belajar peserta didik.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q076",
+        "number": 76,
+        "type": "multiple",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Sekolah menyelenggarakan proyek pengabdian dan pembelajaran berbasis masyarakat di permukiman sekitar yang memiliki beragam tradisi adat dan tingkat sosial ekonomi. Agar komunikasi dan kolaborasi bersama warga berlangsung harmonis, setara, dan beretika (S.1 & S.2), langkah yang tepat dilakukan guru dalam membimbing diri sendiri dan peserta didik adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Mengambil foto jarak dekat kondisi rumah warga prasejahtera lalu mengunggahnya ke media sosial sekolah dengan narasi belas kasihan demi meningkatkan citra promosi penerimaan siswa baru."
+          },
+          {
+            "id": "B",
+            "text": "Melibatkan ketua RT, tokoh masyarakat, dan perwakilan orang tua sejak tahap pemetaan kebutuhan hingga perencanaan program agar kegiatan benar-benar selaras dengan harapan warga setempat."
+          },
+          {
+            "id": "C",
+            "text": "Menyusun seluruh agenda perbaikan lingkungan kampung secara sepihak dari sekolah tanpa berkonsultasi dengan warga karena sekolah dianggap lebih paham standar modern."
+          },
+          {
+            "id": "D",
+            "text": "Meminta peserta didik menggunakan istilah akademis yang rumit saat berdiskusi dengan warga agar masyarakat terkesan pada kecerdasan siswa."
+          },
+          {
+            "id": "E",
+            "text": "Membimbing peserta didik berkomunikasi dengan bahasa yang santun, membumi, menghormati tata krama setempat, serta memposisikan warga sebagai mitra belajar setara yang memiliki kearifan praktis berharga."
+          }
+        ],
+        "correctAnswer": [
+          "B",
+          "E"
+        ],
+        "minSelections": 2,
+        "maxSelections": 4,
+        "instruction": "Pilih dua, tiga, atau empat jawaban yang benar.",
+        "explanation": "Kolaborasi dan komunikasi beretika dengan masyarakat (S.1 & S.2) menuntut pelibatan partisipatif warga sejak tahap perencanaan (B) serta komunikasi santun yang menghargai martabat dan kearifan lokal secara setara (E). Sebaliknya, eksploitasi citra kemiskinan (A), sikap sepihak/patronizing (C), dan penggunaan jargon akademis yang menciptakan jarak sosial (D) melanggar etika sosial pendidik.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q077",
+        "number": 77,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Suasana rapat penyusunan proyek kolaboratif antar-mata pelajaran di SMK sempat memanas dan menemui jalan buntu karena rumpun guru produktif kejuruan keberatan jam praktiknya berkurang, sementara rumpun guru bahasa dan sosial merasa perannya hanya ditempel sebagai pelengkap laporan. Sebagai rekan sejawat dengan kecakapan kolaborasi matang (S.2), langkah mediasi paling konstruktif yang dapat Anda tawarkan adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Mengajak kedua rumpun kembali berfokus pada kompetensi utuh murid, memetakan irisan peran yang saling menguatkan (rekayasa produk sekaligus riset/komunikasi), lalu menyepakati jadwal dan rubrik terpadu."
+          },
+          {
+            "id": "B",
+            "text": "Segera mendukung penuh posisi kelompok guru yang serumpun dan lebih akrab dengan Anda supaya pengambilan keputusan lewat pemungutan suara cepat menghasilkan pemenang."
+          },
+          {
+            "id": "C",
+            "text": "Menyarankan pembatalan proyek lintas mata pelajaran semester ini agar masing-masing guru kembali menjalankan tugas proyek terpisah secara tenang di jam mata pelajarannya sendiri."
+          },
+          {
+            "id": "D",
+            "text": "Meminta wakil kepala bidang kurikulum menetapkan pembagian jam secara sepihak dari atas meja tanpa perlu lagi membuka ruang diskusi bersama perwakilan tim guru yang berbeda pendapat."
+          },
+          {
+            "id": "E",
+            "text": "Memilih tidak berpendapat sama sekali lalu meninggalkan ruangan rapat sebelum kesepakatan tercapai agar hubungan pribadi Anda dengan kedua belah pihak tetap terjaga netral."
+          }
+        ],
+        "correctAnswer": "A",
+        "explanation": "Kolaborasi antarpendidik (S.2) menempatkan kepentingan tumbuh kembang murid di atas ego sektoral mata pelajaran. Memfasilitasi fokus ulang pada tujuan bersama, memetakan irisan kompetensi yang saling melengkapi, dan membangun kesepakatan pembagian peran merupakan praktik resolusi konflik yang konstruktif.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q078",
+        "number": 78,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam forum Musyawarah Guru Mata Pelajaran (MGMP) tingkat kabupaten/kota, terungkap permasalahan bersama di hampir seluruh sekolah anggota: rendahnya daya tahan belajar murid saat menghadapi tugas analitis panjang serta maraknya kebiasaan menyalin jawaban instan dari internet. Langkah kolaboratif tingkat organisasi profesi yang paling berdampak luas dan berkelanjutan (S.3) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Mengisi seluruh agenda pertemuan rutin MGMP sepanjang semester untuk berbagi keluh kesah mengenai merosotnya kedisiplinan belajar siswa dan perubahan kebijakan kurikulum nasional."
+          },
+          {
+            "id": "B",
+            "text": "Mengalihkan sebagian besar kas iuran bulanan MGMP untuk menyelenggarakan kegiatan wisata keakraban antarpengurus tanpa menyertakan agenda penguatan perangkat pembelajaran."
+          },
+          {
+            "id": "C",
+            "text": "Menyeleksi keanggotaan tim perumus hanya dari guru sekolah unggulan di pusat kota supaya proses perancangan soal dan diskusi berjalan cepat tanpa terhambat kendala sekolah pinggiran."
+          },
+          {
+            "id": "D",
+            "text": "Mengundang pembicara tamu untuk berceramah satu arah selama tiga jam mengenai bahaya plagiarisme digital tanpa menyusun panduan penerapan maupun tindak lanjut evaluasi di sekolah."
+          },
+          {
+            "id": "E",
+            "text": "Membentuk tim kerja lintas sekolah menyusun modul kontekstual dan asesmen autentik tahan salin-tempel, menggelar uji coba open class/lesson study, lalu mendiseminasikan hasilnya ke seluruh anggota."
+          }
+        ],
+        "correctAnswer": "E",
+        "explanation": "Organisasi profesi seperti MGMP (S.3) mencapai dampak sistemik tertinggi ketika berfungsi sebagai wadah riset praktis bersama, pengembangan perangkat ajar autentik, pelaksanaan lesson study lintas sekolah, dan diseminasi praktik baik secara inklusif bagi seluruh anggota.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q079",
+        "number": 79,
+        "type": "category",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Sebagai wali kelas XI, Pak Arif mengelola grup WhatsApp resmi yang beranggotakan seluruh orang tua murid sekaligus tergabung dalam grup koordinasi guru sekolah. Untuk menjaga wibawa, privasi, dan komunikasi digital yang santun (S.1), ia meninjau ulang beberapa kebiasaan pengiriman pesan."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan ETIS atau TIDAK ETIS perilaku komunikasi melalui aplikasi pesan instan berikut!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Mengirimkan daftar nama peserta didik yang belum melunasi iuran komite atau yang sering melakukan pelanggaran tata tertib disertai teguran bernada menyindir di grup WhatsApp orang tua kelas."
+          },
+          {
+            "id": "B",
+            "text": "Menyampaikan pengumuman agenda pembelajaran, jadwal asesmen, dan panduan persiapan proyek di grup orang tua menggunakan bahasa baku yang santun, ringkas, jelas, serta dikirim pada jam kerja yang wajar."
+          },
+          {
+            "id": "C",
+            "text": "Meneruskan pesan berantai berisi tautan berita sensasional mengenai kebijakan pendidikan atau isu kesehatan yang belum diverifikasi kebenarannya ke grup resmi komunitas sekolah."
+          },
+          {
+            "id": "D",
+            "text": "Menghubungi orang tua melalui jalur pesan pribadi (chat personal) ketika perlu membicarakan kendala belajar, kehadiran, atau persoalan perilaku spesifik milik anaknya."
+          }
+        ],
+        "categories": [
+          {
+            "id": "etis",
+            "text": "Etis"
+          },
+          {
+            "id": "tidak-etis",
+            "text": "Tidak Etis"
+          }
+        ],
+        "correctAnswer": {
+          "A": "tidak-etis",
+          "B": "etis",
+          "C": "tidak-etis",
+          "D": "etis"
+        },
+        "explanation": "A) Tidak Etis: Mempermalukan murid dan keluarganya secara terbuka di ruang grup publik melanggar privasi dan martabat manusia. B) Etis: Komunikasi terstruktur, sopan, dan menghormati batas jam kerja mencerminkan profesionalisme guru (S.1). C) Tidak Etis: Menyebarkan disinformasi/hoaks merusak kredibilitas pendidik dan memicu keresahan. D) Etis: Membahas kendala personal murid melalui jalur pribadi menjaga kerahasiaan dan membangun ruang dialog sehat dengan orang tua.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-1-q080",
+        "number": 80,
+        "type": "multiple",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Secara menyeluruh, penguasaan kompetensi sosial guru—meliputi komunikasi efektif dan empatik (S.1), kolaborasi ekosistem sekolah dan masyarakat (S.2), serta partisipasi dalam komunitas profesi (S.3)—bermuara pada pembelajaran yang berpihak kepada murid. Manakah praktik-praktik di bawah ini yang mencerminkan integrasi utuh ketiga subkompetensi sosial tersebut?"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Membatasi komunikasi dengan orang tua hanya ketika terjadi kasus pelanggaran berat atau pada hari pembagian rapor akhir semester."
+          },
+          {
+            "id": "B",
+            "text": "Membangun komunikasi dialogis, inklusif, dan peka terhadap keberagaman latar belakang sosial budaya murid untuk memahami hambatan belajar serta aspirasinya."
+          },
+          {
+            "id": "C",
+            "text": "Menyimpan sendiri seluruh temuan strategi pembelajaran efektif tanpa berbagi di forum guru agar selalu menjadi pendidik paling menonjol di sekolah."
+          },
+          {
+            "id": "D",
+            "text": "Aktif berbagi praktik baik, mengikuti pelatihan pembaruan pedagogi, serta terlibat dalam kegiatan lesson study bersama rekan sejawat di Komunitas Belajar sekolah dan MGMP."
+          },
+          {
+            "id": "E",
+            "text": "Berkolaborasi secara berkelanjutan dengan puskesmas, konselor komunitas, dunia usaha/industri lokal, dan paguyuban orang tua guna mendukung kesehatan mental, pencegahan perundungan, dan wawasan karier peserta didik."
+          }
+        ],
+        "correctAnswer": [
+          "B",
+          "D",
+          "E"
+        ],
+        "minSelections": 2,
+        "maxSelections": 4,
+        "instruction": "Pilih dua, tiga, atau empat jawaban yang benar.",
+        "explanation": "Integrasi utuh kompetensi sosial guru terwujud melalui komunikasi dialogis yang inklusif dan empatik terhadap keragaman murid (S.1, opsi B), kolaborasi multipihak lintas ekosistem sekolah, orang tua, layanan kesehatan, dan dunia kerja (S.2, opsi E), serta peran aktif berbagi dan belajar bersama di Kombel/MGMP (S.3, opsi D). Sebaliknya, komunikasi tertutup/reaktif (A) dan sikap individualistis-eksklusif (C) bertentangan dengan esensi kompetensi sosial pendidik.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "id": "teknik-mesin-mcb-2",
+    "category": "prodi",
+    "programId": "teknik-mesin",
+    "groupLabel": "Teknik Mesin",
+    "title": "Tryout PCK (MCB) Teknik Mesin 2",
+    "description": "Latihan 80 soal UKPPPG Pendidikan Teknik Mesin Paket 2 (50 soal studi kasus PCK Teknik Mesin + 30 soal Pedagogi Umum) campuran PG, PGK Kategori, dan PGK MCMA dengan studi kasus berbeda beserta pembahasan lengkap.",
+    "durationMinutes": 150,
+    "questions": [
+      {
+        "id": "teknik-mesin-mcb-2-q001",
+        "number": 1,
+        "type": "single",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Menjelang praktik pemesinan kelas XI, guru Teknik Pemesinan SMK menyusun alur tujuan pembelajaran pada elemen mesin frais dengan fokus pembuatan roda gigi lurus (spur gear) memakai kepala pembagi (dividing head). Agar rumusan tujuan pembelajaran tersebut utuh memadukan penguasaan konsep teknis, kecakapan praktik presisi, serta karakter Profil Pelajar Pancasila (PF.1 & P.1), formulasi yang paling tepat adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Peserta didik mampu melafalkan seluruh rumus diameter tusuk, tinggi kepala gigi, dan perbandingan gigi cacing 40:1 pada kepala pembagi secara lisan di depan kelas tanpa bantuan buku tabel pemesinan maupun kalkulator."
+          },
+          {
+            "id": "B",
+            "text": "Peserta didik mampu menghitung dimensi roda gigi modul m dan pembagian tak langsung kepala pembagi, melaksanakan pengefraisan secara aman dan mandiri, serta mengevaluasi ketepatan profil gigi secara kritis dan jujur."
+          },
+          {
+            "id": "C",
+            "text": "Peserta didik mampu menyalin lengkap tabel nomor pisau frais modul (No. 1 sampai No. 8) beserta daftar lingkaran lubang piring pembagi standar Brown & Sharpe ke dalam buku catatan bengkel sebagai syarat masuk praktik."
+          },
+          {
+            "id": "D",
+            "text": "Peserta didik mampu mengerjakan 30 butir soal pilihan ganda mengenai nama komponen mesin frais vertikal-horizontal dan jenis arbor pemegang pisau hingga mencapai ketuntasan nilai minimal 80 dalam waktu 60 menit."
+          },
+          {
+            "id": "E",
+            "text": "Peserta didik mampu mengamati demonstrasi guru memotong alur roda gigi lurus di bengkel pemesinan lalu menulis ulang urutan langkah kerja sesuai prosedur yang didiktekan tanpa melakukan evaluasi hasil pengukuran."
+          }
+        ],
+        "correctAnswer": "B",
+        "explanation": "Tujuan pendidikan Teknik Mesin pada satuan pendidikan vokasi (PF.1) memadukan penguasaan konsep keteknikan (perhitungan modul dan rasio dividing head), keterampilan praktik pemesinan aman dan presisi, serta karakter Profil Pelajar Pancasila (mandiri, bernalar kritis, dan jujur dalam evaluasi kualitas). Opsi B mencerminkan pembelajaran konseptual, kontekstual, dan reflektif (P.1), sedangkan A, C, D, dan E berhenti pada hafalan, penyalinan, atau observasi pasif.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q002",
+        "number": 2,
+        "type": "single",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Saat pembelajaran Mekanika Teknik materi Reaksi Tumpuan Balok di kelas X, banyak peserta didik berkeyakinan bahwa pada balok horizontal bertumpuan sendi-rol yang memikul satu beban terpusat P lebih dekat ke tumpuan A, kedua tumpuan tetap memikul reaksi sama besar (0,5 P) dan momen lentur maksimum selalu terjadi di tengah bentang. Strategi perubahan konseptual (conceptual change) yang paling efektif dilakukan guru (PF.2 & P.1) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Langsung menurunkan persamaan keseimbangan statika ∑MA = 0 dan ∑Fy = 0 secara aljabar di papan tulis lalu memberikan 15 soal latihan hitungan balok asimetris agar murid terbiasa memasukkan angka ke dalam rumus."
+          },
+          {
+            "id": "B",
+            "text": "Meminta peserta didik menghafal kaidah perbandingan terbalik jarak lengan beban terhadap reaksi tumpuan dan menguji hafalan tersebut melalui kuis lisan cepat sebelum memulai latihan menggambar diagram momen lentur."
+          },
+          {
+            "id": "C",
+            "text": "Memberikan pengurangan nilai ketelitian setiap kali murid menggambar puncak diagram momen lentur tepat di tengah bentang pada beban asimetris agar mereka lebih waspada mengikuti contoh penyelesaian di buku teks."
+          },
+          {
+            "id": "D",
+            "text": "Memfasilitasi percobaan balok uji di atas dua timbangan digital, menggeser beban mendekati salah satu tumpuan agar murid melihat perubahan gaya reaksi nyata, lalu mengaitkannya dengan kesetimbangan momen."
+          },
+          {
+            "id": "E",
+            "text": "Menunda pembahasan kasus beban terpusat tidak simetris ke kelas XI dan memfokuskan seluruh latihan kelas X pada beban simetris di tengah bentang agar rasa percaya diri peserta didik dalam menghitung tetap terjaga."
+          }
+        ],
+        "correctAnswer": "D",
+        "explanation": "Miskonsepsi simetri beban pada balok sederhana sangat kuat karena murid terbiasa membayangkan pembagian beban merata secara intuitif (PF.2). Pengalaman empiris menggunakan balok di atas dua timbangan digital menciptakan konflik kognitif nyata saat pembacaan gaya reaksi berubah asimetris mengikuti jarak beban, lalu dijembatani ke konsep kesetimbangan momen (P.1).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q003",
+        "number": 3,
+        "type": "category",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Sebuah kelompok praktik mesin frais menyelidiki penyebab timbulnya bunyi dengung getaran pemotongan (chatter) dan permukaan bergelombang saat mengefris rata balok aluminium 6061. Guru membimbing kelompok tersebut merancang pengujian terkendali untuk memverifikasi pengaruh kekakuan pemegang pisau (PF.2 & P.1)."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan SESUAI atau TIDAK SESUAI penetapan variabel dan langkah pengujian pemesinan berikut!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Jika hipotesisnya adalah 'peningkatan panjang juluran (overhang) pisau endmill memperbesar getaran chatter dan kekasaran permukaan', maka jenis material benda kerja, diameter pisau, kedalaman potong, dan kekuatan penjepitan ragum ditetapkan sebagai variabel kontrol."
+          },
+          {
+            "id": "B",
+            "text": "Variasi panjang juluran pisau endmill dari collet (misalnya 25 mm, 45 mm, dan 65 mm) yang sengaja diubah-ubah oleh kelompok penguji dikategorikan sebagai variabel terikat."
+          },
+          {
+            "id": "C",
+            "text": "Nilai kekasaran permukaan (Ra) hasil pengukuran surface roughness tester dan amplitudo getaran yang tercatat pada setiap perlakuan merupakan variabel terikat (respons)."
+          },
+          {
+            "id": "D",
+            "text": "Pengujian pemotongan awal menggunakan panjang juluran pisau minimum standar pabrikan berfungsi sebagai kondisi pembanding (baseline) untuk menilai kenaikan getaran."
+          }
+        ],
+        "categories": [
+          {
+            "id": "sesuai",
+            "text": "Sesuai"
+          },
+          {
+            "id": "tidak-sesuai",
+            "text": "Tidak Sesuai"
+          }
+        ],
+        "correctAnswer": {
+          "A": "sesuai",
+          "B": "tidak-sesuai",
+          "C": "sesuai",
+          "D": "sesuai"
+        },
+        "explanation": "1) A Sesuai: Material, jenis cutter, kedalaman potong, dan penjepitan wajib dibuat konstan agar perubahan chatter murni berasal dari overhang pisau. 2) B Tidak Sesuai: Panjang juluran pisau yang sengaja dimanipulasi adalah variabel bebas, bukan variabel terikat. 3) C Sesuai: Kekasaran permukaan (Ra) dan amplitudo getaran adalah hasil yang diukur (variabel terikat). 4) D Sesuai: Pengujian juluran minimum standar menjadi acuan baseline perbandingan kekakuan pemotongan.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q004",
+        "number": 4,
+        "type": "multiple",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pada pembelajaran pengelasan GMAW (MIG/MAG) dan GTAW (TIG) di kelas XI, guru mendata sejumlah pemahaman murid mengenai peran gas pelindung, panjang juluran kawat (stick-out), dan penyebab cacat sambungan las (PF.2 & P.2). Manakah pernyataan teknis yang BENAR dan perlu dikuatkan guru kepada peserta didik?"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Debit gas pelindung argon atau CO₂ yang terlalu tinggi justru dapat menimbulkan aliran turbulen yang menyedot udara atmosfer ke dalam kawah las sehingga memicu cacat porositas."
+          },
+          {
+            "id": "B",
+            "text": "Pada pengelasan GTAW (TIG), menyentuhkan ujung elektroda tungsten langsung ke kawah logam cair sangat dianjurkan agar busur lebih stabil dan mempercepat penetrasi."
+          },
+          {
+            "id": "C",
+            "text": "Panjang stick-out kawat elektroda yang berlebihan pada GMAW meningkatkan hambatan listrik kawat sehingga arus pengelasan turun dan berisiko menyebabkan cacat kurang fusi (lack of fusion)."
+          },
+          {
+            "id": "D",
+            "text": "Penggunaan arus pengelasan terlalu besar disertai kecepatan gerak las (travel speed) yang terlalu lambat pada pelat baja tipis berisiko menimbulkan cacat tembus berlebih atau lubang bakar (burn-through)."
+          },
+          {
+            "id": "E",
+            "text": "Lembar Welding Procedure Specification (WPS) hanya berlaku untuk sertifikasi juru las di industri migas sehingga rentang arus dan voltase pada WPS bebas diubah melampaui batas saat praktik."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "C",
+          "D"
+        ],
+        "minSelections": 2,
+        "maxSelections": 4,
+        "instruction": "Pilih dua, tiga, atau empat jawaban yang benar.",
+        "explanation": "Pernyataan A benar karena debit gas pelindung berlebihan memicu efek Venturi/turbulensi yang menarik oksigen dan nitrogen sehingga terjadi porositas (PF.2). Pernyataan C benar karena stick-out terlalu panjang menaikkan resistansi kawat dan menurunkan arus aktual sehingga penetrasi/fusi melemah. Pernyataan D benar karena masukan panas (heat input) berlebih pada pelat tipis menyebabkan burn-through. B salah karena kontak tungsten dengan kawah cair menyebabkan kontaminasi inklusi tungsten; E salah karena WPS adalah acuan baku wajib untuk menjamin mutu sambungan las.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q005",
+        "number": 5,
+        "type": "single",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Sebagian besar peserta didik kelas XI meyakini bahwa sistem dongkrak hidrolik dapat 'menciptakan energi baru' karena gaya dorong kecil pada piston input mampu mengangkat beban sangat berat pada piston output, sekaligus mengira piston besar bergerak naik dengan jarak langkah yang sama jauhnya dengan piston kecil. Desain penyelidikan sederhana yang paling efektif untuk meluruskan kedua miskonsepsi tersebut (PF.2 & P.1) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Memfasilitasi percobaan dua suntikan hidrolik berdiameter berbeda yang terhubung selang fluida, mengukur gaya dorong dan jarak langkah kedua piston, lalu membandingkan usaha input (F₁·s₁) terhadap usaha output (F₂·s₂)."
+          },
+          {
+            "id": "B",
+            "text": "Menugaskan peserta didik menggambar lengkap simbol skematik katup pengarah 4/3, katup pelepas tekanan, dan pompa roda gigi hidrolik sesuai standar ISO 1219 pada kertas gambar A3 menggunakan pensil mekanik."
+          },
+          {
+            "id": "C",
+            "text": "Menjelaskan berulang kali di depan papan tulis bahwa hukum kekekalan energi selalu berlaku pada setiap mesin fluida di alam semesta tanpa menghadirkan perangkat uji gerak piston bagi peserta didik."
+          },
+          {
+            "id": "D",
+            "text": "Meminta peserta didik menghafal persamaan P = F₁/A₁ = F₂/A₂ beserta latihan konversi satuan tekanan antara bar, megapascal (MPa), dan pound per square inch (psi) dari tabel konversi teknik."
+          },
+          {
+            "id": "E",
+            "text": "Menayangkan video dokumenter mesin press hidrolik industri berkapasitas 100 ton saat menghancurkan balok baja keras sambil meminta murid menebak berapa gaya tekan totalnya tanpa mengamati rasio langkah."
+          }
+        ],
+        "correctAnswer": "A",
+        "explanation": "Eksperimen dua silinder/suntikan berdiameter berbeda secara langsung membuktikan prinsip kontinuitas volume fluida (A₁·s₁ = A₂·s₂) dan kekekalan energi (F₁·s₁ ≈ F₂·s₂ dikurangi rugi gesekan): pelipatgandaan gaya pada piston besar selalu dibayar dengan jarak langkah yang jauh lebih pendek (PF.2 & P.1). Opsi B–E tidak menghadirkan bukti empiris untuk membongkar miskonsepsi energi dan perpindahan.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q006",
+        "number": 6,
+        "type": "single",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Saat mempersiapkan praktik mesin gerinda datar (surface grinder) yang membutuhkan pemasangan batu gerinda vitrified baru, seorang peserta didik bertanya mengapa batu gerinda tidak boleh langsung dikencangkan sekuat tenaga dengan kunci panjang lalu langsung dinyalakan sambil berdiri tepat di depan roda. Penjelasan konseptual dan prosedural K3 yang wajib ditekankan guru Teknik Mesin (PF.2 & P.3) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Batu gerinda baru cukup diperiksa permukaan luarnya secara visual di bawah lampu terang lalu langsung diuji sentuh pada potongan baja lunak selama beberapa detik untuk memastikan dudukannya sudah mantap pada spindel."
+          },
+          {
+            "id": "B",
+            "text": "Mur pengikat flens memang perlu dikencangkan sekuat tenaga tanpa kertas bantalan (blotter) agar kontak logam flens terhadap keramik batu gerinda berlangsung langsung sehingga batu tidak pernah selip saat menggerinda."
+          },
+          {
+            "id": "C",
+            "text": "Uji ketuk bunyi (ring test) hanya wajib dilakukan pada batu gerinda bekas pakai yang jatuh, sedangkan batu gerinda baru dari kemasan pabrik dijamin bebas retak internal sehingga tidak memerlukan uji putar tanpa beban."
+          },
+          {
+            "id": "D",
+            "text": "Pelindung roda (wheel guard) sebaiknya dilepas sementara selama satu menit pertama saat uji putar awal supaya operator dapat mengamati kelurusan oleng sisi batu gerinda secara langsung dari posisi depan mesin."
+          },
+          {
+            "id": "E",
+            "text": "Wajib melakukan ring test untuk mendeteksi retak internal, memastikan batas RPM batu ≥ RPM spindel, memasang blotter serta mengencangkan mur secukupnya, lalu uji putar 1 menit dengan pelindung terpasang sambil berdiri di samping bidang putar."
+          }
+        ],
+        "correctAnswer": "E",
+        "explanation": "Batu gerinda berikatan keramik (vitrified) bersifat getas dan dapat pecah meledak akibat gaya sentrifugal bila terdapat retak mikro atau tegangan jepit berlebih (PF.2 & P.3). Ring test (suara nyaring jernih vs tumpul menandakan retak), kesesuaian batas kecepatan putar, keberadaan kertas blotter perata tekanan flens, pelindung roda terpasang, dan posisi berdiri di luar bidang putar saat uji jalan 1 menit adalah SOP K3 wajib.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q007",
+        "number": 7,
+        "type": "category",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Guru Teknik Mesin merancang praktikum pengendalian mutu dan pengujian bahan untuk melatih peserta didik memilih metode uji destruktif maupun uji tak merusak (NDT) sesuai karakteristik komponen serta tujuan inspeksi (PF.2 & P.1)."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan TEPAT atau TIDAK TEPAT pasangan kebutuhan inspeksi komponen dan metode pengujian berikut!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Mendeteksi retak rambut terbuka di permukaan sambungan las baja tahan karat non-magnetik menggunakan metode NDT Liquid Dye Penetrant Testing (PT) berdasarkan prinsip kapilaritas."
+          },
+          {
+            "id": "B",
+            "text": "Mengukur kekerasan permukaan pisau bubut HSS atau poros baja paduan yang telah dikeraskan menggunakan uji kekerasan Rockwell skala C (HRC) dengan indenter kerucut intan."
+          },
+          {
+            "id": "C",
+            "text": "Mengukur kekerasan pelat baja tipis setebal 0,6 mm yang sangat keras menggunakan uji Brinell berbeban 3000 kgf dan bola berdiameter 10 mm agar bekas lekukan tampak jelas."
+          },
+          {
+            "id": "D",
+            "text": "Menentukan batas luluh (yield strength), kekuatan tarik maksimum (UTS), dan persentase perpanjangan (elongation) batang baja konstruksi menggunakan mesin uji tarik universal (UTM)."
+          }
+        ],
+        "categories": [
+          {
+            "id": "tepat",
+            "text": "Tepat"
+          },
+          {
+            "id": "tidak-tepat",
+            "text": "Tidak Tepat"
+          }
+        ],
+        "correctAnswer": {
+          "A": "tepat",
+          "B": "tepat",
+          "C": "tidak-tepat",
+          "D": "tepat"
+        },
+        "explanation": "1) A Tepat: Dye penetrant bekerja dengan gaya kapilaritas sehingga efektif mendeteksi retak terbuka permukaan pada material non-magnetik seperti baja tahan karat austenitik. 2) B Tepat: Rockwell C (kerucut intan, beban 150 kgf) sesuai untuk logam keras seperti HSS/baja yang dikeraskan. 3) C Tidak Tepat: Uji Brinell beban besar menembus/mendeformasi pelat tipis (efek landasan/anvil effect) dan merusak indenter pada logam sangat keras; gunakan Rockwell Superficial atau Vickers mikro. 4) D Tepat: Uji tarik menghasilkan kurva tegangan-regangan lengkap untuk nilai luluh, UTS, dan keuletan.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q008",
+        "number": 8,
+        "type": "single",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam praktikum analisis kurva tegangan-regangan hasil uji tarik baja karbon rendah, guru meminta peserta didik menjelaskan apa yang terjadi jika batang pengikat mesin menerima beban tarik sedikit melampaui titik luluh (yield strength) lalu beban dilepaskan, serta mengapa perancangan komponen ulet mengacu pada tegangan luluh dengan faktor keamanan (safety factor) ketimbang tegangan putus. Jawaban teknis yang paling tepat menunjukkan pemahaman konseptual murid (PF.2 & P.2) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Batang baja karbon rendah akan langsung putus seketika saat melewati titik luluh tanpa mengalami peregangan leher, sehingga nilai tegangan luluh dan tegangan tarik maksimum pada baja ulet sesungguhnya identik."
+          },
+          {
+            "id": "B",
+            "text": "Batang baja akan kembali persis ke panjang semula begitu beban dilepaskan karena seluruh logam konstruksi berperilaku elastis sempurna selama gaya tariknya belum melampaui titik putus akhir spesimen."
+          },
+          {
+            "id": "C",
+            "text": "Batang baja mengalami deformasi plastis permanen sehingga tidak kembali ke bentuk awal; karena itu perancangan komponen ulet membatasi tegangan izin di bawah tegangan luluh (σ_izin = σ_y / SF) agar komponen tidak gagal fungsi sebelum putus."
+          },
+          {
+            "id": "D",
+            "text": "Faktor keamanan dalam perancangan elemen mesin dihitung dengan mengalikan tegangan putus terhadap faktor 2 hingga 3 supaya kapasitas tegangan kerja izin komponen menjadi berlipat ganda melampaui kekuatan aslinya."
+          },
+          {
+            "id": "E",
+            "text": "Deformasi plastis permanen sesungguhnya hanya terjadi pada material getas seperti besi cor kelabu, sedangkan pemanjangan kecil pada baja karbon rendah tidak berpengaruh terhadap ketelitian suaian mekanis."
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Pada material ulet seperti baja karbon rendah, pembebanan melampaui batas luluh (yield point) menimbulkan deformasi plastis permanen yang merusak geometri dan fungsi mekanisme meskipun benda belum putus (PF.2). Oleh sebab itu, tegangan izin (allowable stress) dihitung dengan membagi tegangan luluh terhadap faktor keamanan (SF > 1), bukan mengalikannya (D salah).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q009",
+        "number": 9,
+        "type": "multiple",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pada pembelajaran Elemen Mesin topik Sistem Transmisi Sabuk-Puli, Roda Gigi, dan Bantalan (Bearing), guru membimbing peserta didik menganalisis efisiensi penyaluran daya, rasio putaran-torsi, serta fungsi pelumasan (PF.2 & P.1). Manakah pernyataan teknis yang BENAR?"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Pada transmisi reduksi roda gigi dari gigi penggerak kecil ke gigi digerakkan besar, kecepatan putar poros keluaran menurun sedangkan torsi keluarannya meningkat secara proporsional setelah dikurangi rugi gesekan."
+          },
+          {
+            "id": "B",
+            "text": "Transmisi sabuk-V memiliki potensi selip yang berguna meredam beban kejut motor, namun tidak cocok untuk mekanisme yang menuntut sinkronisasi posisi sudut secara presisi seperti poros kam (camshaft)."
+          },
+          {
+            "id": "C",
+            "text": "Penambahan jumlah pasangan roda gigi reduksi dapat memperbesar daya mekanik total (Watt) yang keluar melebihi daya motor listrik penggeraknya."
+          },
+          {
+            "id": "D",
+            "text": "Pelumasan hidrodinamik pada bantalan luncur bekerja membentuk lapisan tipis film oli bertekanan di antara poros berputar dan rumah bantalan sehingga mencegah kontak logam langsung dan menekan keausan."
+          },
+          {
+            "id": "E",
+            "text": "Bantalan bola alur dalam (deep groove ball bearing) selalu memiliki kapasitas tumpuan beban aksial searah yang lebih besar dibandingkan bantalan rol tirus (tapered roller bearing) pada ukuran diameter poros yang sama."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "D"
+        ],
+        "minSelections": 2,
+        "maxSelections": 4,
+        "instruction": "Pilih dua, tiga, atau empat jawaban yang benar.",
+        "explanation": "Berdasarkan prinsip mekanika daya (P = T·ω, PF.2), reduksi putaran menaikkan torsi namun tidak pernah menciptakan daya lebih besar dari input (A benar, C salah). Sabuk-V mengandalkan gesekan sehingga bisa selip untuk proteksi beban kejut tetapi tidak sinkron presisi (B benar). Film oli hidrodinamik memisahkan permukaan gesek (D benar). Bantalan rol tirus memiliki kontak garis miring yang jauh lebih unggul memikul kombinasi beban radial-aksial berat dibanding bantalan bola alur dalam (E salah).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q010",
+        "number": 10,
+        "type": "single",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Banyak peserta didik salah memahami teknik pemotongan pada mesin frais dengan beranggapan bahwa 'pengefraisan searah (down-milling / climb milling) selalu paling aman dan wajib diterapkan pada semua jenis mesin frais konvensional karena menghasilkan permukaan lebih halus dan umur pahat lebih lama'. Penjelasan konseptual yang paling akurat disampaikan guru Teknik Mesin (PF.2) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Gaya potong down-milling searah gerak pemakanan sehingga menarik benda kerja ke pisau; pada mesin frais konvensional berulir longgar (backlash) tanpa backlash eliminator, tarikan mendadak ini dapat menjepit dan mematahkan pisau."
+          },
+          {
+            "id": "B",
+            "text": "Pada teknik up-milling (konvensional), geram mulai terpotong dari ketebalan maksimum langsung menuju nol sehingga pisau frais selalu menekan benda kerja kuat ke bawah meja tanpa menimbulkan gaya angkat."
+          },
+          {
+            "id": "C",
+            "text": "Teknik down-milling justru dilarang diterapkan pada mesin CNC Milling 3-Axis modern karena sistem penggerak ballscrew dan motor servo tidak dirancang untuk menahan arah gaya potong searah gerak meja."
+          },
+          {
+            "id": "D",
+            "text": "Perbedaan mendasar antara metode up-milling dan down-milling semata-mata ditentukan oleh apakah pemotongan menggunakan aliran coolant bertekanan tinggi atau pemotongan kering, bukan arah putaran pisau terhadap pemakanan."
+          },
+          {
+            "id": "E",
+            "text": "Up-milling selalu menghasilkan kekasaran permukaan jauh lebih halus dan umur pahat lebih panjang dibanding down-milling pada semua mesin CNC karena mata potong tidak pernah mengalami gesekan awal."
+          }
+        ],
+        "correctAnswer": "A",
+        "explanation": "Secara konseptual (PF.2), pada down-milling (climb milling) arah putaran pisau di zona potong searah dengan gerak pemakanan (feed), sehingga menarik meja kerja maju. Pada mesin frais konvensional dengan ulir trapesium ber-backlash, meja dapat melonjak tiba-tiba dan mematahkan pisau, berbeda dengan mesin CNC ber-ballscrew presisi yang justru optimal memakai down-milling. Opsi B terbalik (geram up-milling dari tipis ke tebal), dan C–E keliru secara teknis.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q011",
+        "number": 11,
+        "type": "single",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Di sekitar lokasi SMK terdapat sentra perajin pengecoran logam aluminium dan kuningan tradisional yang memproduksi komponen suku cadang rumah tangga serta alat pertanian dengan cetakan pasir (sand casting). Guru Teknik Mesin ingin merancang pembelajaran Pengecoran Logam yang kontekstual sekaligus mengaitkan pengetahuan lokal perajin dengan prinsip keteknikan modern (PF.3 & P.5). Desain kegiatan belajar yang paling bermakna adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Meminta peserta didik membeli beberapa produk cor jadi dari perajin sekitar lalu mempresentasikan perbandingan harga jualnya di pasaran tanpa mengkaji proses pembuatan cetakan maupun kualitas logamnya."
+          },
+          {
+            "id": "B",
+            "text": "Menjelaskan di kelas bahwa teknik cetakan pasir perajin tradisional tergolong metode lama yang kurang presisi lalu memfokuskan pembelajaran hanya pada teori mesin pengecoran otomatis (die casting) dari buku paket."
+          },
+          {
+            "id": "C",
+            "text": "Menugaskan setiap kelompok menyusun makalah sejarah perkembangan industri pengecoran logam di Eropa abad pertengahan berdasarkan artikel daring tanpa mengaitkannya dengan sentra pengecoran sekitar."
+          },
+          {
+            "id": "D",
+            "text": "Memfasilitasi observasi dan wawancara terpandu dengan perajin lokal tentang pembuatan pola, kadar air pasir cetak, dan saluran tuang, lalu menguji pengaruh rancangan gating system dan riser terhadap cacat shrinkage serta porositas di bengkel."
+          },
+          {
+            "id": "E",
+            "text": "Menginstruksikan peserta didik langsung ikut menuangkan aluminium cair di tungku perajin pada kunjungan pertama tanpa pembekalan teori permeabilitas pasir cetak maupun APD tahan percikan logam cair."
+          }
+        ],
+        "correctAnswer": "D",
+        "explanation": "Pembelajaran berbasis potensi dan kearifan lokal (PF.3 & P.5) menjembatani praktik empiris masyarakat dengan konsep teknik modern. Mengamati dan mewawancarai perajin mengenai pola, permeabilitas pasir, dan gating system lalu menganalisis hubungan teknisnya terhadap cacat cor membuat konsep metalurgi menjadi nyata, aman, dan menghargai komunitas lokal.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q012",
+        "number": 12,
+        "type": "single",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Seorang peserta didik kelas XI memiliki hambatan buta warna parsial (sulit membedakan merah dan hijau) saat mengikuti praktikum pengawatan panel elektro-pneumatik, pembacaan status lampu indikator PLC, dan pengecekan kode jalur fluida. Penyesuaian media dan strategi pembimbingan yang paling tepat sesuai prinsip pendidikan inklusif vokasi (PF.3 & P.2) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Membebaskan murid tersebut dari seluruh sesi praktikum panel elektro-pneumatik dan PLC sepanjang semester lalu menggantinya dengan penugasan merangkum bab komponen katup solenoid dari buku ajar."
+          },
+          {
+            "id": "B",
+            "text": "Melengkapi kabel, selang, dan tombol panel dengan label kode alfanumerik (mis. +24V, 0V, 1Y1, NO/NC) serta simbol grafis tegas, lalu membiasakan verifikasi jalur memakai multimeter agar ia tetap merangkai secara mandiri dan aman."
+          },
+          {
+            "id": "C",
+            "text": "Meminta murid tersebut tetap menebak perbedaan kabel merah dan hijau tanpa label tambahan di depan teman kelompoknya sebagai latihan adaptasi mental menghadapi tuntutan kerja di bengkel industri."
+          },
+          {
+            "id": "D",
+            "text": "Menyerahkan seluruh tugas pengawatan dan pengujian sinyal rangkaian PLC kepada teman satu kelompoknya sementara murid tersebut cukup bertugas memotret hasil rangkaian akhir untuk laporan."
+          },
+          {
+            "id": "E",
+            "text": "Menurunkan standar capaian pembelajaran khusus bagi murid tersebut sehingga ia tidak dituntut memahami diagram tangga PLC, pengalamatan input-output, maupun urutan kerja aktuator pneumatik."
+          }
+        ],
+        "correctAnswer": "B",
+        "explanation": "Dalam pembelajaran vokasi inklusif (PF.3 & P.2), hambatan persepsi warna diakomodasi dengan prinsip desain universal (universal design): pelabelan kode alfanumerik, simbol bentuk/posisi jelas sesuai standar IEC, dan verifikasi kontinuitas alat ukur—yang justru selaras dengan standar keamanan panel industri modern tanpa menurunkan standar kompetensi.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q013",
+        "number": 13,
+        "type": "category",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Menjelang praktik fabrikasi pelat logam (sheet metal) kelas XI pada pembuatan selubung kotak perkakas dengan mesin tekuk (bending), asesmen awal menunjukkan variasi tajam dalam kemampuan menghitung bentangan (bending allowance) dan ketelitian kerja bangku murid. Guru merancang adaptasi pembelajaran berdiferensiasi (PF.3 & P.2)."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan TEPAT atau TIDAK TEPAT keputusan diferensiasi berikut!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Guru membebaskan kelompok memilih jenis produk fungsional berbahan pelat (kotak perkakas, dudukan smartphone bengkel, atau baki komponen) dengan tetap mempertahankan kriteria ketepatan sudut tekuk, kelonggaran tekukan (bending allowance), dan kerataan sambungan yang sama."
+          },
+          {
+            "id": "B",
+            "text": "Guru hanya memberikan tantangan analisis pencegahan cacat keretakan tekukan dan kompensasi springback kepada kelompok berkesiapan tinggi, sementara kelompok lain cukup menyalin pola bentangan jadi tanpa perlu memahaminya."
+          },
+          {
+            "id": "C",
+            "text": "Guru menyediakan kartu perancah (scaffolding) langkah demi langkah perhitungan sumbu netral dan K-factor bagi murid yang masih kesulitan menghitung bentangan, lalu mengurangi bantuan secara bertahap seiring meningkatnya kemandirian."
+          },
+          {
+            "id": "D",
+            "text": "Guru memfasilitasi bahan ajar beragam berupa model lipatan karton 3D untuk memvisualisasikan regangan sisi luar-dalam tekukan, video animasi mesin press brake, dan lembar tabel spesifikasi jari-jari tekuk minimum."
+          }
+        ],
+        "categories": [
+          {
+            "id": "tepat",
+            "text": "Tepat"
+          },
+          {
+            "id": "tidak-tepat",
+            "text": "Tidak Tepat"
+          }
+        ],
+        "correctAnswer": {
+          "A": "tepat",
+          "B": "tidak-tepat",
+          "C": "tepat",
+          "D": "tepat"
+        },
+        "explanation": "1) A Tepat: Diferensiasi produk mengakomodasi minat tanpa menurunkan standar kompetensi ketelitian. 2) B Tidak Tepat: Membatasi akses penalaran tingkat tinggi (HOTS) hanya untuk murid tertentu dan membiarkan murid lain sekadar menyalin melanggar prinsip keadilan belajar (P.2). 3) C Tepat: Diferensiasi proses melalui scaffolding bertahap sesuai kesiapan. 4) D Tepat: Diferensiasi konten menyediakan ragam representasi konkret-visual untuk mempermudah penguasaan konsep.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q014",
+        "number": 14,
+        "type": "multiple",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "SMK berada di dekat kawasan bengkel fabrikasi pelat dan konstruksi las yang menerapkan standar Welding Procedure Specification (WPS) serta inspeksi mutu las GMAW/GTAW. Guru Teknik Mesin memanfaatkan industri sekitar tersebut sebagai sumber belajar autentik (PF.3 & P.5). Langkah pembelajaran yang tepat dan aman adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Membekali peserta didik dengan lembar observasi terstruktur untuk membandingkan parameter arus, tegangan, dan debit gas pada WPS dengan pengaturan aktual yang digunakan juru las."
+          },
+          {
+            "id": "B",
+            "text": "Mengatur sesi tanya jawab terpandu bersama inspektor kualitas (QC) bengkel mengenai cara mencegah distorsi pelat dan prosedur pemeriksaan tak merusak (NDT) pasca-las."
+          },
+          {
+            "id": "C",
+            "text": "Memastikan kepatuhan penuh terhadap orientasi K3 industri, rute aman pengamatan, dan pemakaian APD wajib (sepatu keselamatan, kacamata bening/pelindung UV) sebelum memasuki lantai produksi."
+          },
+          {
+            "id": "D",
+            "text": "Meminta peserta didik langsung mengoperasikan mesin gunting pelat hidrolik (shearing) milik bengkel industri tanpa pendampingan operator agar mendapatkan pengalaman nyata."
+          },
+          {
+            "id": "E",
+            "text": "Memandu sesi refleksi di kelas untuk membandingkan standar pengelolaan keselamatan, alur kerja, dan disiplin 5R di industri dengan praktik bengkel sekolah."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "E"
+        ],
+        "minSelections": 2,
+        "maxSelections": 4,
+        "instruction": "Pilih dua, tiga, atau empat jawaban yang benar.",
+        "explanation": "Pemanfaatan bengkel/industri lokal sebagai sumber belajar autentik (PF.3 & P.5) menuntut pengamatan terarah berbasis WPS (A), dialog dengan praktisi QC (B), disiplin protokol keselamatan lantai produksi (C), dan refleksi transfer pembelajaran ke bengkel sekolah (E). Opsi D sangat berbahaya dan melanggar standar K3 serta aturan operasional industri.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q015",
+        "number": 15,
+        "type": "single",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam pendekatan pembelajaran berbasis fenomena (Phenomenon-Based Learning) pada materi Mekanika Teknik topik Momen Lentur dan Momen Inersia Penampang, guru mengawali kelas dengan menunjukkan gelagar jembatan baja serta rel crane bengkel berbentuk profil huruf I (I-beam) lalu meminta murid membandingkan kelenturan mistar plastik pada sisi pipih versus sisi tegak sebelum merumuskan pertanyaan investigasi. Dampak pedagogis utama dari strategi ini (PF.3, P.3, & P.1) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menghilangkan seluruh kebutuhan perhitungan matematis momen inersia penampang sehingga peserta didik cukup mengenali bentuk profil baja secara visual tanpa memahami satuan mm⁴."
+          },
+          {
+            "id": "B",
+            "text": "Memperpanjang waktu diskusi di awal kelas tanpa target capaian terukur karena pertanyaan investigasi yang diajukan peserta didik sering menyimpang dari urutan bab buku paket."
+          },
+          {
+            "id": "C",
+            "text": "Menjamin seluruh peserta didik langsung menghafal persamaan momen inersia persegi panjang I = (1/12)·b·h³ hanya dalam sepuluh menit pertama tanpa memerlukan latihan analisis lebih lanjut."
+          },
+          {
+            "id": "D",
+            "text": "Memudahkan guru meniadakan praktikum pengukuran lendutan balok di bengkel karena contoh foto jembatan dan rel crane di proyektor dianggap sudah cukup mewakili pengujian beban."
+          },
+          {
+            "id": "E",
+            "text": "Menghubungkan konsep abstrak tegangan lentur dan geometri penampang dengan rekayasa nyata (bermakna), memicu rasa ingin tahu kritis (menggembirakan), dan memosisikan rumus sebagai penjelas pola kekakuan yang dialami murid."
+          }
+        ],
+        "correctAnswer": "E",
+        "explanation": "Fenomena jangkar (anchoring phenomenon) yang konkret seperti perbedaan kelenturan arah penggaris dan bentuk I-beam menghubungkan dunia rekayasa nyata dengan konsep momen inersia (meaningful), menumbuhkan keterlibatan emosional dan rasa ingin tahu (joyful, P.3), serta memosisikan rumus sebagai representasi rasional atas pengamatan empiris (PF.3 & P.1).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q016",
+        "number": 16,
+        "type": "single",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Sebuah SMK Teknik Mesin di daerah berfasilitas terbatas belum memiliki tungku peleburan aluminium berkapasitas besar yang aman untuk seluruh kelompok pada materi Pengecoran Cetakan Pasir (Sand Casting) topik Pengaruh Sistem Saluran (Gating System) dan Riser terhadap Cacat Cor. Sebagai guru Teknik Mesin yang adaptif dan menguasai substansi materi (PF.3, P.5, & PF.2), solusi pembelajaran ilmiah-teknis terbaik adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menghapus seluruh kegiatan praktik pembuatan cetakan pasir dan menggantinya dengan dikte langkah pengecoran serta menyalin skema saluran tuang dari buku teks selama empat pertemuan berturut-turut."
+          },
+          {
+            "id": "B",
+            "text": "Memaksakan peleburan potongan aluminium bekas menggunakan kompor gas rumah tangga tanpa tungku pelindung tahan api dan tanpa pakaian APD tahan logam cair agar praktik tetap memakai logam asli."
+          },
+          {
+            "id": "C",
+            "text": "Merancang praktikum cetakan pasir dengan media tuang bertitik lebur rendah yang aman seperti lilin parafin atau paduan timah rendah leleh guna mengamati aliran gating system, pembekuan, dan rongga penyusutan (shrinkage), disertai video analisis cor industri."
+          },
+          {
+            "id": "D",
+            "text": "Menugaskan peserta didik menggambar desain pola cetakan pada kertas milimeter saja karena perilaku rongga penyusutan pembekuan dianggap mustahil diamati tanpa tungku induksi berkapasitas besar."
+          },
+          {
+            "id": "E",
+            "text": "Menugaskan seluruh peserta didik iuran mandiri di luar anggaran sekolah untuk membeli satu unit tungku peleburan logam cair komersial agar jadwal praktikum tetap berjalan."
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Penguasaan substansi PF.2 dan adaptivitas sarana PF.3/P.5 memungkinkan guru memilih analog material bertitik lebur rendah (lilin parafin/timah rendah leleh) yang tetap menunjukkan dinamika aliran fluida, permeabilitas cetakan pasir, dan cacat shrinkage akibat rancangan riser—secara aman, murah, dan ilmiah tanpa membahayakan keselamatan murid (B sangat berisiko ledakan uap/luka bakar).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q017",
+        "number": 17,
+        "type": "single",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam pembelajaran Pembuatan Roda Gigi Lurus di Mesin Frais, beberapa peserta didik sebenarnya memahami secara konseptual bahwa putaran engkol kepala pembagi (dividing head berasio 40:1) menentukan jumlah alur gigi pada keliling benda kerja, tetapi mereka kerap keliru menentukan putaran dan pemilihan piring pembagi dari rumus Nk = 40/Z karena lemah menyederhanakan dan memperluas pecahan (misalnya Z = 28 gigi). Langkah perancah (scaffolding) pedagogis yang paling tepat dilakukan guru (PF.3 & P.2) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Langsung menghitungkan jumlah putaran penuh dan nomor lingkaran lubang piring pembagi untuk setiap kelompok lalu menempelkannya di badan mesin frais agar tidak terjadi salah potong gigi."
+          },
+          {
+            "id": "B",
+            "text": "Menyediakan lembar perancah bertahap mengubah 40/Z menjadi pecahan campuran, menyederhanakannya, lalu menyetarakan penyebut terhadap lingkaran lubang piring pembagi tersedia (mis. 40/28 = 1 3/7 = 1 9/21) secara berjenjang."
+          },
+          {
+            "id": "C",
+            "text": "Membatasi peserta didik yang lemah berhitung pecahan agar sepanjang semester hanya mengerjakan proyek pemotongan roda gigi berjumlah 20 atau 40 gigi yang tidak menyisakan pecahan lubang."
+          },
+          {
+            "id": "D",
+            "text": "Memberikan pekerjaan rumah 40 soal operasi pecahan matematika murni tanpa menghubungkannya kembali dengan penyetelan lengan gunting (sector arms) maupun gerak engkol kepala pembagi."
+          },
+          {
+            "id": "E",
+            "text": "Mengizinkan peserta didik membagi jarak antar-alur gigi secara perkiraan visual menggunakan penggaris dan spidol di keliling bakal roda gigi supaya tidak terhambat hitungan pecahan."
+          }
+        ],
+        "correctAnswer": "B",
+        "explanation": "Scaffolding numerasi dalam kejuruan (PF.3 & P.2) menjembatani pemahaman mekanis dengan prosedur matematis terstruktur secara bertahap (pecahan campuran → penyederhanaan → ekuivalensi penyebut terhadap lingkaran lubang piring pembagi nyata), sehingga murid membangun kemandirian menghitung sekaligus memahami maknanya pada penyetelan sector arms.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q018",
+        "number": 18,
+        "type": "category",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Lingkungan bengkel manufaktur memiliki potensi bahaya bertekanan tinggi, kebisingan mesin, dan limbah bahan berbahaya dan beracun (B3) yang menuntut integrasi edukasi K3L secara kontekstual (PF.3 & P.5)."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan SESUAI atau TIDAK SESUAI muatan pembelajaran keselamatan dan lingkungan kerja bengkel berikut!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Melatih peserta didik memeriksa kebocoran halus (pinhole leak) selang hidrolik bertekanan tinggi menggunakan sepotong karton atau bilah kayu—bukan meraba dengan tangan telanjang—untuk mencegah cedera injeksi fluida bertekanan ke jaringan tubuh."
+          },
+          {
+            "id": "B",
+            "text": "Mengukur tingkat kebisingan aktual di sekitar mesin gerinda, kompresor, dan mesin shearing dalam satuan dBA agar murid memahami ambang batas pajanan (≥85 dBA) serta kewajiban pengendalian teknis dan pemakaian ear plug/ear muff."
+          },
+          {
+            "id": "C",
+            "text": "Membiasakan peserta didik membersihkan tangan dan komponen yang terkena oli hidrolik menggunakan bensin atau thinner lalu mengalirkan air bilasannya langsung ke saluran drainase bengkel agar cepat bersih."
+          },
+          {
+            "id": "D",
+            "text": "Mengajarkan pemilahan limbah B3 bengkel berupa oli bekas, coolant rusak, dan majun terkontaminasi minyak ke wadah tertutup berlabel sesuai standar pengelolaan lingkungan industri."
+          }
+        ],
+        "categories": [
+          {
+            "id": "sesuai",
+            "text": "Sesuai"
+          },
+          {
+            "id": "tidak-sesuai",
+            "text": "Tidak Sesuai"
+          }
+        ],
+        "correctAnswer": {
+          "A": "sesuai",
+          "B": "sesuai",
+          "C": "tidak-sesuai",
+          "D": "sesuai"
+        },
+        "explanation": "1) A Sesuai: Semburan halus oli hidrolik bertekanan tinggi dapat menembus kulit dan menyebabkan kerusakan jaringan fatal; pemeriksaan wajib memakai karton/kayu setelah menurunkan tekanan bila memungkinkan. 2) B Sesuai: Edukasi kebisingan berbasis data dBA menumbuhkan kesadaran K3 berbasis bukti. 3) C Tidak Sesuai: Bensin/thinner mudah terbakar, merusak kulit, dan pembuangan limbah hidrokarbon ke selokan mencemari air tanah. 4) D Sesuai: Segregasi limbah B3 adalah bagian wajib tanggung jawab lingkungan bengkel.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q019",
+        "number": 19,
+        "type": "single",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam pembelajaran pengambilan keputusan rekayasa mengenai kasus industri 'Pemilihan Proses Pengelasan GMAW vs GTAW untuk Pembuatan Tangki Baja Tahan Karat Tipis 1,5 mm pada Industri Makanan', guru menerapkan kerangka argumentasi ilmiah-teknis Claim–Evidence–Reasoning (CER). Tujuan utama penggunaan kerangka CER tersebut (PF.3 & P.3) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Mengarahkan seluruh kelompok agar sepakat memilih satu jenis mesin las yang kebetulan tersedia di bengkel sekolah tanpa membandingkan risiko distorsi maupun kebersihan manik las."
+          },
+          {
+            "id": "B",
+            "text": "Menyeragamkan struktur paragraf laporan setiap peserta didik ke dalam kalimat template seragam sehingga guru dapat memeriksa tugas lebih cepat menggunakan daftar kata kunci hafalan."
+          },
+          {
+            "id": "C",
+            "text": "Menyederhanakan diskusi agar tidak menyentuh perhitungan masukan panas (heat input), potensi percikan las (spatter), dan persyaratan higienitas sambungan yang dianggap terlalu rumit bagi siswa SMK."
+          },
+          {
+            "id": "D",
+            "text": "Melatih peserta didik membangun keputusan rekayasa yang akuntabel: setiap rekomendasi proses las (claim) wajib ditopang data spesifikasi material/parameter uji (evidence) dan penalaran prinsip metalurgi serta manufaktur (reasoning)."
+          },
+          {
+            "id": "E",
+            "text": "Menilai kelancaran retorika dan gaya persuasi presentasi peserta didik sebagai komponen utama meskipun data ketebalan pelat, arus las, dan jenis gas pelindung yang dikutip tidak akurat."
+          }
+        ],
+        "correctAnswer": "D",
+        "explanation": "Kerangka Claim–Evidence–Reasoning (CER, PF.3 & P.3) melatih literasi rekayasa tingkat tinggi: keputusan teknis tidak didasarkan pada opini sepihak, melainkan ditopang bukti kuantitatif (ketebalan pelat, risiko spatter, higienitas las, biaya/waktu) dan penalaran ilmiah-teknis (kontrol heat input GTAW pada pelat tipis baja tahan karat vs produktivitas GMAW).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q020",
+        "number": 20,
+        "type": "multiple",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam topik Perawatan Mesin (Total Productive Maintenance / TPM) dan Efisiensi Energi Manufaktur, guru mengaitkan konsep teknik pelumasan, sistem udara bertekanan, dan pemeliharaan mandiri dengan praktik efisiensi berkelanjutan di bengkel SMK dan industri sekitar (PF.3 & P.5). Manakah contoh integrasi yang tepat dan akurat secara keteknikan?"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menghentikan penggunaan seluruh cairan pendingin (coolant) pada proses pemotongan berat baja paduan di mesin frais agar bengkel tidak menghasilkan limbah cairan sama sekali."
+          },
+          {
+            "id": "B",
+            "text": "Melakukan audit kebocoran sambungan selang dan katup pada jaringan kompresor elektro-pneumatik bengkel untuk menghitung pemborosan daya listrik kompresor serta memperbaikinya bersama peserta didik."
+          },
+          {
+            "id": "C",
+            "text": "Mengganti oli sistem hidrolik seluruh mesin bengkel setiap dua minggu sekali tanpa pernah memeriksa kondisi kekentalan, warna, atau jam operasi mesin."
+          },
+          {
+            "id": "D",
+            "text": "Mematikan sistem penyedot asap las (fume extractor) dan lampu penerangan lokal mesin gerinda selama praktik berlangsung demi menghemat tagihan listrik sekolah."
+          },
+          {
+            "id": "E",
+            "text": "Menerapkan kartu pemeriksaan harian perawatan mandiri (autonomous maintenance) untuk pengecekan level oli pelumas, kebersihan alur luncur (bedway), dan kelainan suara bantalan guna mencegah kerusakan dini dan memperpanjang usia pakai mesin."
+          }
+        ],
+        "correctAnswer": [
+          "B",
+          "E"
+        ],
+        "minSelections": 2,
+        "maxSelections": 4,
+        "instruction": "Pilih dua, tiga, atau empat jawaban yang benar.",
+        "explanation": "Audit kebocoran udara terkompresi (B) secara langsung mengaitkan prinsip pneumatik dengan konservasi energi listrik, sementara autonomous maintenance harian (E) adalah pilar utama TPM untuk mencegah kerusakan komponen dan limbah suku cadang (PF.3 & P.5). A keliru karena pemotongan berat baja paduan tanpa pendinginan yang sesuai merusak pahat dan kualitas permukaan; C justru memboroskan sumber daya dan menambah limbah B3 oli; D membahayakan keselamatan dan kesehatan kerja (K3).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q021",
+        "number": 21,
+        "type": "single",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Saat mengajarkan pemrograman CNC Milling 3-Axis dengan perangkat lunak CAM (Mastercam/Fusion 360), guru memanfaatkan simulasi lintasan pahat (backplot dan solid verification) untuk memvisualisasikan datum G54, kompensasi radius pisau (G41/G42), serta pergerakan pemegang pahat. Agar simulasi CAM tersebut benar-benar melatih pencegahan tabrakan (crash) spindel dan tidak sekadar klik tombol pembangkitan kode otomatis, langkah pedagogis yang paling tepat (P.4 & PF.4) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Memandu murid lewat lembar verifikasi untuk memprediksi datum G54, clearance plane Z, dan arah G41/G42, lalu mengaudit keluaran post-processor serta potensi tabrakan ragum sebelum dry-run di mesin."
+          },
+          {
+            "id": "B",
+            "text": "Membiarkan peserta didik memilih strategi pemotongan kantong secara bebas di perangkat lunak CAM lalu langsung mentransfer G-code ke kontroler CNC selama tampilan animasi 3D di layar terlihat mulus tanpa warna merah."
+          },
+          {
+            "id": "C",
+            "text": "Menugaskan seluruh peserta didik menyalin file G-code yang telah disiapkan dan diuji guru agar pemotongan benda kerja di mesin CNC Milling 3-Axis dapat rampung sesuai jadwal blok praktik minggu ini."
+          },
+          {
+            "id": "D",
+            "text": "Menghilangkan pembelajaran pembacaan struktur G-code dasar dan kesesuaian post-processor dengan kontroler mesin karena dianggap seluruh penulisan kode sudah sepenuhnya ditangani perangkat lunak CAM modern."
+          },
+          {
+            "id": "E",
+            "text": "Meminta peserta didik menonton tayangan rekaman simulasi pemesinan CNC berkecepatan tinggi melalui proyektor kelas tanpa memeriksa parameter kecepatan spindel, laju pemakanan, maupun tinggi rahang ragum."
+          }
+        ],
+        "correctAnswer": "A",
+        "explanation": "Pemanfaatan teknologi CAM dan simulasi virtual (P.4 & PF.4) akan membangun model mental kinematika dan keselamatan CNC apabila dipandu dengan analisis prediksi-verifikasi terhadap datum G54, clearance plane, kompensasi radius G41/G42, kesesuaian post-processor dengan kontroler mesin, serta pemeriksaan tabrakan tool holder terhadap ragum sebelum eksekusi dry-run.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q022",
+        "number": 22,
+        "type": "single",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam mengevaluasi kompetensi praktik peserta didik kelas XII pada pekerjaan 'Penggerindaan Datar (Surface Grinding): Truing & Dressing Batu Gerinda, Pencegahan Cacat Bakar (Burn Mark), dan Ketelitian Kesejajaran Permukaan', bentuk asesmen yang paling valid dan autentik (PF.4 & P.6) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Tes pilihan ganda 40 butir soal mengenai pemaknaan lengkap deretan kode spesifikasi batu gerinda (jenis abrasif, ukuran butir, kekerasan, struktur pori, dan bahan pengikat) yang dikerjakan secara tertutup di ruang kelas."
+          },
+          {
+            "id": "B",
+            "text": "Penugasan makalah individu mengenai perbandingan konstruksi mesin gerinda datar spindel horizontal dengan mesin gerinda silinder universal yang dikumpulkan pada akhir semester."
+          },
+          {
+            "id": "C",
+            "text": "Asesmen kinerja berbasis rubrik analitik yang mengamati K3, teknik truing/dressing intan, pengaturan pemakanan tipis dan coolant pencegah burn mark, pengukuran kesejajaran memakai dial indicator, serta tanya jawab teknis."
+          },
+          {
+            "id": "D",
+            "text": "Pengukuran ketebalan akhir benda kerja memakai mikrometer luar pada akhir sesi praktik semata tanpa mengecek prosedur pencekaman meja magnetik maupun memeriksa tanda perubahan warna akibat panas berlebih."
+          },
+          {
+            "id": "E",
+            "text": "Pemeringkatan kecepatan penyelesaian penggerindaan di mana kelompok yang paling cepat mencapai ketebalan nominal gambar kerja langsung memperoleh nilai praktik tertinggi pada hari tersebut."
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Kompetensi penggerindaan presisi mencakup keterampilan prosedural aman, keputusan teknis pencegahan kerusakan metalurgi (burn mark akibat batu tumpul/glazing atau pemakanan terlalu dalam tanpa coolant), dan verifikasi metrologi. Asesmen kinerja dengan rubrik analitik dan klarifikasi lisan (C) menangkap proses, produk, dan penalaran secara utuh dan autentik (PF.4 & P.6).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q023",
+        "number": 23,
+        "type": "category",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam pembelajaran otomasi industri topik 'Diagram Tangga (Ladder Diagram) PLC Dasar dan Rangkaian Elektro-Pneumatik', guru menggunakan tes diagnostik bertingkat (two-tier/three-tier diagnostic test) untuk memetakan pemahaman murid mengenai kontak NO/NC, rangkaian pengunci (latching), dan pencegahan sinyal tumpang tindih (P.6 & PF.4)."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan BENAR atau SALAH pernyataan berikut terkait asesmen diagnostik bertingkat tersebut!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Tingkat pertama soal dapat menanyakan respons aktual silinder elektro-pneumatik saat tombol stop NC ditekan, sedangkan tingkat kedua menanyakan penalaran alur arus logika pada rung pengunci (latching)."
+          },
+          {
+            "id": "B",
+            "text": "Tes pilihan ganda satu tingkat sudah sama akuratnya dengan tes diagnostik bertingkat karena nilai benar pada pilihan tunggal selalu membuktikan murid memahami logika kontak NO/NC."
+          },
+          {
+            "id": "C",
+            "text": "Kombinasi jawaban tingkat pertama benar tetapi alasan logika tingkat kedua salah (dengan tingkat keyakinan tinggi) mengindikasikan adanya miskonsepsi tersembunyi atau tebakan beruntung (false positive)."
+          },
+          {
+            "id": "D",
+            "text": "Hasil pemetaan dari tes diagnostik bertingkat digunakan guru untuk mengelompokkan kebutuhan scaffolding sebelum murid merangkai panel fisik elektro-pneumatik."
+          }
+        ],
+        "categories": [
+          {
+            "id": "benar",
+            "text": "Benar"
+          },
+          {
+            "id": "salah",
+            "text": "Salah"
+          }
+        ],
+        "correctAnswer": {
+          "A": "benar",
+          "B": "salah",
+          "C": "benar",
+          "D": "benar"
+        },
+        "explanation": "1) A Benar: Struktur two-tier memadukan prediksi perilaku sistem (tier 1) dengan justifikasi logika PLC/relay (tier 2). 2) B Salah: Tes satu tingkat tidak mampu membedakan pemahaman autentik dari tebakan atau miskonsepsi tersembunyi. 3) C Benar: Jawaban benar disertai alasan keliru dengan keyakinan tinggi mengungkap miskonsepsi spesifik. 4) D Benar: Tujuan utama asesmen diagnostik adalah memandu tindak lanjut pembelajaran dan scaffolding (P.6).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q024",
+        "number": 24,
+        "type": "single",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Bengkel SMK belum memiliki vibration analyzer maupun sound level meter industri dalam jumlah cukup untuk seluruh regu praktik perawatan mesin (TPM) dan pengecekan getaran chatter mesin frais. Sebagai alternatif kontekstual, guru memanfaatkan sensor akselerometer dan mikrofon ponsel pintar melalui aplikasi Phyphox secara berkelompok dengan prosedur penempatan aman. Nilai tambah pedagogis dan teknis inovasi ini (P.4 & PF.4) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menghilangkan kewajiban peserta didik mempelajari satuan desibel (dBA) dan frekuensi getaran (Hz) karena tampilan warna merah-hijau pada layar aplikasi dianggap cukup menggantikan analisis numerik."
+          },
+          {
+            "id": "B",
+            "text": "Menjadikan ponsel pintar sebagai pengganti sah alat ukur bersertifikat kalibrasi KAN untuk menerbitkan dokumen resmi uji kelayakan operasional mesin perkakas di industri manufaktur."
+          },
+          {
+            "id": "C",
+            "text": "Mengurangi kebutuhan pengawasan K3 guru di sekitar spindel berputar karena peserta didik cukup memegang ponsel dekat benda kerja yang sedang dipotong untuk merekam bunyi mesin."
+          },
+          {
+            "id": "D",
+            "text": "Membuka kebebasan peserta didik memakai gawai pribadi sepanjang jam praktik bengkel untuk mengakses media sosial selama sesi pengumpulan data sensor berlangsung."
+          },
+          {
+            "id": "E",
+            "text": "Mengubah perangkat akrab murid menjadi instrumen akuisisi data empiris real-time agar mereka dapat membandingkan lonjakan getaran bantalan/chatter dan peta kebisingan bengkel lalu merumuskan tindakan mitigasi."
+          }
+        ],
+        "correctAnswer": "E",
+        "explanation": "Pemanfaatan sensor ponsel pintar secara terkendali dan aman (P.4 & PF.4) memungkinkan akuisisi data empiris real-time untuk menganalisis perbedaan tingkat kebisingan maupun kenaikan amplitudo getaran (condition monitoring dasar), melatih literasi data teknis tanpa mengklaim menggantikan alat bersertifikat legal industri (B salah).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q025",
+        "number": 25,
+        "type": "multiple",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Menjelang asesmen akhir semester kelas XII, tim guru Teknik Mesin menelaah draf soal tertulis bernalar tingkat tinggi (HOTS) pada elemen pembacaan Welding Procedure Specification (WPS) GMAW/GTAW serta interpretasi Peta Kendali Mutu (QC Control Chart) (P.6 & PF.4). Manakah ciri butir soal bermutu yang patut dipertahankan?"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menyajikan stimulus fungsional berupa kutipan tabel WPS aktual, foto makro cacat las, atau grafik peta kendali dimensi yang wajib dianalisis murid untuk menentukan akar penyebab penyimpangan dan tindakan korektif."
+          },
+          {
+            "id": "B",
+            "text": "Menyusun opsi pengecoh (distraktor) yang rasional berdasarkan miskonsepsi teknis nyata di bengkel, misalnya anggapan bahwa menaikkan laju aliran gas pelindung setinggi mungkin selalu menghilangkan porositas."
+          },
+          {
+            "id": "C",
+            "text": "Melampirkan tabel spesifikasi WPS satu halaman penuh sebagai hiasan, lalu hanya menanyakan kepanjangan huruf singkatan WPS atau AWS."
+          },
+          {
+            "id": "D",
+            "text": "Menggunakan notasi, simbol pengelasan, serta satuan baku standar internasional (mm, A, V, L/min) secara konsisten dengan pokok soal yang jelas dan tidak ambigu."
+          },
+          {
+            "id": "E",
+            "text": "Menggunakan kalimat berbelit dengan beberapa kata negasi ganda agar sebagian besar peserta didik terkecoh sehingga distribusi nilai tampak sulit."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "D"
+        ],
+        "minSelections": 2,
+        "maxSelections": 4,
+        "instruction": "Pilih dua, tiga, atau empat jawaban yang benar.",
+        "explanation": "Butir soal HOTS kejuruan bermutu (P.6 & PF.4) menuntut stimulus fungsional autentik untuk penalaran diagnostik/korektif (A), pengecoh berbasis miskonsepsi lapangan yang masuk akal (B), serta penggunaan simbol dan satuan teknis baku (D). Stimulus pajangan untuk soal ingatan (C) bukan HOTS, dan kalimat menjebak/ambigu (E) merusak validitas pengukuran.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q026",
+        "number": 26,
+        "type": "single",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Guru Teknik Mesin merancang proyek STEM pada materi 'Fabrikasi Pelat dan Elemen Mesin' di mana peserta didik merancang, menghitung kekuatan engsel dan gaya tekuk, memfabrikasi prototipe alat penekuk pelat meja (mini sheet metal bender) dari baja profil sisa, menguji ketepatan sudut 90° beserta pegas balik (springback), lalu memodifikasi dimensi rangka berdasarkan data lendutan uji. Esensi tahapan Engineering Design Process (EDP) yang tecermin kuat dalam proyek ini (PF.4 & P.1) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Replikasi gambar kerja mekanis secara seragam, di mana seluruh kelompok cukup meniru dimensi katalog alat pabrikan tanpa melakukan pengujian lendutan maupun analisis kegagalan fungsi."
+          },
+          {
+            "id": "B",
+            "text": "Iterasi desain berbasis bukti uji (test–evaluate–redesign): murid menerapkan perhitungan mekanika dan fabrikasi untuk merancang, menguji kinerja secara terukur, lalu merevisi rancangan dari data penyimpangan."
+          },
+          {
+            "id": "C",
+            "text": "Demonstrasi satu kali jadi, di mana penyimpangan sudut tekukan pada prototipe pertama langsung diputuskan sebagai kegagalan akhir proyek tanpa ruang evaluasi atau perbaikan teknis."
+          },
+          {
+            "id": "D",
+            "text": "Pembelajaran berbasis ketepatan estetika semata, karena kualitas alat penekuk pelat dinilai terutama dari kehalusan dempul dan keseragaman warna cat pelapis rangka luarnya."
+          },
+          {
+            "id": "E",
+            "text": "Eksperimen coba-coba (trial-and-error) spontan di bengkel las tanpa didahului perhitungan gaya tekuk, pemilihan diameter pin engsel, maupun analisis kekuatan sambungan."
+          }
+        ],
+        "correctAnswer": "B",
+        "explanation": "Esensi Engineering Design Process (EDP) dalam pendidikan rekayasa/STEM (PF.4 & P.1) adalah siklus iteratif berbasis bukti: merancang dengan landasan perhitungan keteknikan, menguji prototipe secara terukur (sudut tekuk, springback, defleksi rangka), lalu merevisi desain berdasarkan temuan pengujian.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q027",
+        "number": 27,
+        "type": "single",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Saat memeriksa laporan praktikum Pengendalian Mutu (QC) dan Uji Kekerasan Rockwell (HRC) pada 10 sampel poros hasil pemesinan CNC Milling, guru menemukan sebuah kelompok sengaja menghapus dua titik data yang agak menyimpang agar grafik peta kendali (control chart) mereka tampak lurus sempurna dan memenuhi target teori. Umpan balik konstruktif yang paling tepat diberikan guru (P.6, PF.4, & PF.2) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menegaskan integritas data QC industri, meminta data asli dikembalikan, lalu membimbing kelompok membedakan variasi alami (common cause) dengan penyebab khusus (special cause) seperti keausan insert atau pergeseran pencekaman."
+          },
+          {
+            "id": "B",
+            "text": "Memuji kerapian grafik peta kendali kelompok tersebut karena sebaran titiknya terlihat sangat dekat dengan garis nominal gambar kerja sehingga layak dipajang sebagai contoh laporan terbaik kelas."
+          },
+          {
+            "id": "C",
+            "text": "Menyarankan kelompok mengganti dua angka menyimpang tersebut dengan nilai rata-rata delapan sampel lainnya supaya perhitungan batas kendali atas dan bawah tetap terlihat stabil dan rapi."
+          },
+          {
+            "id": "D",
+            "text": "Langsung menggagalkan nilai praktik seluruh semester kelompok tersebut tanpa menjelaskan makna statistik titik pencilan (outlier) sebagai sinyal peringatan dini gangguan mesin perkakas."
+          },
+          {
+            "id": "E",
+            "text": "Menghapus kewajiban penyusunan grafik peta kendali mutu pada modul praktik selanjutnya dan menggantinya dengan laporan narasi bebas agar murid tidak terdorong memanipulasi data ukur."
+          }
+        ],
+        "correctAnswer": "A",
+        "explanation": "Kejujuran pencatatan data inspeksi QC adalah etika inti manufaktur presisi (PF.2 & P.6); menyembunyikan data menyimpang dapat meloloskan komponen cacat yang membahayakan keselamatan pengguna. Membimbing murid menganalisis penyebab variasi alami vs penyebab khusus mengubah kesalahan menjadi pembelajaran kualitas mendalam.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q028",
+        "number": 28,
+        "type": "category",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Di era media sosial video pendek, peserta didik Teknik Mesin sering terpapar konten 'trik cepat bengkel' yang menyimpang dari kaidah K3 dan keteknikan, seperti melepas pelindung batu gerinda, memasang mata gergaji kayu pada mesin gerinda sudut, atau memakai parameter CNC ekstrem tanpa landasan katalog pahat. Guru melatih literasi digital teknis murid (P.4 & PF.4)."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan TEPAT atau TIDAK TEPAT strategi pembelajaran literasi digital teknis berikut!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Meminta peserta didik membedah video trik bengkel viral dengan membandingkannya terhadap manual keselamatan mesin, standar K3 OSHA/ISO, serta katalog data pemotongan pabrikan pahat."
+          },
+          {
+            "id": "B",
+            "text": "Mengajarkan bahwa video pemesinan dengan jumlah tayangan dan tanda suka (likes) jutaan di media sosial dapat langsung dijadikan rujukan SOP praktik karena sudah terbukti populer di kalangan warganet."
+          },
+          {
+            "id": "C",
+            "text": "Membimbing murid menghitung ulang batas kecepatan keliling maksimum batu gerinda (m/s) dan beban daya spindel guna menguji secara matematis apakah klaim dalam video tersebut aman atau berbahaya."
+          },
+          {
+            "id": "D",
+            "text": "Melarang total seluruh peserta didik mengakses video tutorial teknik dari internet meskipun berasal dari kanal resmi pabrikan mesin perkakas dan asosiasi pengelasan internasional."
+          }
+        ],
+        "categories": [
+          {
+            "id": "tepat",
+            "text": "Tepat"
+          },
+          {
+            "id": "tidak-tepat",
+            "text": "Tidak Tepat"
+          }
+        ],
+        "correctAnswer": {
+          "A": "tepat",
+          "B": "tidak-tepat",
+          "C": "tepat",
+          "D": "tidak-tepat"
+        },
+        "explanation": "1) A Tepat: Verifikasi silang terhadap manual pabrikan dan standar K3 melatih nalar kritis teknis (P.4). 2) B Tidak Tepat: Popularitas media sosial tidak menjamin keselamatan atau validitas keteknikan. 3) C Tepat: Pengujian matematis batas kecepatan keliling/daya membuktikan risiko secara objektif. 4) D Tidak Tepat: Literasi digital bukan pelarangan total sumber daring kredibel, melainkan kecakapan memilah dan memverifikasi sumber otoritatif.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q029",
+        "number": 29,
+        "type": "single",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Guru fabrikasi logam kelas XI menyusun skenario pembelajaran siklus 5E (Engage, Explore, Explain, Elaborate, Evaluate) agar murid menemukan sendiri hubungan antara ketebalan pelat, kelonggaran tekukan (bending allowance), dan pegas balik (springback) saat bekerja di mesin bending. Alur kegiatan yang paling selaras dengan konstruktivisme vokasi (PF.4 & P.1) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Engage: menuliskan rumus bending allowance di papan tulis; Explore: mengerjakan ulangan hitungan; Explain: demonstrasi mesin oleh guru; Elaborate: menyalin tabel K-factor; Evaluate: mengumpulkan buku catatan harian."
+          },
+          {
+            "id": "B",
+            "text": "Explore: murid langsung menekuk pelat boks panel jadi tanpa sampel uji; Evaluate: guru menilai ukuran yang meleset; Explain: guru menjelaskan springback di akhir bab; Engage & Elaborate dilewati karena keterbatasan jam bengkel."
+          },
+          {
+            "id": "C",
+            "text": "Explain: murid menghafal definisi sumbu netral dari modul; Elaborate: mengerjakan soal latihan hitungan bentangan; Engage: menonton animasi press brake; Evaluate: tes lisan istilah tanpa praktik penekukan pelat."
+          },
+          {
+            "id": "D",
+            "text": "Engage: mengamati beda balik sudut pelat aluminium vs baja pegas; Explore: menguji tekukan strip beragam ketebalan dan mengukur bentangan; Explain: merumuskan konsep sumbu netral & springback; Elaborate: membuat bracket ber-overbending; Evaluate: asesmen produk & refleksi."
+          },
+          {
+            "id": "E",
+            "text": "Evaluate: mengadakan tes menebak rumus sebelum praktik; Explain: menghukum kelompok yang meleset dengan tugas tambahan; Engage & Explore: membiarkan murid menekuk bahan bebas tanpa alat ukur sudut maupun jangka sorong."
+          }
+        ],
+        "correctAnswer": "D",
+        "explanation": "Siklus belajar 5E (Bybee, PF.4 & P.1) menempatkan pemantik fenomena (Engage) dan pengumpulan data empiris melalui uji sampel (Explore) sebelum formalisasi konsep sumbu netral, bending allowance, dan springback (Explain), lalu mentransfernya pada desain produk baru dengan over-bending (Elaborate) dan asesmen autentik (Evaluate).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q030",
+        "number": 30,
+        "type": "multiple",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Selama satu blok praktik bengkel yang memadukan CNC Milling, inspeksi NDT dye penetrant, dan perawatan mandiri TPM, guru berupaya menumbuhkan karakter Profil Pelajar Pancasila secara menyatu dalam aktivitas teknis harian (PF.4 & P.1). Manakah praktik pembelajaran yang paling efektif menguatkan dimensi karakter tersebut?"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Membiasakan peserta didik melaporkan hasil inspeksi NDT dye penetrant dan pengukuran dimensi QC secara jujur apa adanya meskipun ditemukan retak halus atau ukuran di luar toleransi (Beriman, bertakwa, dan berakhlak mulia)."
+          },
+          {
+            "id": "B",
+            "text": "Melarang peserta didik mempertanyakan alasan teknis di balik urutan langkah SOP penyetelan datum G54 agar suasana bengkel tetap tenang dan patuh tanpa diskusi."
+          },
+          {
+            "id": "C",
+            "text": "Melibatkan peserta didik menganalisis akar penyebab patahnya pahat endmill atau cacat lack of fusion pada las GMAW berdasarkan bukti parameter aktual sebelum menyusun tindakan perbaikan (Bernalar kritis)."
+          },
+          {
+            "id": "D",
+            "text": "Mengorganisasi jadwal perawatan mandiri TPM, pembersihan geram kering, dan pemilahan limbah B3 majun oli secara kolaboratif antar-regu bengkel (Gotong royong dan peduli lingkungan)."
+          },
+          {
+            "id": "E",
+            "text": "Mendorong peserta didik merancang alat bantu pencekaman (jig/fixture) sederhana untuk mempercepat keseragaman pengeboran atau penekukan pelat secara aman (Kreatif)."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "C",
+          "D",
+          "E"
+        ],
+        "minSelections": 2,
+        "maxSelections": 4,
+        "instruction": "Pilih dua, tiga, atau empat jawaban yang benar.",
+        "explanation": "Integritas pelaporan QC/NDT menumbuhkan akhlak mulia (A), analisis akar masalah pemesinan/las melatih bernalar kritis (C), kolaborasi TPM dan pengelolaan limbah B3 menguatkan gotong royong dan kepedulian lingkungan (D), serta desain jig/fixture mengasah kreativitas (E). Opsi B justru mematikan daya nalar kritis dan kesadaran keselamatan murid.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q031",
+        "number": 31,
+        "type": "single",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam menilai sikap kerja keselamatan (K3), ergonomi, dan kedisiplinan perawatan mandiri (TPM) peserta didik selama praktik mesin shearing/bending serta rangkaian hidrolik—seperti memastikan pelindung jari terpasang, tidak memakai sarung tangan kain di dekat poros berputar, segera melapor saat ada rembesan oli, serta mengembalikan alat ke shadow board—instrumen dan metode asesmen paling tepat (P.6 & PF.4) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Membagikan angket skala persetujuan berisi 20 pernyataan normatif tentang pentingnya K3 dan budaya 5R satu kali pada pekan terakhir semester sebelum pengolahan nilai rapor."
+          },
+          {
+            "id": "B",
+            "text": "Menugaskan setiap peserta didik menulis esai reflektif berjudul 'Pentingnya Keselamatan Kerja pada Mesin Hidrolik dan Shearing' minimal tiga halaman kertas folio bergaris."
+          },
+          {
+            "id": "C",
+            "text": "Melakukan observasi langsung berkelanjutan sepanjang jam praktik menggunakan rubrik indikator perilaku K3-TPM yang teramati, dilengkapi catatan anekdotal guru serta umpan balik segera."
+          },
+          {
+            "id": "D",
+            "text": "Menyamakan skor sikap kerja bengkel dengan skor ujian tertulis teori hidrolik dan fabrikasi pelat karena peserta didik yang menguasai teori dianggap otomatis patuh prosedur K3."
+          },
+          {
+            "id": "E",
+            "text": "Meminta ketua regu praktik menilai secara subjektif siapa anggota yang paling disiplin tanpa merujuk rubrik perilaku konkret maupun verifikasi pengamatan guru di lantai bengkel."
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Sikap kerja K3, ergonomi, dan budaya TPM merupakan perilaku nyata (habituasi) di lantai bengkel (P.6 & PF.4). Instrumen paling valid adalah observasi sistematis berbasis indikator perilaku konkret yang diamati berulang disertai catatan anekdotal, bukan sekadar angket normatif (A) atau esai teoritis (B).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q032",
+        "number": 32,
+        "type": "single",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pada jadwal praktik CNC kelas XII yang diikuti 32 peserta didik, bengkel SMK hanya memiliki 2 unit mesin CNC Milling 3-Axis yang siap pakai untuk proyek pemesinan kontur dan kantong (pocket) presisi. Agar tidak terjadi antrean pasif maupun kerumunan berisiko di depan mesin serta seluruh murid mengalami siklus produksi utuh, strategi pengelolaan bengkel paling efektif (PF.4 & P.2) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Mengumpulkan seluruh 32 peserta didik berdiri melingkari 2 mesin CNC selama empat jam pelajaran untuk mengamati guru menjalankan simulasi dan pemotongan benda kerja contoh hingga selesai."
+          },
+          {
+            "id": "B",
+            "text": "Memilih 4 peserta didik tercepat sebagai operator tetap mesin CNC sepanjang semester, sementara 28 siswa lainnya ditempatkan di ruang teori untuk menyalin manual kode G dan kode M."
+          },
+          {
+            "id": "C",
+            "text": "Menaikkan laju pemakanan (feed rate) dan kedalaman potong jauh melampaui rekomendasi katalog pisau endmill supaya ke-32 peserta didik sempat memotong benda kerja bergiliran dalam satu hari."
+          },
+          {
+            "id": "D",
+            "text": "Menonaktifkan penggunaan 2 unit mesin CNC tersebut agar tidak menimbulkan kecemburuan giliran, lalu mengganti seluruh target praktik dengan menggambar tampilan panel kontrol CNC di buku gambar."
+          },
+          {
+            "id": "E",
+            "text": "Menerapkan rotasi 4 stasiun kerja: simulasi CAM di komputer, persiapan pisau & tool offset di meja ukur, eksekusi dry-run/pemesinan CNC bergilir terawasi, serta stasiun inspeksi QC dan analisis toleransi."
+          }
+        ],
+        "correctAnswer": "E",
+        "explanation": "Model Station Rotation (PF.4 & P.2) menghilangkan waktu tunggu pasif dan kepadatan berisiko di depan mesin CNC, sekaligus mencerminkan alur kerja nyata industri manufaktur (CAM programming → Tooling/Setup → CNC Machining → Quality Control) sehingga seluruh 32 murid aktif mengembangkan kompetensi secara aman dan merata.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q033",
+        "number": 33,
+        "type": "category",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pengelolaan asesmen formatif dan umpan balik yang terencana sangat menentukan mutu penguasaan pemrograman CAM/CNC dan keterampilan pengelasan GMAW/GTAW peserta didik (P.6 & PF.4)."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan BENAR atau SALAH pernyataan pengelolaan asesmen praktik Teknik Mesin berikut!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Memberikan kartu keluar singkat (exit ticket) 3 menit berisi satu baris cuplikan kode G41/G42 atau foto cacat las membantu guru mendeteksi miskonsepsi harian sebelum pertemuan praktik berikutnya."
+          },
+          {
+            "id": "B",
+            "text": "Umpan balik terhadap rencana lintasan pahat (toolpath) CAM dan penyetelan titik nol G54 sebaiknya ditunda sampai pahat patah atau benda kerja rusak terlebih dahulu agar murid merasakan konsekuensi nyata."
+          },
+          {
+            "id": "C",
+            "text": "Penilaian antarteman (peer inspection) secara terbimbing menggunakan lembar kriteria standar las (tinggi reinforcement, keseragaman lebar manik, bebas undercut/porositas) melatih kepekaan mutu ala inspektor QC."
+          },
+          {
+            "id": "D",
+            "text": "Kualitas laporan praktik pengelasan dan CNC diukur terutama dari seberapa tebal ringkasan teori sejarah mesin yang disalin murid dari internet, bukan dari analisis galat pengukuran dan koreksi parameternya."
+          }
+        ],
+        "categories": [
+          {
+            "id": "benar",
+            "text": "Benar"
+          },
+          {
+            "id": "salah",
+            "text": "Salah"
+          }
+        ],
+        "correctAnswer": {
+          "A": "benar",
+          "B": "salah",
+          "C": "benar",
+          "D": "salah"
+        },
+        "explanation": "1) A Benar: Exit ticket adalah instrumen formatif cepat dan efektif untuk memetakan miskonsepsi harian. 2) B Salah: Umpan balik pencegahan wajib diberikan sebelum eksekusi CNC demi keselamatan operator dan mencegah kerusakan fatal mesin/pahat (P.6). 3) C Benar: Peer inspection berpanduan rubrik standar menumbuhkan budaya mutu dan metakognisi. 4) D Salah: Esensi laporan praktik kejuruan adalah evaluasi data aktual, analisis cacat, dan rekomendasi perbaikan parameter.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q034",
+        "number": 34,
+        "type": "single",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pembelajaran vokasi Teknik Mesin modern menuntut integrasi lintas elemen keilmuan sebagaimana sistem rekayasa nyata di pabrik, bukan disajikan terpisah-pisah secara kaku. Contoh desain pembelajaran terpadu yang paling koheren pada tema 'Sistem Mesin Press Hidrolik Terkendali PLC' (PF.4 & P.1) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Mengajarkan perhitungan tekanan hidrolik pada bulan pertama, sambungan baut rangka pada bulan ketiga, dan diagram tangga PLC pada bulan kelima tanpa pernah merangkaikan ketiganya dalam satu studi kasus."
+          },
+          {
+            "id": "B",
+            "text": "Membimbing murid merancang satu sistem mesin press utuh yang memadukan gaya aktuator hidrolik (Hukum Pascal), faktor keamanan rangka & baut (Elemen Mesin), serta logika PLC tombol dua tangan anti-terjepit (Otomasi & K3)."
+          },
+          {
+            "id": "C",
+            "text": "Menghilangkan seluruh perhitungan kekuatan rangka baja dan tekanan kerja silinder hidrolik lalu memfokuskan pembelajaran hanya pada penyambungan kabel tombol tekan PLC agar alokasi jam bengkel lebih hemat."
+          },
+          {
+            "id": "D",
+            "text": "Meminta tiga guru mata pelajaran berbeda memberi tugas merangkum bab buku teks masing-masing secara terpisah lalu menjilid ketiga berkas catatan tersebut dalam satu map tugas akhir yang sama."
+          },
+          {
+            "id": "E",
+            "text": "Membongkar seluruh komponen satu unit mesin press hidrolik bengkel secara acak tanpa menyusun diagram aliran fluida, skema kelistrikan PLC, maupun analisis fungsi setiap elemen pengamannya."
+          }
+        ],
+        "correctAnswer": "B",
+        "explanation": "Desain pembelajaran rekayasa terpadu (PF.4 & P.1) menunjukkan keterkaitan fungsional nyata antara fluida daya (hidrolik), kekuatan struktur (mekanika/elemen mesin), dan kendali keselamatan (PLC interlock dua tangan) dalam satu masalah sistem manufaktur yang koheren.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q035",
+        "number": 35,
+        "type": "multiple",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Seusai menyelesaikan praktik pengefraisan roda gigi lurus dan penggerindaan datar, guru mengajak seluruh regu berkumpul 10 menit untuk merefleksikan pengalaman teknis hari itu (P.6 & P.1). Manakah pertanyaan pemantik yang efektif menggugah kesadaran konseptual dan regulasi metakognitif peserta didik?"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Kelompok manakah yang paling cepat menyelesaikan benda kerja dan mendapat giliran pulang lebih awal hari ini?"
+          },
+          {
+            "id": "B",
+            "text": "Anggapan awal apa tentang penyebab getaran chatter atau bekas terbakar (burn mark) yang berubah setelah kalian menguji variasi parameter pemotongan dan dressing batu gerinda hari ini?"
+          },
+          {
+            "id": "C",
+            "text": "Di tahap mana kesalahan penyetelan kepala pembagi atau kedalaman pemakanan paling mungkin terjadi, dan pemeriksaan pencegahan apa yang akan kalian terapkan pada proyek berikutnya?"
+          },
+          {
+            "id": "D",
+            "text": "Berapa jumlah halaman jobsheet mesin frais yang sudah kalian fotokopi sejak awal bulan ini?"
+          },
+          {
+            "id": "E",
+            "text": "Bagaimana prinsip pengendalian kekakuan penjepitan dan manajemen panas pemotongan yang kalian pelajari hari ini dapat diterapkan pada pemesinan komponen baja paduan presisi di industri?"
+          }
+        ],
+        "correctAnswer": [
+          "B",
+          "C",
+          "E"
+        ],
+        "minSelections": 2,
+        "maxSelections": 4,
+        "instruction": "Pilih dua, tiga, atau empat jawaban yang benar.",
+        "explanation": "Refleksi metakognitif mendalam (P.6 & P.1) mendorong murid melacak perubahan pemahaman konseptualnya (B), mengevaluasi sumber galat prosedural dan merencanakan strategi koreksi mandiri (C), serta mentransfer prinsip teknis ke konteks industri lebih luas (E). Pertanyaan A dan D bersifat superfisial dan tidak menggugah penalaran.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q036",
+        "number": 36,
+        "type": "single",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Catatan asesmen praktik otomasi kelas XII memperlihatkan 72% murid gagal menerjemahkan logika pengunci (latching) dan pengaman urutan (interlock) dari diagram tangga (ladder diagram) PLC ke pengawatan panel elektro-pneumatik fisik. Guna membenahi kualitas pembelajarannya secara empiris, guru merancang Penelitian Tindakan Kelas (PTK) (PF.5). Rancangan siklus tindakan yang paling tepat adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Mengganti seluruh instrumen ujian praktik pengawatan panel menjadi soal pilihan ganda definisi istilah PLC, CPU, dan solenoid supaya persentase kelulusan kelas melonjak pada siklus pertama."
+          },
+          {
+            "id": "B",
+            "text": "Menyebarkan angket tingkat kenyamanan pencahayaan dan tata letak meja bengkel otomasi tanpa memodifikasi cara membelajarkan pembacaan kontak NO/NC dan logika ladder diagram."
+          },
+          {
+            "id": "C",
+            "text": "Menambah jam ceramah teori menggunakan salindia lama yang sama sambil mewajibkan murid menyalin ulang 20 contoh diagram tangga dari buku manual pabrikan ke buku catatan."
+          },
+          {
+            "id": "D",
+            "text": "Menerapkan dua siklus tindakan berbasis simulasi aliran sinyal FluidSIM/PLC, trainer modular berpenomoran terminal baku, dan kartu troubleshooting bertahap, lalu mengevaluasi peningkatan ketepatan wiring di tiap siklus."
+          },
+          {
+            "id": "E",
+            "text": "Meminta teknisi laboratorium merangkaikan sebagian besar jalur kabel kontrol terlebih dahulu sebelum tes praktik agar peserta didik tinggal menekan tombol uji dan mencapai KKM."
+          }
+        ],
+        "correctAnswer": "D",
+        "explanation": "PTK (PF.5) bertujuan memecahkan masalah nyata pembelajaran guru sendiri melalui siklus perencanaan–tindakan–observasi–refleksi yang empiris. Menjembatani abstraksi diagram tangga PLC ke pengawatan fisik melalui visualisasi aliran sinyal simulator, penomoran terminal terstandar, dan latihan troubleshooting bertahap langsung menyasar akar kesulitan murid.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q037",
+        "number": 37,
+        "type": "single",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Tingginya biaya bahan logam uji coba CNC Milling dan menumpuknya limbah cairan pendingin mendorong guru Teknik Mesin merancang inisiatif Bengkel Ramah Lingkungan (Green Workshop) sekaligus inovasi media praktik hemat sumber daya (PF.5 & P.5). Langkah kreatif yang paling tepat dan tetap menjunjung K3 adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menghentikan seluruh jadwal praktik pemesinan CNC 3-Axis dan pengelasan GMAW selama satu semester agar sekolah tidak mengeluarkan biaya listrik, kawat las, maupun cairan pendingin sama sekali."
+          },
+          {
+            "id": "B",
+            "text": "Tetap memakai batu gerinda datar yang sudah retak tepinya serta kaca pelindung las yang buram retak demi menghemat pengeluaran anggaran bahan habis pakai bengkel tahunan."
+          },
+          {
+            "id": "C",
+            "text": "Memakai balok lilin mesin (machinable wax) daur ulang atau polimer bekas untuk uji awal toolpath CNC, memanfaatkan scrap pelat terpilah untuk latihan GMAW/NDT, serta memasang filtrasi sederhana perpanjang usia coolant."
+          },
+          {
+            "id": "D",
+            "text": "Mengumpulkan seluruh geram aluminium, kuningan, baja, plastik kemasan, dan kain lap berminyak dalam satu karung sampah campuran agar proses pembersihan bengkel selesai lebih cepat."
+          },
+          {
+            "id": "E",
+            "text": "Mengencerkan emulsi coolant mesin gerinda datar dengan air keran kotor jauh melampaui rasio pabrikan hingga kehilangan zat anti-karat demi menekan frekuensi pembelian konsentrat baru."
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Prinsip Green Workshop dan inovasi sarana vokasi (PF.5 & P.5) menyeimbangkan mutu kompetensi, keselamatan kerja, efisiensi biaya, dan kelestarian lingkungan: penggunaan machinable wax daur ulang untuk uji coba CNC, pemanfaatan scrap pelat layak untuk latihan las/NDT, serta perawatan/filtrasi coolant memperpanjang umur cairan tanpa mengorbankan K3 (B sangat berbahaya).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q038",
+        "number": 38,
+        "type": "category",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam audit internal K3 bengkel fabrikasi dan pengelasan SMK, guru Teknik Mesin mengevaluasi SOP penyimpanan tabung gas GMAW/GTAW, bahan kimia uji NDT, pengaman mesin bending/shearing, dan disiplin pemeriksaan pra-pakai TPM (PF.5)."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan BENAR atau SALAH penerapan prosedur keselamatan bengkel berikut!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Tabung gas pelindung argon/CO₂ wajib diletakkan tegak lurus, diikat rantai pengaman pada rak kokoh, dipasang tutup katup pelindung saat tidak terhubung regulator, dan diperiksa kebocorannya memakai air sabun—bukan nyala api."
+          },
+          {
+            "id": "B",
+            "text": "Kaleng semprot cairan penetran/cleaner NDT yang mudah terbakar, drum oli hidrolik bekas, dan tabung gas bertekanan boleh disimpan berdekatan di satu sudut area penggerindaan agar teknisi mudah mengambilnya."
+          },
+          {
+            "id": "C",
+            "text": "Mesin gunting pelat (shearing) dan mesin tekuk (press brake) wajib dilengkapi pelindung titik jepit (finger guard/light curtain) atau kontrol tombol dua tangan serta tombol emergency stop yang diuji fungsinya secara berkala."
+          },
+          {
+            "id": "D",
+            "text": "Melaksanakan pengarahan keselamatan pra-praktik (safety briefing) dan pencatatan kartu inspeksi pra-pakai (TPM pre-use checklist) merupakan standar wajib sebelum peserta didik mengoperasikan mesin."
+          }
+        ],
+        "categories": [
+          {
+            "id": "benar",
+            "text": "Benar"
+          },
+          {
+            "id": "salah",
+            "text": "Salah"
+          }
+        ],
+        "correctAnswer": {
+          "A": "benar",
+          "B": "salah",
+          "C": "benar",
+          "D": "benar"
+        },
+        "explanation": "1) A Benar: Pengamanan mekanis tabung gas bertekanan dan uji kebocoran air sabun adalah SOP baku K3 pengelasan. 2) B Salah: Bahan mudah terbakar (cleaner NDT, oli) dan tabung gas wajib dijauhkan dari sumber percikan api/panas mesin gerinda serta disimpan terpisah sesuai kompatibilitas MSDS. 3) C Benar: Pengaman titik jepit dan emergency stop mencegah cedera amputasi pada mesin shearing/bending. 4) D Benar: Safety briefing dan pre-use checklist TPM meminimalkan risiko kegagalan mesin dan kecelakaan.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q039",
+        "number": 39,
+        "type": "single",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pada praktikum Pengujian Bahan (uji tarik batang logam) di kelas XI, beberapa peserta didik mengusulkan agar setiap siswa memotong dan mematahkan sendiri 5 batang spesimen baja paduan baru yang mahal untuk 'coba-coba berbagai kecepatan tarik' tanpa rancangan pengujian jelas. Keputusan profesional guru Teknik Mesin yang memadukan K3, efisiensi bahan, dan kaidah pengujian standar (PF.5 & P.2) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Memakai simulasi virtual kurva tegangan-regangan untuk eksplorasi awal ragam material, lalu menjalankan uji tarik aktual berkelompok dengan jumlah spesimen terukur sesuai standar ASTM/ISO dan pelindung serpihan terpasang."
+          },
+          {
+            "id": "B",
+            "text": "Menyetujui usulan seluruh siswa secara spontan agar antusiasme belajar tidak turun meskipun persediaan batang baja uji satu semester langsung habis terpakai hanya dalam satu pertemuan."
+          },
+          {
+            "id": "C",
+            "text": "Menolak usulan tersebut dengan nada marah lalu membatalkan seluruh praktikum pengujian bahan semester ini sehingga peserta didik cukup menyalin grafik tegangan-regangan dari papan tulis."
+          },
+          {
+            "id": "D",
+            "text": "Mengizinkan peserta didik menarik batang baja bekas berkarat tak berstandar geometri sambil membuka pintu pelindung mesin uji tarik agar momen putusnya spesimen dapat direkam kamera dari jarak dekat."
+          },
+          {
+            "id": "E",
+            "text": "Meminta setiap peserta didik membeli sendiri batang baja paduan dari toko besi sekitar untuk dipatahkan bebas di mesin uji tarik tanpa perlu mengikuti prosedur dimensi standar pengujian."
+          }
+        ],
+        "correctAnswer": "A",
+        "explanation": "Tanggung jawab profesional guru vokasi (PF.5 & P.2) menuntut pengelolaan bahan praktik yang bijak, ketaatan pada standar pengujian material (ASTM E8/ISO 6892), serta keselamatan kerja (pelindung serpihan saat patah). Memadukan simulasi virtual untuk eksplorasi luas dan uji destruktif terukur berkelompok memaksimalkan pengalaman belajar secara bertanggung jawab.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q040",
+        "number": 40,
+        "type": "multiple",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Guru Teknik Mesin ditugaskan membina tim peserta didik menghadapi Lomba Kompetensi Siswa (LKS) bidang CNC Milling 3-Axis dan Welding GMAW/GTAW. Manakah praktik pembimbingan yang profesional, etis, dan mengembangkan kompetensi murid secara autentik (PF.5 & P.5)?"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Membimbing peserta didik menganalisis secara mandiri gambar kerja standar ISO, merancang strategi toolpath CAM atau urutan pengelasan WPS, serta melatih mitigasi risiko kesalahan setup."
+          },
+          {
+            "id": "B",
+            "text": "Membuatkan secara diam-diam seluruh file program CAM utama dan strategi pemotongan oleh guru pembimbing lalu meminta siswa sekadar menghafal urutan penekanan tombol agar peluang juara lebih besar."
+          },
+          {
+            "id": "C",
+            "text": "Menanamkan disiplin K3, manajemen waktu lomba, dan kejujuran pencatatan pengukuran QC sebagai bagian tak terpisahkan dari persiapan teknis."
+          },
+          {
+            "id": "D",
+            "text": "Membuka proses penjaringan calon peserta secara transparan dan inklusif bagi seluruh siswa berminat, serta mengimbaskan modul dan pengalaman latihan LKS ke pembelajaran kelas reguler."
+          },
+          {
+            "id": "E",
+            "text": "Melibatkan praktisi/alumni industri mitra untuk memberikan umpan balik teknis objektif pada hasil benda kerja simulasi uji coba sebelum hari lomba."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "C",
+          "D",
+          "E"
+        ],
+        "minSelections": 2,
+        "maxSelections": 4,
+        "instruction": "Pilih dua, tiga, atau empat jawaban yang benar.",
+        "explanation": "Pembinaan LKS yang profesional dan etis (PF.5 & P.5) menempatkan murid sebagai subjek utama yang menguasai penalaran teknis secara mandiri (A), menjunjung K3 dan kejujuran QC (C), menjaga inklusivitas dan pengimbasan ke kelas reguler (D), serta memanfaatkan masukan objektif mitra industri (E). Mengambil alih pekerjaan teknis siswa (B) melanggar integritas akademik dan menghambat kemandirian.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q041",
+        "number": 41,
+        "type": "single",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Untuk mengatasi kesulitan murid kelas X menggambar Diagram Gaya Geser (SFD) dan Momen Lentur (BMD) pada balok, guru merancang aplikasi web interaktif berisi penggeser posisi beban yang seketika mengubah kurva gaya geser, momen lentur, dan defleksi balok, dilengkapi video uji lentur bengkel serta kuis diagnostik instan. Keunggulan pedagogis utama bahan ajar digital ini (PF.5 & P.4) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menggantikan sepenuhnya kehadiran dan peran pembimbingan guru di kelas Mekanika Teknik karena seluruh konsep balok sudah otomatis dijelaskan layar perangkat."
+          },
+          {
+            "id": "B",
+            "text": "Meningkatkan daya tarik belajar terutama karena penggunaan warna grafis modern dan animasi perpindahan halaman yang lebih mencolok daripada buku paket cetak."
+          },
+          {
+            "id": "C",
+            "text": "Memungkinkan peserta didik melompati pemahaman keseimbangan statika dan langsung menghafal pola kurva SFD-BMD dari tangkapan layar tanpa melakukan perhitungan."
+          },
+          {
+            "id": "D",
+            "text": "Menyeragamkan tempo belajar seluruh kelas secara kaku sehingga murid yang membutuhkan pengulangan tidak dapat memutar kembali simulasi posisi beban."
+          },
+          {
+            "id": "E",
+            "text": "Menghubungkan representasi fisik, grafis, matematis, dan interaktif untuk menjembatani konsep abstrak gaya-momen sekaligus memberi ruang eksplorasi sesuai tempo belajar murid."
+          }
+        ],
+        "correctAnswer": "E",
+        "explanation": "Inovasi e-modul interaktif berbasis representasi multipel (PF.5 & P.4) membantu peserta didik melihat hubungan sebab-akibat secara dinamis antara posisi beban fisik, persamaan statika, grafik SFD-BMD, dan lendutan balok, serta mendukung pembelajaran mandiri berdiferensiasi melalui umpan balik diagnostik cepat.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q042",
+        "number": 42,
+        "type": "single",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Saat mendemonstrasikan pengaruh pengaturan debit gas pelindung pada pengelasan GMAW (MIG/MAG)—membandingkan hasil manik las pada debit terlalu rendah (4 L/menit), optimal (14 L/menit), dan terlalu tinggi (35 L/menit)—guru menerapkan strategi Predict–Observe–Explain (POE). Alasan pedagogis mengapa tahap 'Predict' (meminta murid menuliskan prediksi bentuk cacat dan alasannya sebelum busur dinyalakan) sangat krusial (PF.5 & P.3) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Memudahkan guru langsung mendata siswa yang tebakannya salah pada awal pelajaran untuk diberikan pengurangan skor kesiapan praktik sebelum mengelas."
+          },
+          {
+            "id": "B",
+            "text": "Mengaktifkan pengetahuan awal dan mengungkap miskonsepsi ('gas lebih deras pasti lebih bersih'), sehingga kemunculan porositas pada 35 L/menit memicu konflik kognitif kuat untuk diamati dan dijelaskan."
+          },
+          {
+            "id": "C",
+            "text": "Menghemat konsumsi gas pelindung argon/CO₂ di bengkel pengelasan dengan memperpanjang waktu menulis di kelas sebelum menyalakan mesin GMAW."
+          },
+          {
+            "id": "D",
+            "text": "Membebaskan peserta didik dari kewajiban mengamati langsung kawah las dan hasil manik las selama mereka sudah menuliskan dugaan awal pada lembar kerja."
+          },
+          {
+            "id": "E",
+            "text": "Membiasakan peserta didik menebak cepat fenomena pengelasan tanpa landasan teori karena penjelasan ilmiah yang benar akan langsung disampaikan guru sebelum pengelasan berakhir."
+          }
+        ],
+        "correctAnswer": "B",
+        "explanation": "Strategi POE (White & Gunstone, PF.5 & P.3) mengubah demonstrasi bengkel dari tontonan pasif menjadi investigasi aktif. Komitmen tertulis pada tahap Predict memunculkan miskonsepsi ('semakin deras gas semakin baik'), sehingga anomali porositas akibat turbulensi pada debit berlebih memicu konflik kognitif produktif di tahap Observe dan Explain.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q043",
+        "number": 43,
+        "type": "category",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Menjelang akhir pekan praktik, bengkel pemesinan, hidrolik, dan pengujian NDT menghasilkan sejumlah oli bekas, majun berminyak, geram logam, dan residu cairan kimia penetran. Guru Teknik Mesin menegakkan prosedur pengendalian limbah B3 sebagai teladan profesional (PF.5)."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan TEPAT atau TIDAK TEPAT tindakan penanganan limbah bengkel berikut!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Menampung oli hidrolik bekas, pelumas gearbox, dan residu cairan pembersih/penetran NDT ke dalam jerigen atau drum tertutup tahan bocor berlabel simbol limbah B3 sebelum diserahkan ke pihak pengelola limbah berizin."
+          },
+          {
+            "id": "B",
+            "text": "Mencampur sisa emulsi coolant mesin gerinda, oli bekas, dan sisa cairan kimia pembersih NDT ke dalam satu wadah terbuka tanpa label lalu mengalirkan bagian encernya ke selokan saat hujan deras."
+          },
+          {
+            "id": "C",
+            "text": "Menyediakan wadah logam bertutup rapat khusus untuk majun/kain lap terkontaminasi oli dan pelarut guna mencegah risiko penyalaan spontan (spontaneous combustion) sekaligus memisahkannya dari sampah domestik."
+          },
+          {
+            "id": "D",
+            "text": "Memilah geram (chips) baja, aluminium, dan kuningan secara terpisah setelah ditiriskan dari sisa minyak pemotongan untuk disalurkan ke daur ulang logam sebagai praktik ekonomi sirkular bengkel."
+          }
+        ],
+        "categories": [
+          {
+            "id": "tepat",
+            "text": "Tepat"
+          },
+          {
+            "id": "tidak-tepat",
+            "text": "Tidak Tepat"
+          }
+        ],
+        "correctAnswer": {
+          "A": "tepat",
+          "B": "tidak-tepat",
+          "C": "tepat",
+          "D": "tepat"
+        },
+        "explanation": "1) A Tepat: Segregasi, penampungan tertutup berlabel B3, dan penyerahan ke pengelola berizin adalah standar hukum dan lingkungan. 2) B Tidak Tepat: Mencampur bahan kimia tak dikenal dan membuang limbah B3 ke selokan melanggar peraturan lingkungan serta membahayakan keselamatan. 3) C Tepat: Tempat sampah logam tertutup mencegah kebakaran spontan majun berminyak. 4) D Tepat: Pemilahan geram logam kering mendukung ekonomi sirkular dan mengurangi pencemaran.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q044",
+        "number": 44,
+        "type": "single",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Guru Teknik Mesin mengangkat studi kasus dilema nyata sebuah pabrik komponen otomotif lokal yang mempertimbangkan penggantian lini las GMAW manual dengan sel robot las otomatis dan mesin CNC: otomatisasi meningkatkan konsistensi mutu QC dan melindungi pekerja dari asap las, namun memicu kekhawatiran pengurangan operator manual dan lonjakan kebutuhan listrik. Pendekatan isu sosio-teknis ini mengembangkan praktik profesional pendidikan Teknik Mesin (PF.5 & P.2) karena..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Mengarahkan seluruh peserta didik untuk mengambil sikap menolak modernisasi robotika dan CNC agar kesempatan kerja pengelasan manual tetap dipertahankan."
+          },
+          {
+            "id": "B",
+            "text": "Menyederhanakan persoalan kompleks manufaktur menjadi pilihan benar-salah tunggal yang cukup diselesaikan menggunakan satu rumus produktivitas jam kerja."
+          },
+          {
+            "id": "C",
+            "text": "Melatih peserta didik mengambil keputusan rekayasa berbasis bukti dengan menimbang data mutu, K3, energi, dampak sosial tenaga kerja, dan strategi reskilling operator secara etis."
+          },
+          {
+            "id": "D",
+            "text": "Mengubah fokus pembelajaran produktif Teknik Mesin menjadi kajian sosiologi industri murni sehingga peserta didik tidak lagi mempelajari parameter GMAW maupun CNC."
+          },
+          {
+            "id": "E",
+            "text": "Mendorong suasana debat bebas berbasis perasaan dan opini pribadi murid tanpa merujuk data tingkat cacat las, paparan asap, maupun standar keselamatan kerja pabrik."
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Isu sosio-teknis (Socio-Technical/SSI, PF.5 & P.2) menumbuhkan nalar profesional vokasi yang utuh: calon teknisi tidak hanya cakap menghitung parameter mesin, tetapi mampu mengambil keputusan etis berbasis data mutu, K3, keberlanjutan energi, serta dampak sosial dan strategi upskilling/reskilling tenaga kerja.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q045",
+        "number": 45,
+        "type": "multiple",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Di penghujung blok praktik CNC Milling 3-Axis dan pengendalian mutu (QC) selama satu bulan, guru menelaah kembali bukti hasil belajar kelasnya sebagai dasar perbaikan modul ajar berikutnya (PF.5 & P.6). Manakah indikator empiris yang paling sahih untuk menilai keberhasilan pembelajaran tersebut?"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Penurunan frekuensi kesalahan konseptual murid terkait penetapan titik nol benda kerja (G54), kompensasi radius pisau (G41/G42), dan pembacaan peta kendali mutu dibanding hasil asesmen awal."
+          },
+          {
+            "id": "B",
+            "text": "Persentase produk praktik peserta didik yang memenuhi toleransi dimensi gambar kerja tanpa terjadinya insiden tabrakan (crash) spindel maupun pelanggaran K3."
+          },
+          {
+            "id": "C",
+            "text": "Kecepatan peserta didik melafalkan secara hafalan daftar 60 kode G dan kode M tanpa mampu memilih kode yang sesuai saat menyusun program CAM."
+          },
+          {
+            "id": "D",
+            "text": "Konsistensi kebiasaan kerja aman, ketertiban pemeriksaan pra-pakai (TPM), serta kepatuhan pengelolaan geram dan kebersihan area kerja CNC oleh seluruh kelompok."
+          },
+          {
+            "id": "E",
+            "text": "Temuan umpan balik dan refleksi tertulis peserta didik mengenai bagian jobsheet, simulasi CAM, dan perancah (scaffolding) mana yang paling membantu atau masih membingungkan."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "D",
+          "E"
+        ],
+        "minSelections": 2,
+        "maxSelections": 4,
+        "instruction": "Pilih dua, tiga, atau empat jawaban yang benar.",
+        "explanation": "Evaluasi empiris pembelajaran vokasi Teknik Mesin (PF.5 & P.6) bertumpu pada bukti pertumbuhan pemahaman konseptual (A), kualitas produk presisi dan catatan keselamatan nol kecelakaan (B), habituasi budaya K3-TPM (D), serta suara reflektif murid untuk penyempurnaan modul (E). Hafalan kode G/M tanpa penerapan (C) bukan indikator kompetensi pemesinan bermakna.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q046",
+        "number": 46,
+        "type": "single",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Menanggapi keluhan suara bising kompresor, meja kerja gerinda yang kurang ergonomis, dan rembesan pelumas di beberapa mesin perkakas, guru Teknik Mesin menginisiasi gerakan 'Audit Kebisingan, Ergonomi, dan Perawatan Mandiri (TPM) Bengkel' bersama murid dan teknisi (PF.5 & P.1). Langkah awal yang paling sistematis dan edukatif untuk memulai program tersebut adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Langsung mengajukan proposal pengadaan mesin perkakas baru ke pimpinan sekolah tanpa mengumpulkan data awal kebisingan, postur kerja, maupun riwayat perawatan mesin lama."
+          },
+          {
+            "id": "B",
+            "text": "Mencetak dan menempelkan spanduk besar bertuliskan 'Utamakan Keselamatan Kerja dan 5R' di pintu bengkel lalu menyatakan program audit selesai dilaksanakan."
+          },
+          {
+            "id": "C",
+            "text": "Menjatuhkan sanksi piket tambahan kepada rombongan belajar yang ruang praktiknya tampak paling bising dan kotor sebelum menyepakati indikator pemeriksaan bersama."
+          },
+          {
+            "id": "D",
+            "text": "Membimbing murid menyusun instrumen audit baku (peta dBA tiap mesin, ceklist postur ergonomis, dan inspeksi pelumasan/pengaman), menghimpun data baseline, lalu memprioritaskan perbaikan."
+          },
+          {
+            "id": "E",
+            "text": "Menyerahkan seluruh pemeriksaan kondisi bengkel kepada konsultan K3 eksternal tanpa keterlibatan murid agar dokumen laporan audit terlihat lebih formal."
+          }
+        ],
+        "correctAnswer": "D",
+        "explanation": "Program audit bengkel berbasis data (PF.5 & P.1) mengubah konsep K3L, ergonomi, dan TPM menjadi pembelajaran autentik: dimulai dengan perancangan instrumen terstandar, pengumpulan data baseline aktual di bengkel, dan analisis prioritas perbaikan kolaboratif sebelum menetapkan rencana aksi.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q047",
+        "number": 47,
+        "type": "single",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Untuk membantu murid memahami kehilangan tekanan (pressure drop) dan kerja katup pelepas tekanan (pressure relief valve) pada rangkaian hidrolik, guru membandingkannya dengan jaringan pipa air pompa rumah tangga. Agar pemakaian perumpamaan tersebut tidak justru melahirkan miskonsepsi baru di bengkel (PF.5 & P.3), tindakan krusial yang harus dilakukan guru adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Memetakan kemiripan fungsinya sekaligus menegaskan batas analogi (misalnya pengaruh viskositas oli terhadap suhu, sifat fluida hampir tak termampatkan, dan bahaya injeksi tekanan ratusan bar)."
+          },
+          {
+            "id": "B",
+            "text": "Mempertahankan penjelasan berbasis pipa air rumah tangga sepanjang semester dan menunda pengenalan simbol ISO hidrolik maupun kurva pompa agar murid tidak bingung."
+          },
+          {
+            "id": "C",
+            "text": "Menyatakan bahwa karakteristik aliran pipa air taman sepenuhnya identik dengan oli hidrolik industri sehingga konsep kavitasi pompa dan pelumasan internal tidak perlu dibahas."
+          },
+          {
+            "id": "D",
+            "text": "Membiarkan setiap peserta didik menafsirkan sendiri batas kesamaan antara air pipa dan oli hidrolik tanpa pernah mendiskusikan perbedaannya demi menjaga kelancaran kelas."
+          },
+          {
+            "id": "E",
+            "text": "Menghindari penggunaan segala bentuk analogi atau perumpamaan dalam mata pelajaran Teknik Mesin karena analogi dianggap selalu menyimpangkan makna ilmiah."
+          }
+        ],
+        "correctAnswer": "A",
+        "explanation": "Model Teaching With Analogies (TWA - Glynn, PF.5 & P.3) menegaskan bahwa kekuatan analogi terletak pada pemetaan kesamaan konseptual sekaligus kejelasan batasannya. Menjelaskan titik di mana analogi tidak lagi berlaku mencegah miskonsepsi lanjutan seperti mengabaikan viskositas oli, kavitasi pompa, atau bahaya injeksi oli bertekanan tinggi.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q048",
+        "number": 48,
+        "type": "category",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Di bengkel CAD/CNC dan proyek Teaching Factory (TeFa), beberapa kelompok siswa kelas XII mulai menggunakan aplikasi kecerdasan artifisial (AI generatif) untuk mengecek kode post-processor, menganalisis cacat las, dan menyusun dokumen QC komponen pesanan industri. Guru menegakkan kode etik digital dan integritas rekayasa (PF.5 & P.4)."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan ETIS atau TIDAK ETIS tindakan penggunaan AI dan data industri berikut!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Menggunakan AI generatif sebagai mitra curah pendapat untuk mengidentifikasi kemungkinan penyebab cacat lack of fusion atau kesalahan sintaks kode post-processor, lalu memverifikasinya secara kritis terhadap WPS, katalog pahat, dan simulasi CAM."
+          },
+          {
+            "id": "B",
+            "text": "Meminta AI generatif membuatkan tabel angka pengukuran dimensi dan hasil uji kekerasan Rockwell fiktif agar peta kendali mutu (QC) kelompok tampak berada dalam batas kendali."
+          },
+          {
+            "id": "C",
+            "text": "Mencantumkan keterangan transparan mengenai bagian penyusunan dokumen yang dibantu alat digital serta mempertahankan analisis keteknikan berdasarkan hasil pengukuran benda kerja aktual."
+          },
+          {
+            "id": "D",
+            "text": "Mengunggah gambar kerja rahasia (blueprint) komponen milik perusahaan mitra Teaching Factory yang dilindungi perjanjian kerahasiaan ke platform AI publik tanpa izin."
+          }
+        ],
+        "categories": [
+          {
+            "id": "etis",
+            "text": "Etis"
+          },
+          {
+            "id": "tidak-etis",
+            "text": "Tidak Etis"
+          }
+        ],
+        "correctAnswer": {
+          "A": "etis",
+          "B": "tidak-etis",
+          "C": "etis",
+          "D": "tidak-etis"
+        },
+        "explanation": "1) A Etis: Menggunakan AI untuk curah pendapat teknis disertai verifikasi pada standar resmi (WPS/katalog/CAM) melatih literasi digital kritis (P.4). 2) B Tidak Etis: Fabrikasi data QC melanggar prinsip dasar integritas teknik dan membahayakan mutu produk. 3) C Etis: Transparansi dan kepemilikan analitis berbasis data aktual menjaga kejujuran akademik. 4) D Tidak Etis: Membocorkan dokumen rahasia mitra DUDI ke AI publik melanggar etika profesi dan kerahasiaan data industri (NDA).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q049",
+        "number": 49,
+        "type": "single",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Jurusan Teknik Mesin ingin menyelaraskan kompetensi siswa kelas XI dan XII dengan tuntutan standar manufaktur modern pada bidang CNC Milling 3-Axis, pengelasan berstandar WPS, serta audit mutu QC melalui kerja sama dengan Dunia Usaha dan Dunia Industri (DUDI) (PF.5 & P.5). Wujud kemitraan luar sekolah yang paling relevan dan bermakna bagi peserta didik adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menyerahkan penyusunan seluruh naskah ujian akhir semester sekolah kepada staf administrasi perusahaan mitra tanpa menelaah kesesuaiannya dengan Capaian Pembelajaran kurikulum."
+          },
+          {
+            "id": "B",
+            "text": "Mengundang tenaga pemasar perkakas teknik untuk melakukan presentasi penjualan produk selama dua jam pelajaran produktif tanpa kaitan langsung dengan kompetensi praktik murid."
+          },
+          {
+            "id": "C",
+            "text": "Memberikan kesempatan observasi bengkel manufaktur hanya kepada dua siswa peraih nilai tertinggi sementara teman sekelasnya tinggal di ruang kelas mengerjakan soal hafalan."
+          },
+          {
+            "id": "D",
+            "text": "Mengadakan perjalanan rekreasi tahunan jurusan ke destinasi wisata luar kota tanpa agenda pengamatan proses produksi maupun lembar refleksi keteknikan."
+          },
+          {
+            "id": "E",
+            "text": "Menyelaraskan jobsheet berbasis WPS dan lembar inspeksi QC aktual bersama industri manufaktur mitra, menghadirkan praktisi guru tamu CNC/TPM, serta melaksanakan kunjungan observasi lantai produksi terpandu."
+          }
+        ],
+        "correctAnswer": "E",
+        "explanation": "Kemitraan vokasi strategis bersama DUDI (PF.5 & P.5) menghadirkan keselarasan (link and match) nyata melalui sinkronisasi standar jobsheet (WPS/CAM/QC), pembelajaran langsung dari praktisi industri, dan observasi proses manufaktur terpandu yang memperluas horizon karier seluruh peserta didik.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q050",
+        "number": 50,
+        "type": "multiple",
+        "section": "PCK Pendidikan Teknik Mesin",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Perkembangan cepat teknologi CAM/CNC multi-sumbu, standar pengelasan internasional, serta tuntutan keselamatan K3L mendorong guru Teknik Mesin merencanakan peta pengembangan keprofesian jangka menengah secara mandiri dan kolaboratif (PF.5). Manakah langkah pembaruan diri profesional yang paling tepat?"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Mengikuti program magang industri (upskilling/reskilling) atau sertifikasi kompetensi teknis mutakhir di bidang pemrograman CAM/CNC 3-Axis, pengelasan GMAW/GTAW, maupun manajemen perawatan TPM."
+          },
+          {
+            "id": "B",
+            "text": "Melaksanakan Penelitian Tindakan Kelas (PTK) atau menulis publikasi praktik baik mengenai pengembangan jig pembelajaran, media simulasi PLC, atau inovasi perancah perhitungan roda gigi yang terbukti meningkatkan kompetensi murid."
+          },
+          {
+            "id": "C",
+            "text": "Mempertahankan jobsheet, parameter pemesinan, dan standar gambar lama dari 15 tahun lalu secara persis tanpa menyelaraskannya dengan pembaruan standar ISO, teknologi CAM, dan tuntutan K3L terkini."
+          },
+          {
+            "id": "D",
+            "text": "Melakukan refleksi berkala berbasis data cacat produk praktik, catatan keselamatan bengkel, dan masukan murid untuk memperbarui modul ajar serta rubrik asesmen."
+          },
+          {
+            "id": "E",
+            "text": "Berpartisipasi aktif dalam forum MGMP Teknik Mesin untuk melaksanakan lesson study, membedah miskonsepsi pemesinan/mekanika, serta berbagi perangkat ajar kontekstual antarsekolah."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "D",
+          "E"
+        ],
+        "minSelections": 2,
+        "maxSelections": 4,
+        "instruction": "Pilih dua, tiga, atau empat jawaban yang benar.",
+        "explanation": "Pengembangan profesional berkelanjutan guru Teknik Mesin (PF.5) meliputi pembaruan kompetensi teknis di industri (A), riset praktis/PTK dan inovasi media ajar (B), refleksi rutin berbasis data bengkel (D), serta kolaborasi profesional di MGMP/lesson study (E). Stagnasi perangkat ajar lama (C) bertentangan dengan dinamika teknologi manufaktur.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q051",
+        "number": 51,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Tim fasilitator Projek Penguatan Profil Pelajar Pancasila (P5) merancang tema kewirausahaan ramah lingkungan dan penataan ruang sekolah. Agar pelaksanaan projek tidak berhenti pada rutinitas membuat poster atau bazar seremonial semata, tetapi menumbuhkan pemahaman konseptual, konteks nyata, dan refleksi mendalam (P.1), desain alur kegiatan yang paling tepat adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menugaskan setiap kelompok menyalin templat proposal usaha jadi yang sudah disiapkan guru lalu mencetak dan menjilidnya rapi sebagai bukti tuntas projek semester."
+          },
+          {
+            "id": "B",
+            "text": "Mengisi tiga pekan pertama dengan ceramah penuh tentang sejarah kewirausahaan sosial diikuti tes pilihan ganda istilah akuntansi agar siswa menguasai teori dasar terlebih dahulu."
+          },
+          {
+            "id": "C",
+            "text": "Mengawali dengan pemetaan limbah dan kebutuhan nyata warga sekolah, memfasilitasi riset kelayakan serta uji prototipe usaha kolaboratif, lalu menutup tiap fase dengan refleksi kritis atas dampaknya."
+          },
+          {
+            "id": "D",
+            "text": "Mewajibkan seluruh kelas langsung menjual makanan ringan siap saji di lapangan pada pekan kedua tanpa riset kebutuhan, kalkulasi biaya, maupun evaluasi pasca-kegiatan."
+          },
+          {
+            "id": "E",
+            "text": "Menentukan keberhasilan projek terutama dari kemewahan dekorasi stan pameran dan besarnya pemasukan penjualan kelompok saat gelar karya akhir semester."
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Subkompetensi P.1 menekankan perancangan pengalaman belajar yang memadukan pemahaman konseptual, penerapan dalam konteks nyata, dan refleksi bermakna. Pemetaan masalah riil, penyelidikan/uji coba prototipe solusi, dan refleksi kritis pada tiap fase (C) menjadikan projek P5 autentik, bukan seremoni dangkal.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q052",
+        "number": 52,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Di dalam satu kelas terdapat seorang peserta didik yang mengalami kecemasan ujian (test anxiety) cukup berat setiap kali menghadapi tes tertulis berbatas waktu ketat hingga tangannya gemetar dan buntu, padahal saat diskusi pemecahan masalah dan demonstrasi lisan ia bernalar sangat tajam. Sementara itu, beberapa murid lain selalu rampung jauh lebih cepat dan mulai jenuh. Penerapan diferensiasi dan akomodasi belajar yang paling tepat (P.2) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Tetap memberlakukan satu format tes tertulis berbatas waktu ketat tanpa penyesuaian apa pun demi menjaga keseragaman administratif dan kesan perlakuan sama rata di kelas."
+          },
+          {
+            "id": "B",
+            "text": "Membebaskan murid yang mengalami kecemasan ujian dari seluruh bentuk asesmen sumatif lalu memberinya nilai rata-rata kelas secara otomatis agar kondisi emosionalnya terjaga."
+          },
+          {
+            "id": "C",
+            "text": "Mengumumkan di hadapan kelas bahwa murid tersebut memiliki gangguan kecemasan ujian berat agar teman-temannya tidak menuntut kecepatan kerja yang sama saat diskusi."
+          },
+          {
+            "id": "D",
+            "text": "Meminta murid-murid yang selesai mengerjakan soal lebih awal untuk duduk tenang di bangkunya tanpa aktivitas tambahan supaya tidak mengganggu konsentrasi teman lainnya."
+          },
+          {
+            "id": "E",
+            "text": "Menyediakan moda asesmen setara standar (mis. uji lisan terstruktur/demonstrasi kasus atau pengerjaan bertahap di ruang tenang) disertai latihan regulasi cemas, serta tantangan pengayaan bagi murid cepat selesai."
+          }
+        ],
+        "correctAnswer": "E",
+        "explanation": "Prinsip pembelajaran berdiferensiasi dan keadilan asesmen (P.2) membedakan perlakuan/akses sesuai kebutuhan belajar murid tanpa menurunkan ekspektasi capaian kompetensi. Variasi moda asesmen setara, dukungan regulasi kecemasan secara privat, dan pengayaan bermakna bagi murid cepat belajar (E) melayani keragaman kelas secara inklusif dan profesional.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q053",
+        "number": 53,
+        "type": "category",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Seorang guru meninjau ulang skenario kelas proyek lintas disiplin yang baru dirancangnya untuk memastikan ketiga dimensi Pembelajaran Mendalam—berkesadaran (mindful), bermakna (meaningful), dan menggembirakan (joyful)—hadir secara autentik."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan SESUAI atau TIDAK SESUAI rancangan aktivitas kelas berikut dengan ketiga prinsip tersebut!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Guru membimbing peserta didik mengenali fokus perhatian, menetapkan target capaian harian pribadi, dan memantau strategi belajar yang paling efektif bagi dirinya selama sesi kerja mandiri (Berkesadaran)."
+          },
+          {
+            "id": "B",
+            "text": "Guru mengisi separuh akhir jam pelajaran setiap pertemuan dengan permainan tebak lagu viral dan lelucon acak yang tidak memiliki keterkaitan sedikit pun dengan topik proyek asalkan kelas ramai tertawa (Menggembirakan)."
+          },
+          {
+            "id": "C",
+            "text": "Guru mendorong peserta didik menghubungkan rancangan solusi proyek lintas disiplin dengan tantangan nyata yang dihadapi keluarga atau warga di sekitar tempat tinggal mereka (Bermakna)."
+          },
+          {
+            "id": "D",
+            "text": "Guru membingkai kekeliruan percobaan awal prototipe sebagai temuan berharga untuk diperbaiki bersama sehingga murid merasa aman secara psikologis dan antusias bereksplorasi (Menggembirakan dan Bermakna)."
+          }
+        ],
+        "categories": [
+          {
+            "id": "sesuai",
+            "text": "Sesuai"
+          },
+          {
+            "id": "tidak-sesuai",
+            "text": "Tidak Sesuai"
+          }
+        ],
+        "correctAnswer": {
+          "A": "sesuai",
+          "B": "tidak-sesuai",
+          "C": "sesuai",
+          "D": "sesuai"
+        },
+        "explanation": "1) A Sesuai: Kesadaran diri, penetapan tujuan, dan regulasi strategi belajar adalah inti prinsip berkesadaran (mindful). 2) B Tidak Sesuai: Prinsip menggembirakan (joyful) bukanlah hiburan kosong yang terpisah dari tujuan belajar, melainkan rasa aman, antusiasme, dan kepuasan intelektual dalam proses memahami. 3) C Sesuai: Keterhubungan materi dengan realitas hidup murid menciptakan kebermaknaan (meaningful). 4) D Sesuai: Iklim aman dari stigma kesalahan menumbuhkan keberanian eksplorasi dan kegembiraan belajar.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q054",
+        "number": 54,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Sekolah baru melengkapi kelas dengan perangkat tablet dan Learning Management System (LMS). Seorang guru memindahkan seluruh berkas PDF ringkasan materi ke LMS serta mengganti kuis kertas hafalan dengan kuis daring berperingkat cepat, lalu merasa integrasi teknologinya sudah mencapai taraf transformasi belajar mendalam. Kriteria paling tepat untuk menilai bahwa teknologi benar-benar memperdalam pemahaman murid (P.4) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Teknologi memampukan aktivitas belajar tingkat tinggi yang sulit dilakukan secara konvensional, seperti kolaborasi analisis data real-time, simulasi uji variabel, serta umpan balik portofolio berulang."
+          },
+          {
+            "id": "B",
+            "text": "Seluruh berkas modul cetak telah berhasil dipindahkan ke format PDF pada LMS sehingga sekolah mampu menekan pengeluaran biaya kertas fotokopi dan tinta hingga nol persen."
+          },
+          {
+            "id": "C",
+            "text": "Peserta didik mampu menyelesaikan 30 soal kuis hafalan istilah dalam waktu kurang dari tiga menit lengkap dengan efek suara meriah dan papan peringkat kompetisi langsung."
+          },
+          {
+            "id": "D",
+            "text": "Durasi penggunaan tablet oleh setiap peserta didik melampaui 85% dari total jam tatap muka di kelas sehingga interaksi diskusi lisan antarteman dapat dikurangi seminimal mungkin."
+          },
+          {
+            "id": "E",
+            "text": "Guru mengombinasikan minimal lima aplikasi digital berbeda dalam satu pertemuan pembelajaran meskipun fitur masing-masing aplikasi hanya mengulang tampilan materi yang sama."
+          }
+        ],
+        "correctAnswer": "A",
+        "explanation": "Menurut kerangka SAMR dan TPACK (P.4), sekadar mengunggah PDF atau memindahkan kuis hafalan ke layar hanyalah tahap substitusi (Substitution). Teknologi memberi nilai pedagogis transformatif (Modification/Redefinition) ketika memperdalam penalaran kritis, kolaborasi bermakna, simulasi pengujian ide, dan umpan balik formatif berkelanjutan (A).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q055",
+        "number": 55,
+        "type": "multiple",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Sekolah berada di kawasan padat sentra Usaha Mikro, Kecil, dan Menengah (UMKM) yang masih menjaga kuat tradisi gotong royong warga. Guru memanfaatkan realitas ekonomi dan sosial tersebut dalam unit pembelajaran kontekstual (P.5). Langkah manakah yang mencerminkan pelaksanaan optimal?"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Membimbing peserta didik melakukan observasi langsung alur kerja, kendala operasional, dan potensi peningkatan mutu pada unit UMKM sekitar sekolah dengan izin resmi."
+          },
+          {
+            "id": "B",
+            "text": "Menghindari pembahasan usaha kecil sekitar sekolah karena dianggap kurang bergengsi dibanding contoh perusahaan multinasional dalam buku terjemahan."
+          },
+          {
+            "id": "C",
+            "text": "Mengundang pelaku UMKM dan tokoh masyarakat setempat sebagai narasumber pengalaman autentik untuk berdialog dan memberi umpan balik atas ide solusi murid."
+          },
+          {
+            "id": "D",
+            "text": "Meminta murid menyalin profil perusahaan dari internet tanpa pernah berinteraksi atau mengamati kondisi sosial-ekonomi lingkungan sekitarnya."
+          },
+          {
+            "id": "E",
+            "text": "Mengkaji nilai-nilai lokal seperti tradisi gotong royong, etos kerja, dan kejujuran dagang masyarakat setempat sebagai bahan refleksi kritis dalam merancang proyek."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "C",
+          "E"
+        ],
+        "minSelections": 2,
+        "maxSelections": 4,
+        "instruction": "Pilih dua, tiga, atau empat jawaban yang benar.",
+        "explanation": "Pemanfaatan lingkungan sekitar dan kearifan lokal secara autentik (P.5) diwujudkan melalui observasi langsung aktivitas nyata lokal (A), pelibatan pelaku/tokoh komunitas sebagai mitra belajar (C), dan pengkajian kritis nilai budaya setempat (E). Opsi B dan D menjauhkan pembelajaran dari realitas kontekstual murid.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q056",
+        "number": 56,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pada minggu kedua proyek kewirausahaan lintas mata pelajaran, pemeriksaan logbook kemajuan memperlihatkan hampir seluruh kelompok menyusun rencana anggaran biaya (RAB) berdasarkan perkiraan acak tanpa survei harga bahan nyata di pemasok sekitar. Tindakan asesmen formatif dan umpan balik (P.6) yang paling efektif dilakukan guru saat itu adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Membiarkan kesalahan rancangan anggaran tersebut sampai gelar karya akhir bulan lalu memberi nilai rendah agar kelompok merasakan pelajaran nyata dari kerugian usahanya."
+          },
+          {
+            "id": "B",
+            "text": "Menuliskan komentar motivasi singkat seperti 'Kerja bagus, lanjutkan!' di semua logbook kelompok supaya semangat belajar mereka tetap tinggi hingga akhir proyek."
+          },
+          {
+            "id": "C",
+            "text": "Langsung menggantikan seluruh angka anggaran pada berkas setiap kelompok dengan daftar harga pasar buatan guru agar jadwal produksi tidak mundur dari kalender."
+          },
+          {
+            "id": "D",
+            "text": "Memberi umpan balik spesifik merujuk kriteria rubrik kelayakan anggaran, menandai pos biaya tanpa bukti survei, dan memantik kelompok memverifikasi harga lalu merevisi RAB sendiri."
+          },
+          {
+            "id": "E",
+            "text": "Menghentikan seluruh proyek kewirausahaan di tengah jalan lalu mengalihkan penilaian menjadi ulangan harian tertulis mengenai perhitungan titik impas dan laba rugi."
+          }
+        ],
+        "correctAnswer": "D",
+        "explanation": "Asesmen formatif (assessment for learning, P.6) dilakukan di tengah proses belajar untuk mendeteksi kesenjangan sejak dini dan mengarahkan perbaikan. Umpan balik yang efektif bersifat spesifik berbasis kriteria rubrik, menunjukkan celah bukti, dan memberdayakan murid memperbaiki pekerjaannya sendiri (D), bukan mengambil alih tugas (C) atau membiarkannya gagal di akhir (A).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q057",
+        "number": 57,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Hasil asesmen awal (diagnostik) literasi data menunjukkan sebagian besar murid kelas X sudah mampu membaca angka tunggal pada tabel sederhana, tetapi 65% kesulitan membandingkan tren dan menarik kesimpulan dari grafik multi-variabel yang menjadi prasyarat analisis studi kasus unit baru. Keputusan pedagogis yang paling tepat diambil guru (P.1, P.2, & P.6) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Tetap melangkah langsung ke studi kasus grafik kompleks sesuai linimasa silabus karena jadwal tatap muka satu semester tidak boleh bergeser sedikit pun dari rencana awal."
+          },
+          {
+            "id": "B",
+            "text": "Menyisipkan sesi penguatan prasyarat (bridging) membaca grafik multi-variabel secara konkret bagi 65% murid yang membutuhkan, sambil memberi tantangan interpretasi lanjut bagi 35% murid yang siap."
+          },
+          {
+            "id": "C",
+            "text": "Menyampaikan keluhan di depan kelas bahwa lemahnya kemampuan membaca grafik membuktikan ketidaktuntasan pembelajaran pada jenjang SMP sebelumnya."
+          },
+          {
+            "id": "D",
+            "text": "Menghilangkan seluruh stimulus grafik multi-variabel dari bahan ajar maupun ujian semester tersebut agar tingkat kelulusan kelas tetap melampaui target sekolah."
+          },
+          {
+            "id": "E",
+            "text": "Menugaskan seluruh murid mengerjakan 40 soal grafik sebagai pekerjaan rumah mandiri tanpa panduan kelas supaya mereka terlatih sendiri sebelum pertemuan berikutnya."
+          }
+        ],
+        "correctAnswer": "B",
+        "explanation": "Data asesmen awal berfungsi memandu penyesuaian desain pembelajaran yang responsif dan berdiferensiasi (P.1, P.2, P.6). Menyisipkan scaffolding penguatan prasyarat secara proporsional bagi 65% murid sekaligus memberi pengayaan bagi 35% murid yang sudah siap memastikan seluruh kelas tumbuh optimal tanpa mengorbankan standar capaian.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q058",
+        "number": 58,
+        "type": "category",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam diskusi persiapan penugasan portofolio dan ujian akhir lingkup materi di awal semester, guru menelaah kembali prinsip pengelolaan asesmen Kurikulum Merdeka agar adil dan mendorong kemajuan belajar murid (P.6)."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan BENAR atau SALAH pernyataan prinsip asesmen pembelajaran berikut!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Portofolio proses yang memuat draf awal, catatan umpan balik guru/teman, dan versi revisi akhir karya murid memberikan gambaran autentik perkembangan kompetensi dibanding sekadar melihat satu nilai ujian akhir."
+          },
+          {
+            "id": "B",
+            "text": "Rubrik penilaian proyek sebaiknya dirahasiakan dari peserta didik sampai tugas dikumpulkan agar murid tidak hanya mengejar indikator yang tertera pada rubrik."
+          },
+          {
+            "id": "C",
+            "text": "Asesmen diagnostik awal hanya boleh dilaksanakan satu kali pada hari pertama masuk sekolah dan tidak perlu dilakukan lagi sebelum memulai unit topik baru yang berbeda."
+          },
+          {
+            "id": "D",
+            "text": "Hasil asesmen sumatif di akhir lingkup materi selain menjadi dasar pelaporan ketercapaian kompetensi murid juga perlu dianalisis guru untuk mengevaluasi efektivitas strategi mengajarnya."
+          }
+        ],
+        "categories": [
+          {
+            "id": "benar",
+            "text": "Benar"
+          },
+          {
+            "id": "salah",
+            "text": "Salah"
+          }
+        ],
+        "correctAnswer": {
+          "A": "benar",
+          "B": "salah",
+          "C": "salah",
+          "D": "benar"
+        },
+        "explanation": "1) A Benar: Portofolio proses merekam jejak pertumbuhan, revisi, dan refleksi autentik murid. 2) B Salah: Transparansi rubrik sejak awal penugasan justru memandu arah belajar dan regulasi diri murid. 3) C Salah: Asesmen awal bersifat fleksibel dan penting dilakukan setiap memasuki lingkup materi baru dengan prasyarat khusus. 4) D Benar: Data sumatif sekaligus menjadi cermin evaluatif kualitas pembelajaran guru (P.6).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q059",
+        "number": 59,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Di tengah diskusi kelompok penyelesaian studi kasus di kelas, dua peserta didik berselisih paham mengenai pilihan strategi presentasi hingga saling melontarkan ucapan merendahkan dengan nada tinggi, menyebabkan anggota kelompok lain ketakutan dan terdiam. Tindakan segera yang paling tepat dilakukan guru untuk memulihkan iklim belajar yang aman dan bermartabat (P.3) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Membiarkan pertengkaran mulut tersebut mereda sendiri tanpa campur tangan guru karena konflik terbuka dianggap proses alami melatih ketangguhan mental siswa."
+          },
+          {
+            "id": "B",
+            "text": "Membentak kedua peserta didik tersebut dengan suara lebih keras di hadapan kelas lalu menyuruh mereka berdiri di luar pintu sampai bel pergantian jam berbunyi."
+          },
+          {
+            "id": "C",
+            "text": "Mengintervensi secara tenang dan tegas untuk menghentikan serangan pribadi, mengingatkan kesepakatan komunikasi santun, memberi jeda menenangkan diri, lalu memediasi fokus kembali pada gagasan."
+          },
+          {
+            "id": "D",
+            "text": "Segera membubarkan seluruh kerja kelompok di kelas hari itu dan menghukum semua peserta didik dengan tugas menyalin dua bab buku teks hingga jam pelajaran selesai."
+          },
+          {
+            "id": "E",
+            "text": "Langsung memenangkan usulan salah satu murid yang biasanya memperoleh nilai paling tinggi di kelas supaya perdebatan berhenti dan waktu presentasi tidak tertunda."
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Membangun lingkungan belajar yang aman secara emosional dan menghargai martabat murid (P.3) menuntut intervensi guru yang tenang, tegas terhadap perilaku merendahkan, namun tetap adil dan restoratif: menenangkan emosi, memisahkan gagasan dari serangan personal, dan memandu resolusi konflik kolaboratif.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q060",
+        "number": 60,
+        "type": "multiple",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Sekelompok guru merancang Pembelajaran Berbasis Proyek (Project-Based Learning / PjBL) lintas mata pelajaran bertema solusi hemat air sekolah agar menghasilkan penalaran mendalam dan bukan sekadar tugas kerajinan penutup bab (P.1 & P.5). Manakah ciri rancangan PjBL autentik yang wajib dihadirkan?"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Guru menetapkan seluruh langkah teknis dan desain produk secara seragam dari awal sampai akhir tanpa memberi ruang pengambilan keputusan atau inisiatif bagi murid."
+          },
+          {
+            "id": "B",
+            "text": "Dimulai dari pertanyaan pemantik menantang (driving question) yang berakar pada persoalan nyata lingkungan sekitar dan menuntut penyelidikan konseptual mendalam."
+          },
+          {
+            "id": "C",
+            "text": "Menyediakan siklus umpan balik, refleksi, dan revisi berkelanjutan terhadap draf/prototipe produk sepanjang pelaksanaan proyek sebelum tahap finalisasi."
+          },
+          {
+            "id": "D",
+            "text": "Penilaian akhir ditentukan sepenuhnya dari keindahan tampilan visual produk jadi semata tanpa memeriksa pemahaman konsep maupun proses kolaborasi kelompok."
+          },
+          {
+            "id": "E",
+            "text": "Menghadirkan audiens atau pemangku kepentingan nyata (seperti warga sekolah, orang tua, atau mitra komunitas) saat publikasi produk sehingga solusi murid memiliki makna sosial nyata."
+          }
+        ],
+        "correctAnswer": [
+          "B",
+          "C",
+          "E"
+        ],
+        "minSelections": 2,
+        "maxSelections": 4,
+        "instruction": "Pilih dua, tiga, atau empat jawaban yang benar.",
+        "explanation": "Berdasarkan prinsip Gold Standard PjBL (P.1 & P.5), proyek autentik bercirikan pertanyaan pemantik kontekstual yang menantang (B), siklus umpan balik–refleksi–revisi proses (C), serta publikasi karya kepada audiens nyata (E). Pembatasan total inisiatif murid (A) dan penilaian kosmetik tanpa pemahaman konsep (D) mereduksi PjBL menjadi sekadar tugas kerajinan.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q061",
+        "number": 61,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam tugas esai argumentatif berbasis data di kelas XI, guru menemukan sebagian besar peserta didik mengutip angka statistik dari potongan video pendek media sosial dan jawaban kecerdasan artifisial (AI generatif) tanpa memeriksa sumber primer, padahal sebagian angka tersebut merupakan kekeliruan atau hasil halusinasi AI. Strategi pedagogis yang paling tepat membangun literasi digital kritis murid (P.4) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Melarang total penggunaan komputer dan akses internet untuk seluruh tugas sekolah sepanjang tahun ajaran agar peserta didik hanya merujuk satu buku paket cetak."
+          },
+          {
+            "id": "B",
+            "text": "Langsung memberikan skor nol kepada semua peserta didik yang mencantumkan data dari internet tanpa pernah mengajarkan cara memeriksa validitas maupun asal-usul rujukan."
+          },
+          {
+            "id": "C",
+            "text": "Membiarkan kekeliruan data statistik tersebut tanpa umpan balik karena aspek yang dianggap utama dalam penulisan esai hanyalah kerapian tata bahasa dan jumlah kata."
+          },
+          {
+            "id": "D",
+            "text": "Meminta peserta didik melampirkan tangkapan layar percakapan dengan aplikasi AI sebagai daftar pustaka resmi agar penulisan tugas tampak memanfaatkan teknologi mutakhir."
+          },
+          {
+            "id": "E",
+            "text": "Melatihkan protokol verifikasi informasi (menelusuri sumber primer lembaga kredibel, lateral reading, dan cek silang klaim AI) serta memasukkan ketepatan bukti ke rubrik penilaian."
+          }
+        ],
+        "correctAnswer": "E",
+        "explanation": "Subkompetensi P.4 menuntut penguasaan literasi digital kritis dan pemanfaatan TIK secara bertanggung jawab. Membekali murid keterampilan verifikasi sumber primer, lateral reading, dan cek silang halusinasi AI (E) membangun kemandirian berpikir kritis jangka panjang dibanding pelarangan total (A) atau pembiaran (C).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q062",
+        "number": 62,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Setelah menyelesaikan rangkaian pembelajaran kolaboratif selama dua pekan, guru menyisihkan 10 menit terakhir untuk sesi refleksi diri terstruktur. Pertanyaan refleksi yang paling kuat mengembangkan kesadaran metakognitif dan kemampuan regulasi diri belajar (self-regulated learning) peserta didik (P.6 & P.1) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Apakah kalian menikmati suasana belajar kelompok selama dua pekan terakhir, dan siapa anggota tim yang paling sering membantu menyelesaikan tugas kalian?"
+          },
+          {
+            "id": "B",
+            "text": "Bagian konsep mana yang paling menantang, strategi belajar apa yang terbukti membantu kalian menguasainya, dan penyesuaian apa yang akan diterapkan pada tantangan berikutnya?"
+          },
+          {
+            "id": "C",
+            "text": "Berapa jumlah halaman catatan ringkasan dan lembar aktivitas kelompok yang telah berhasil kalian kumpulkan ke meja guru hingga pertemuan hari ini?"
+          },
+          {
+            "id": "D",
+            "text": "Siapa di antara kalian yang sudah yakin mampu memperoleh skor sempurna pada ujian akhir lingkup materi pekan depan tanpa perlu belajar tambahan di rumah?"
+          },
+          {
+            "id": "E",
+            "text": "Apakah tampilan salindia presentasi dan kecepatan suara guru saat menjelaskan materi pekan kemarin sudah terasa cukup nyaman didengarkan dari bangku belakang?"
+          }
+        ],
+        "correctAnswer": "B",
+        "explanation": "Refleksi bermakna (P.6 & P.1) mengarahkan peserta didik memantau kesulitan belajarnya sendiri (monitoring), mengevaluasi efektivitas strategi yang digunakan (evaluating), dan merencanakan perbaikan cara belajar ke depan (planning/regulation). Opsi A, C, D, dan E hanya menyentuh respon emosional singkat atau aspek administratif.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q063",
+        "number": 63,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Seorang rekan tim publikasi sekolah mengusulkan agar Anda menyerahkan foto wajah seorang peserta didik yang sedang menangis saat sesi pembinaan kedisiplinan beserta cuplikan kisah masalah keluarganya untuk diunggah ke media sosial resmi sekolah sebagai 'konten edukasi empati dan disiplin' demi menaikkan jangkauan pengikut. Sikap yang paling mencerminkan kematangan moral dan keteladanan etis guru (K.1) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menolak santun namun tegas karena mengunggah momen rentan dan data pribadi melanggar privasi serta martabat anak, lalu mengusulkan konten edukatif berbasis karya atau narasi fiktif anonim."
+          },
+          {
+            "id": "B",
+            "text": "Menyetujui pengunggahan foto dan cerita tersebut dengan syarat nama lengkap murid disingkat menjadi inisial dua huruf meskipun wajah serta seragam kelasnya masih jelas dikenali."
+          },
+          {
+            "id": "C",
+            "text": "Mengirimkan berkas foto tersebut secara diam-diam sambil berpesan agar nama Anda tidak disebut sebagai sumber foto demi menjaga hubungan baik dengan tim publikasi sekolah."
+          },
+          {
+            "id": "D",
+            "text": "Memarahi rekan tim publikasi tersebut secara terbuka di grup pesan seluruh guru menggunakan kalimat sindiran tajam agar ia jera dan tidak lagi mengusulkan ide serupa."
+          },
+          {
+            "id": "E",
+            "text": "Mengizinkan pengunggahan pada fitur cerita sementara (story 24 jam) saja dengan keyakinan bahwa tayangan yang otomatis terhapus tidak akan meninggalkan dampak psikologis bagi murid."
+          }
+        ],
+        "correctAnswer": "A",
+        "explanation": "Subkompetensi K.1 menuntut perilaku etis, integritas moral, dan kematangan emosional. Menjaga martabat, kerahasiaan data, dan keamanan psikologis murid dari eksploitasi media sosial merupakan kewajiban etik utama pendidik, sekaligus disampaikan secara santun dan solutif tanpa agresi emosional (D salah).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q064",
+        "number": 64,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Di sekolah dengan murid dari beragam suku, logat daerah, dan latar belakang ekonomi, Anda menyaksikan sekelompok siswa melontarkan candaan stereotip daerah terhadap seorang murid pindahan baru saat jam istirahat hingga ia tampak tertekan dan menjauh. Sebagai guru yang menjunjung keteladanan moral berdasarkan nilai keberagaman dan kemanusiaan (K.1), sikap profesional yang paling tepat adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Membiarkan peristiwa tersebut berlalu tanpa teguran karena terjadi di selasar sekolah saat jam istirahat dan dianggap gurauan biasa dalam pergaulan remaja."
+          },
+          {
+            "id": "B",
+            "text": "Menasihati murid pindahan baru itu agar segera menyesuaikan logat bicaranya dengan dialek mayoritas siswa setempat supaya tidak lagi memancing candaan teman."
+          },
+          {
+            "id": "C",
+            "text": "Membalas melontarkan ejekan serupa terhadap latar belakang kelompok siswa pelaku di depan kerumunan istirahat agar mereka ikut merasakan sakit hati korbannya."
+          },
+          {
+            "id": "D",
+            "text": "Menghentikan candaan stereotip dengan tenang dan berwibawa, mendampingi murid pindahan secara empatik, lalu memandu dialog edukatif bersama pelaku mengenai penghormatan keberagaman."
+          },
+          {
+            "id": "E",
+            "text": "Langsung mengusulkan pemindahan kelas bagi murid baru tersebut demi menghindari gesekan lanjutan tanpa pernah membina perilaku stereotip siswa pelakunya."
+          }
+        ],
+        "correctAnswer": "D",
+        "explanation": "Keteladanan moral berbasis nilai Ketuhanan, kemanusiaan, dan keberagaman (K.1) menuntut guru bertindak tegas namun bermartabat menghentikan perundungan/stereotip, melindungi korban secara empatik, serta mendidik pelaku melalui pendekatan restoratif agar budaya inklusif sekolah terjaga.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q065",
+        "number": 65,
+        "type": "category",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam program supervisi klinis dan pendampingan rekan sejawat (peer coaching) semester ini, kepala sekolah mengamati beragam respons guru terhadap umpan balik observasi kelas dan kegagalan uji coba metode mengajar baru (K.2)."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan SESUAI atau TIDAK SESUAI respons guru berikut dengan kebiasaan reflektif dan pola pikir bertumbuh!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Mengundang rekan sejawat mengobservasi proses mengajar di kelas untuk memperoleh sudut pandang objektif mengenai pola pertanyaan dan keterlibatan murid yang belum disadari sendiri."
+          },
+          {
+            "id": "B",
+            "text": "Menolak seluruh saran pengembangan dari sesi supervisi akademik karena merasa pengalaman mengajar lebih dari 15 tahun sudah membuktikan metodenya tidak perlu berubah lagi."
+          },
+          {
+            "id": "C",
+            "text": "Langsung menghentikan uji coba metode diskusi studi kasus setelah satu kali pertemuan berjalan kurang lancar lalu menyimpulkan bahwa murid zaman sekarang memang tidak mampu berpikir kritis."
+          },
+          {
+            "id": "D",
+            "text": "Mencatat kendala manajemen waktu dan respons murid ke dalam jurnal reflektif pribadi seusai mengajar, lalu mempelajari strategi baru melalui literatur dan diskusi komunitas belajar."
+          }
+        ],
+        "categories": [
+          {
+            "id": "sesuai",
+            "text": "Sesuai"
+          },
+          {
+            "id": "tidak-sesuai",
+            "text": "Tidak Sesuai"
+          }
+        ],
+        "correctAnswer": {
+          "A": "sesuai",
+          "B": "tidak-sesuai",
+          "C": "tidak-sesuai",
+          "D": "sesuai"
+        },
+        "explanation": "1) A Sesuai: Keterbukaan terhadap peer coaching dan observasi sejawat mencerminkan kerendahan hati profesional dan growth mindset (K.2). 2) B Tidak Sesuai: Merasa paling benar karena senioritas merupakan wujud fixed mindset yang menghambat pembaruan mutu. 3) C Tidak Sesuai: Menyerah pada hambatan pertama dan melabeli murid secara statis bertentangan dengan pola pikir bertumbuh. 4) D Sesuai: Jurnal reflektif berbasis bukti lapangan mendorong belajar sepanjang hayat.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q066",
+        "number": 66,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Seorang peserta didik kelas XI sering tampak pasif saat pelajaran hafalan teori dan memiliki peringkat nilai ulangan di urutan bawah sehingga sempat dilabeli 'kurang berpotensi'. Namun, Anda mengamati ia memiliki ketekunan dan kecerdasan visual-praktis luar biasa saat merancang video dokumentasi edukatif dan membuat model prototipe untuk kegiatan sekolah. Keputusan konsisten yang paling tepat Anda ambil untuk mengembangkan potensinya (K.3) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menerima pelabelan awal bahwa ia kurang berpotensi dan hanya memberinya tugas operasional ringan di kelas agar ia tidak memperlambat ritme belajar siswa lainnya."
+          },
+          {
+            "id": "B",
+            "text": "Memintanya menghentikan sementara seluruh aktivitas pembuatan video dokumentasi dan prototipe agar seluruh waktu sepulang sekolah dipakai mengikuti les hafalan soal ujian."
+          },
+          {
+            "id": "C",
+            "text": "Menyalurkan bakat visual-praktisnya pada peran autentik proyek kelas dan kegiatan sekolah, sambil menjadikannya jembatan motivasi penguatan literasi dan kompetensi dasar akademiknya secara bertahap."
+          },
+          {
+            "id": "D",
+            "text": "Membebaskannya dari seluruh target ketuntasan kompetensi dasar mata pelajaran lain selama ia bersedia mengerjakan proyek dokumentasi media pribadi guru di luar jam belajar."
+          },
+          {
+            "id": "E",
+            "text": "Memuji keunggulannya membuat prototipe secara berlebihan di depan kelas sambil menyindir siswa berprestasi akademik tertulis bahwa mereka kurang terampil di dunia nyata."
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Subkompetensi K.3 menekankan pengambilan keputusan dan tindakan konsisten yang berpihak pada pengembangan potensi utuh murid. Mengenali kekuatan unik anak dan menjadikannya jembatan motivasi untuk menumbuhkan kompetensi dasar akademik (C) menumbuhkan kepercayaan diri serta budaya belajar jangka panjang tanpa mengeksploitasi murid (D salah).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q067",
+        "number": 67,
+        "type": "multiple",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Di dalam rapat evaluasi guru, seorang rekan senior menyampaikan kritik dengan nada cukup keras bahwa metode pembelajaran proyek aktif yang Anda terapkan 'terlalu gaduh dan mengganggu konsentrasi kelas sebelah'. Manakah sikap yang mencerminkan kematangan emosional, etika profesi, dan refleksi diri seorang guru (K.1 & K.2)?"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Tetap tenang mengendalikan emosi tanpa memotong pembicaraan, mendengarkan kekhawatiran rekan senior tersebut dengan sikap hormat, dan berterima kasih atas perhatiannya terhadap kenyamanan ruang belajar bersama."
+          },
+          {
+            "id": "B",
+            "text": "Membalas kritik tersebut dengan menyindir metode ceramah rekan senior itu sebagai cara mengajar usang yang membuat murid mengantuk di depan peserta rapat."
+          },
+          {
+            "id": "C",
+            "text": "Merefleksikan secara jujur apakah tingkat suara diskusi kelompok memang perlu dikelola lebih baik, misalnya dengan kesepakatan volume suara 'level diskusi' atau memanfaatkan ruang terbuka/aula pada sesi presentasi."
+          },
+          {
+            "id": "D",
+            "text": "Mengajak rekan tersebut berdialog konstruktif seusai rapat untuk menyepakati tata kelola suara antar-ruang kelas sekaligus berbagi tujuan pembelajaran aktif yang sedang dirancang."
+          },
+          {
+            "id": "E",
+            "text": "Langsung berhenti menerapkan pembelajaran kolaboratif selamanya dan memusuhi rekan senior tersebut dalam setiap kegiatan sekolah."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "C",
+          "D"
+        ],
+        "minSelections": 2,
+        "maxSelections": 4,
+        "instruction": "Pilih dua, tiga, atau empat jawaban yang benar.",
+        "explanation": "Kematangan emosional dan etika kesejawatan (K.1) ditunjukkan dengan merespons kritik keras secara tenang dan santun (A) serta membuka dialog solutif (D), sementara refleksi diri (K.2) diwujudkan dengan mengevaluasi tata kelola kebisingan ruang belajar secara objektif tanpa mengorbankan esensi belajar aktif (C). Sindiran balik (B) dan sikap reaktif/menghindar (E) tidak profesional.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q068",
+        "number": 68,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Anda membangun budaya disiplin positif dan tanggung jawab merawat kebersihan ruang belajar secara mandiri tanpa hukuman fisik maupun denda uang. Namun, memasuki minggu ketiga, sebagian murid mulai kembali lalai merapikan meja dan membuang sampah pada tempatnya. Tindakan konsisten paling tepat untuk merawat budaya belajar positif tersebut (K.3) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menunjukkan keteladanan langsung secara konsisten, meninjau ulang kesepakatan kelas bersama untuk memetakan kendala praktis (jadwal piket/posisi tempat sampah), serta menguatkan apresiasi perilaku bertanggung jawab."
+          },
+          {
+            "id": "B",
+            "text": "Segera memberlakukan denda uang tunai harian dan sanksi fisik berdiri di lapangan upacara karena pendekatan disiplin positif terbukti kurang cepat menimbulkan rasa takut."
+          },
+          {
+            "id": "C",
+            "text": "Menghentikan pembiasaan kebersihan kelas karena dianggap menyita waktu mengajar lalu menyerahkan seluruh perapian ruang belajar kepada petugas kebersihan sekolah."
+          },
+          {
+            "id": "D",
+            "text": "Memotong nilai rapor mata pelajaran akademik seluruh siswa dalam satu kelas setiap kali guru menemukan sampah plastik tertinggal di bawah bangku pada akhir pelajaran."
+          },
+          {
+            "id": "E",
+            "text": "Menegur keras ketua kelas di hadapan seluruh temannya dan menjadikannya satu-satunya penanggung jawab yang harus membersihkan kelas setiap kali ada anggota piket lalai."
+          }
+        ],
+        "correctAnswer": "A",
+        "explanation": "Membangun budaya positif (K.3) membutuhkan konsistensi keteladanan, peninjauan ulang kesepakatan kelas secara partisipatif, identifikasi hambatan nyata, dan penguatan motivasi intrinsik. Kembali ke hukuman punitif/denda (B) atau pencampuran sanksi dengan nilai akademik (D) merusak prinsip disiplin positif.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q069",
+        "number": 69,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Seorang perwakilan vendor penerbit modul dan perangkat praktik menghubungi Anda secara pribadi serta menawarkan komisi tunai 15% apabila Anda bersedia merekomendasikan sekolah mewajibkan seluruh siswa membeli paket modul dan alat dari vendor tersebut dengan harga jauh di atas pasar. Tindakan profesional yang paling sesuai dengan kode etik dan integritas moral guru (K.1) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menerima penawaran komisi tersebut dengan permintaan agar dana dikirim melalui rekening anggota keluarga supaya tidak terdeteksi dalam audit administrasi sekolah."
+          },
+          {
+            "id": "B",
+            "text": "Menyetujui rekomendasi pembelian wajib paket vendor tersebut selama separuh nominal komisinya dialokasikan secara diam-diam ke dana kegiatan sosial ruang guru."
+          },
+          {
+            "id": "C",
+            "text": "Menyarankan pihak vendor menaikkan sedikit lagi harga jual kepada peserta didik supaya selisih potongan komisi pribadi tidak terlihat mencolok pada kuitansi pembelian."
+          },
+          {
+            "id": "D",
+            "text": "Mempersilakan staf pemasaran vendor masuk langsung ke jam kelas Anda untuk mewajibkan siswa memesan paket tersebut tanpa melibatkan tim kurikulum sekolah."
+          },
+          {
+            "id": "E",
+            "text": "Menolak tegas komisi pribadi tersebut, menjaga objektivitas pemilihan sumber belajar berdasarkan mutu serta keterjangkauan yang tidak membebani orang tua, dan menempuh mekanisme resmi sekolah."
+          }
+        ],
+        "correctAnswer": "E",
+        "explanation": "Integritas moral dan kode etik guru (K.1) menolak segala bentuk gratifikasi, benturan kepentingan, dan pungutan yang membebani peserta didik atau orang tua. Pengadaan sumber belajar harus objektif, transparan, dan berorientasi pada kepentingan terbaik murid (E).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q070",
+        "number": 70,
+        "type": "category",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Seorang guru muda sedang menyusun komitmen kode etik pribadi setelah mengikuti pembekalan pengembangan kepribadian pendidik terkait kejujuran akademik, kerahasiaan data murid, dan praktik reflektif (K.1, K.2, & K.3)."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan BENAR atau SALAH pernyataan perilaku etis dan profesional guru berikut!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Mengunduh salindia pembelajaran karya guru lain dari internet lalu menghapus nama pembuat aslinya agar tampak seperti karya sendiri saat berbagi di forum pelatihan merupakan tindakan wajar selama dipakai untuk pendidikan."
+          },
+          {
+            "id": "B",
+            "text": "Mengakui kekeliruan penjelasan secara terbuka dan tenang di hadapan peserta didik lalu segera meluruskannya dengan rujukan akurat merupakan keteladanan kejujuran intelektual."
+          },
+          {
+            "id": "C",
+            "text": "Menjaga kerahasiaan informasi sensitif terkait kondisi psikologis atau latar belakang masalah keluarga murid agar tidak menjadi bahan obrolan santai di ruang guru adalah kewajiban etis pendidik."
+          },
+          {
+            "id": "D",
+            "text": "Mengevaluasi secara berkala dampak aturan kelas dan metode mengajar terhadap rasa aman serta daya juang murid mencerminkan praktik reflektif berkelanjutan."
+          }
+        ],
+        "categories": [
+          {
+            "id": "benar",
+            "text": "Benar"
+          },
+          {
+            "id": "salah",
+            "text": "Salah"
+          }
+        ],
+        "correctAnswer": {
+          "A": "salah",
+          "B": "benar",
+          "C": "benar",
+          "D": "benar"
+        },
+        "explanation": "1) A Salah: Menghapus atribusi karya orang lain adalah plagiarisme dan melanggar integritas akademik (K.1). 2) B Benar: Keterbukaan mengakui kesalahan dan memperbaikinya dengan rujukan sahih memberi teladan kerendahan hati intelektual (K.1 & K.2). 3) C Benar: Menjaga privasi murid dari gosip merupakan tuntutan kode etik profesi. 4) D Benar: Evaluasi dampak kebijakan terhadap kesejahteraan belajar murid menunjukkan refleksi berkelanjutan (K.2 & K.3).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q071",
+        "number": 71,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Seorang peserta didik kelas XII beberapa kali tertidur di meja pada jam pelajaran pertama. Saat diajak berdialog pribadi secara empatik, terungkap bahwa ia terpaksa bekerja paruh waktu hingga tengah malam untuk membantu biaya pengobatan orang tuanya yang sedang sakit. Keputusan paling bijaksana yang konsisten berpihak pada hak belajar dan kesejahteraan murid (K.3) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menegurnya keras di hadapan seluruh kelas dan memintanya mencuci muka serta berdiri di samping papan tulis agar menjadi peringatan kedisiplinan bagi teman-temannya."
+          },
+          {
+            "id": "B",
+            "text": "Mengapresiasi baktinya pada keluarga, menjaga hak belajarnya lewat fleksibilitas akses materi dan tenggat wajar, serta berkoordinasi dengan BK dan sekolah guna mengupayakan bantuan sosial dan ritme belajar sehat."
+          },
+          {
+            "id": "C",
+            "text": "Membiarkannya terus tidur di bangku belakang setiap pagi tanpa catatan maupun tindak lanjut lalu meluluskannya otomatis di akhir tahun demi rasa kasihan."
+          },
+          {
+            "id": "D",
+            "text": "Menceritakan kondisi kesulitan biaya pengobatan keluarganya di depan kelas sambil mengedarkan kotak sumbangan spontan atas namanya agar siswa lain tergerak membantu."
+          },
+          {
+            "id": "E",
+            "text": "Menyarankannya langsung mengundurkan diri sementara dari sekolah karena bekerja malam dianggap mustahil dijalani bersamaan dengan persiapan kelulusan kelas XII."
+          }
+        ],
+        "correctAnswer": "B",
+        "explanation": "Pengambilan keputusan yang berpihak pada potensi dan kesejahteraan murid (K.3) memadukan empati, penjagaan martabat (tidak mengumbar kemiskinan seperti D), dukungan sistemik bersama BK/sekolah untuk mengatasi akar persoalan, dan dukungan fleksibel agar murid tetap mencapai kompetensi belajarnya secara bermartabat.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q072",
+        "number": 72,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Di kelas Anda terdapat seorang peserta didik pindahan dari daerah lain dengan bahasa ibu dan logat kental sehingga ia merasa gugup berbahasa Indonesia baku di depan umum dan cenderung diam sepanjang diskusi. Strategi komunikasi empatik dan inklusif paling tepat Anda terapkan (S.1) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Langsung memotong setiap kalimatnya di depan kelas apabila terdengar logat daerah agar ia terdorong cepat menghilangkan dialek asalnya saat berbicara."
+          },
+          {
+            "id": "B",
+            "text": "Tidak pernah menunjuk atau memberinya giliran berpendapat sepanjang semester supaya ia terhindar dari rasa canggung di hadapan teman sekelasnya."
+          },
+          {
+            "id": "C",
+            "text": "Menunjuknya maju berpidato sendirian di depan kelas sejak minggu pertama masuk sekolah agar rasa gugupnya langsung hilang melalui paparan mendadak."
+          },
+          {
+            "id": "D",
+            "text": "Menghargai keberagaman logat, memberi ruang berbicara bertahap mulai diskusi berpasangan dengan dukungan catatan poin, lalu mengapresiasi gagasan sambil memodelkan bahasa baku secara hangat."
+          },
+          {
+            "id": "E",
+            "text": "Membiarkan teman sekelas menertawakan salah ucap kosakata secara santai dengan anggapan candaan ringan dapat mencairkan suasana keakraban kelas."
+          }
+        ],
+        "correctAnswer": "D",
+        "explanation": "Komunikasi efektif, empatik, dan inklusif (S.1) menumbuhkan keberanian berekspresi tanpa merendahkan latar bahasa ibu murid. Dukungan bertahap (pair/small group sharing), fokus apresiasi pada kualitas gagasan, dan pemodelan bahasa baku secara hangat (D) menjaga martabat sekaligus mengembangkan kecakapan komunikasinya.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q073",
+        "number": 73,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Selama dua pekan terakhir, seorang peserta didik mengalami peningkatan ketidakhadiran tanpa keterangan jelas dan tampak menarik diri dari kelompok belajarnya saat hadir. Guru ingin mengundang orang tuanya berdiskusi guna mencari dukungan terbaik. Kalimat pembuka komunikasi tertulis atau lisan yang paling empatik, objektif, dan kolaboratif (S.1) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "'Selamat siang Bapak/Ibu, akhir-akhir ini anak Bapak/Ibu sangat malas masuk sekolah dan sering membolos; mohon segera ditegur keras di rumah sebelum sekolah mengeluarkan surat peringatan resmi.'"
+          },
+          {
+            "id": "B",
+            "text": "'Mohon maaf Bapak/Ibu, tampaknya pengawasan belajar di rumah kurang disiplin sehingga tingkat kehadiran dan keaktifan anak Bapak/Ibu di kelas merosot tajam dalam dua minggu terakhir.'"
+          },
+          {
+            "id": "C",
+            "text": "'Selamat pagi Bapak/Ibu, selama ini Ananda dikenal teliti saat berdiskusi. Namun dua pekan terakhir kami mengamati ia beberapa kali belum hadir dan tampak lebih pendiam; mari berdiskusi bersama untuk mendukung kenyamanan belajarnya.'"
+          },
+          {
+            "id": "D",
+            "text": "'Bapak/Ibu diwajibkan hadir besok pukul 08.00 tepat ke ruang guru untuk mempertanggungjawabkan daftar ketidakhadiran anak Bapak/Ibu yang sudah mengganggu ketertiban administrasi kelas.'"
+          },
+          {
+            "id": "E",
+            "text": "'Sekadar menyampaikan peringatan awal, apabila minggu depan anak Bapak/Ibu masih sering tidak masuk tanpa surat dokter maka pihak sekolah tidak bertanggung jawab jika ia gagal naik kelas.'"
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Komunikasi efektif dan empatik dengan orang tua (S.1) menerapkan pendekatan berbasis kekuatan (mengawali dengan pengakuan hal positif murid), menyampaikan data observasi perilaku secara objektif tanpa label negatif ('malas/membolos'), serta mengundang kemitraan sejajar yang solutif (C).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q074",
+        "number": 74,
+        "type": "category",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Seorang wali kelas sekaligus guru mata pelajaran merancang jejaring kerja sama lintas unit sekolah dan pemangku kepentingan sekitar guna memperkuat layanan belajar bagi seluruh muridnya (S.2)."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan TEPAT atau TIDAK TEPAT praktik jejaring kolaborasi sekolah berikut!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Berkoordinasi dengan guru BK, wali kelas, dan pengelola UKS untuk menyusun dukungan ritme belajar terpadu bagi peserta didik yang baru pulih dari perawatan medis panjang."
+          },
+          {
+            "id": "B",
+            "text": "Membatasi peran tenaga kependidikan seperti pustakawan atau teknisi laboratorium hanya sebagai petugas pembersih ruang tanpa pernah melibatkan mereka dalam perencanaan kesiapan sumber belajar."
+          },
+          {
+            "id": "C",
+            "text": "Mengundang alumni dan praktisi dunia kerja lokal sebagai mitra berbagi wawasan karier dan pemberi umpan balik autentik pada pameran karya proyek peserta didik."
+          },
+          {
+            "id": "D",
+            "text": "Menyelenggarakan forum dialog berkala bersama orang tua dan komite sekolah untuk menyelaraskan pembiasaan karakter, kedisiplinan, dan dukungan belajar antara rumah dan sekolah."
+          }
+        ],
+        "categories": [
+          {
+            "id": "tepat",
+            "text": "Tepat"
+          },
+          {
+            "id": "tidak-tepat",
+            "text": "Tidak Tepat"
+          }
+        ],
+        "correctAnswer": {
+          "A": "tepat",
+          "B": "tidak-tepat",
+          "C": "tepat",
+          "D": "tepat"
+        },
+        "explanation": "1) A Tepat: Kolaborasi lintas peran internal sekolah (guru mapel, BK, wali kelas, UKS) menjamin dukungan holistik murid. 2) B Tidak Tepat: Pustakawan dan laboran/teknisi adalah mitra strategis layanan pembelajaran yang perlu dilibatkan dalam perencanaan (S.2). 3) C Tepat: Kemitraan alumni dan dunia kerja memperkaya autentisitas pembelajaran. 4) D Tepat: Sinergi keluarga dan sekolah menjaga keberlanjutan pembinaan karakter.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q075",
+        "number": 75,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Anda dipercaya menjadi fasilitator pendampingan sejawat (peer coaching) dalam Komunitas Belajar (Kombel) sekolah untuk mendampingi rekan-rekan guru yang masih kesulitan menerapkan asesmen formatif secara ringkas di kelas besar. Pendekatan fasilitasi paling bermakna dan memberdayakan dalam Kombel tersebut (S.3) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menggunakan seluruh durasi pertemuan Kombel untuk memaparkan teori asesmen satu arah sambil membedah kelemahan cara mengajar rekan sejawat satu per satu."
+          },
+          {
+            "id": "B",
+            "text": "Membuka dialog setara memetakan kendala tiap guru, mengajukan pertanyaan reflektif agar rekan menemukan solusi kontekstualnya, saling berbagi instrumen singkat, serta mengagendakan refleksi hasil uji coba kelas."
+          },
+          {
+            "id": "C",
+            "text": "Membagikan lembar daftar hadir dan satu berkas PDF modul asesmen unduhan internet agar sesi Kombel selesai dalam 15 menit demi pemenuhan bukti administrasi bulanan."
+          },
+          {
+            "id": "D",
+            "text": "Mewajibkan seluruh guru lintas mata pelajaran meniru persis satu format lembar asesmen milik Anda tanpa memberi ruang modifikasi sesuai karakter pelajaran masing-masing."
+          },
+          {
+            "id": "E",
+            "text": "Membatasi keanggotaan sesi coaching hanya bagi guru-guru muda yang akrab dengan aplikasi digital agar diskusi berjalan cepat tanpa banyak kendala teknis."
+          }
+        ],
+        "correctAnswer": "B",
+        "explanation": "Esensi coaching dan Komunitas Belajar profesional (S.3) adalah kemitraan setara yang reflektif, kolaboratif, dan memberdayakan (bukan menggurui seperti A atau formalitas administratif seperti C). Memetakan masalah nyata, mengajukan pertanyaan pemantik, berbagi praktik baik, dan merefleksikan uji coba bersama menghasilkan perbaikan nyata bagi belajar murid.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q076",
+        "number": 76,
+        "type": "multiple",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Sekolah merancang program proyek pengabdian masyarakat bersama warga kelurahan setempat (misalnya edukasi pengelolaan air bersih dan perbaikan fasilitas umum lingkungan). Agar komunikasi dan kolaborasi dengan masyarakat berjalan harmonis, setara, dan beretika (S.1 & S.2), langkah yang tepat dilakukan guru bersama peserta didik adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menyusun seluruh rancangan kegiatan secara sepihak di sekolah lalu meminta warga kelurahan sekadar menerima dan menghadiri acara seremonial peresmiannya."
+          },
+          {
+            "id": "B",
+            "text": "Melibatkan pengurus lingkungan dan tokoh warga setempat sejak tahap pemetaan kebutuhan agar solusi yang dirancang benar-benar relevan, partisipatif, dan menghargai posisi warga sebagai mitra setara."
+          },
+          {
+            "id": "C",
+            "text": "Memotret kondisi rumah warga kurang mampu secara close-up tanpa persetujuan pemiliknya demi mempercantik laporan publikasi media sosial sekolah."
+          },
+          {
+            "id": "D",
+            "text": "Membekali peserta didik dengan etika komunikasi lintas generasi, bahasa yang santun, serta penghormatan terhadap adat dan tata krama warga setempat selama kegiatan berlangsung."
+          },
+          {
+            "id": "E",
+            "text": "Mengabaikan saran praktis warga lokal karena pendekatan akademis sekolah dianggap selalu lebih modern dan lebih benar dibanding pengalaman masyarakat."
+          }
+        ],
+        "correctAnswer": [
+          "B",
+          "D"
+        ],
+        "minSelections": 2,
+        "maxSelections": 4,
+        "instruction": "Pilih dua, tiga, atau empat jawaban yang benar.",
+        "explanation": "Kolaborasi etis dengan masyarakat (S.1 & S.2) bertumpu pada partisipasi setara sejak tahap perencanaan kebutuhan (B) serta kecakapan komunikasi santun dan adaptif budaya (D). Sikap sepihak/top-down (A), eksploitasi visual tanpa izin (C), dan sikap merendahkan pengetahuan lokal/patronizing (E) merusak kemitraan sosial.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q077",
+        "number": 77,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Menjelang minggu asesmen proyek akhir semester, terjadi ketegangan antara dua kelompok guru mata pelajaran karena jadwal pemakaian ruang praktik/laboratorium komputer saling bertabrakan di hari yang sama sehingga masing-masing tim bersikeras merasa paling diprioritaskan. Langkah mediasi kolaboratif yang paling tepat Anda usulkan sebagai rekan sejawat (S.2) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Mengajak kedua tim fokus pada kebutuhan murid, memilah sesi yang mutlak memerlukan laboratorium dibanding sesi luring/rotasi, lalu menyusun jadwal berbagi ruang yang adil bersama pengelola laboratorium."
+          },
+          {
+            "id": "B",
+            "text": "Mengusulkan penentuan hak pakai ruang praktik melalui undian acak cepat di mana kelompok guru yang kalah harus menghapus seluruh agenda asesmen praktiknya semester ini."
+          },
+          {
+            "id": "C",
+            "text": "Langsung mendukung jadwal kelompok guru yang masa kerjanya paling senior supaya ketegangan rapat segera usai tanpa menelaah urgensi jadwal tim mata pelajaran lainnya."
+          },
+          {
+            "id": "D",
+            "text": "Memilih keluar dari ruang koordinasi dan menyarankan kedua tim mengajukan surat keberatan terpisah kepada pimpinan sekolah agar konflik diselesaikan secara struktural."
+          },
+          {
+            "id": "E",
+            "text": "Memasukkan seluruh dua rombongan belajar sekaligus ke dalam satu ruang laboratorium sempit pada jam sama meskipun melebihi kapasitas daya listrik dan kursi kerja."
+          }
+        ],
+        "correctAnswer": "A",
+        "explanation": "Kompetensi kolaborasi antarpendidik (S.2) memprioritaskan kepentingan murid di atas ego sektoral. Mediasi berbasis pemetaan kebutuhan esensial ruang praktik, fleksibilitas rotasi, dan penyusunan jadwal bersama pengelola lab secara transparan (A) menyelesaikan konflik secara adil, aman, dan memperkuat kerja tim.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q078",
+        "number": 78,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam pertemuan Musyawarah Guru Mata Pelajaran (MGMP) tingkat kabupaten/kota, para guru dari berbagai sekolah mengungkapkan kendala serupa, yaitu kesulitan menyusun rubrik asesmen proyek yang objektif, adil, dan praktis diterapkan pada kelas berjumlah besar. Inisiatif kolaboratif tingkat organisasi profesi yang paling berdampak luas dan berkelanjutan (S.3) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menyepakati penghapusan seluruh penugasan proyek di kabupaten tersebut lalu mengembalikan seluruh evaluasi belajar menjadi tes pilihan ganda seragam supaya koreksi cepat."
+          },
+          {
+            "id": "B",
+            "text": "Menutup pembahasan kendala penyusunan rubrik karena dianggap terlalu teknis dan mengalihkan sisa pertemuan MGMP untuk acara silaturahmi santai semata."
+          },
+          {
+            "id": "C",
+            "text": "Menunjuk satu guru paling senior membuat satu rubrik tunggal lalu mewajibkan seluruh sekolah menyalinnya tanpa uji kecocokan terhadap karakteristik murid tiap sekolah."
+          },
+          {
+            "id": "D",
+            "text": "Membentuk tim kerja lintas sekolah untuk mengembangkan bank rubrik proyek adaptif, menguji serta melakukan moderasi penilaian sampel karya murid, lalu mendiseminasikan panduannya ke seluruh anggota."
+          },
+          {
+            "id": "E",
+            "text": "Mengumpulkan iuran wajib dari seluruh anggota MGMP guna membeli paket rubrik jadi dari penyedia komersial luar tanpa melakukan telaah pedagogis maupun penyesuaian kurikulum."
+          }
+        ],
+        "correctAnswer": "D",
+        "explanation": "Peran strategis organisasi profesi seperti MGMP (S.3) adalah menjadi wadah riset praktis, kolaborasi pengembangan instrumen, moderasi/kalibrasi mutu asesmen lintas sekolah, serta diseminasi praktik baik secara berkelanjutan (D) demi peningkatan mutu belajar murid secara kolektif.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q079",
+        "number": 79,
+        "type": "category",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Di awal tahun ajaran, wali kelas menyusun tata krama bermedia pada grup pesan orang tua dan saluran pengumuman daring sekolah untuk menjaga kepercayaan keluarga serta martabat peserta didik (S.1)."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan ETIS atau TIDAK ETIS tindakan komunikasi daring guru berikut!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Mengunggah tangkapan layar daftar nama peserta didik yang memperoleh nilai ulangan terendah atau belum menyelesaikan kewajiban administrasi ke grup WhatsApp umum orang tua agar memberi efek jera."
+          },
+          {
+            "id": "B",
+            "text": "Menyepakati sejak awal semester rentang waktu layanan komunikasi pesan yang wajar bersama orang tua, serta menyampaikan pengumuman kelas dengan bahasa santun, ringkas, dan jelas."
+          },
+          {
+            "id": "C",
+            "text": "Menghubungi orang tua melalui jalur pesan pribadi (personal chat) atau pertemuan privat ketika hendak membahas kendala akademik maupun perilaku spesifik seorang peserta didik."
+          },
+          {
+            "id": "D",
+            "text": "Meneruskan pesan berantai berisi isu sensitif tentang kebijakan sekolah atau rumor pribadi rekan guru lain ke grup orang tua sebelum ada verifikasi dan penjelasan resmi pimpinan sekolah."
+          }
+        ],
+        "categories": [
+          {
+            "id": "etis",
+            "text": "Etis"
+          },
+          {
+            "id": "tidak-etis",
+            "text": "Tidak Etis"
+          }
+        ],
+        "correctAnswer": {
+          "A": "tidak-etis",
+          "B": "etis",
+          "C": "etis",
+          "D": "tidak-etis"
+        },
+        "explanation": "1) A Tidak Etis: Mempermalukan murid dan keluarganya secara terbuka di grup publik melanggar hak privasi dan martabat. 2) B Etis: Kesepakatan jam komunikasi dan bahasa terstruktur mencerminkan profesionalisme guru (S.1). 3) C Etis: Pembahasan persoalan individual secara privat melindungi kerahasiaan murid. 4) D Tidak Etis: Menyebarkan rumor/informasi tak terverifikasi merusak kredibilitas pendidik dan kepercayaan publik.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-mcb-2-q080",
+        "number": 80,
+        "type": "multiple",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Menjelang akreditasi dan refleksi budaya mutu sekolah, tim pengembang menilai keterpaduan perilaku sosial pendidik dalam tiga lingkup: komunikasi empatik (S.1), sinergi warga sekolah-masyarakat (S.2), dan kontribusi komunitas profesi (S.3). Manakah wujud praktik nyata guru yang memadukan ketiga subkompetensi sosial tersebut?"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menutup pintu kelas dari segala bentuk masukan rekan sejawat maupun orang tua dengan alasan kemandirian akademik guru tidak boleh dicampuri."
+          },
+          {
+            "id": "B",
+            "text": "Membangun komunikasi terbuka, inklusif, dan empatik dengan peserta didik dari beragam latar belakang kebutuhan serta orang tua mereka untuk mendukung perkembangan belajar secara utuh."
+          },
+          {
+            "id": "C",
+            "text": "Menyimpan perangkat ajar inovatif hasil pengembangannya sendiri secara rahasia agar kelasnya tampak paling menonjol dibanding rekan guru lain di sekolah."
+          },
+          {
+            "id": "D",
+            "text": "Menjalin kolaborasi sinergis dengan guru BK, pustakawan/teknisi, rekan lintas mata pelajaran, dan mitra masyarakat/dunia kerja untuk menghadirkan pengalaman belajar yang autentik dan aman."
+          },
+          {
+            "id": "E",
+            "text": "Aktif berbagi praktik baik, melakukan refleksi sejawat, dan mengikuti pengembangan keprofesian berkelanjutan dalam Komunitas Belajar sekolah maupun forum MGMP."
+          }
+        ],
+        "correctAnswer": [
+          "B",
+          "D",
+          "E"
+        ],
+        "minSelections": 2,
+        "maxSelections": 4,
+        "instruction": "Pilih dua, tiga, atau empat jawaban yang benar.",
+        "explanation": "Integrasi kompetensi sosial guru terwujud melalui komunikasi inklusif-empatik dengan murid dan orang tua (S.1, opsi B), kolaborasi lintas unsur sekolah dan masyarakat (S.2, opsi D), serta kontribusi aktif dalam komunitas belajar dan organisasi profesi (S.3, opsi E). Opsi A dan C mencerminkan isolasi profesi dan sikap eksklusif yang menghambat ekosistem belajar.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dkv-mcb-1",
+    "category": "prodi",
+    "programId": "dkv",
+    "groupLabel": "DKV",
+    "title": "Tryout PCK (MCB) DKV 1",
+    "description": "Latihan 80 soal UKPPPG Desain Komunikasi Visual (50 soal studi kasus PCK DKV + 30 soal Pedagogi Umum) campuran PG, PGK Kategori, dan PGK MCMA beserta pembahasan lengkap.",
+    "durationMinutes": 150,
+    "questions": [
+      {
+        "id": "dkv-mcb-1-q001",
+        "number": 1,
+        "type": "single",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Seorang guru DKV di SMK merancang modul ajar elemen Dasar-Dasar Desain Komunikasi Visual topik 'Komunikasi Visual untuk Kampanye Pengurangan Sampah Plastik Sekolah' berdasarkan Capaian Pembelajaran Kurikulum Merdeka. Rumusan tujuan pembelajaran yang paling tepat memadukan penguasaan konsep desain, keterampilan proses berkarya, serta pembentukan karakter Profil Pelajar Pancasila (PF.1 & P.1) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Peserta didik mampu menghafalkan seluruh nama unsur dan prinsip tata letak beserta definisinya menurut tiga tokoh desain grafis dunia secara runtut."
+          },
+          {
+            "id": "B",
+            "text": "Peserta didik mampu menyalin ulang lima poster kampanye lingkungan dari internet menggunakan perangkat lunak pengolah vektor hingga tampilannya identik."
+          },
+          {
+            "id": "C",
+            "text": "Peserta didik mampu menganalisis masalah perilaku buang sampah di sekolah, merancang poster kampanye berbasis hierarki visual dan tipografi yang komunikatif, serta mempresentasikan rasional desainnya untuk mendorong aksi peduli lingkungan."
+          },
+          {
+            "id": "D",
+            "text": "Peserta didik mampu menyelesaikan 40 butir soal pilihan ganda mengenai istilah teknis nirmana dwimatra dan teori warna dengan perolehan skor minimal 85."
+          },
+          {
+            "id": "E",
+            "text": "Peserta didik mampu mengoperasikan seluruh menu efek filter pada aplikasi desain grafis untuk menghasilkan dekorasi visual sebanyak-banyaknya dalam satu pertemuan."
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Tujuan pendidikan DKV pada satuan pendidikan SMK (PF.1) tidak sekadar melatih keterampilan mengoperasikan perangkat lunak (E) atau menghafal/menyalin karya (A, B, D), melainkan mengembangkan kemampuan memecahkan masalah komunikasi secara visual dan etis. Merumuskan masalah riil di sekolah, merancang solusi berbasis prinsip desain, dan mempertanggungjawabkan rasional visualnya (C) mewujudkan pembelajaran konseptual, kontekstual, reflektif (P.1), sekaligus menguatkan dimensi bernalar kritis, kreatif, dan berakhlak kepada alam.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q002",
+        "number": 2,
+        "type": "single",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Saat kelas X DKV mengerjakan proyek poster cetak acara pentas seni, banyak peserta didik mengeluh bahwa warna biru elektrik dan hijau neon yang tampak sangat cerah di layar monitor berubah menjadi kusam setelah dicetak. Mereka berkeyakinan bahwa mesin cetak sekolah rusak atau tintanya berkualitas buruk, padahal file dikerjakan pada mode RGB tanpa manajemen warna. Strategi perubahan konseptual (conceptual change) yang paling efektif dilakukan guru (PF.2 & P.1) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Memfasilitasi uji banding langsung dengan menampilkan diagram ruang warna (color gamut), mengaktifkan fitur soft-proofing CMYK di layar, lalu membandingkan hasil cetak proof swatch warna RGB yang dikonversi versus swatch CMYK murni agar murid membangun pemahaman perbedaan sistem warna aditif cahaya dan subtraktif tinta."
+          },
+          {
+            "id": "B",
+            "text": "Langsung melarang seluruh peserta didik memakai warna biru dan hijau pada setiap tugas desain cetak berikutnya agar hasil cetakan selalu tampak seragam dan tidak menimbulkan keluhan."
+          },
+          {
+            "id": "C",
+            "text": "Menugaskan peserta didik menghafalkan kepanjangan RGB dan CMYK serta menyalin tabel persentase warna dasar ke dalam buku catatan sebelum mengulang pencetakan."
+          },
+          {
+            "id": "D",
+            "text": "Mengubah pengaturan kecerahan dan kontras seluruh monitor laboratorium komputer agar tampilannya dibuat kusam sehingga terlihat mendekati warna kertas cetak biasa."
+          },
+          {
+            "id": "E",
+            "text": "Mengabaikan keluhan tersebut dan menaikkan nilai saturasi desain murid secara maksimal di perangkat lunak pengolah gambar agar warna hasil cetak dapat menyamai pancaran cahaya layar."
+          }
+        ],
+        "correctAnswer": "A",
+        "explanation": "Miskonsepsi umum murid DKV adalah menyamakan perilaku warna cahaya (RGB/aditif yang memiliki gamut lebih luas) dengan warna pigmen/tinta cetak (CMYK/subtraktif yang memiliki gamut lebih sempit) (PF.2). Menciptakan konflik kognitif melalui eksperimen uji cetak proof dan fitur soft-proofing (A) membantu murid mengonstruksi sendiri mengapa warna neon di luar gamut CMYK bergeser saat dicetak, alih-alih sekadar hafalan (C) atau pelarangan kaku (B) (P.1).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q003",
+        "number": 3,
+        "type": "category",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam praktik Nirmana Dwimatra di kelas X DKV, guru membimbing peserta didik menerapkan unsur dan prinsip tata letak untuk merancang komposisi visual yang komunikatif dan memiliki titik fokus (focal point) yang kuat (PF.2 & P.1)."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan SESUAI atau TIDAK SESUAI penerapan prinsip desain dalam pernyataan berikut!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Keseimbangan asimetris tetap dapat menghasilkan bobot visual yang stabil apabila satu bidang besar berwarna netral di sisi kiri diimbangi oleh beberapa bidang kecil bertekstur dan berwarna kontras di sisi kanan."
+          },
+          {
+            "id": "B",
+            "text": "Ruang negatif (whitespace) pada sebuah poster atau halaman editorial sebaiknya diisi penuh dengan ornamen garis dan pola latar agar komposisi tidak terkesan kosong atau belum selesai dikerjakan."
+          },
+          {
+            "id": "C",
+            "text": "Pengulangan unsur garis lengkung dengan perubahan ukuran secara bertahap (progresif) dari kecil ke besar mampu menciptakan prinsip irama (rhythm) yang mengarahkan gerak mata audiens menuju objek utama."
+          },
+          {
+            "id": "D",
+            "text": "Penerapan kontras yang jelas melalui perbedaan skala, gelap-terang (value), atau ketebalan garis efektif membentuk penekanan (emphasis) sehingga informasi terpenting ditangkap pertama kali oleh pembaca."
+          }
+        ],
+        "categories": [
+          {
+            "id": "sesuai",
+            "text": "Sesuai"
+          },
+          {
+            "id": "tidak-sesuai",
+            "text": "Tidak Sesuai"
+          }
+        ],
+        "correctAnswer": {
+          "A": "sesuai",
+          "B": "tidak-sesuai",
+          "C": "sesuai",
+          "D": "sesuai"
+        },
+        "explanation": "1) Sesuai: Keseimbangan asimetris mengandalkan kesetaraan bobot visual (ukuran, warna, tekstur, posisi), bukan kesamaan bentuk kiri-kanan. 2) Tidak Sesuai: Whitespace/ruang negatif adalah elemen aktif yang memberi ruang bernapas visual, memperkuat hierarki, dan meningkatkan keterbacaan, bukan kekosongan yang harus dipenuhi ornamen. 3) Sesuai: Irama progresif menuntun alur pandang (visual flow). 4) Sesuai: Kontras skala, value, dan bobot adalah instrumen utama membangun focal point (PF.2 & P.1).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q004",
+        "number": 4,
+        "type": "multiple",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pada pembelajaran Tipografi Dasar dan Editorial kelas XI, guru mendapati beberapa peserta didik masih keliru membedakan pengaturan jarak antarhuruf serta memilih huruf untuk teks panjang dan judul (PF.2 & P.2). Manakah konsep tipografi yang BENAR dan perlu dikuatkan guru kepada peserta didik?"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Kerning adalah penyesuaian ruang secara selektif di antara sepasang karakter tertentu (misalnya pasangan huruf A dan V) demi keseimbangan optis, sedangkan tracking mengatur kerapatan jarak antarkarakter secara seragam pada seluruh kata atau blok teks."
+          },
+          {
+            "id": "B",
+            "text": "Huruf kategori display dan script dekoratif merupakan pilihan paling optimal untuk teks isi (body copy) paragraf panjang di majalah cetak karena bentuknya unik dan mempercepat gerak baca mata."
+          },
+          {
+            "id": "C",
+            "text": "Leading merujuk pada jarak vertikal antar-baseline baris teks yang sangat memengaruhi kenyamanan membaca (readability); leading yang terlalu sempit membuat ascender dan descender antarkalimat tampak saling bertabrakan."
+          },
+          {
+            "id": "D",
+            "text": "Legibility dan readability memiliki pengertian yang sepenuhnya identik, sehingga selama sebuah huruf terlihat besar di layar maka teks paragrafnya pasti mudah dibaca."
+          },
+          {
+            "id": "E",
+            "text": "Pemilihan pasangan huruf (font pairing) yang kontras tetapi harmonis—seperti memadukan judul serif berkarakter tegas dengan teks isi sans-serif yang bersih—membantu memperjelas hierarki informasi editorial."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "C",
+          "E"
+        ],
+        "minSelections": 2,
+        "maxSelections": 4,
+        "instruction": "Pilih dua, tiga, atau empat jawaban yang benar.",
+        "explanation": "Konsep tipografi profesional (PF.2 & P.2) membedakan kerning (jarak optis sepasang huruf) dan tracking (jarak seragam satu rentang teks) (A), menegaskan peran leading antar-baseline terhadap kenyamanan baca (C), serta memanfaatkan font pairing kontras untuk hierarki (E). Opsi B keliru karena huruf display/script cepat melelahkan mata pada body copy panjang; opsi D keliru karena legibility menyangkut kejelasan bentuk tiap karakter huruf, sedangkan readability menyangkut kenyamanan membaca susunan kalimat/paragraf secara keseluruhan.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q005",
+        "number": 5,
+        "type": "single",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Banyak peserta didik kelas X DKV mengira bahwa gambar foto bitmap berukuran 500 x 500 piksel beresolusi 72 PPI yang diunduh dari media sosial cukup diubah angka resolusinya menjadi 300 DPI di aplikasi pengolah raster agar langsung tajam saat dicetak menjadi spanduk besar. Mereka juga menganggap gambar vektor selalu terlihat kaku sehingga lebih baik menggambar logo langsung dalam format JPEG. Desain penyelidikan praktik yang paling efektif untuk meluruskan kedua miskonsepsi tersebut (PF.2 & P.1) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menjelaskan definisi piksel dan persamaan kurva Bezier secara lisan di depan papan tulis lalu memberikan latihan soal konversi inci ke sentimeter."
+          },
+          {
+            "id": "B",
+            "text": "Meminta peserta didik menelusuri artikel perbandingan ekstensi file PNG, JPEG, SVG, dan EPS lalu merangkumnya dalam bentuk makalah tertulis."
+          },
+          {
+            "id": "C",
+            "text": "Menetapkan aturan bahwa setiap karya logo yang dikumpulkan dalam format JPEG otomatis mendapat nilai nol tanpa diskusi terlebih dahulu."
+          },
+          {
+            "id": "D",
+            "text": "Memfasilitasi eksperimen pembesaran 400% serta uji cetak parsial (crop print test) yang membandingkan foto 72 PPI yang di-upscale paksa ke 300 DPI melawan ilustrasi vektor bergradasi halus yang diskalakan dari ukuran kartu nama hingga poster A2, lalu mendiskusikan interpolasi piksel versus konstruksi matematis titik dan kurva."
+          },
+          {
+            "id": "E",
+            "text": "Menunjukkan katalog logo perusahaan multinasional terkenal dan menyampaikan bahwa seluruh desainer profesional selalu wajib menggunakan perangkat lunak vektor."
+          }
+        ],
+        "correctAnswer": "D",
+        "explanation": "Mengubah 72 PPI menjadi 300 DPI melalui resampling/upscaling hanya memicu interpolasi piksel (menebak warna piksel baru) sehingga gambar tetap kabur/pecah, bukan menambah detail riil (PF.2). Eksperimen komparatif pembesaran 400% dan uji cetak parsial antara raster upscale versus vektor bergradasi (D) menyajikan bukti visual langsung yang meruntuhkan miskonsepsi bahwa resolusi bisa 'dinaikkan secara ajaib' sekaligus membuktikan bahwa vektor tetap tajam di segala skala tanpa harus tampak kaku (P.1).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q006",
+        "number": 6,
+        "type": "single",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pada praktik pembuatan maket kemasan (packaging prototype) menggunakan kertas karton dupleks 350 gsm di studio DKV, seorang peserta didik memotong pola dieline memakai cutter berbilah tumpul yang dijulurkan sangat panjang sambil menahan penggaris plastik biasa di atas meja gambar kayu tanpa alas potong. Penjelasan konseptual dan prosedur K3 studio yang wajib segera ditekankan guru (PF.2 & P.3) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Meningkatkan tekanan tangan saat menggores agar karton terputus dalam sekali tarik sehingga menghemat waktu pengerjaan maket."
+          },
+          {
+            "id": "B",
+            "text": "Menggunakan cutting mat sebagai alas, mengganti penggaris plastik dengan penggaris baja berpegangan antiselip, mematahkan ruas mata cutter yang tumpul ke dalam wadah khusus (blade snap-off container), menjulurkan bilah secukupnya (1–2 ruas), serta melakukan beberapa sayatan ringan berulang menjauhi tubuh dengan jari tangan penahan selalu berada di dalam sisi aman penggaris."
+          },
+          {
+            "id": "C",
+            "text": "Tetap memakai penggaris plastik tetapi memiringkan mata cutter ke arah tubuh agar garis potong lebih mudah terlihat secara jelas."
+          },
+          {
+            "id": "D",
+            "text": "Meminta seluruh peserta didik memotong karton dupleks tebal menggunakan gunting kertas sekolah biasa agar sama sekali tidak ada penggunaan cutter di studio."
+          },
+          {
+            "id": "E",
+            "text": "Menjulurkan bilah cutter hingga penuh agar sudut potong lebih landai dan membuang patahan mata pisau langsung ke tempat sampah kertas studio."
+          }
+        ],
+        "correctAnswer": "B",
+        "explanation": "Prinsip K3 studio desain (PF.2 & P.3): bilah tumpul dan tekanan berlebih justru memicu selip dan patahnya mata pisau; penggaris plastik mudah tersayat bilah tajam dan melukai jari. Penggunaan cutting mat, penggaris baja, panjang bilah minimal (1–2 ruas), sayatan ringan bertahap menjauhi tubuh, serta pembuangan patahan bilah ke wadah tajam khusus (B) menjamin keselamatan sekaligus kepresisian potongan maket.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q007",
+        "number": 7,
+        "type": "category",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Guru DKV merancang latihan penentuan palet warna berdasarkan roda warna (color wheel) untuk memecahkan berbagai kebutuhan komunikasi visual klien UMKM dan media kampanye (PF.2 & P.1)."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan TEPAT atau TIDAK TEPAT pasangan kebutuhan desain dan pilihan skema warna berikut!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Kemasan produk spa aromaterapi herbal yang ingin menonjolkan kesan tenang, organik, dan harmonis dirancang menggunakan skema warna analogus (hijau sage, hijau zaitun, dan kuning kehijauan lembut)."
+          },
+          {
+            "id": "B",
+            "text": "Poster promosi diskon kilat festival olahraga remaja yang membutuhkan daya tarik visual kuat dan energik menerapkan skema warna komplementer (biru tua dan jingga cerah) dengan proporsi dominan-aksen 70:30."
+          },
+          {
+            "id": "C",
+            "text": "Halaman artikel edukasi kesehatan panjang untuk pembaca lanjut usia dirancang menggunakan teks merah terang di atas latar belakang hijau terang (komplementer bersaturasi penuh 100%) agar setiap kalimat langsung mencolok."
+          },
+          {
+            "id": "D",
+            "text": "Identitas visual merek mainan edukatif anak usia dini memanfaatkan skema warna triadik (merah, kuning, biru yang diatur saturasi dan kecerahannya) untuk menghadirkan suasana ceria, dinamis, sekaligus tetap seimbang."
+          }
+        ],
+        "categories": [
+          {
+            "id": "tepat",
+            "text": "Tepat"
+          },
+          {
+            "id": "tidak-tepat",
+            "text": "Tidak Tepat"
+          }
+        ],
+        "correctAnswer": {
+          "A": "tepat",
+          "B": "tepat",
+          "C": "tidak-tepat",
+          "D": "tepat"
+        },
+        "explanation": "1) Tepat: Warna analogus yang bersebelahan di roda warna menciptakan transisi halus, tenang, dan harmonis bagi merek aromaterapi. 2) Tepat: Komplementer dengan proporsi dominan-aksen menciptakan kontras berenergi tanpa melelahkan mata. 3) Tidak Tepat: Teks merah penuh di atas hijau penuh memicu efek getaran kromatik (chromostereopsis) yang menyakitkan mata dan bermasalah bagi penyandang buta warna merah-hijau. 4) Tepat: Skema triadik yang dikendalikan value/saturasinya menghadirkan kesan ceria dan dinamis bagi segmen anak (PF.2 & P.1).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q008",
+        "number": 8,
+        "type": "single",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam praktik Fotografi Dasar Studio, peserta didik kelas XI memotret cipratan air pada gelas minuman produk UMKM di ruang studio berpencahayaan cukup. Mereka mengeluh bahwa cipratan air selalu tampak buram bergerak (motion blur) padahal sudah memakai aperture f/2.8, lalu seorang murid mengusulkan menaikkan ISO ke 12.800 dan memperlambat shutter speed ke 1/15 detik agar foto lebih terang. Penalaran teknis segitiga eksposur yang paling akurat untuk dikuatkan guru (PF.2 & P.2) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Memperlambat shutter speed ke 1/15 detik sudah tepat untuk menangkap cipratan air, hanya saja aperture perlu diperkecil ke f/22 agar gambar menjadi lebih tajam."
+          },
+          {
+            "id": "B",
+            "text": "Menaikkan ISO ke 12.800 adalah satu-satunya cara membekukan gerak cepat tanpa menimbulkan bintik gangguan (digital noise) pada foto produk komersial."
+          },
+          {
+            "id": "C",
+            "text": "Motion blur pada cipratan air semata-mata disebabkan oleh bukaan diafragma f/2.8 yang terlalu lebar sehingga ruang tajam (depth of field) menyempit."
+          },
+          {
+            "id": "D",
+            "text": "Mengaktifkan mode otomatis penuh (Auto) adalah solusi paling profesional karena segitiga eksposur tidak berlaku ketika pemotretan dilakukan di dalam studio."
+          },
+          {
+            "id": "E",
+            "text": "Untuk membekukan gerak cepat (freeze motion) dibutuhkan shutter speed tinggi (misalnya 1/1000 detik atau sinkronisasi flash berdurasi singkat), diimbangi pencahayaan lampu studio yang memadai dan ISO serendah mungkin agar foto produk tajam tanpa noise berlebih serta aperture disesuaikan agar seluruh bagian gelas tetap dalam ruang tajam."
+          }
+        ],
+        "correctAnswer": "E",
+        "explanation": "Pemahaman segitiga eksposur (PF.2 & P.2): kecepatan rana (shutter speed) mengendalikan pembekuan gerak (freeze motion) vs efek gerak (motion blur); memperlambat ke 1/15 detik justru memperparah blur (A salah). ISO sangat tinggi (12.800) menimbulkan noise kasar yang menurunkan mutu foto komersial (B salah). Di studio, membekukan cipratan dilakukan dengan shutter speed tinggi atau durasi nyala flash cepat, dipadukan pencahayaan studio terukur, ISO rendah, dan aperture tepat (mis. f/5.6–f/8) untuk menjaga ketajaman seluruh produk (E).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q009",
+        "number": 9,
+        "type": "multiple",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pada pembelajaran Desain Identitas Visual (Branding), guru membimbing peserta didik menguji ketangguhan teknis dan komunikatif rancangan logo UMKM sebelum menyusun Graphic Standard Manual (GSM) (PF.2 & P.1). Manakah prinsip konstruksi dan uji kelayakan logo yang BENAR?"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Logo wajib diuji dalam versi satu warna (monokrom hitam-putih solid tanpa gradasi) guna memastikan bentuk siluet dan maknanya tetap utuh saat diaplikasikan pada stempel, emboss kemasan, atau bordir."
+          },
+          {
+            "id": "B",
+            "text": "Uji skalabilitas (scalability test) dilakukan hingga ukuran terkecil (seperti favicon situs web 16x16 px atau cetakan selebar 1,5 cm pada pena) agar detail tipis tidak hilang atau menyatu."
+          },
+          {
+            "id": "C",
+            "text": "Logo yang profesional harus memuat ilustrasi fotografis superdetail, efek bayangan tiga dimensi, dan minimal lima gradasi warna agar terlihat modern dan mewah."
+          },
+          {
+            "id": "D",
+            "text": "Menetapkan ruang kosong pelindung (clear space / area aman) di sekeliling logo dalam GSM mencegah elemen grafis atau teks lain mengganggu keterbacaan dan wibawa merek."
+          },
+          {
+            "id": "E",
+            "text": "Pemilihan bentuk logogram (simbol) dan logotype (tipografi nama merek) harus dibangun dari hasil riset karakter merek, audiens sasaran, dan diferensiasi terhadap kompetitor agar tampil distingtif."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "D",
+          "E"
+        ],
+        "minSelections": 2,
+        "maxSelections": 4,
+        "instruction": "Pilih dua, tiga, atau empat jawaban yang benar.",
+        "explanation": "Prinsip desain identitas visual profesional (PF.2 & P.1) mensyaratkan logo efektif dalam versi monokrom solid (A), tahan uji skalabilitas mikro hingga makro (B), terlindungi clear space dalam GSM (D), dan berakar pada riset diferensiasi merek (E). Opsi C keliru karena detail fotografis, drop shadow, dan banyak gradasi justru menyulitkan reproduksi cetak, bordir, dan aplikasi ukuran kecil.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q010",
+        "number": 10,
+        "type": "single",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Saat memeriksa file final pracetak kemasan kotak kue kering hasil karya peserta didik kelas XII, guru menemukan bahwa seluruh garis pola lipat dan garis potong digambar memakai garis hitam penuh yang sama di layer desain utama, warna latar belakang berhenti pas di garis potong tanpa lebihan, serta teks komposisi gizi berjarak hanya 0,5 mm dari lipatan kotak. Penjelasan teknis pracetak yang paling akurat disampaikan guru (PF.2) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Garis potong dan lipat memang harus menyatu dengan desain utama agar operator percetakan mudah melihatnya, sedangkan teks cukup diperkecil ukurannya agar tidak terpotong."
+          },
+          {
+            "id": "B",
+            "text": "Pola dieline wajib dipisahkan pada layer non-printing tersendiri dengan pembedaan garis tegas untuk potong (cut line) dan garis putus-putus untuk lipat (crease/fold line), warna/gambar latar diperpanjang minimal 3 mm melewati garis potong sebagai bleed untuk mengantisipasi pergeseran pisau potong, serta seluruh teks penting diletakkan di dalam safe margin minimal 3–5 mm dari tepi potong dan lipatan."
+          },
+          {
+            "id": "C",
+            "text": "Penambahan bleed hanya diperlukan apabila kertas yang dipakai adalah kertas koran tipis, sementara untuk karton kemasan cukup menambahkan garis tepi putih selebar 2 mm di sekeliling kotak."
+          },
+          {
+            "id": "D",
+            "text": "Seluruh warna teks hitam berukuran kecil pada kemasan sebaiknya diatur menggunakan warna hitam kaya (rich black C100 M100 Y100 K100) dengan mode knockout agar tampak paling pekat."
+          },
+          {
+            "id": "E",
+            "text": "File pracetak kemasan tidak perlu mengatur dieline maupun bleed karena proses pemisahan garis lipat dan perpanjangan latar belakang sepenuhnya menjadi tanggung jawab mesin cetak digital."
+          }
+        ],
+        "correctAnswer": "B",
+        "explanation": "Standar pracetak kemasan (PF.2) mewajibkan pemisahan layer dieline (cut line garis utuh, crease/fold line garis putus-putus diatur spot color overprint/non-printing), penambahan bleed (umumnya minimal 3 mm) guna mencegah tepian putih akibat toleransi pisau potong, dan safe margin minimal 3–5 mm agar teks tidak terpotong atau patah di garis lipatan (B). Opsi D justru berbahaya karena teks kecil dengan total ink 400% (C100 M100 Y100 K100) menyebabkan misregistrasi dan tinta luber; teks hitam kecil seharusnya K100 murni dengan overprint.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q011",
+        "number": 11,
+        "type": "single",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Di sekitar SMK tempat Anda mengajar terdapat sentra UMKM perajin gula aren cetak dan kopi sangrai tradisional yang produknya masih dibungkus plastik bening polos tanpa identitas merek sehingga kalah bersaing di pasar oleh-oleh. Guru DKV kelas XI ingin merancang proyek pembelajaran desain kemasan yang kontekstual, memanfaatkan kearifan lokal, sekaligus ramah lingkungan (PF.3 & P.5). Desain kegiatan belajar yang paling bermakna adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menugaskan peserta didik merancang kemasan produk kopi merek internasional fiktif berbahasa asing agar portofolio siswa terlihat lebih bergengsi."
+          },
+          {
+            "id": "B",
+            "text": "Membagikan templat kemasan kotak modern yang sudah jadi kepada seluruh kelas lalu meminta siswa cukup mengganti nama produk dengan nama usaha di sekitar sekolah."
+          },
+          {
+            "id": "C",
+            "text": "Meminta peserta didik membuat laporan tertulis tentang sejarah gula aren dan kopi Indonesia tanpa merancang prototipe kemasan fisik."
+          },
+          {
+            "id": "D",
+            "text": "Membimbing peserta didik melakukan observasi dan wawancara langsung dengan perajin UMKM lokal untuk menggali cerita produk (brand story), merancang struktur kemasan dari material ramah lingkungan (seperti kertas kraft daur ulang atau anyaman daun kering lokal) yang memadukan visual kearifan lokal secara modern, menguji prototipe bersama perajin, dan memvalidasi kelayakan biaya produksinya."
+          },
+          {
+            "id": "E",
+            "text": "Menyuruh peserta didik mendesain kemasan berbahan kaleng impor dan laminasi metalik mahal tanpa mempertimbangkan daya beli maupun kapasitas produksi UMKM setempat."
+          }
+        ],
+        "correctAnswer": "D",
+        "explanation": "Pembelajaran kontekstual berbasis potensi lokal (PF.3 & P.5) menghubungkan kompetensi DKV dengan kebutuhan riil masyarakat sekitar. Wawancara perajin untuk menggali narasi autentik, inovasi kemasan ramah lingkungan berbahan lokal, uji prototipe bersama mitra, dan pertimbangan keterjangkauan biaya UMKM (D) melatih kepekaan desain yang solutif, etis, dan berkelanjutan.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q012",
+        "number": 12,
+        "type": "single",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Di kelas X DKV terdapat seorang peserta didik yang mengalami defisiensi penglihatan warna parsial merah-hijau (deuteranopia), tetapi memiliki kepekaan komposisi, sketsa garis, dan tipografi yang sangat baik. Saat memasuki materi Teori Warna dan Desain Infografis, penyesuaian strategi pembimbingan serta media belajar yang paling tepat sesuai prinsip pendidikan inklusif dan profesionalisme desain (PF.3 & P.2) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Mengajarkan pemanfaatan kode warna numerik (HEX/CMYK/HSL), panduan palet terverifikasi, pengecek rasio kontras aksesibilitas (WCAG), serta penggunaan pembeda non-warna (pola, ikon, label teks, dan kontras gelap-terang) sekaligus melibatkan perspektifnya dalam sesi uji aksesibilitas desain kelas agar seluruh murid memahami prinsip desain inklusif."
+          },
+          {
+            "id": "B",
+            "text": "Meminta peserta didik tersebut segera pindah ke jurusan lain di luar DKV karena seluruh pekerjaan desainer grafis dianggap mustahil dilakukan tanpa persepsi warna sempurna."
+          },
+          {
+            "id": "C",
+            "text": "Membebaskan peserta didik tersebut dari seluruh tugas yang melibatkan warna dan hanya memberinya tugas merangkum teori sejarah desain dari buku paket."
+          },
+          {
+            "id": "D",
+            "text": "Menyamakan seluruh nilai tugas warnanya secara otomatis dengan teman sebangkunya tanpa memberinya strategi teknis untuk bekerja mandiri."
+          },
+          {
+            "id": "E",
+            "text": "Mewajibkan seluruh proyeknya sepanjang tiga tahun hanya menggunakan warna hitam dan putih agar ia tidak pernah membuat kesalahan kombinasi warna."
+          }
+        ],
+        "correctAnswer": "A",
+        "explanation": "Pendidikan inklusif dalam DKV (PF.3 & P.2) tidak mendiskriminasi (B) maupun menurunkan standar belajar (C, D, E), melainkan membekali murid alat bantu profesional yang juga dipakai industri (sistem numerik HEX/CMYK, contrast checker WCAG, indikator pola/tekstur/value). Bahkan perspektifnya menjadi aset berharga bagi kelas untuk menguji aksesibilitas visual (colorblind-friendly design).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q013",
+        "number": 13,
+        "type": "category",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam proyek perancangan Poster Kampanye Literasi Kesehatan Mental Remaja pada kelas XI DKV yang memiliki keragaman tingkat penguasaan ilustrasi manual, penguasaan perangkat lunak, dan minat gaya visual, guru menerapkan pembelajaran berdiferensiasi (PF.3 & P.2)."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan TEPAT atau TIDAK TEPAT strategi diferensiasi pembelajaran DKV berikut!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Guru memberikan kebebasan pilihan pendekatan visual produk akhir—berbasis ilustrasi vektor, fotografi manipulasi, atau tipografi ekspresif—dengan rubrik ketercapaian hierarki visual dan kekuatan pesan yang setara."
+          },
+          {
+            "id": "B",
+            "text": "Guru menyediakan lembar kerja panduan grid tata letak (layout wireframe template) dan video langkah per langkah sebagai perancah (scaffolding) bagi murid yang masih kesulitan menyusun komposisi, sementara murid yang mahir ditantang membangun sistem grid modular secara mandiri."
+          },
+          {
+            "id": "C",
+            "text": "Guru hanya mengizinkan kelompok murid yang mahir menggambar untuk mengikuti tahap riset audiens dan perancangan konsep, sedangkan murid yang baru belajar cukup mengerjakan tugas mengetik teks slogan saja."
+          },
+          {
+            "id": "D",
+            "text": "Guru menyediakan ragam bahan referensi awal sesuai profil belajar—berupa kartu bedah studi kasus poster cetak, video ulasan bedah tata letak singkat, dan daftar istilah visual bergambar—untuk membantu murid memahami anatomi poster."
+          }
+        ],
+        "categories": [
+          {
+            "id": "tepat",
+            "text": "Tepat"
+          },
+          {
+            "id": "tidak-tepat",
+            "text": "Tidak Tepat"
+          }
+        ],
+        "correctAnswer": {
+          "A": "tepat",
+          "B": "tepat",
+          "C": "tidak-tepat",
+          "D": "tepat"
+        },
+        "explanation": "1) Tepat: Diferensiasi produk memberi otonomi gaya visual sesuai minat/kekuatan murid tanpa menurunkan standar rubrik komunikasi visual. 2) Tepat: Diferensiasi proses melalui scaffolding grid sesuai tingkat kesiapan. 3) Tidak Tepat: Membatasi akses berpikir desain/riset audiens hanya untuk murid tertentu melanggar keadilan belajar (P.2). 4) Tepat: Diferensiasi konten melalui variasi modalitas referensi visual dan audiovisual (PF.3 & P.2).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q014",
+        "number": 14,
+        "type": "multiple",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Sekolah berada dekat dengan kawasan pasar tradisional, sentra batik/tenun, dan kawasan kota lama yang kaya akan tipografi papan nama lawas (vernakular), tekstur arsitektur, serta palet warna budaya lokal. Guru DKV ingin memanfaatkan lingkungan tersebut sebagai sumber riset visual autentik untuk topik Eksplorasi Moodboard dan Branding Daerah (PF.3 & P.5). Langkah pembelajaran yang tepat dan etis adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menugaskan peserta didik melakukan tur observasi visual terarah (visual field walk) dengan panduan lembar dokumentasi untuk memotret ragam huruf papan nama lokal, tekstur material, dan warna dominan lingkungan sebagai bahan baku penyusunan moodboard."
+          },
+          {
+            "id": "B",
+            "text": "Membimbing peserta didik meminta izin secara santun kepada pedagang, perajin, atau pengelola tempat sebelum memotret karya, kios, atau wajah narasumber sebagai bagian dari etika fotografi lapangan dan penghormatan privasi."
+          },
+          {
+            "id": "C",
+            "text": "Meminta peserta didik langsung menjiplak motif kain khas milik seorang perajin setempat secara utuh tanpa izin lalu mendaftarkannya sebagai aset grafis komersial milik pribadi."
+          },
+          {
+            "id": "D",
+            "text": "Mengajak peserta didik menganalisis fungsi komunikasi, keterbacaan jarak pandang, dan latar budaya di balik papan informasi atau kemasan tradisional yang mereka temui, lalu mengembangkannya menjadi konsep visual baru yang orisinal."
+          },
+          {
+            "id": "E",
+            "text": "Melepas seluruh peserta didik berjalan sendiri-sendiri di jalan raya padat tanpa pemetaan rute aman, pembagian kelompok, maupun batas waktu pelaporan kepada guru."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "D"
+        ],
+        "minSelections": 2,
+        "maxSelections": 4,
+        "instruction": "Pilih dua, tiga, atau empat jawaban yang benar.",
+        "explanation": "Pemanfaatan lingkungan lokal sebagai studio riset visual (PF.3 & P.5) dilakukan melalui observasi terpandu untuk moodboard autentik (A), penerapan etika izin dokumentasi lapangan (B), serta analisis kritis budaya visual yang ditransformasi menjadi karya orisinal (D). Opsi C melanggar HKI dan etika apropriasi karya perajin lokal, sedangkan opsi E mengabaikan manajemen keselamatan kerja lapangan.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q015",
+        "number": 15,
+        "type": "single",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam mengawali pembelajaran materi Hierarki Tipografi dan Tata Letak Informasi, guru DKV tidak langsung memaparkan teori di salindia, melainkan menampilkan foto nyata papan rambu evakuasi darurat dan brosur jadwal layanan puskesmas yang membingungkan warga karena ukuran huruf seragam, jarak baris rapat, dan kontras lemah. Guru lalu meminta peserta didik mengidentifikasi kegagalan komunikasi dan merumuskan pertanyaan desain. Dampak pedagogis utama dari strategi berbasis fenomena nyata (anchoring phenomenon) ini (PF.3, P.3 & P.1) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Mempercepat penyelesaian seluruh bab tipografi dalam satu kali tatap muka sehingga guru tidak perlu membimbing praktik tata letak."
+          },
+          {
+            "id": "B",
+            "text": "Menunjukkan kepada peserta didik bahwa desain instansi publik selalu buruk sehingga mereka cukup mengandalkan selera estetika pribadi."
+          },
+          {
+            "id": "C",
+            "text": "Mengalihkan fokus pembelajaran dari penguasaan teknis tipografi menjadi kegiatan mengkritik kesalahan orang lain tanpa solusi."
+          },
+          {
+            "id": "D",
+            "text": "Memastikan seluruh peserta didik memperoleh jawaban seragam sejak menit pertama sehingga tidak terjadi perbedaan pendapat di kelas."
+          },
+          {
+            "id": "E",
+            "text": "Menghubungkan prinsip tipografi yang semula tampak abstrak dengan dampak nyata bagi keselamatan dan kemudahan hidup manusia, memicu rasa ingin tahu kritis, serta menempatkan kaidah teknis tata letak sebagai alat pemecahan masalah komunikasi."
+          }
+        ],
+        "correctAnswer": "E",
+        "explanation": "Memulai pembelajaran dari fenomena kegagalan desain nyata (PF.3, P.3 & P.1) menciptakan pembelajaran yang bermakna (meaningful) dan menggugah nalar kritis: murid langsung merasakan bahwa hierarki tipografi, leading, dan kontras bukan sekadar aturan menghias kertas, melainkan penentu apakah informasi publik terbaca atau gagal berfungsi.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q016",
+        "number": 16,
+        "type": "single",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Sebuah SMK DKV di daerah rintisan belum memiliki lampu studio strobe profesional, softbox, maupun light stand yang mencukupi untuk praktik Fotografi Produk UMKM di kelas XI. Sebagai guru DKV yang adaptif dan menguasai konsep pencahayaan (PF.3, P.5 & PF.2), solusi pembelajaran dan teknis fotografi terbaik adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menghapus materi pencahayaan fotografi dari modul ajar dan menggantinya sepenuhnya dengan mengunduh foto produk stok dari internet."
+          },
+          {
+            "id": "B",
+            "text": "Mewajibkan seluruh peserta didik memotret produk menggunakan lampu kilat langsung (built-in pop-up flash) kamera di ruangan gelap agar hasil foto selalu terang merata."
+          },
+          {
+            "id": "C",
+            "text": "Memanfaatkan cahaya jendela alami (window light) sebagai key light, merakit diffuser dari kertas kalkir atau kain putih tipis untuk melembutkan bayangan keras, serta memanfaatkan karton putih/styrofoam sebagai reflektor (fill) dan karton hitam sebagai negative fill guna mendemonstrasikan kendali arah serta kualitas cahaya secara autentik."
+          },
+          {
+            "id": "D",
+            "text": "Meminta setiap peserta didik membeli sendiri paket lampu studio pribadi di rumah agar standar peralatan sekolah menyamai studio komersial."
+          },
+          {
+            "id": "E",
+            "text": "Memotret produk langsung di bawah terik matahari siang pukul 12.00 tanpa pengarah cahaya lalu mengandalkan fitur perbaikan otomatis pada aplikasi edit foto."
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Penguasaan substansi cahaya (arah, kualitas keras/lunak, rasio bayangan) (PF.2) memungkinkan guru berinovasi adaptif saat fasilitas terbatas (PF.3 & P.5). Window light dengan diffuser kain/kalkir meniru prinsip softbox, styrofoam putih berfungsi sebagai bounce/fill light, dan karton hitam sebagai negative fill untuk membentuk dimensi produk secara profesional (C). Built-in flash (B) dan matahari terik siang (E) justru menghasilkan bayangan keras yang datar dan kurang estetis.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q017",
+        "number": 17,
+        "type": "single",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pada pembelajaran Desain Kemasan kelas XII, beberapa peserta didik sebenarnya memiliki gagasan visual dan ilustrasi yang menarik, tetapi mereka terus mengalami kegagalan saat merakit maket kotak karena keliru menghitung ukuran total jaring-jaring bentangan (dieline), lupa memperhitungkan ketebalan karton pada lidah tutup (tuck flap), dan bingung mengonversi ukuran milimeter ke skala cetak 1:2. Langkah perancah (scaffolding) pedagogis yang paling tepat dilakukan guru (PF.3 & P.2) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Membimbing peserta didik membongkar satu kemasan kotak jadi di kehidupan sehari-hari untuk mengidentifikasi fungsi tiap panel dan lidah pengunci, menyediakan lembar panduan perhitungan dimensi terstruktur (panjang, lebar, tinggi, bleed 3 mm, serta toleransi lipatan), lalu berlatih mengonversi skala secara bertahap sebelum membuat pola orisinal."
+          },
+          {
+            "id": "B",
+            "text": "Langsung mengerjakan sendiri seluruh file pola dieline siswa yang mengalami kesulitan agar maket mereka dapat dipamerkan tepat waktu."
+          },
+          {
+            "id": "C",
+            "text": "Meminta peserta didik yang lemah dalam perhitungan dimensi untuk cukup membuat label stiker datar saja tanpa pernah mencoba struktur kotak tiga dimensi."
+          },
+          {
+            "id": "D",
+            "text": "Memberikan hukuman mengulang pembuatan maket sebanyak lima kali tanpa menunjukkan letak kesalahan perhitungan ukuran maupun toleransi lipatan."
+          },
+          {
+            "id": "E",
+            "text": "Menyarankan peserta didik mengira-ngira ukuran lipatan secara bebas memakai mata tanpa penggaris agar proses kreatif tidak terhambat oleh hitungan matematika."
+          }
+        ],
+        "correctAnswer": "A",
+        "explanation": "Scaffolding numerasi-spasial dalam DKV (PF.3 & P.2) menjembatani pemahaman konkret ke abstrak: membongkar kemasan nyata (reverse engineering) membantu murid melihat logika struktur 3D ke bentangan 2D, lalu lembar perhitungan terstruktur dan latihan konversi skala bertahap (A) memampukan murid menguasai presisi teknis pracetak secara mandiri.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q018",
+        "number": 18,
+        "type": "category",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Psikologi warna dan makna simbol visual tidak bersifat tunggal secara universal, melainkan sangat dipengaruhi oleh konteks budaya, tradisi lokal, dan audiens sasaran (PF.3 & P.5)."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan SESUAI atau TIDAK SESUAI muatan pembelajaran riset budaya warna dan simbol berikut!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Guru mengajak peserta didik membandingkan pemaknaan warna putih yang kerap diasosiasikan dengan kesucian dan gaya minimalis di desain Barat, tetapi dalam sejumlah tradisi Asia Timur dan beberapa budaya lokal juga lekat dengan konteks berkabung."
+          },
+          {
+            "id": "B",
+            "text": "Guru membimbing peserta didik menelusuri makna filosofis warna pada ragam budaya Nusantara—seperti kuning keemasan yang melambangkan kemuliaan pada adat Melayu atau kombinasi warna tridatu di Bali—sebelum menggunakannya dalam proyek branding produk budaya."
+          },
+          {
+            "id": "C",
+            "text": "Guru mengajarkan daftar makna psikologi warna secara mutlak bahwa warna merah selalu berarti bahaya di seluruh negara sehingga dilarang dipakai untuk merek perayaan, kuliner, maupun produk perhotelan."
+          },
+          {
+            "id": "D",
+            "text": "Guru melatih peserta didik menguji persepsi warna dan simbol rancangan merek melalui survei mini kepada calon konsumen lokal guna memastikan tidak ada konotasi negatif atau menyinggung kearifan setempat."
+          }
+        ],
+        "categories": [
+          {
+            "id": "sesuai",
+            "text": "Sesuai"
+          },
+          {
+            "id": "tidak-sesuai",
+            "text": "Tidak Sesuai"
+          }
+        ],
+        "correctAnswer": {
+          "A": "sesuai",
+          "B": "sesuai",
+          "C": "tidak-sesuai",
+          "D": "sesuai"
+        },
+        "explanation": "1) Sesuai: Memahami relativitas budaya warna mencegah kesalahan fatal dalam komunikasi lintas budaya. 2) Sesuai: Kajian makna warna budaya Nusantara memperkaya sensitivitas kearifan lokal (P.5). 3) Tidak Sesuai: Merah di banyak budaya (termasuk Tionghoa dan industri kuliner) justru melambangkan keberuntungan, perayaan, dan penggugah selera, sehingga tidak boleh digeneralisasi kaku. 4) Sesuai: Validasi audiens adalah praktik desain berbasis bukti (PF.3).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q019",
+        "number": 19,
+        "type": "single",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam proyek perancangan kemasan minuman siap saji ramah lingkungan, guru DKV menyelenggarakan sesi kritik desain (design critique) menggunakan kerangka argumentasi visual Claim–Evidence–Reasoning (CER). Peserta didik tidak boleh hanya berkata 'menurut saya desain ini bagus/jelek', melainkan wajib mengaitkan penilaiannya dengan brief klien, data uji keterbacaan, dan prinsip desain. Tujuan pedagogis utama penerapan kerangka ini (PF.3 & P.3) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Membuat sesi diskusi kelas terasa kaku dan formal sehingga hanya murid yang pandai berbicara yang berani menyampaikan pendapat."
+          },
+          {
+            "id": "B",
+            "text": "Menguji siapa peserta didik yang paling hebat menjatuhkan karya temannya menggunakan istilah bahasa asing."
+          },
+          {
+            "id": "C",
+            "text": "Menyeragamkan seluruh selera estetika peserta didik agar semua karya kemasan memiliki gaya visual yang sama persis."
+          },
+          {
+            "id": "D",
+            "text": "Melatih peserta didik mengambil dan mengevaluasi keputusan desain secara objektif berbasis bukti riset audiens dan kaidah komunikasi visual, bukan sekadar preferensi subjektif pribadi, sekaligus membangun budaya kritik yang aman dan konstruktif."
+          },
+          {
+            "id": "E",
+            "text": "Mengurangi beban guru dalam menilai karya karena seluruh penilaian akhir diserahkan sepenuhnya kepada komentar lisan antarsiswa."
+          }
+        ],
+        "correctAnswer": "D",
+        "explanation": "Kritik desain profesional (design critique, PF.3 & P.3) berfokus pada efektivitas karya terhadap brief, audiens, dan kaidah visual, bukan menyerang pribadi atau selera semata. Kerangka berbasis bukti (Claim–Evidence–Reasoning) membangun iklim kelas yang aman secara psikologis sekaligus melatih penalaran desain yang dapat dipertanggungjawabkan di hadapan klien.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q020",
+        "number": 20,
+        "type": "multiple",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pada proyek desain kemasan cendera mata dan identitas visual desa wisata, guru DKV mengajak peserta didik mengintegrasikan kearifan lokal Nusantara dan prinsip desain berkelanjutan (PF.3 & P.5). Contoh integrasi yang relevan, etis, dan akurat adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Mengambil motif sakral upacara adat setempat lalu menempelkannya sembarangan pada kemasan produk komersial tanpa berkonsultasi dengan tetua adat atau memahami nilai filosofisnya."
+          },
+          {
+            "id": "B",
+            "text": "Mengadaptasi struktur lipatan kemasan organik tanpa lem plastik yang terinspirasi dari kearifan teknik membungkus tradisional Nusantara (seperti pincuk atau lipatan besek) ke dalam material kertas daur ulang bersertifikasi ramah lingkungan."
+          },
+          {
+            "id": "C",
+            "text": "Mengeksplorasi sistem grafis supergrafis (supergraphic) dan palet warna yang disarikan dari motif ragam hias umum setempat disertai narasi edukatif singkat pada sisi kemasan yang mengapresiasi perajin daerah."
+          },
+          {
+            "id": "D",
+            "text": "Menggunakan kemasan berlapis plastik laminasi ganda dan mika kaku sekali pakai demi menjaga tampilan mengilap meskipun memicu penumpukan sampah di kawasan wisata."
+          },
+          {
+            "id": "E",
+            "text": "Berkolaborasi dengan komunitas perajin lokal untuk mengembangkan tag label informatif bilingual dan kode QR cerita proses produksi agar meningkatkan nilai tambah ekonomi produk masyarakat."
+          }
+        ],
+        "correctAnswer": [
+          "B",
+          "C",
+          "E"
+        ],
+        "minSelections": 2,
+        "maxSelections": 4,
+        "instruction": "Pilih dua, tiga, atau empat jawaban yang benar.",
+        "explanation": "Integrasi kearifan lokal dan keberlanjutan dalam DKV (PF.3 & P.5) tampak pada adaptasi struktur lipatan tradisional ramah lingkungan tanpa lem plastik berlebih (B), pengembangan supergrafis dan narasi apresiatif berbasis ragam hias non-sakral (C), serta kolaborasi label informatif/QR bersama perajin (E). Opsi A termasuk apropriasi budaya yang tidak etis terhadap motif sakral, dan opsi D bertentangan dengan prinsip kemasan berkelanjutan.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q021",
+        "number": 21,
+        "type": "single",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pada pembelajaran Ilustrasi Vektor menggunakan perangkat lunak pengolah grafis, guru mengamati banyak peserta didik kelas X langsung membuka fitur Image Trace otomatis pada foto internet tanpa memahami struktur titik jangkar (anchor point) dan tangkai kendali (handle) kurva Bezier. Agar pemanfaatan teknologi perangkat lunak tersebut benar-benar melatih ketajaman konstruksi bentuk dan tidak sekadar mengklik tombol otomatis (P.4 & PF.4), langkah pedagogis yang paling tepat adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menghapus perangkat lunak pengolah vektor dari laboratorium komputer dan mengganti seluruh mata pelajaran ilustrasi vektor dengan menggambar memakai pensil di kertas saja."
+          },
+          {
+            "id": "B",
+            "text": "Mewajibkan tahapan sketsa manual terstruktur di atas kertas untuk mematangkan proporsi dan siluet terlebih dahulu, memindainya sebagai templat latar, lalu memandu praktik penempatan titik jangkar seminimal mungkin menggunakan Pen Tool (prinsip ekstrem vertikal-horizontal kurva Bezier) serta memeriksa kerapian mode tampilan wireframe (outline view)."
+          },
+          {
+            "id": "C",
+            "text": "Membiarkan peserta didik tetap menggunakan fitur Image Trace otomatis asalkan mereka mengubah warna hasil jiplakan agar tidak tampak sama persis dengan foto aslinya."
+          },
+          {
+            "id": "D",
+            "text": "Meminta peserta didik menonton video tutorial cepat (speed-drawing) berdurasi 3 menit di media sosial tanpa memberikan lembar latihan kontrol kurva bertahap."
+          },
+          {
+            "id": "E",
+            "text": "Memberikan tes tertulis mengenai nama-nama pintasan papan ketik (keyboard shortcut) seluruh peralatan vektor tanpa memeriksa file kerja asli peserta didik."
+          }
+        ],
+        "correctAnswer": "B",
+        "explanation": "Integrasi TIK yang bermakna dalam DKV (P.4 & PF.4) menempatkan perangkat lunak sebagai alat eksekusi konsep yang matang, bukan pengganti pemahaman konstruksi visual. Memadukan sketsa manual sebagai fondasi proporsi, teknik Pen Tool dengan titik jangkar minimal/ekstrem, dan pengecekan wireframe/outline view (B) memastikan murid benar-benar menguasai geometri kurva Bezier sehingga karya bersih dan siap cetak atau potong (cutting plotter).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q022",
+        "number": 22,
+        "type": "single",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam mengevaluasi ketercapaian kompetensi peserta didik kelas XII pada proyek penyusunan Graphic Standard Manual (GSM) / Brand Guideline untuk merek kuliner UMKM lokal, bentuk asesmen yang paling valid dan autentik (PF.4 & P.6) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Tes pilihan ganda 50 butir yang menguji ingatan peserta didik mengenai sejarah merek-merek besar dunia dan definisi istilah branding."
+          },
+          {
+            "id": "B",
+            "text": "Penilaian tunggal berdasarkan jumlah halaman buku GSM yang dicetak tanpa memeriksa konsistensi sistem warna, tipografi, maupun aturan penggunaan logo."
+          },
+          {
+            "id": "C",
+            "text": "Ujian praktik kecepatan mengetik ulang contoh teks narasi filosofi logo milik perusahaan terkenal dalam batas waktu 30 menit."
+          },
+          {
+            "id": "D",
+            "text": "Penilaian berbasis voting suka (like) terbanyak di media sosial sekolah terhadap gambar mock-up logo tanpa melihat kelayakan teknis produksinya."
+          },
+          {
+            "id": "E",
+            "text": "Asesmen kinerja dan portofolio proyek berbasis rubrik analitik yang menilai keseluruhan proses (riset brand, moodboard, sketsa eksplorasi), ketepatan spesifikasi teknis dokumen GSM (grid konstruksi, clear space, kode warna CMYK/RGB/HEX, larangan penggunaan logo, simulasi aplikasi), serta presentasi pertanggungjawaban rasional desain di hadapan guru dan perwakilan UMKM."
+          }
+        ],
+        "correctAnswer": "E",
+        "explanation": "Kompetensi penyusunan GSM bersifat kompleks dan autentik (PF.4 & P.6), sehingga tidak valid diukur hanya lewat hafalan (A), ketebalan halaman (B), atau popularitas semata (D). Rubrik analitik portofolio proses, validasi spesifikasi teknis GSM siap pakai, dan presentasi kepada pemangku kepentingan nyata (E) mengukur penguasaan konseptual, teknis, sekaligus komunikasi profesional murid secara utuh.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q023",
+        "number": 23,
+        "type": "category",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Sebelum memulai unit Desain Editorial dan Tata Letak Poster, guru DKV menerapkan asesmen diagnostik visual dua tingkat (two-tier visual diagnostic test) yang menyajikan pasangan contoh poster baik/buruk beserta permintaan penjelasan alasannya (P.6 & PF.4)."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan BENAR atau SALAH pernyataan berikut terkait pelaksanaan asesmen diagnostik DKV!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Struktur soal dua tingkat—memilih tata letak yang lebih komunikatif sekaligus menuliskan rasional prinsip desainnya—membantu guru membedakan murid yang benar-benar memahami hierarki visual dari murid yang sekadar menebak berdasarkan selera."
+          },
+          {
+            "id": "B",
+            "text": "Hasil asesmen diagnostik awal tersebut wajib dimasukkan sebagai bobot 40% nilai akhir rapor semester agar peserta didik merasa tertekan dan belajar lebih keras."
+          },
+          {
+            "id": "C",
+            "text": "Temuan bahwa mayoritas murid memilih poster yang tepat tetapi memberikan alasan keliru (misalnya mengira poster baik hanya karena warnanya cerah) menjadi dasar guru merancang penguatan konsep kontras dan ruang negatif."
+          },
+          {
+            "id": "D",
+            "text": "Asesmen diagnostik DKV hanya efektif jika berbentuk tes praktik membuat poster utuh selama tiga minggu sebelum materi dasar tata letak pernah diajarkan."
+          }
+        ],
+        "categories": [
+          {
+            "id": "benar",
+            "text": "Benar"
+          },
+          {
+            "id": "salah",
+            "text": "Salah"
+          }
+        ],
+        "correctAnswer": {
+          "A": "benar",
+          "B": "salah",
+          "C": "benar",
+          "D": "salah"
+        },
+        "explanation": "1) Benar: Two-tier diagnostic test memisahkan tebakan subjektif dari pemahaman prinsip visual yang kokoh (PF.4). 2) Salah: Asesmen diagnostik awal berfungsi memetakan kesiapan belajar untuk perencanaan pembelajaran (P.6), bukan menjadi penentu nilai sumatif rapor. 3) Benar: Alasan keliru pada pilihan benar mengungkap miskonsepsi tersembunyi yang harus ditindaklanjuti dalam strategi mengajar. 4) Salah: Asesmen diagnostik awal seharusnya ringkas, terfokus, dan cepat dianalisis sebelum pembelajaran inti berjalan.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q024",
+        "number": 24,
+        "type": "single",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Sekolah hanya memiliki 3 unit kamera DSLR untuk kelas berisi 30 peserta didik pada pembelajaran Komposisi Fotografi (Rule of Thirds, Leading Lines, Framing) dan Pengaturan Eksposur Dasar. Guru DKV berinovasi memanfaatkan mode Pro/Manual pada kamera ponsel pintar peserta didik secara berkelompok, disertai aplikasi pengukur cahaya (light meter) serta grid komposisi layar, bergiliran dengan kamera DSLR studio. Nilai tambah pedagogis dan teknis utama dari inovasi ini (P.4 & PF.4) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menghilangkan sepenuhnya kebutuhan peserta didik untuk mempelajari cara kerja kamera DSLR atau mirrorless profesional di studio sekolah."
+          },
+          {
+            "id": "B",
+            "text": "Memudahkan peserta didik menerapkan filter warna instan media sosial sehingga tidak perlu lagi mengatur pencahayaan dan komposisi saat memotret."
+          },
+          {
+            "id": "C",
+            "text": "Mengubah perangkat gawai yang akrab bagi murid menjadi instrumen eksplorasi aktif konsep komposisi dan segitiga eksposur (ISO, shutter speed, white balance) secara langsung tanpa waktu tunggu pasif, sekaligus menjembatani transfer keterampilan ke kamera DSLR."
+          },
+          {
+            "id": "D",
+            "text": "Membuat seluruh tugas fotografi cukup dikerjakan secara instan di rumah masing-masing sehingga jam praktik studio di sekolah dapat ditiadakan."
+          },
+          {
+            "id": "E",
+            "text": "Menjamin seluruh peserta didik menghasilkan kualitas ketajaman lensa yang seragam tanpa perlu memperhatikan jenis perangkat maupun arah cahaya."
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Integrasi teknologi adaptif berbasis TPACK (P.4 & PF.4) menggunakan fitur Pro/Manual ponsel pintar dan aplikasi light meter untuk menghilangkan antrean panjang pasif sambil tetap menanamkan konsep fundamental komposisi dan eksposur yang mudah ditransfer saat murid bergiliran memakai DSLR studio (C).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q025",
+        "number": 25,
+        "type": "multiple",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam menyusun instrumen penilaian sumatif DKV (teori dan praktik) yang berorientasi Higher-Order Thinking Skills (HOTS) serta literasi komunikasi visual (P.6 & PF.4), karakteristik butir soal dan tugas uji yang berkualitas tinggi meliputi..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menyajikan stimulus autentik yang fungsional—seperti kutipan creative brief klien, contoh mock-up kemasan bermasalah, atau spesifikasi cetak percetakan—yang wajib dianalisis peserta didik untuk menjawab persoalan."
+          },
+          {
+            "id": "B",
+            "text": "Menitikberatkan soal pada hafalan letak persis ikon menu dan submenu dari satu versi perangkat lunak grafis tertentu tanpa konteks pemecahan masalah desain."
+          },
+          {
+            "id": "C",
+            "text": "Mengukur kemampuan mengevaluasi efektivitas komunikasi visual (hierarki tipografi, kontras aksesibilitas, kesesuaian segmen audiens) serta merancang rekomendasi perbaikan teknis pracetak."
+          },
+          {
+            "id": "D",
+            "text": "Menyusun pengecoh (distraktor) pada soal objektif berdasarkan miskonsepsi nyata yang sering muncul di studio, seperti kekeliruan RGB versus CMYK atau bleed versus safe margin."
+          },
+          {
+            "id": "E",
+            "text": "Menggunakan terminologi desain grafis, satuan pracetak (mm, pt, DPI/PPI), dan notasi warna secara akurat serta konsisten dengan standar industri kreatif."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "C",
+          "D",
+          "E"
+        ],
+        "minSelections": 2,
+        "maxSelections": 4,
+        "instruction": "Pilih dua, tiga, atau empat jawaban yang benar.",
+        "explanation": "Asesmen HOTS DKV (P.6 & PF.4) menuntut stimulus fungsional berbasis brief/kasus visual nyata (A), pengukuran level evaluasi dan kreasi komunikasi visual (C), distraktor yang berakar pada miskonsepsi teknis nyata (D), dan ketepatan terminologi industri (E). Opsi B hanya mengukur hafalan antarmuka perangkat lunak (LOTS) yang cepat usang saat versi aplikasi diperbarui.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q026",
+        "number": 26,
+        "type": "single",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Guru DKV menerapkan kerangka Design Thinking (Empathize–Define–Ideate–Prototype–Test) dalam proyek redesain kemasan camilan keripik singkong milik UMKM sekitar sekolah. Setelah mewawancarai pembeli di toko oleh-oleh, merumuskan masalah utama bahwa kemasan mudah sobek dan varian rasa sulit dibedakan dari jarak 2 meter, menghasilkan beberapa sketsa ide, lalu membuat maket uji coba, kelompok murid menemukan pada tahap uji coba bahwa penutup kemasan masih sulit dibuka oleh pembeli lansia. Tahapan kunci yang mencerminkan esensi Design Thinking dalam situasi tersebut (PF.4 & P.1) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Memanfaatkan temuan kegagalan pada tahap Test sebagai bahan iterasi untuk kembali menyempurnakan ideasi dan prototipe struktur bukaan kemasan (seperti menambahkan notch sobek yang jelas dan kode warna varian kontras) hingga tervalidasi nyaman digunakan oleh target pengguna."
+          },
+          {
+            "id": "B",
+            "text": "Tetap mempertahankan maket pertama tanpa revisi karena seluruh lima tahapan Design Thinking sudah dijalankan satu kali secara berurutan."
+          },
+          {
+            "id": "C",
+            "text": "Menghapus data uji coba dari responden lansia pada laporan proyek agar hasil evaluasi kemasan terlihat sempurna dan mendapat nilai tinggi."
+          },
+          {
+            "id": "D",
+            "text": "Menyalahkan responden pembeli karena dianggap kurang terampil membuka kemasan modern rancangan peserta didik."
+          },
+          {
+            "id": "E",
+            "text": "Langsung mencetak massal kemasan tersebut terlebih dahulu baru meminta pendapat pembeli setelah seluruh stok kemasan habis terjual."
+          }
+        ],
+        "correctAnswer": "A",
+        "explanation": "Hakikat Design Thinking (Stanford d.school, PF.4 & P.1) adalah sifatnya yang non-linear, berpusat pada manusia (human-centered), dan iteratif: temuan kegagalan saat pengujian (Test) justru menjadi data emas untuk mengulang sebagian tahap Ideate/Prototype hingga solusi benar-benar memecahkan kebutuhan nyata pengguna (A).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q027",
+        "number": 27,
+        "type": "single",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Saat memeriksa draf tata letak majalah dinding cetak (zines/editorial 8 halaman) karya seorang peserta didik kelas XI, guru menemukan seluruh kolom teks dibuat rata kanan-kiri (justified) pada lebar kolom terlalu sempit sehingga muncul celah putih menganga ('sungai teks'/rivers), ruang negatif hampir tidak tersisa, dan nomor halaman menempel 1 mm di tepi potong kertas. Umpan balik formatif konstruktif yang paling tepat diberikan guru (P.6, PF.4 & PF.2) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menuliskan komentar singkat 'Tata letak kurang rapi, silakan perbaiki sampai bagus' pada lembar penilaian tanpa berdiskusi bersama murid."
+          },
+          {
+            "id": "B",
+            "text": "Langsung memperbaiki seluruh perataan paragraf, margin, dan nomor halaman di komputer murid sementara murid hanya diminta melihat dari samping."
+          },
+          {
+            "id": "C",
+            "text": "Memuji penggunaan warna sampulnya lalu langsung meluluskan draf tersebut ke percetakan agar kepercayaan diri peserta didik tidak terganggu."
+          },
+          {
+            "id": "D",
+            "text": "Mengapresiasi kekuatan konten artikelnya, kemudian menunjukkan secara spesifik dampak celah 'river' pada kolom sempit, risiko terpotongnya nomor halaman di luar safe margin, serta mengajak murid bereksperimen membandingkan perataan rata kiri (flush left), pelebaran margin/whitespace, dan pengaturan gutter kolom berdasarkan rubrik tipografi editorial."
+          },
+          {
+            "id": "E",
+            "text": "Meminta murid menghapus separuh isi tulisannya dan mengganti seluruh halaman dengan foto besar agar tidak perlu lagi mengatur tipografi paragraf."
+          }
+        ],
+        "correctAnswer": "D",
+        "explanation": "Umpan balik formatif bermutu dalam DKV (P.6, PF.4 & PF.2) bersifat spesifik, objektif berbasis prinsip teknis (menghindari rivers pada kolom sempit dengan rata kiri/hyphenation tepat, menjaga safe margin dan ruang negatif), diawali apresiasi autentik, dan mendorong murid memperbaiki karyanya sendiri melalui perbandingan visual langsung (D).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q028",
+        "number": 28,
+        "type": "category",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam proyek Teaching Factory layanan desain kemasan dan promosi komersial UMKM lokal, guru DKV menanamkan kepatuhan terhadap Hak Kekayaan Intelektual (HKI), hak cipta, dan manajemen lisensi aset digital (P.4 & PF.4)."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan TEPAT atau TIDAK TEPAT praktik pemanfaatan aset digital berikut dalam proyek komersial!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Peserta didik memilih huruf (font) berlisensi SIL Open Font License (OFL) dari repositori resmi untuk desain label kemasan yang akan dijual oleh klien UMKM serta melampirkan dokumen lisensinya dalam arsip proyek."
+          },
+          {
+            "id": "B",
+            "text": "Peserta didik mengunduh font berlabel 'Free for Personal Use Only' dari situs gratis lalu memakainya sebagai logotype merek dagang komersial klien dengan alasan file tersebut diunduh tanpa membayar."
+          },
+          {
+            "id": "C",
+            "text": "Peserta didik memotret sendiri bahan baku produk di studio sekolah atau membeli/menggunakan foto stok berlisensi komersial yang sah (misalnya CC0 atau lisensi komersial resmi sesuai ketentuan atribusi) untuk katalog promosi UMKM."
+          },
+          {
+            "id": "D",
+            "text": "Peserta didik menggunakan foto makanan yang ditemukan melalui pencarian gambar mesin pencari dan foto berlisensi Creative Commons CC BY-NC (Non-Commercial) untuk brosur penjualan produk klien asalkan ukurannya diperkecil."
+          }
+        ],
+        "categories": [
+          {
+            "id": "tepat",
+            "text": "Tepat"
+          },
+          {
+            "id": "tidak-tepat",
+            "text": "Tidak Tepat"
+          }
+        ],
+        "correctAnswer": {
+          "A": "tepat",
+          "B": "tidak-tepat",
+          "C": "tepat",
+          "D": "tidak-tepat"
+        },
+        "explanation": "1) Tepat: Lisensi SIL OFL memperbolehkan penggunaan komersial dan dokumentasi lisensi adalah standar profesional HKI (P.4 & PF.4). 2) Tidak Tepat: 'Free for Personal Use' melarang pemakaian komersial; melanggarnya berisiko sengketa hukum bagi klien UMKM. 3) Tepat: Produksi foto orisinal atau aset berlisensi komersial resmi menjamin legalitas karya. 4) Tidak Tepat: Gambar dari mesin pencari tetap dilindungi hak cipta penciptanya, dan lisensi CC BY-NC secara tegas melarang penggunaan untuk tujuan komersial.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q029",
+        "number": 29,
+        "type": "single",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam merancang unit pembelajaran Desain Identitas Visual (Logo & Branding) bagi peserta didik kelas XI yang sering terburu-buru langsung membuka komputer tanpa gagasan matang, guru menyusun alur proses kreatif yang selaras dengan pendekatan konstruktivistik dan standar industri desain (PF.4 & P.1). Urutan tahapan aktivitas pembelajaran yang paling tepat adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Membuat mock-up 3D kemasan -> Memilih efek gradasi warna di software -> Menentukan bentuk simbol logo -> Mengarang cerita filosofi logo -> Membaca brief klien."
+          },
+          {
+            "id": "B",
+            "text": "Langsung mengoperasikan perangkat lunak vektor -> Mencari templat logo gratis -> Mengganti nama merek klien -> Mencetak buku GSM -> Melakukan presentasi."
+          },
+          {
+            "id": "C",
+            "text": "Menghafalkan teori warna dan tipografi -> Menggambar ulang logo perusahaan dunia -> Langsung memvektorisasi satu ide pertama yang muncul -> Menyerahkan file JPEG."
+          },
+          {
+            "id": "D",
+            "text": "Membuat buku panduan GSM lengkap -> Melakukan survei kompetitor -> Membuat sketsa kasar di kertas -> Menguji skalabilitas hitam-putih -> Merumuskan brief awal."
+          },
+          {
+            "id": "E",
+            "text": "Membedah creative brief serta riset karakter merek dan kompetitor -> Menyusun peta pikiran (mindmapping) dan moodboard arah visual -> Mengeksplorasi banyak sketsa thumbnail manual sebelum memilih konsep terbaik -> Melakukan digitalisasi vektor, uji monokrom serta skalabilitas, dan kritik desain -> Memfinalisasi sistem identitas ke dalam GSM."
+          }
+        ],
+        "correctAnswer": "E",
+        "explanation": "Alur desain identitas visual yang kokoh (PF.4 & P.1) selalu berawal dari pemahaman masalah (riset brief & kompetitor), konvergensi arah visual (mindmapping & moodboard), divergensi ide cepat bebas hambatan teknis (sketsa thumbnail manual), eksekusi terukur dan uji ketangguhan (vektorisasi, uji monokrom & skalabilitas, design critique), hingga kodifikasi sistem dalam GSM (E).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q030",
+        "number": 30,
+        "type": "multiple",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pembelajaran praktik di studio DKV berperan penting membentuk dimensi Profil Pelajar Pancasila secara alami melalui aktivitas perancangan sehari-hari (PF.4 & P.1). Praktik pembelajaran DKV yang efektif menguatkan karakter tersebut adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Membiasakan peserta didik menyertakan sumber referensi, atribusi lisensi aset, dan pernyataan orisinalitas karya sebagai wujud integritas akhlak mulia dan penghormatan terhadap Hak Kekayaan Intelektual."
+          },
+          {
+            "id": "B",
+            "text": "Melaksanakan sesi design critique berbasis data riset target audiens dan brief sehingga peserta didik terlatih bernalar kritis, objektif, dan berlapang dada menerima masukan perbaikan."
+          },
+          {
+            "id": "C",
+            "text": "Mewajibkan peserta didik meniru persis gaya ilustrasi dan tata letak contoh buatan guru tanpa boleh mengajukan alternatif gagasan visual sendiri."
+          },
+          {
+            "id": "D",
+            "text": "Mengorganisasi proyek Teaching Factory dalam tim lintas peran (riset, ilustrator, fotografer produk, penata pracetak) untuk menumbuhkan gotong royong, tanggung jawab bersama, dan empati kepada klien UMKM."
+          },
+          {
+            "id": "E",
+            "text": "Mendorong eksplorasi gagasan visual orisinal yang mengangkat kekayaan budaya Nusantara serta isu keberlanjutan lingkungan untuk menguatkan kreativitas dan berkebinekaan global."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "D",
+          "E"
+        ],
+        "minSelections": 2,
+        "maxSelections": 4,
+        "instruction": "Pilih dua, tiga, atau empat jawaban yang benar.",
+        "explanation": "Integrasi Profil Pelajar Pancasila dalam studio DKV (PF.4 & P.1) terwujud nyata melalui kejujuran HKI/akhlak mulia (A), penalaran kritis dalam design critique (B), kolaborasi tim Teaching Factory/gotong royong (D), serta kreativitas berakar budaya dan keberlanjutan/berkebinekaan global (E). Opsi C justru mematikan daya cipta dan kemandirian berpikir murid.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q031",
+        "number": 31,
+        "type": "single",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam menilai sikap kerja profesional studio DKV peserta didik—meliputi kedisiplinan mematuhi K3 pemotongan maket, keterbukaan terhadap kritik desain, konsistensi dokumentasi proses, dan kepatuhan pada tenggat waktu brief—instrumen dan metode asesmen yang paling tepat (P.6 & PF.4) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menilai seluruh aspek sikap kerja semata-mata dari skor tes tertulis mengenai definisi etika profesi desainer di akhir semester."
+          },
+          {
+            "id": "B",
+            "text": "Menggunakan lembar observasi kinerja studio berbasis indikator perilaku teramati, catatan anekdotal guru selama sesi praktik dan kritik desain, serta dilengkapi penilaian diri dan antarteman (self/peer assessment) pada kerja tim."
+          },
+          {
+            "id": "C",
+            "text": "Memberikan nilai sikap maksimal secara otomatis kepada peserta didik yang menghasilkan desain paling menarik secara visual meskipun sering melanggar K3 studio dan tidak bekerja sama dalam tim."
+          },
+          {
+            "id": "D",
+            "text": "Menilai sikap kerja peserta didik hanya dari kerapian seragam praktik dan kehadiran di awal bulan tanpa mengamati perilaku selama proses berkarya."
+          },
+          {
+            "id": "E",
+            "text": "Mengandalkan ingatan subjektif guru di hari terakhir sebelum pembagian rapor tanpa instrumen pencatatan perilaku berkala."
+          }
+        ],
+        "correctAnswer": "B",
+        "explanation": "Sikap kerja profesional studio (P.6 & PF.4) tampak pada perilaku autentik sehari-hari saat berkarya, berkolaborasi, dan menerapkan K3. Oleh sebab itu, pengukuran yang valid harus menggunakan lembar observasi berindikator konkret, catatan anekdotal, dan refleksi diri/antarteman (B), bukan tes hafalan (A) atau bias estetika produk akhir (C).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q032",
+        "number": 32,
+        "type": "single",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Laboratorium DKV sekolah hanya memiliki 10 unit komputer berspesifikasi grafis yang berfungsi optimal, sementara satu rombongan belajar kelas XI berjumlah 30 peserta didik pada proyek Desain Poster dan Ilustrasi Vektor. Strategi pengorganisasian pembelajaran yang paling efektif agar seluruh peserta didik aktif berkarya sesuai alur desain tanpa terjadi penumpukan pasif di depan monitor (PF.4 & P.2) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menyuruh tiga peserta didik berdesakan pada satu kursi komputer yang sama sepanjang 4 jam pelajaran di mana hanya satu siswa yang memegang tetikus (mouse)."
+          },
+          {
+            "id": "B",
+            "text": "Meminta 20 peserta didik lainnya duduk menunggu giliran tanpa tugas sambil membaca buku bebas hingga kelompok pertama selesai sepenuhnya."
+          },
+          {
+            "id": "C",
+            "text": "Menerapkan model rotasi stasiun kerja (Station Rotation) dalam 3 zona terstruktur: Zona 1 riset brief, moodboard, dan sketsa thumbnail manual; Zona 2 eksekusi digitalisasi vektor pada 10 unit komputer secara individu terjadwal; dan Zona 3 sesi review proof cetak, pengecekan tipografi, serta umpan balik antarrekan secara bergiliran."
+          },
+          {
+            "id": "D",
+            "text": "Mengubah seluruh jam praktik laboratorium menjadi kelas ceramah teori dan menugaskan seluruh pengerjaan digital dikerjakan sendiri di warung internet luar sekolah."
+          },
+          {
+            "id": "E",
+            "text": "Mengizinkan hanya 10 peserta didik dengan nilai tertinggi menggunakan komputer sekolah, sedangkan 20 lainnya mengerjakan seluruh proyek secara manual."
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Model Station Rotation yang menyelaraskan alur kerja nyata studio desain (riset/sketsa manual -> produksi digital -> review proof & kritik desain) (C) memaksimalkan sumber daya komputer terbatas secara adil, mencegah dominasi satu siswa di komputer (A), menghapus waktu tunggu kosong (B), dan menjaga kesetaraan kesempatan belajar (PF.4 & P.2).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q033",
+        "number": 33,
+        "type": "category",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pengelolaan asesmen formatif dan sesi kritik desain (design critique) secara terencana sangat menentukan kedalaman kualitas karya akhir peserta didik DKV (P.6 & PF.4)."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan BENAR atau SALAH pernyataan terkait pengelolaan asesmen DKV berikut!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Sesi gallery walk singkat di tengah proyek—di mana peserta didik menempelkan sketsa konsep dan saling memberi catatan tempel (sticky notes) merujuk rubrik brief—efektif sebagai asesmen formatif untuk mendeteksi masalah komunikasi sejak dini."
+          },
+          {
+            "id": "B",
+            "text": "Menilai buku sketsa (sketchbook) dan dokumentasi revisi proses selain produk akhir membantu guru memastikan keaslian proses berpikir desain serta mencegah praktik menyalin karya instan."
+          },
+          {
+            "id": "C",
+            "text": "Umpan balik teknis pracetak (seperti kesesuaian mode CMYK, resolusi gambar 300 DPI, dan bleed 3 mm) sebaiknya baru diberikan setelah seluruh peserta didik mengeluarkan biaya mencetak final karya di percetakan agar mereka belajar dari kerugian."
+          },
+          {
+            "id": "D",
+            "text": "Daftar periksa pra-cetak (preflight checklist) yang diisi mandiri oleh peserta didik sebelum mengumpulkan file final melatih ketelitian profesional dan asesmen sebagai pembelajaran (Assessment as Learning)."
+          }
+        ],
+        "categories": [
+          {
+            "id": "benar",
+            "text": "Benar"
+          },
+          {
+            "id": "salah",
+            "text": "Salah"
+          }
+        ],
+        "correctAnswer": {
+          "A": "benar",
+          "B": "benar",
+          "C": "salah",
+          "D": "benar"
+        },
+        "explanation": "1) Benar: Gallery walk berbasis rubrik brief mendorong umpan balik formatif cepat sebelum murid telanjur masuk produksi akhir. 2) Benar: Penilaian proses melalui sketchbook memvalidasi orisinalitas ideasi. 3) Salah: Umpan balik preflight/pracetak wajib dilakukan sebelum cetak final agar mencegah pemborosan biaya, kertas, dan tinta sekaligus menjaga prinsip assessment for learning (P.6). 4) Benar: Preflight checklist mandiri menumbuhkan tanggung jawab metakognitif dan standar industri (PF.4).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q034",
+        "number": 34,
+        "type": "single",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Kurikulum Merdeka SMK mendorong pembelajaran DKV yang terpadu lintas elemen kompetensi agar peserta didik memahami bagaimana keterampilan desain saling terhubung dalam satu alur kerja industri, bukan terpecah menjadi latihan terpisah tanpa konteks. Contoh desain pembelajaran terpadu yang paling koheren pada proyek 'Peluncuran Produk Teh Herbal UMKM Lokal' (PF.4 & P.1) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Merancang satu proyek utuh yang memadukan riset identitas merek dan konstruksi logo, pemotretan produk teh dengan pencahayaan studio terarah, pengolahan tipografi dan manajemen warna CMYK untuk kemasan kotak ber-dieline siap cetak, hingga produksi katalog digital promosi yang selaras secara visual."
+          },
+          {
+            "id": "B",
+            "text": "Meminta peserta didik belajar fotografi bunga acak di minggu pertama, membuat poster konser musik di minggu kedua, dan membuat kemasan sepatu olahraga di minggu ketiga tanpa kaitan benang merah."
+          },
+          {
+            "id": "C",
+            "text": "Membagi peserta didik secara permanen sepanjang semester sehingga sebagian hanya boleh memotret produk dan sebagian lain hanya boleh mengetik teks kemasan tanpa memahami keterkaitannya."
+          },
+          {
+            "id": "D",
+            "text": "Menyampaikan seluruh teori fotografi, tipografi, warna, dan pracetak secara berturut-turut melalui ceramah selama dua bulan penuh sebelum murid diperbolehkan membuat satu sketsa pun."
+          },
+          {
+            "id": "E",
+            "text": "Menugaskan peserta didik merancang logo merek teh herbal saja pada satu semester penuh tanpa menghubungkannya dengan media aplikasi nyata seperti kemasan maupun foto produk."
+          }
+        ],
+        "correctAnswer": "A",
+        "explanation": "Pembelajaran terpadu DKV (PF.4 & P.1) menyatukan berbagai elemen (branding, fotografi produk, tipografi, manajemen warna, dan pracetak kemasan) dalam satu alur produksi autentik (A) sehingga peserta didik memahami bagaimana pencahayaan foto, warna kemasan, dan hierarki tipografi saling menguatkan dalam membangun identitas merek yang konsisten.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q035",
+        "number": 35,
+        "type": "multiple",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Di akhir sesi pameran mini dan kritik desain proyek Poster & Kemasan UMKM, guru DKV memandu sesi refleksi bersama peserta didik (P.6 & P.1). Manakah pertanyaan refleksi yang paling efektif untuk menumbuhkan kesadaran konseptual dan pemikiran metakognitif desain peserta didik?"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Berapa jumlah total layer yang kamu buat di perangkat lunak saat mengerjakan tugas poster ini?"
+          },
+          {
+            "id": "B",
+            "text": "Keputusan tipografi, warna, atau komposisi mana yang berubah setelah kamu menerima masukan kritik desain dan uji keterbacaan audiens, serta mengapa perubahan tersebut membuat pesanmu lebih efektif?"
+          },
+          {
+            "id": "C",
+            "text": "Siapa teman di kelas yang menurutmu memiliki tampilan warna poster paling menarik dilihat sekilas?"
+          },
+          {
+            "id": "D",
+            "text": "Berapa harga kertas cetak yang kamu habiskan untuk mencetak prototipe kemasan kali ini?"
+          },
+          {
+            "id": "E",
+            "text": "Kendala teknis pracetak atau pengelolaan waktu apa yang paling menantang selama proses dari sketsa hingga maket jadi, dan strategi kerja apa yang akan kamu perbaiki pada proyek klien berikutnya?"
+          }
+        ],
+        "correctAnswer": [
+          "B",
+          "E"
+        ],
+        "minSelections": 2,
+        "maxSelections": 4,
+        "instruction": "Pilih dua, tiga, atau empat jawaban yang benar.",
+        "explanation": "Pertanyaan refleksi metakognitif dalam DKV (P.6 & P.1) menggali alasan perubahan keputusan visual berdasarkan bukti/masukan audiens (B) serta evaluasi kendala teknis-proses dan strategi perbaikan untuk proyek mendatang (E). Pertanyaan A, C, dan D hanya menyentuh hal administratif atau kesan superfisial tanpa mendorong penalaran konseptual dan regulasi diri belajar.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q036",
+        "number": 36,
+        "type": "single",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Hasil asesmen praktik menunjukkan bahwa 65% peserta didik kelas X DKV masih kesulitan mengendalikan arah handle kurva Bezier pada Pen Tool sehingga garis vektor ilustrasi logo mereka tampak patah-patah, kelebihan titik jangkar, dan tidak proporsional terhadap sketsa manualnya. Untuk meningkatkan mutu praktik mengajar secara empiris dan inovatif (PF.5), guru merancang Penelitian Tindakan Kelas (PTK). Desain tindakan yang paling tepat adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Membagikan kuesioner survei satu kali tentang merek komputer yang disukai peserta didik tanpa melakukan perubahan strategi pembelajaran di laboratorium."
+          },
+          {
+            "id": "B",
+            "text": "Menghapus indikator kerapian kurva Bezier dari rubrik penilaian agar persentase ketuntasan kelas langsung naik di atas 85%."
+          },
+          {
+            "id": "C",
+            "text": "Membandingkan nilai ujian teori siswa kelas X tahun ini dengan nilai alumni tiga tahun lalu dalam bentuk kajian pustaka deskriptif."
+          },
+          {
+            "id": "D",
+            "text": "Menerapkan siklus tindakan interaktif menggunakan lembar latihan berjenjang gamifikasi kurva (seperti tantangan presisi Bezier dari bentuk geometris sederhana hingga organik dengan batas kuota titik jangkar), umpan balik visual langsung pada tampilan outline view, serta merefleksikan data peningkatan akurasi tiap siklus."
+          },
+          {
+            "id": "E",
+            "text": "Menambah jam tugas rumah membuat sepuluh logo kompleks sekaligus tanpa mengubah cara demonstrasi maupun panduan latihan penguasaan Pen Tool."
+          }
+        ],
+        "correctAnswer": "D",
+        "explanation": "PTK profesional (PF.5) berfokus pada intervensi pedagogis langsung yang terukur dan bersiklus untuk memecahkan masalah nyata di kelas guru sendiri. Latihan gamifikasi berjenjang dengan pembatasan titik jangkar serta umpan balik outline view (D) langsung menyasar akar kesulitan psikomotor-kognitif penguasaan kurva Bezier dan dapat dievaluasi progresnya secara empiris antarsiklus.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q037",
+        "number": 37,
+        "type": "single",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam rangka mengembangkan studio DKV yang berkelanjutan (green design studio) serta mengoptimalkan keterbatasan bahan praktik cetak dan maket di SMK (PF.5 & P.5), upaya inovasi profesional yang paling tepat dilakukan guru DKV adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Mewajibkan seluruh peserta didik mencetak setiap revisi sketsa awal berukuran penuh A3 berwarna pada kertas art carton baru agar guru mudah memeriksa."
+          },
+          {
+            "id": "B",
+            "text": "Mengajarkan teknik tata letak hemat kertas (imposition/nesting) sebelum memotong cetak, memanfaatkan potongan kertas sisa untuk latihan Nirmana Trimatra/maket skala uji coba, beralih ke tinta sablon berbasis air (water-based ink) yang rendah senyawa organik volatil, serta membiasakan proofing digital sebelum uji cetak fisik."
+          },
+          {
+            "id": "C",
+            "text": "Membakar seluruh sisa potongan kertas art carton dan karton dupleks di halaman belakang sekolah setiap sore agar studio tampak selalu bersih."
+          },
+          {
+            "id": "D",
+            "text": "Menghentikan seluruh praktik pembuatan maket fisik dan sablon manual lalu hanya menilai tangkapan layar (screenshot) agar sekolah tidak mengeluarkan biaya bahan."
+          },
+          {
+            "id": "E",
+            "text": "Membeli pelarut tiner industri berkadar kuat dalam jumlah besar agar pembersihan tinta sablon berlangsung lebih cepat tanpa memerlukan ventilasi khusus."
+          }
+        ],
+        "correctAnswer": "B",
+        "explanation": "Inovasi studio desain berkelanjutan (PF.5 & P.5) menggabungkan efisiensi industri (imposition/nesting untuk menekan paper waste dan digital proofing sebelum cetak fisik), prinsip daur ulang kreatif (sisa potongan untuk maket/nirmana), dan keselamatan lingkungan/kesehatan (tinta berbasis air alih-alih pelarut beracun) (B).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q038",
+        "number": 38,
+        "type": "category",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Sebagai pengelola studio fotografi dan laboratorium komputer DKV, guru wajib menegakkan standar Keselamatan dan Kesehatan Kerja (K3) kelistrikan, peralatan studio, dan ergonomi kerja visual (PF.5)."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan BENAR atau SALAH prosedur manajemen K3 studio DKV berikut!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Kabel lampu studio fotografi yang melintas di lantai wajib direkatkan rapi menggunakan gaffer tape dan kaki tripod/light stand diberi pemberat (sandbag) guna mencegah peserta didik tersandung atau lampu panas terguling."
+          },
+          {
+            "id": "B",
+            "text": "Untuk menghemat ruang studio, beberapa unit lampu continuous berdaya tinggi dan perangkat pengisi daya kamera aman disambungkan bertumpuk ke satu terminal stopkontak ekstensi rumah tangga murah secara paralel."
+          },
+          {
+            "id": "C",
+            "text": "Saat bekerja maraton menyelesaikan proyek desain di depan monitor selama 4 jam, posisi layar sebaiknya diletakkan sejajar dada dengan kursi rendah agar peserta didik tetap terjaga tanpa perlu menerapkan jeda istirahat mata."
+          },
+          {
+            "id": "D",
+            "text": "Penerapan ergonomi kerja komputer mencakup pengaturan bagian atas monitor sejajar tinggi mata dengan jarak pandang sekitar 50–70 cm, dukungan punggung tegak, serta penerapan jeda istirahat mata berkala (aturan 20-20-20) guna mencegah kelelahan visual dan gangguan muskuloskeletal."
+          }
+        ],
+        "categories": [
+          {
+            "id": "benar",
+            "text": "Benar"
+          },
+          {
+            "id": "salah",
+            "text": "Salah"
+          }
+        ],
+        "correctAnswer": {
+          "A": "benar",
+          "B": "salah",
+          "C": "salah",
+          "D": "benar"
+        },
+        "explanation": "1) Benar: Pengamanan kabel dengan gaffer tape dan pemberian sandbag pada light stand adalah prosedur wajib K3 studio fotografi. 2) Salah: Beban listrik bertumpuk (daisy-chaining/overload) pada lampu studio berdaya besar berisiko panas berlebih, korsleting, dan kebakaran. 3) Salah: Posisi monitor terlalu rendah memicu cedera leher dan menatap layar tanpa jeda memicu ketegangan mata (digital eye strain). 4) Benar: Ergonomi posisi layar sejajar mata, jarak 50–70 cm, postur tegak, dan aturan 20-20-20 adalah standar K3 kerja desain digital (PF.5).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q039",
+        "number": 39,
+        "type": "single",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pada proyek perancangan iklan layanan masyarakat bertema 'Gaya Hidup Sehat Remaja' di kelas XI DKV, sekelompok peserta didik mengusulkan konsep visual karikatur yang mengejek bentuk tubuh anak bertubuh gemuk (body shaming) dengan dalih bahwa humor pedas dan provokatif lebih cepat viral di media sosial. Sikap dan keputusan profesional guru DKV yang sesuai dengan etika komunikasi visual dan pendidikan karakter (PF.5 & P.2) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menyetujui konsep tersebut karena tujuan utama periklanan modern adalah menarik perhatian publik sebanyak mungkin tanpa memedulikan dampak psikologisnya."
+          },
+          {
+            "id": "B",
+            "text": "Langsung memarahi kelompok tersebut di depan kelas dan memberikan nilai nol permanen tanpa mengajak mereka memahami letak pelanggaran etika visualnya."
+          },
+          {
+            "id": "C",
+            "text": "Memfasilitasi diskusi reflektif tentang tanggung jawab sosial desainer dan etika representasi inklusif (bahwa humor yang merendahkan martabat fisik justru memicu perundungan dan kontraproduktif bagi kesehatan mental), lalu menantang kelompok mengeksplorasi sudut pandang kreatif positif yang tetap menarik perhatian tanpa merugikan kelompok mana pun."
+          },
+          {
+            "id": "D",
+            "text": "Meminta kelompok mengganti tokoh karikatur manusia dengan tokoh hewan tetapi tetap mempertahankan teks ejekan tubuh yang sama."
+          },
+          {
+            "id": "E",
+            "text": "Membiarkan kelompok tetap memproduksi iklan tersebut selama tidak diunggah ke media sosial resmi sekolah."
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Desainer komunikasi visual memikul tanggung jawab etis-sosial atas dampak pesan yang ia ciptakan (PF.5 & P.2). Mengajak murid berdialog kritis mengenai etika representasi inklusif dan menantang mereka menemukan kreativitas persuasi yang bermartabat (C) melatih kematangan moral sekaligus kualitas kreativitas yang lebih tinggi daripada sekadar mengandalkan sensasi merendahkan orang lain.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q040",
+        "number": 40,
+        "type": "multiple",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Guru DKV ditugaskan membina peserta didik mengikuti Lomba Kompetensi Siswa (LKS) bidang Graphic Design Technology dan komunitas kreatif desain sekolah. Praktik pembimbingan lomba yang profesional, etis, dan mengembangkan potensi murid secara autentik (PF.5 & P.5) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Melatih peserta didik melalui simulasi pengerjaan modul uji berbatas waktu (brand identity, desain editorial, dan kemasan siap cetak) disertai bedah rubrik penilaian standar LKS dan manajemen waktu produksi."
+          },
+          {
+            "id": "B",
+            "text": "Mengerjakan langsung file desain peserta didik atau membelikan templat berbayar dari agensi luar lalu mengirimkannya atas nama murid agar sekolah pasti membawa pulang piala juara."
+          },
+          {
+            "id": "C",
+            "text": "Menghadirkan alumni atau praktisi industri desain lokal sebagai mentor tamu untuk memberikan sesi kritik desain dan wawasan standar pracetak terkini."
+          },
+          {
+            "id": "D",
+            "text": "Membuka kesempatan seleksi dan pengembangan diri secara adil dan transparan bagi seluruh peserta didik yang berminat serta menanamkan sportivitas dan orisinalitas karya."
+          },
+          {
+            "id": "E",
+            "text": "Mewajibkan peserta didik menghafalkan satu desain tata letak baku dari tahun sebelumnya untuk diterapkan secara persis tanpa membaca brief soal lomba yang baru."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "C",
+          "D"
+        ],
+        "minSelections": 2,
+        "maxSelections": 4,
+        "instruction": "Pilih dua, tiga, atau empat jawaban yang benar.",
+        "explanation": "Pembinaan LKS DKV yang profesional dan berintegritas (PF.5 & P.5) menempatkan murid sebagai kreator sejati melalui simulasi modul uji berstandar rubrik (A), kolaborasi mentor praktisi industri (C), dan seleksi transparan berbasis sportivitas (D). Opsi B adalah pelanggaran berat integritas akademik, sedangkan opsi E meniadakan kemampuan analisis brief yang menjadi inti lomba desain.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q041",
+        "number": 41,
+        "type": "single",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Seorang guru DKV mengembangkan e-modul interaktif berbasis web untuk topik 'Teknik Pracetak dan Finishing Kemasan' yang memadukan teks ringkas, simulasi interaktif pemisahan pelat warna CMYK, animasi perbandingan efek laminasi doff, glossy, spot UV, dan emboss/deboss, serta kuis diagnostik dengan umpan balik otomatis. Keunggulan utama inovasi bahan ajar digital tersebut bagi pembelajaran peserta didik (PF.5 & P.4) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menggantikan sepenuhnya peran guru pembimbing di studio sehingga peserta didik tidak memerlukan lagi sesi diskusi maupun pemeriksaan maket fisik."
+          },
+          {
+            "id": "B",
+            "text": "Menghapus kebutuhan mempelajari sampel kertas dan hasil cetak fisik di dunia nyata karena seluruh tekstur kertas cukup dilihat melalui layar ponsel."
+          },
+          {
+            "id": "C",
+            "text": "Memungkinkan peserta didik menyalin langsung seluruh isi modul ke dalam laporan tugas tanpa perlu menguji pemahaman konsep pracetak."
+          },
+          {
+            "id": "D",
+            "text": "Menyeragamkan kecepatan belajar seluruh peserta didik agar menyelesaikan satu bab dalam jumlah menit yang sama persis."
+          },
+          {
+            "id": "E",
+            "text": "Menghadirkan representasi multipel (visual, simulatif, dan konseptual) untuk menjelaskan proses pracetak dan finishing industri yang mahal bila diulang-ulang secara fisik, sekaligus mendukung diferensiasi kecepatan belajar mandiri dengan umpan balik diagnostik langsung."
+          }
+        ],
+        "correctAnswer": "E",
+        "explanation": "E-modul interaktif berbasis representasi multipel (PF.5 & P.4) menjembatani keterbatasan akses mesin cetak offset/spot UV/emboss di sekolah dengan visualisasi teknis yang konkret, memungkinkan murid mengulang simulasi sesuai ritme belajarnya masing-masing, serta memberikan umpan balik formatif cepat sebelum masuk tahap produksi fisik (E).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q042",
+        "number": 42,
+        "type": "single",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Saat mendemonstrasikan tata cahaya Three-Point Lighting (Key Light, Fill Light, dan Back/Rim Light) pada pemotretan botol kaca produk minuman di studio fotografi, guru DKV menerapkan strategi Predict–Observe–Explain (POE). Sebelum menyalakan masing-masing lampu secara bertahap dan mengubah posisi reflektor, guru meminta peserta didik menggambar prediksi letak bayangan dan sorotan cahaya (highlight) beserta alasannya di lembar kerja. Alasan pedagogis mengapa tahap 'Predict' tersebut sangat penting (PF.5 & P.3) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Mengaktifkan pengetahuan awal dan komitmen kognitif peserta didik terhadap dugaan arah cahaya, sehingga ketika hasil pemotretan nyata tampak berbeda dari perkiraan, mereka fokus mengamati dan terdorong merekonstruksi pemahaman prinsip pencahayaan secara aktif."
+          },
+          {
+            "id": "B",
+            "text": "Mengulur waktu demonstrasi studio agar peralatan lampu tidak menyala terlalu lama dan menghemat daya listrik sekolah."
+          },
+          {
+            "id": "C",
+            "text": "Menilai kemampuan menggambar cepat peserta didik sebelum mereka diizinkan menyentuh kamera dan tripod studio."
+          },
+          {
+            "id": "D",
+            "text": "Memastikan peserta didik menghafalkan nama ketiga jenis lampu studio terlebih dahulu tanpa perlu memperhatikan karakter pantulan bahan kaca."
+          },
+          {
+            "id": "E",
+            "text": "Menunjukkan kepada peserta didik bahwa dugaan awal mereka hampir selalu salah sehingga mereka harus sepenuhnya meniru pengaturan lampu milik guru."
+          }
+        ],
+        "correctAnswer": "A",
+        "explanation": "Strategi POE (White & Gunstone, PF.5 & P.3) mengubah demonstrasi studio dari tontonan pasif menjadi penyelidikan visual aktif. Tahap Predict membuat murid berkomitmen pada model mental awalnya mengenai jatuhnya bayangan dan refleksi kaca; kontras antara prediksi dan pengamatan nyata (Observe) menjadi pemantik refleksi dan penjelasan konseptual yang mendalam (Explain) (A).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q043",
+        "number": 43,
+        "type": "category",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pengelolaan limbah hasil praktik studio cetak, sablon, dan pembuatan maket kemasan merupakan bagian tak terpisahkan dari tanggung jawab profesional dan pendidikan lingkungan guru DKV (PF.5)."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan TEPAT atau TIDAK TEPAT tindakan pengelolaan limbah studio DKV berikut!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Memilah sisa potongan kertas bersih (HVS, art paper, karton kraft) ke dalam wadah khusus bahan daur ulang atau bank bahan latihan sketsa/nirmana trimatra terpisah dari sampah basah dan kertas terkontaminasi tinta pelarut."
+          },
+          {
+            "id": "B",
+            "text": "Membuang sisa cairan tiner pembersih screen sablon, tinta berbasis pelarut (solvent), dan emulsi kimia langsung ke wastafel kamar mandi sekolah agar segera larut terbawa aliran air."
+          },
+          {
+            "id": "C",
+            "text": "Mengumpulkan patahan bilah cutter tumpul ke dalam wadah keras tertutup berlabel khusus benda tajam (sharps box) serta menyimpan sisa cat/tinta dan pelarut dalam botol tertutup rapat berlabel untuk dikelola sebagai limbah B3 sesuai prosedur sekolah."
+          },
+          {
+            "id": "D",
+            "text": "Melubangi kaleng semprot lem perekat (spray adhesive) atau cat semprot yang masih bertekanan lalu membuangnya bersama tumpukan kardus bekas agar tidak memakan tempat di gudang studio."
+          }
+        ],
+        "categories": [
+          {
+            "id": "tepat",
+            "text": "Tepat"
+          },
+          {
+            "id": "tidak-tepat",
+            "text": "Tidak Tepat"
+          }
+        ],
+        "correctAnswer": {
+          "A": "tepat",
+          "B": "tidak-tepat",
+          "C": "tepat",
+          "D": "tidak-tepat"
+        },
+        "explanation": "1) Tepat: Segregasi limbah kertas bersih mendukung daur ulang dan efisiensi bahan praktik nirmana/maket. 2) Tidak Tepat: Tiner, tinta solvent, dan bahan kimia sablon merupakan limbah B3 pencemar air tanah dan beracun sehingga dilarang dibuang ke saluran air umum. 3) Tepat: Pengamanan patahan bilah tajam dalam wadah keras dan segregasi limbah B3 berlabel mematuhi standar K3 dan lingkungan (PF.5). 4) Tidak Tepat: Melubangi kaleng aerosol bertekanan berbahaya karena dapat meledak dan memercikkan bahan mudah terbakar.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q044",
+        "number": 44,
+        "type": "single",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam proyek Teaching Factory layanan desain kemasan, sebuah usaha minuman ringan memesan desain label kepada studio sekolah namun meminta peserta didik menuliskan klaim besar '100% Organik Tanpa Pemanis Buatan' padahal komposisi produknya mengandung perisa sintetis, serta meminta warna dan tata letak label dibuat sangat mirip dengan merek minuman nasional terkemuka agar cepat laku. Guru DKV mengangkat situasi nyata tersebut sebagai kajian dilema etika profesi (PF.5 & P.2). Pendekatan ini mengembangkan praktik profesional pendidikan DKV karena..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Mengajarkan kepada peserta didik bahwa seluruh permintaan klien yang membayar jasa desain harus dituruti tanpa terkecuali demi menjaga pemasukan unit produksi sekolah."
+          },
+          {
+            "id": "B",
+            "text": "Mendorong peserta didik memutus hubungan secara kasar dengan klien UMKM dan menyebarkan kekurangan produk klien tersebut di media sosial."
+          },
+          {
+            "id": "C",
+            "text": "Melatih penalaran etis, literasi regulasi pelabelan/perlindungan konsumen dan HKI merek dagang, serta keterampilan komunikasi negosiasi profesional untuk mengedukasi klien agar membangun identitas jujur dan otentik tanpa praktik greenwashing maupun peniruan merek (lookalike)."
+          },
+          {
+            "id": "D",
+            "text": "Membuktikan bahwa proyek Teaching Factory bersama UMKM lokal selalu penuh masalah hukum sehingga lebih aman hanya mengerjakan tugas fiktif di kelas."
+          },
+          {
+            "id": "E",
+            "text": "Mengajarkan trik mengecilkan ukuran huruf daftar komposisi bahan menjadi sangat kecil agar klaim pemasaran tetap terlihat menonjol tanpa ketahuan pembeli."
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Dilema etis nyata seperti klaim menyesatkan (misleading claims/greenwashing) dan peniruan kemasan merek terkenal (trade dress infringement) adalah ujian nyata profesionalisme desainer (PF.5 & P.2). Mengkaji kasus ini melatih murid memahami regulasi label pangan/konsumen dan HKI sekaligus mengasah kemampuan bernegosiasi secara santun dengan klien demi menghasilkan merek jujur yang justru kuat secara jangka panjang (C).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q045",
+        "number": 45,
+        "type": "multiple",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Setelah menyelesaikan satu unit proyek Branding dan Desain Kemasan berbasis Teaching Factory bersama UMKM lokal, guru DKV melakukan evaluasi dan refleksi profesional secara empiris (PF.5 & P.6). Indikator-indikator yang tepat digunakan guru untuk menilai efektivitas rancangan pembelajaran yang telah berlangsung adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Tingkat kesesuaian solusi visual peserta didik terhadap brief, karakter target audiens, serta berkurangnya kesalahan teknis pracetak (CMYK, resolusi 300 DPI, bleed, dan dieline) dari draf awal ke file final."
+          },
+          {
+            "id": "B",
+            "text": "Peningkatan kualitas argumentasi peserta didik saat sesi kritik desain serta keterbukaan mereka melakukan iterasi berdasarkan umpan balik uji pengguna."
+          },
+          {
+            "id": "C",
+            "text": "Kepatuhan peserta didik terhadap prosedur K3 studio (penggunaan cutter, ergonomi, kelistrikan fotografi) dan kelengkapan dokumentasi lisensi HKI aset yang digunakan."
+          },
+          {
+            "id": "D",
+            "text": "Kemampuan seluruh peserta didik menghafalkan urutan tahun lahir pelopor tipografi modern dan daftar lengkap pintasan menu perangkat lunak secara identik."
+          },
+          {
+            "id": "E",
+            "text": "Umpan balik autentik dari mitra UMKM mengenai keberfungsian desain dalam praktik nyata serta catatan refleksi murid mengenai kendala dan pertumbuhan kompetensinya."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "E"
+        ],
+        "minSelections": 2,
+        "maxSelections": 4,
+        "instruction": "Pilih dua, tiga, atau empat jawaban yang benar.",
+        "explanation": "Evaluasi empiris pembelajaran DKV (PF.5 & P.6) bertumpu pada bukti pertumbuhan kompetensi autentik: perbaikan ketepatan brief dan pracetak (A), mutu penalaran dan iterasi kritik desain (B), budaya K3 serta integritas HKI (C), dan umpan balik klien nyata serta suara refleksi murid (E). Opsi D hanya mengukur hafalan dangkal yang tidak merefleksikan efektivitas proyek desain.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q046",
+        "number": 46,
+        "type": "single",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Sebagai guru DKV, Anda menginisiasi program proyek sekolah bertajuk 'Audit Aksesibilitas Visual dan Penataan Sistem Informasi Ruang (Wayfinding) Sekolah' bersama peserta didik dan OSIS sebagai penerapan nyata materi Tipografi, Teori Warna, Piktogram, dan Hierarki Informasi (PF.5 & P.1). Langkah pertama yang paling sistematis dan edukatif dalam program tersebut adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Langsung mencetak ratusan stiker penunjuk arah berwarna mencolok lalu menempelkannya di seluruh dinding koridor sekolah tanpa survei terlebih dahulu."
+          },
+          {
+            "id": "B",
+            "text": "Membimbing peserta didik melakukan observasi pemetaan titik kebingungan pengunjung dan warga sekolah (termasuk tamu baru, warga berkacamata, serta uji simulasi buta warna), mengaudit jarak baca tipografi, rasio kontras warna, dan konsistensi piktogram papan ruang yang ada saat ini, lalu menyusun laporan temuan berbasis data visual sebagai dasar perancangan sistem wayfinding baru."
+          },
+          {
+            "id": "C",
+            "text": "Mengganti seluruh papan nama ruangan dengan kaligrafi dekoratif rumit agar tampak artistik meskipun sulit dibaca dari jarak 3 meter."
+          },
+          {
+            "id": "D",
+            "text": "Menyewa biro iklan luar untuk mendesain seluruh rambu sekolah sementara peserta didik DKV cukup membantu menempelkannya di akhir pekan."
+          },
+          {
+            "id": "E",
+            "text": "Meminta peserta didik membuat esai opini pribadi mengenai warna cat dinding sekolah yang paling mereka sukai tanpa mengukur aspek keterbacaan informasi."
+          }
+        ],
+        "correctAnswer": "B",
+        "explanation": "Proyek desain informasi berbasis audit lapangan (PF.5 & P.1) mengubah sekolah menjadi laboratorium komunikasi visual yang hidup. Memulai dengan observasi perilaku pengguna, pengukuran jarak baca, kontras aksesibilitas, dan konsistensi piktogram (B) menanamkan pola kerja riset desain (research-driven design) yang berdampak langsung bagi seluruh warga sekolah.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q047",
+        "number": 47,
+        "type": "single",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Untuk membantu peserta didik kelas X memahami perbedaan fundamental grafis bitmap (raster) dan grafis vektor, guru DKV menggunakan analogi bahwa gambar bitmap ibarat 'lukisan mozaik susunan keramik kotak kecil yang terlihat patah bila diperbesar' sedangkan grafis vektor ibarat 'resep instruksi koordinat dan garis geometri yang digambar ulang tajam pada ukuran apa pun'. Agar penggunaan analogi tersebut tidak memicu miskonsepsi baru pada peserta didik (PF.5 & P.3), hal terpenting yang wajib dilakukan guru adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menggunakan analogi mozaik tersebut secara berulang sepanjang semester sehingga peserta didik tidak perlu mengenal istilah piksel, PPI, maupun kurva Bezier."
+          },
+          {
+            "id": "B",
+            "text": "Menegaskan bahwa gambar vektor selalu lebih unggul daripada gambar bitmap dalam seluruh kebutuhan komunikasi visual termasuk fotografi potret nyata."
+          },
+          {
+            "id": "C",
+            "text": "Mengganti seluruh sesi praktik komputer dengan kegiatan menempel potongan kertas mozaik agar peserta didik semakin yakin dengan analogi tersebut."
+          },
+          {
+            "id": "D",
+            "text": "Memetakan secara eksplisit sisi kesamaan analogi sekaligus menjelaskan batasannya (di mana analogi tidak lagi berlaku)—misalnya menegaskan bahwa gambar bitmap tetap unggul menangkap gradasi cahaya fotografis kompleks pada resolusi tepat, sedangkan grafis vektor memiliki batasan kompleksitas file bila dipaksakan mereplikasi tekstur foto alami."
+          },
+          {
+            "id": "E",
+            "text": "Menghindari penggunaan segala bentuk analogi dalam pembelajaran DKV karena peserta didik SMK seharusnya langsung menghafal istilah teknis berbahasa Inggris."
+          }
+        ],
+        "correctAnswer": "D",
+        "explanation": "Prinsip Teaching With Analogies (TWA - Glynn, PF.5 & P.3) menekankan dua hal: pemetaan kesamaan (mapping) dan penjelasan batas kegagalan analogi (where the analogy breaks down). Tanpa menegaskan batasan analogi mozaik vs koordinat, murid bisa terjebak miskonsepsi baru bahwa bitmap selalu 'buruk' dan vektor selalu cocok untuk foto, padahal masing-masing memiliki peruntukan optimalnya sendiri (D).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q048",
+        "number": 48,
+        "type": "category",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Peserta didik DKV semakin akrab dengan perangkat kecerdasan artifisial (AI generatif visual dan teks) saat mencari referensi konsep, membuat moodboard, hingga memproduksi aset ilustrasi. Guru menetapkan pedoman pemanfaatan AI yang etis dan mendukung kompetensi kreatif autentik (PF.5 & P.4)."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan ETIS atau TIDAK ETIS praktik pemanfaatan AI generatif berikut dalam pembelajaran DKV!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Peserta didik menggunakan AI generatif sebagai mitra curah pendapat awal (brainstorming) komposisi dan variasi palet moodboard, mendokumentasikan prompt secara transparan, lalu membuat sketsa manual dan ilustrasi vektor orisinalnya sendiri."
+          },
+          {
+            "id": "B",
+            "text": "Peserta didik menghasilkan gambar akhir dari generator AI menggunakan prompt yang meniru gaya khas spesifik seorang ilustrator Indonesia yang masih aktif tanpa izin, lalu mengumpulkannya sebagai 'karya ilustrasi gambar tangan orisinal' pada penilaian praktik."
+          },
+          {
+            "id": "C",
+            "text": "Guru memandu diskusi kritis bersama peserta didik mengenai isu hak cipta dataset pelatihan AI, bias representasi visual, serta syarat deklarasi transparansi apabila fitur bantu AI (seperti generative fill untuk memperluas bleed foto) dipakai secara terbatas pada proyek."
+          },
+          {
+            "id": "D",
+            "text": "Peserta didik langsung mengirimkan logo mentah buatan AI generatif kepada klien UMKM komersial tanpa melakukan vektorisasi ulang, pemeriksaan kemiripan merek terdaftar, maupun pemberitahuan bahwa aset tersebut dihasilkan AI."
+          }
+        ],
+        "categories": [
+          {
+            "id": "etis",
+            "text": "Etis"
+          },
+          {
+            "id": "tidak-etis",
+            "text": "Tidak Etis"
+          }
+        ],
+        "correctAnswer": {
+          "A": "etis",
+          "B": "tidak-etis",
+          "C": "etis",
+          "D": "tidak-etis"
+        },
+        "explanation": "1) Etis: AI sebagai alat bantu ideasi/moodboard dengan transparansi sambil tetap mengasah proses kreatif orisinal murid (PF.5 & P.4). 2) Tidak Etis: Meniru gaya spesifik kreator hidup tanpa izin dan memalsukan kepemilikan karya adalah plagiarisme dan pelanggaran integritas akademik. 3) Etis: Literasi kritis mengenai HKI, bias visual, dan deklarasi penggunaan fitur AI menyiapkan desainer bertanggung jawab. 4) Tidak Etis: Menjual logo mentah AI tanpa kejelasan status hak cipta dan cek kemiripan merek merugikan klien UMKM secara hukum maupun kualitas teknis.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q049",
+        "number": 49,
+        "type": "single",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Untuk menyelaraskan kurikulum DKV SMK dengan dinamika industri kreatif sekaligus menghidupkan unit Teaching Factory (TeFa), guru merancang program kemitraan strategis dengan dunia usaha dan dunia industri (DUDI) setempat (PF.5 & P.5). Bentuk kolaborasi kemitraan yang paling relevan dan berdampak nyata bagi pembelajaran peserta didik adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menjalin kemitraan terstruktur bersama studio branding, percetakan komersial, dan asosiasi UMKM lokal melalui penyelarasan silabus pracetak, pelaksanaan proyek brief riil berstandar industri (TeFa), kunjungan observasi mesin cetak offset/finishing, serta menghadirkan praktisi desain sebagai guru tamu dan penguji uji kompetensi."
+          },
+          {
+            "id": "B",
+            "text": "Meminta percetakan lokal sekadar memberikan sponsor spanduk perayaan ulang tahun sekolah setahun sekali tanpa ada keterlibatan dalam proses pembelajaran siswa."
+          },
+          {
+            "id": "C",
+            "text": "Mengirimkan peserta didik magang ke kantor instansi yang tidak memiliki divisi kreatif maupun pekerjaan desain agar mereka sekadar mendapatkan stempel selesai praktik kerja."
+          },
+          {
+            "id": "D",
+            "text": "Menyerahkan seluruh proyek pesanan UMKM di Teaching Factory untuk dikerjakan oleh freelancer luar sementara peserta didik hanya diminta membuat nota pembayaran."
+          },
+          {
+            "id": "E",
+            "text": "Mengundang seorang selebritas media sosial untuk berfoto bersama di studio DKV tanpa agenda lokakarya teknis maupun pembahasan kompetensi desain."
+          }
+        ],
+        "correctAnswer": "A",
+        "explanation": "Kemitraan DUDI dan Teaching Factory yang autentik (PF.5 & P.5) berfokus pada penyelarasan kompetensi industri (link and match): proyek riil UMKM, eksposur mesin pracetak/finishing aktual, dan keterlibatan praktisi sebagai mentor serta penguji kompetensi (A), bukan sekadar formalitas sponsor atau kegiatan seremonial (B, C, D, E).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q050",
+        "number": 50,
+        "type": "multiple",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Untuk terus mengembangkan praktik profesional pendidikan DKV secara konseptual, empiris, kreatif, dan inovatif mengikuti perkembangan teknologi serta standar industri desain (PF.5), langkah-langkah pengembangan diri yang relevan dilakukan guru DKV adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Mengikuti program magang guru industri (upskilling/reskilling) di agensi kreatif atau percetakan komersial guna memperbarui penguasaan alur kerja pracetak, manajemen warna, dan perangkat desain mutakhir."
+          },
+          {
+            "id": "B",
+            "text": "Aktif berkolaborasi dalam komunitas MGMP DKV untuk membedah miskonsepsi peserta didik, merancang modul ajar berbasis Design Thinking, dan melaksanakan lesson study lintas sekolah."
+          },
+          {
+            "id": "C",
+            "text": "Menggunakan modul diktat, contoh referensi visual, dan aturan perangkat lunak yang sama persis selama lebih dari sepuluh tahun tanpa mengevaluasi relevansinya dengan kebutuhan industri saat ini."
+          },
+          {
+            "id": "D",
+            "text": "Melaksanakan Penelitian Tindakan Kelas (PTK) dan refleksi pascaproyek berbasis bukti karya murid untuk terus menyempurnakan rubrik kritik desain serta strategi perancah (scaffolding)."
+          },
+          {
+            "id": "E",
+            "text": "Terus memperkaya literasi etika desain, regulasi HKI, aksesibilitas visual (desain inklusif), serta praktik desain ramah lingkungan lalu mendiseminasikan praktik baiknya kepada rekan sejawat."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "D",
+          "E"
+        ],
+        "minSelections": 2,
+        "maxSelections": 4,
+        "instruction": "Pilih dua, tiga, atau empat jawaban yang benar.",
+        "explanation": "Pengembangan keprofesian berkelanjutan (PKB) guru DKV (PF.5) mencakup upskilling/magang industri (A), kolaborasi reflektif di MGMP/lesson study (B), riset perbaikan praktik melalui PTK (D), serta pembaruan wawasan etika, HKI, inklusivitas, dan desain berkelanjutan (E). Stagnasi modul selama satu dekade (C) bertentangan dengan sifat industri kreatif yang sangat dinamis.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q051",
+        "number": 51,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Seorang guru SMK hendak merancang satu unit pembelajaran selama empat pekan agar peserta didik tidak berhenti pada ingatan prosedural semata, melainkan benar-benar memahami gagasan inti, mampu menerapkannya dalam konteks nyata, dan merefleksikan proses belajarnya (P.1). Pendekatan perancangan dengan alur mundur (Understanding by Design / UbD) yang paling mencerminkan prinsip tersebut adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Langsung memilih aktivitas kelas yang sedang viral di media sosial terlebih dahulu, kemudian baru menyesuaikan tujuan pembelajaran di akhir pekan keempat."
+          },
+          {
+            "id": "B",
+            "text": "Menyusun jadwal penyampaian seluruh bab buku teks secara urut halaman demi halaman lalu menutup setiap bab dengan tes hafalan istilah."
+          },
+          {
+            "id": "C",
+            "text": "Menetapkan hasil pemahaman mendalam yang dituju sejak awal, merancang bukti asesmen kinerja autentik yang selaras dengan tujuan tersebut, lalu menyusun rangkaian aktivitas belajar kontekstual serta jurnal refleksi yang menuntun murid mencapainya."
+          },
+          {
+            "id": "D",
+            "text": "Memberikan seluruh berkas salindia materi pada pertemuan pertama agar murid menghafalkannya sendiri di rumah sementara jam kelas hanya diisi ulangan harian."
+          },
+          {
+            "id": "E",
+            "text": "Meminta peserta didik menyalin catatan ringkasan guru secara rapi di papan tulis setiap pertemuan agar kelas tertib dan seluruh materi tercatat lengkap."
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Subkompetensi P.1 mengutamakan rancangan pembelajaran yang mendorong pemahaman konseptual, aplikasi kontekstual, dan refleksi bermakna. Alur mundur UbD (Wiggins & McTighe)—menentukan tujuan pemahaman mendalam, merancang asesmen autentik sebagai bukti ketercapaian, lalu merangkai pengalaman belajar kontekstual dan reflektif (C)—menjamin koherensi tujuan, asesmen, dan proses belajar.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q052",
+        "number": 52,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pada awal semester di sebuah kelas X SMK yang sangat heterogen, guru menemukan sebagian peserta didik sudah terbiasa menganalisis studi kasus secara mandiri, sebagian lainnya membutuhkan contoh visual konkret dan panduan bertahap, sementara minat mereka tersebar pada bidang kuliner, olahraga, seni, dan teknologi. Strategi pembelajaran berdiferensiasi yang paling tepat diterapkan guru (P.2) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Membagi tempat duduk permanen selama satu tahun ajaran menjadi deretan 'murid pintar' di depan dan 'murid tertinggal' di belakang agar pengawasan lebih mudah."
+          },
+          {
+            "id": "B",
+            "text": "Menetapkan satu format tugas dan satu tingkat bahan bacaan yang persis sama bagi semua murid demi menjamin keseragaman administratif."
+          },
+          {
+            "id": "C",
+            "text": "Menurunkan indikator kompetensi inti bagi murid yang membutuhkan bimbingan tambahan sehingga mereka cukup mengumpulkan tugas minimal tanpa target pemahaman utuh."
+          },
+          {
+            "id": "D",
+            "text": "Menyuruh murid yang sudah mahir menunggu tanpa kegiatan produktif sampai seluruh teman di kelasnya menyelesaikan latihan dasar."
+          },
+          {
+            "id": "E",
+            "text": "Menyediakan variasi akses sumber belajar (teks terstruktur, infografis, dan video demonstrasi), mengelompokkan bimbingan secara fleksibel sesuai kebutuhan scaffolding maupun tantangan pengayaan, serta memberi ruang pilihan konteks tema produk sesuai minat murid dengan standar rubrik capaian yang tetap setara."
+          }
+        ],
+        "correctAnswer": "E",
+        "explanation": "Pembelajaran berdiferensiasi (Tomlinson, P.2) menyesuaikan konten, proses, dan produk berdasarkan asesmen kesiapan, minat, dan profil belajar secara fleksibel tanpa melabeli murid secara permanen (A) dan tanpa menurunkan ekspektasi capaian inti pembelajaran (C) (opsi E).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q053",
+        "number": 53,
+        "type": "category",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pendekatan Pembelajaran Mendalam (Deep Learning) memadukan prinsip berkesadaran (mindful), bermakna (meaningful), dan menggembirakan (joyful) dalam pengalaman belajar sehari-hari di kelas menengah."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan SESUAI atau TIDAK SESUAI praktik pembelajaran berikut dengan ketiga prinsip tersebut!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Guru membuka sesi dengan mengajak peserta didik mengecek fokus diri, menyadari target belajar yang ingin dicapai hari itu, serta memantau strategi mana yang paling membantu mereka memahami materi (Berkesadaran)."
+          },
+          {
+            "id": "B",
+            "text": "Guru mengisi separuh jam pelajaran dengan lomba joget dan tebak-tebakan viral yang sama sekali tidak terhubung dengan topik pembelajaran agar suasana kelas ramai dan murid tidak mengantuk (Menggembirakan)."
+          },
+          {
+            "id": "C",
+            "text": "Guru menghubungkan konsep inti pelajaran dengan persoalan nyata dunia kerja dan kehidupan sehari-hari remaja sehingga murid merasakan kegunaan langsung dari apa yang sedang mereka pelajari (Bermakna)."
+          },
+          {
+            "id": "D",
+            "text": "Guru menetapkan bahwa peserta didik dilarang mengajukan pertanyaan berbeda dari buku pegangan agar alur kelas berlangsung cepat dan tidak menimbulkan kebingungan (Berkesadaran & Bermakna)."
+          }
+        ],
+        "categories": [
+          {
+            "id": "sesuai",
+            "text": "Sesuai"
+          },
+          {
+            "id": "tidak-sesuai",
+            "text": "Tidak Sesuai"
+          }
+        ],
+        "correctAnswer": {
+          "A": "sesuai",
+          "B": "tidak-sesuai",
+          "C": "sesuai",
+          "D": "tidak-sesuai"
+        },
+        "explanation": "1) Sesuai: Kesadaran diri, penetapan niat belajar, dan regulasi metakognitif adalah inti mindful learning. 2) Tidak Sesuai: Joyful learning bukan hiburan dangkal yang terputus dari tujuan belajar, melainkan kegembiraan intelektual, rasa aman, dan kepuasan saat menemukan pemahaman baru. 3) Sesuai: Keterhubungan dengan konteks nyata dan kebutuhan hidup menciptakan meaningful learning. 4) Tidak Sesuai: Membatasi pertanyaan kritis mematikan kesadaran berpikir dan kebermaknaan inkuiri.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q054",
+        "number": 54,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Seorang guru memanfaatkan papan kolaborasi daring, fitur komentar revisi dokumen awan (cloud), serta simulasi interaktif untuk proyek pemecahan masalah kelompok. Indikator evaluasi yang paling tepat untuk memastikan bahwa integrasi teknologi tersebut benar-benar memperdalam pembelajaran peserta didik (P.4) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Seluruh peserta didik menggunakan perangkat laptop terbaru dan tampilan latar papan kolaborasi tampak sangat penuh animasi."
+          },
+          {
+            "id": "B",
+            "text": "Peserta didik menggunakan fitur kolaborasi dan simulasi tersebut untuk membandingkan berbagai alternatif solusi berbasis bukti, saling memberi umpan balik substantif lintas waktu, serta merevisi kualitas argumen maupun karya mereka secara terukur."
+          },
+          {
+            "id": "C",
+            "text": "Guru tidak lagi perlu hadir mendampingi diskusi kelas karena seluruh instruksi dan materi telah diunggah ke sistem manajemen belajar daring."
+          },
+          {
+            "id": "D",
+            "text": "Penggunaan gawai mencakup 100% durasi jam pelajaran sehingga tidak ada lagi interaksi tatap muka ataupun diskusi lisan di dalam kelas."
+          },
+          {
+            "id": "E",
+            "text": "Peserta didik dapat menyalin potongan informasi dari berbagai situs web ke papan kolaborasi jauh lebih cepat daripada mencatat memakai pulpen."
+          }
+        ],
+        "correctAnswer": "B",
+        "explanation": "Merujuk kerangka TPACK dan SAMR (P.4), keberhasilan pemanfaatan TIK tidak diukur dari lamanya waktu layar (D), kemewahan perangkat (A), atau kecepatan menyalin (E), melainkan dari seberapa jauh teknologi mentransformasi proses berpikir tingkat tinggi, kolaborasi substantif, dan iterasi kualitas belajar murid (B).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q055",
+        "number": 55,
+        "type": "multiple",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Seorang guru merancang proyek pembelajaran lintas pertemuan yang mengangkat potensi lingkungan sekitar serta kearifan lokal daerah untuk menguatkan karakter dan pemahaman kontekstual peserta didik (P.5). Langkah-langkah yang mencerminkan implementasi optimal dari subkompetensi tersebut adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Memetakan potensi riil di sekitar sekolah—seperti sentra kerajinan rakyat, koperasi warga, atau ruang terbuka hijau—sebagai lokasi observasi langsung dan sumber data pembelajaran autentik."
+          },
+          {
+            "id": "B",
+            "text": "Menganggap materi dari luar negeri selalu lebih bermutu sehingga contoh persoalan lokal daerah sekitar sekolah sengaja dihindari agar kelas terasa modern."
+          },
+          {
+            "id": "C",
+            "text": "Melibatkan tokoh masyarakat, pelaku UMKM, atau pegiat budaya setempat sebagai narasumber mitra belajar untuk memperkaya perspektif dunia nyata peserta didik."
+          },
+          {
+            "id": "D",
+            "text": "Mengajak peserta didik mengkaji nilai-nilai luhur kearifan lokal secara kritis dan menghubungkannya dengan tantangan kontemporer untuk merancang solusi bermanfaat bagi komunitas sekitar."
+          },
+          {
+            "id": "E",
+            "text": "Menugaskan peserta didik merangkum artikel ensiklopedia daring tentang budaya daerah tanpa pernah melakukan pengamatan atau dialog dengan lingkungan sekitarnya."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "C",
+          "D"
+        ],
+        "minSelections": 2,
+        "maxSelections": 4,
+        "instruction": "Pilih dua, tiga, atau empat jawaban yang benar.",
+        "explanation": "Implementasi subkompetensi P.5 menuntut pemanfaatan lingkungan dan kearifan lokal secara autentik melalui observasi sumber belajar sekitar (A), kolaborasi narasumber komunitas lokal (C), serta pengkajian kritis nilai lokal untuk memecahkan masalah aktual (D). Opsi B menafikan konteks lokal, dan opsi E bersifat pasif serta terlepas dari pengalaman langsung.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q056",
+        "number": 56,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Di tengah pekan kedua pelaksanaan pembelajaran berbasis proyek, guru berkeliling memantau proses kerja kelompok dan menemukan bahwa empat dari enam kelompok keliru menafsirkan akar persoalan sehingga rancangan solusi yang sedang mereka buat melenceng jauh dari tujuan pembelajaran. Tindakan asesmen formatif dan pemberian umpan balik yang paling efektif dilakukan guru saat itu (P.6) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Membiarkan seluruh kelompok meneruskan proyek yang keliru hingga hari presentasi akhir bulan lalu memberikan nilai rendah agar menjadi pelajaran keras."
+          },
+          {
+            "id": "B",
+            "text": "Memberikan pujian umum 'Kalian sudah bekerja keras, lanjutkan saja sesuai rencana awal!' supaya semangat kelompok tidak menurun."
+          },
+          {
+            "id": "C",
+            "text": "Mengambil alih seluruh pekerjaan kelompok yang keliru dan langsung menuliskan rancangan solusi yang benar untuk mereka kerjakan ulang."
+          },
+          {
+            "id": "D",
+            "text": "Mengadakan sesi jeda klarifikasi singkat (mini-check-in), memberikan umpan balik spesifik yang merujuk kriteria rubrik pada masing-masing kelompok, dan mengajukan pertanyaan pemantik agar anggota kelompok menemukan sendiri letak kekeliruan serta merevisi arah rancangannya."
+          },
+          {
+            "id": "E",
+            "text": "Membatalkan seluruh kegiatan berbasis proyek dan langsung menggantinya dengan ujian tulis pilihan ganda pada pertemuan berikutnya."
+          }
+        ],
+        "correctAnswer": "D",
+        "explanation": "Fungsi inti asesmen formatif (Assessment for Learning, P.6) adalah mendeteksi hambatan selama proses berlangsung dan memandu perbaikan tepat waktu. Umpan balik yang efektif bersifat spesifik, mengacu pada rubrik, dan menggunakan pertanyaan pemantik agar murid aktif memperbaiki arah kerjanya sendiri (D), bukan menunda hingga gagal (A), pujian kosong (B), atau mengambil alih peran berpikir murid (C).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q057",
+        "number": 57,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Sebelum memulai unit kompetensi baru yang bersifat berjenjang, guru melaksanakan asesmen diagnostik awal singkat selama 15 menit. Hasil pemetaan menunjukkan bahwa 68% peserta didik belum menguasai konsep prasyarat esensial yang menjadi fondasi materi baru tersebut. Keputusan pedagogis yang paling tepat dan adaptif diambil guru (P.1, P.2 & P.6) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menyesuaikan alur pembelajaran dengan menyisipkan sesi penguatan konsep prasyarat (bridging/scaffolding) yang konkret dan terfokus bagi kelompok yang membutuhkan, sembari memberi tantangan pendalaman kontekstual bagi 32% murid yang telah siap sebelum melangkah bersama ke materi inti."
+          },
+          {
+            "id": "B",
+            "text": "Tetap mengajar materi inti dengan kecepatan penuh sesuai rencana kalender awal karena jadwal kurikulum dianggap tidak boleh disesuaikan sama sekali."
+          },
+          {
+            "id": "C",
+            "text": "Menyalahkan guru pada tingkat kelas sebelumnya di hadapan peserta didik dan meminta murid belajar sendiri materi prasyarat di rumah tanpa bimbingan."
+          },
+          {
+            "id": "D",
+            "text": "Mengulang seluruh materi semester sebelumnya dari awal hingga akhir selama satu setengah bulan sehingga materi inti semester ini tidak sempat diajarkan."
+          },
+          {
+            "id": "E",
+            "text": "Mengabaikan hasil asesmen diagnostik tersebut dan langsung memberikan tugas rumah tambahan sebanyak 60 soal latihan untuk dikumpulkan esok hari."
+          }
+        ],
+        "correctAnswer": "A",
+        "explanation": "Asesmen awal hanya bermakna jika datanya dipakai untuk memodifikasi rancangan pembelajaran (teaching at the right level, P.1, P.2 & P.6). Menyisipkan jembatan penguatan prasyarat yang proporsional sembari memfasilitasi murid yang sudah siap dengan pengayaan (A) mencegah kegagalan belajar beruntun sekaligus menghormati keberagaman kesiapan kelas.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q058",
+        "number": 58,
+        "type": "category",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pemahaman guru tentang kedudukan dan fungsi asesmen sebagai pembelajaran (Assessment as Learning), untuk pembelajaran (Assessment for Learning), dan terhadap pembelajaran (Assessment of Learning) sangat menentukan efektivitas proses belajar (P.6)."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan BENAR atau SALAH pernyataan terkait prinsip asesmen pembelajaran berikut!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Melibatkan peserta didik menilai kemajuan karyanya sendiri menggunakan daftar periksa rubrik yang jelas merupakan penerapan Assessment as Learning yang melatih kemandirian dan metakognisi."
+          },
+          {
+            "id": "B",
+            "text": "Nilai yang diperoleh peserta didik dari kuis latihan harian dan asesmen diagnostik awal harus langsung digabungkan sebagai penentu dominan nilai akhir rapor agar setiap latihan selalu bernilai angka."
+          },
+          {
+            "id": "C",
+            "text": "Membagikan dan mendiskusikan rubrik kriteria penilaian sejak awal proyek membantu peserta didik memahami standar kualitas yang diharapkan dan memandu proses perbaikan mandiri mereka."
+          },
+          {
+            "id": "D",
+            "text": "Hasil asesmen sumatif di akhir unit semata-mata berguna untuk mengisi angka laporan hasil belajar kepada orang tua, sehingga tidak relevan digunakan guru untuk mengevaluasi efektivitas metode mengajarnya."
+          }
+        ],
+        "categories": [
+          {
+            "id": "benar",
+            "text": "Benar"
+          },
+          {
+            "id": "salah",
+            "text": "Salah"
+          }
+        ],
+        "correctAnswer": {
+          "A": "benar",
+          "B": "salah",
+          "C": "benar",
+          "D": "salah"
+        },
+        "explanation": "1) Benar: Penilaian diri berbasis rubrik melatih murid memantau dan mengatur belajarnya sendiri (Assessment as Learning). 2) Salah: Asesmen diagnostik dan formatif bertujuan memperbaiki proses belajar, bukan menghukum murid dalam nilai akhir sumatif rapor (P.6). 3) Benar: Transparansi kriteria penilaian sejak awal mengarahkan belajar murid secara terukur. 4) Salah: Data asesmen sumatif tetap menjadi cermin empiris bagi guru untuk merefleksikan dan memperbaiki rancangan pembelajaran berikutnya.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q059",
+        "number": 59,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Saat sesi presentasi hasil eksplorasi ide di depan kelas, seorang peserta didik yang dikenal pemalu menyampaikan jawaban yang keliru mengenai konsep inti, lalu beberapa teman di barisan belakang mulai mencemooh dan menertawakannya hingga ia terdiam menunduk. Tindakan segera yang paling tepat dilakukan guru untuk memulihkan keamanan psikologis, menjaga martabat murid, dan merawat iklim kelas berkesadaran (P.3) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Ikut tersenyum sambil mengatakan bahwa kesalahan itu lucu agar suasana kelas kembali santai dan murid yang salah tidak terlalu tegang."
+          },
+          {
+            "id": "B",
+            "text": "Meminta murid yang sedang presentasi segera duduk kembali ke bangkunya dan memanggil murid lain yang paling pandai untuk menggantikannya."
+          },
+          {
+            "id": "C",
+            "text": "Membentak dengan nada tinggi para murid di barisan belakang dan langsung mengusir mereka keluar ruang kelas selama sisa jam pelajaran."
+          },
+          {
+            "id": "D",
+            "text": "Mengabaikan tawa teman-temannya dan langsung mengoreksi jawaban yang salah dengan menjelaskan seluruh teori dari awal hingga akhir."
+          },
+          {
+            "id": "E",
+            "text": "Menghentikan cemoohan secara tenang namun tegas dengan mengingatkan kesepakatan kelas tentang saling menghargai, mengapresiasi keberanian murid menyampaikan gagasannya di depan forum, lalu memandu pertanyaan lanjutan secara suportif agar ia bersama kelas dapat menemukan konsep yang tepat dari kekeliruan tersebut."
+          }
+        ],
+        "correctAnswer": "E",
+        "explanation": "Keamanan psikologis (psychological safety) merupakan fondasi utama ruang belajar yang aman, nyaman, dan berpihak pada murid (P.3). Menegakkan norma saling menghormati dengan tenang dan tegas, memvalidasi keberanian murid, serta membingkai kesalahan sebagai pintu belajar bersama (E) melindungi martabat murid sekaligus menumbuhkan empati seluruh kelas.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q060",
+        "number": 60,
+        "type": "multiple",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam merancang Pembelajaran Berbasis Masalah (Problem-Based Learning / PBL) yang efektif dan kontekstual pada pendidikan menengah (P.1 & P.5), karakteristik esensial yang wajib tampak dalam skenario pembelajaran guru adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Guru memberikan seluruh langkah pemecahan masalah beserta kunci jawaban tunggalnya di awal pertemuan agar peserta didik cukup mengikuti instruksi dengan patuh."
+          },
+          {
+            "id": "B",
+            "text": "Pembelajaran diawali oleh sajian masalah autentik yang kompleks dan terbuka (ill-structured problem) dari kehidupan nyata sehingga memicu rasa ingin tahu dan kebutuhan menyelidiki."
+          },
+          {
+            "id": "C",
+            "text": "Penilaian pembelajaran hanya berfokus pada skor hafalan ujian tulis di akhir unit tanpa memantau proses penyelidikan, kerja sama, maupun argumen solusi kelompok."
+          },
+          {
+            "id": "D",
+            "text": "Guru berperan sebagai fasilitator metakognitif yang menyediakan perancah (scaffolding) pertanyaan pemandu, bukan satu-satunya sumber jawaban langsung."
+          },
+          {
+            "id": "E",
+            "text": "Peserta didik berkolaborasi menggali informasi lintas sumber, menguji alternatif solusi berbasis bukti, mempresentasikan rekomendasi, serta merefleksikan efektivitas proses berpikir mereka."
+          }
+        ],
+        "correctAnswer": [
+          "B",
+          "D",
+          "E"
+        ],
+        "minSelections": 2,
+        "maxSelections": 4,
+        "instruction": "Pilih dua, tiga, atau empat jawaban yang benar.",
+        "explanation": "Esensi Problem-Based Learning (P.1 & P.5) adalah penggunaan masalah nyata yang terbuka/ill-structured sebagai pemantik belajar (B), peran guru sebagai fasilitator metakognitif dengan scaffolding (D), serta investigasi kolaboratif berbasis bukti hingga refleksi proses (E). Opsi A meruntuhkan hakikat pemecahan masalah mandiri, dan opsi C mengabaikan asesmen autentik proses serta produk PBL.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q061",
+        "number": 61,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam penugasan riset isu sosial untuk bahan presentasi kelompok, guru menemukan sebagian besar peserta didik mengutip angka statistik palsu dari unggahan media sosial anonim dan blog promosi tanpa mencantumkan sumber primer. Strategi pedagogis yang paling efektif untuk membangun literasi digital kritis peserta didik (P.4) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Melarang seluruh peserta didik mengakses internet untuk tugas sekolah sepanjang semester dan mewajibkan rujukan hanya dari satu buku paket lama."
+          },
+          {
+            "id": "B",
+            "text": "Melatihkan kerangka evaluasi kredibilitas sumber secara eksplisit—seperti membaca menyamping (lateral reading), memeriksa otoritas penulis/lembaga, membandingkan data primer dengan klaim sekunder, dan menguji bias informasi—melalui studi bedah contoh berita akurat versus disinformasi."
+          },
+          {
+            "id": "C",
+            "text": "Langsung memotong nilai seluruh kelompok secara sepihak tanpa menjelaskan kriteria pembeda sumber informasi tepercaya dan sumber yang bias."
+          },
+          {
+            "id": "D",
+            "text": "Menyarankan peserta didik cukup memilih artikel yang muncul paling atas pada hasil mesin pencari atau memiliki jumlah penonton terbanyak."
+          },
+          {
+            "id": "E",
+            "text": "Menuliskan sendiri daftar ringkasan fakta yang sudah jadi untuk seluruh kelompok agar peserta didik tidak perlu lagi menelusuri informasi secara mandiri."
+          }
+        ],
+        "correctAnswer": "B",
+        "explanation": "Subkompetensi P.4 menuntut pengembangan kecakapan menggunakan TIK secara kritis dan bertanggung jawab. Melatihkan teknik verifikasi kredibilitas sumber (lateral reading, cek otoritas, dan cek bukti primer) melalui pembandingan kasus nyata (B) membekali murid ketahanan literasi digital jangka panjang dibanding pelarangan total (A) atau mengandalkan popularitas algoritma (D).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q062",
+        "number": 62,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pada lima menit terakhir setiap akhir jam pelajaran, seorang guru rutin menyisihkan waktu untuk kegiatan refleksi tertulis singkat (exit slip) maupun dialog penutup bersama kelas. Rumusan pertanyaan refleksi yang paling efektif untuk menggali kedalaman pemahaman konseptual dan kesadaran metakognitif peserta didik (P.6 & P.1) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Apakah kalian sudah paham semua materi yang Bapak/Ibu jelaskan hari ini? Jawab cukup dengan 'Ya' atau 'Tidak'."
+          },
+          {
+            "id": "B",
+            "text": "Halaman berapa saja dari buku panduan yang telah kita bahas bersama pada pertemuan pagi ini?"
+          },
+          {
+            "id": "C",
+            "text": "Siapa nama tokoh yang fotonya ditampilkan pada salindia pembuka di awal pelajaran tadi?"
+          },
+          {
+            "id": "D",
+            "text": "Gagasan penting apa yang hari ini mengubah pemahaman awalmu, bagian mana yang masih membuatmu ragu atau perlu klarifikasi, serta bagaimana kamu akan menerapkan pemahaman itu pada tugas nyata berikutnya?"
+          },
+          {
+            "id": "E",
+            "text": "Apakah kalian merasa senang karena jam pelajaran hari ini segera selesai tepat waktu?"
+          }
+        ],
+        "correctAnswer": "D",
+        "explanation": "Refleksi bermakna (P.1 & P.6) mendorong murid mengevaluasi pergeseran konsep yang dialaminya, mendiagnosis kebingungan yang tersisa, dan merencanakan transfer penerapan ke konteks baru (D). Pertanyaan tertutup (A, E) dan faktual dangkal (B, C) tidak memicu regulasi diri maupun informasi diagnostik yang berarti bagi guru.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q063",
+        "number": 63,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Menjelang pengumpulan berkas seleksi kejuaraan karya siswa tingkat provinsi, seorang rekan panitia sekolah menyarankan agar Anda memundurkan tanggal pembuatan karya dan menambahkan beberapa sertifikat kegiatan fiktif pada portofolio peserta didik bimbingan Anda supaya skor administratif sekolah terlihat lebih unggul. Sikap yang paling mencerminkan kematangan moral, perilaku etis, dan keteladanan seorang pendidik (K.1) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menyetujui saran tersebut secara diam-diam karena tujuannya dianggap mulia demi mengharumkan nama baik sekolah di tingkat provinsi."
+          },
+          {
+            "id": "B",
+            "text": "Meminta peserta didik sendiri yang mengubah tanggal berkasnya agar Anda tidak terlibat secara langsung apabila kelak diperiksa juri."
+          },
+          {
+            "id": "C",
+            "text": "Menolak saran manipulasi berkas secara tenang dan santun, menegaskan komitmen integritas sebagai teladan nyata bagi peserta didik, lalu memfokuskan waktu tersisa untuk mematangkan kualitas substansi karya serta kesiapan presentasi murid secara jujur."
+          },
+          {
+            "id": "D",
+            "text": "Memarahi rekan panitia tersebut di grup pesan seluruh guru sekolah agar seluruh warga sekolah mengetahui usulannya yang tidak jujur."
+          },
+          {
+            "id": "E",
+            "text": "Mengundurkan diri seketika dari tugas pembimbingan lomba dan meninggalkan peserta didik menghadapi persiapan seleksi sendirian."
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Kompetensi kepribadian K.1 memadukan keteguhan integritas moral (menolak pemalsuan data) dengan kematangan emosional (menyampaikan penolakan secara tenang dan santun tanpa mempermalukan kolega di depan umum) serta tetap mendampingi murid berprestasi secara autentik (C).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q064",
+        "number": 64,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Di sebuah sekolah menengah yang memiliki peserta didik dari beragam latar belakang agama dan kepercayaan, jadwal gladi bersih pameran proyek wajib sekolah ditetapkan bertepatan dengan waktu ibadah rutin mingguan sebagian peserta didik. Sebagai guru yang menjunjung tinggi keteladanan moral berdasarkan nilai Ketuhanan Yang Maha Esa dan penghargaan keberagaman (K.1), sikap profesional yang paling tepat adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Mewajibkan seluruh peserta didik tetap menghadiri gladi bersih karena kegiatan sekolah dianggap harus selalu didahulukan di atas urusan ibadah pribadi."
+          },
+          {
+            "id": "B",
+            "text": "Mengizinkan peserta didik tersebut beribadah tetapi langsung mengurangi nilai partisipasi proyek mereka karena absen saat jadwal utama."
+          },
+          {
+            "id": "C",
+            "text": "Membiarkan jadwal tetap berjalan dan meminta kelompok minoritas tersebut menyesuaikan diri sendiri tanpa perlu dibahas bersama panitia."
+          },
+          {
+            "id": "D",
+            "text": "Membatalkan seluruh acara pameran proyek sekolah secara sepihak tanpa mencari alternatif penjadwalan yang dapat mengakomodasi semua pihak."
+          },
+          {
+            "id": "E",
+            "text": "Menghormati sepenuhnya hak beribadah peserta didik tanpa diskriminasi penilaian sekaligus berkoordinasi secara konstruktif dengan tim kurikulum dan panitia untuk menggeser jam gladi bersih atau menyediakan sesi alternatif yang adil bagi seluruh warga sekolah."
+          }
+        ],
+        "correctAnswer": "E",
+        "explanation": "Keteladanan etis dalam keberagaman (K.1) diwujudkan dengan menjamin kebebasan beribadah setiap murid tanpa sanksi nilai, disertai inisiatif kolaboratif untuk mencari penjadwalan inklusif yang adil bagi semua pihak (E).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q065",
+        "number": 65,
+        "type": "category",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pendidik dengan kompetensi kepribadian yang matang senantiasa melakukan refleksi diri secara jujur, terbuka terhadap pembaruan, dan mengembangkan pola pikir bertumbuh (growth mindset) sepanjang hayat (K.2)."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan SESUAI atau TIDAK SESUAI sikap dan kebiasaan guru berikut dengan prinsip growth mindset dan pengembangan diri berkelanjutan!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Ketika metode diskusi baru yang dicobakan di kelas belum berjalan sesuai harapan, guru menganalisis faktor penyebabnya dari catatan observasi dan meminta masukan jujur murid untuk menyempurnakan pertemuan berikutnya."
+          },
+          {
+            "id": "B",
+            "text": "Guru merasa pengalaman mengajarnya selama lima belas tahun sudah membuktikan keahliannya sehingga menolak mencoba perangkat ajar maupun pendekatan asesmen baru karena dianggap merepotkan."
+          },
+          {
+            "id": "C",
+            "text": "Guru menyisihkan waktu secara rutin untuk mempelajari hasil riset pedagogi mutakhir, mengikuti pelatihan relevan, serta mendiskusikan tantangan pembelajaran secara terbuka bersama rekan sejawat."
+          },
+          {
+            "id": "D",
+            "text": "Saat seorang peserta didik memberikan umpan balik santun bahwa instruksi tugas proyek terlalu rumit dipahami, guru tersinggung dan menyalahkan kurangnya kecerdasan murid tersebut di depan kelas."
+          }
+        ],
+        "categories": [
+          {
+            "id": "sesuai",
+            "text": "Sesuai"
+          },
+          {
+            "id": "tidak-sesuai",
+            "text": "Tidak Sesuai"
+          }
+        ],
+        "correctAnswer": {
+          "A": "sesuai",
+          "B": "tidak-sesuai",
+          "C": "sesuai",
+          "D": "tidak-sesuai"
+        },
+        "explanation": "1) Sesuai: Memandang kendala mengajar sebagai data refleksi untuk perbaikan adalah ciri inti growth mindset (K.2). 2) Tidak Sesuai: Merasa sudah cukup dan menolak belajar baru mencerminkan fixed mindset yang menghambat mutu layanan belajar. 3) Sesuai: Kebiasaan belajar sepanjang hayat dan kolaborasi sejawat menjaga relevansi profesi guru. 4) Tidak Sesuai: Sikap defensif terhadap umpan balik konstruktif murid menutup ruang evaluasi diri guru.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q066",
+        "number": 66,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Seorang peserta didik kelas XI memiliki pencapaian sedang pada mata pelajaran hitungan abstrak, tetapi menunjukkan ketekunan luar biasa dan bakat menonjol dalam fotografi dokumenter serta penyusunan cerita visual. Beberapa pihak di lingkungannya menyarankan agar ia menghentikan total kegiatan kreatif tersebut supaya fokus mengikuti les latihan soal ujian tertulis saja. Keputusan konsisten yang paling tepat diambil guru untuk berpihak pada pengembangan potensi murid secara utuh (K.3) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Mendampingi murid merawat dan menyalurkan bakat fotografi dokumenternya melalui proyek bermakna dan portofolio prestasi, sembari berdialog dengan orang tua serta membantunya menyusun strategi belajar yang seimbang agar ketuntasan kompetensi akademik dasarnya tetap terjaga."
+          },
+          {
+            "id": "B",
+            "text": "Mendukung penuh saran menghentikan kegiatan kreatif murid karena hanya nilai tinggi pada pelajaran berhitung yang menentukan masa depan karier seseorang."
+          },
+          {
+            "id": "C",
+            "text": "Menyarankan murid mengabaikan seluruh mata pelajaran umum lainnya di sekolah asalkan ia aktif mengikuti lomba fotografi di luar sekolah."
+          },
+          {
+            "id": "D",
+            "text": "Bersikap netral pasif tanpa memberikan arahan apa pun karena pilihan pengembangan bakat murid dianggap sepenuhnya urusan keluarga di rumah."
+          },
+          {
+            "id": "E",
+            "text": "Meminta murid menyembunyikan kegiatan fotografinya dari orang tua dan guru lain agar tidak lagi mendapatkan kritik mengenai nilai ujian."
+          }
+        ],
+        "correctAnswer": "A",
+        "explanation": "Subkompetensi K.3 menuntut keberpihakan konsisten guru pada perkembangan potensi unik peserta didik secara holistik. Menguatkan bakat kreatif murid sekaligus menjembatani komunikasi dengan orang tua dan menjaga keseimbangan fondasi akademik dasar (A) menumbuhkan kepercayaan diri serta kesiapan masa depan murid secara utuh.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q067",
+        "number": 67,
+        "type": "multiple",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Di tengah jeda pergantian jam mengajar, seorang wali murid datang ke koridor depan ruang guru dengan nada suara keras dan emosi tinggi memprotes nilai proyek anaknya sambil menuduh guru menilai secara tidak adil. Sikap yang paling mencerminkan kematangan emosional, keteladanan etis, dan refleksi profesional guru (K.1 & K.2) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Tetap menjaga ketenangan nada bicara dan bahasa tubuh, lalu mempersilakan wali murid berpindah ke ruang tamu/konseling yang lebih privat agar percakapan berlangsung kondusif dan menjaga martabat semua pihak."
+          },
+          {
+            "id": "B",
+            "text": "Membalas dengan nada suara lebih tinggi di depan siswa dan guru lain guna menunjukkan wibawa bahwa keputusan nilai guru tidak boleh dipertanyakan."
+          },
+          {
+            "id": "C",
+            "text": "Mendengarkan kekhawatiran wali murid secara empatik tanpa memotong, kemudian menunjukkan bukti objektif proses kerja anak dan rubrik penilaian secara transparan sekaligus menyepakati langkah pendampingan perbaikan."
+          },
+          {
+            "id": "D",
+            "text": "Menjadikan kejadian tersebut sebagai bahan refleksi profesional pascapertemuan untuk mengevaluasi apakah sosialisasi rubrik dan pembaruan progres tugas kepada orang tua selama ini sudah cukup jelas."
+          },
+          {
+            "id": "E",
+            "text": "Mengancam akan menurunkan nilai sikap anak tersebut di rapor apabila wali murid tidak segera meminta maaf di tempat."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "C",
+          "D"
+        ],
+        "minSelections": 2,
+        "maxSelections": 4,
+        "instruction": "Pilih dua, tiga, atau empat jawaban yang benar.",
+        "explanation": "Kematangan emosional dan etika profesi (K.1 & K.2) tampak dalam upaya de-eskalasi tenang serta menjaga privasi (A), mendengarkan empatik berbasis bukti rubrik objektif demi solusi anak (C), dan refleksi peningkatan transparansi komunikasi ke depan (D). Membalas emosi di muka umum (B) dan mengancam nilai anak (E) melanggar kode etik pendidik.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q068",
+        "number": 68,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Seorang guru merintis program rutin '15 Menit Bedah Bacaan dan Diskusi Kritis' dua kali sepekan untuk menumbuhkan budaya literasi di kelasnya. Namun, memasuki bulan kedua, antusiasme peserta didik tampak menurun dan beberapa murid mulai tampak bosan. Tindakan konsisten yang paling tepat dilakukan guru untuk merawat budaya belajar tersebut (K.3) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menghentikan program literasi tersebut sepenuhnya karena dianggap tidak cocok dengan karakter remaja zaman sekarang."
+          },
+          {
+            "id": "B",
+            "text": "Memberikan hukuman menulis ringkasan tiga halaman tambahan bagi setiap peserta didik yang tampak kurang bersemangat saat sesi membaca."
+          },
+          {
+            "id": "C",
+            "text": "Tetap menjalankan format yang sama persis tanpa evaluasi sementara guru sibuk memeriksa administrasi pribadi di meja depan selama murid membaca."
+          },
+          {
+            "id": "D",
+            "text": "Mengajak peserta didik mengevaluasi bersama penyebab kejenuhan, memperluas variasi pilihan bahan bacaan bermutu sesuai minat mereka (artikel populer, infografis mendalam, biografi inspiratif, atau buku pilihan murid), memvariasikan format berbagi gagasan, serta tetap memberi keteladanan langsung dengan ikut membaca dan berdialog."
+          },
+          {
+            "id": "E",
+            "text": "Mengubah sesi membaca menjadi jam bebas bermain gim ponsel selama 15 menit agar peserta didik kembali merasa gembira."
+          }
+        ],
+        "correctAnswer": "D",
+        "explanation": "Merawat budaya belajar secara konsisten (K.3) menuntut keteladanan nyata guru, dialog reflektif bersama murid, serta otonomi pilihan bahan dan variasi aktivitas untuk menghidupkan motivasi intrinsik (D), bukan menyerah (A) atau memaksa secara punitif (B).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q069",
+        "number": 69,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dua hari menjelang batas akhir penginputan nilai rapor, Anda memeriksa hasil proyek akhir dan mendapati bahwa karya milik putra seorang rekan guru senior di sekolah belum memenuhi indikator ketuntasan minimal karena beberapa komponen utama belum dikerjakan. Tindakan profesional yang paling sesuai dengan kode etik, keadilan, dan kematangan moral guru (K.1) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Langsung meluluskan dan memberi nilai tinggi secara diam-diam demi menjaga hubungan baik dengan rekan guru senior tersebut."
+          },
+          {
+            "id": "B",
+            "text": "Tetap berpegang objektif pada standar rubrik yang berlaku sama bagi seluruh peserta didik, segera mengomunikasikan bagian yang belum tuntas secara santun kepada murid (dan orang tuanya bila perlu), serta memberikan kesempatan pendampingan perbaikan (remedial) yang adil sesuai prosedur sekolah dalam rentang waktu tersisa."
+          },
+          {
+            "id": "C",
+            "text": "Langsung menetapkan nilai tidak tuntas secara final tanpa memberi tahu peserta didik maupun memberi kesempatan perbaikan seperti yang diberikan kepada murid lain."
+          },
+          {
+            "id": "D",
+            "text": "Meminta guru mata pelajaran lain yang menandatangani lembar penilaian karya tersebut agar Anda terhindar dari rasa sungkan."
+          },
+          {
+            "id": "E",
+            "text": "Menyelesaikan sendiri bagian proyek yang masih kosong agar tidak perlu menyinggung perasaan rekan sejawat di sekolah."
+          }
+        ],
+        "correctAnswer": "B",
+        "explanation": "Integritas dan keadilan guru (K.1) melarang perlakuan istimewa/nepotisme (A, E) maupun sikap diskriminatif (C). Menegakkan rubrik objektif yang setara disertai komunikasi transparan dan layanan perbaikan sesuai prosedur yang sama untuk semua murid (B) menjaga standar profesi sekaligus hubungan kolegial yang sehat.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q070",
+        "number": 70,
+        "type": "category",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Integritas pribadi, keteladanan etis, dan kebiasaan refleksi diri menjadi fondasi kepercayaan publik terhadap profesi pendidik (K.1, K.2 & K.3)."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan BENAR atau SALAH pernyataan praktik profesional guru berikut!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Saat mengadaptasi modul ajar, rubrik, atau media presentasi yang dibagikan guru lain di platform pendidikan, pendidik wajib mencantumkan sumber pencipta aslinya sebagai teladan penghormatan hak kekayaan intelektual."
+          },
+          {
+            "id": "B",
+            "text": "Mengunduh laporan Penelitian Tindakan Kelas (PTK) milik orang lain dari internet lalu mengganti nama penulis dan nama sekolah demi memenuhi syarat kenaikan pangkat merupakan praktik lumrah selama tidak diketahui pengawas."
+          },
+          {
+            "id": "C",
+            "text": "Menulis jurnal refleksi singkat secara berkala mengenai efektivitas strategi mengajar, respons emosional kelas, dan tindak lanjut perbaikan membantu guru bertumbuh secara profesional."
+          },
+          {
+            "id": "D",
+            "text": "Menjaga kerahasiaan data pribadi, kondisi ekonomi keluarga, dan catatan konseling peserta didik dari perbincangan santai di ruang publik atau media sosial merupakan kewajiban etis guru."
+          }
+        ],
+        "categories": [
+          {
+            "id": "benar",
+            "text": "Benar"
+          },
+          {
+            "id": "salah",
+            "text": "Salah"
+          }
+        ],
+        "correctAnswer": {
+          "A": "benar",
+          "B": "salah",
+          "C": "benar",
+          "D": "benar"
+        },
+        "explanation": "1) Benar: Atribusi sumber rujukan mencerminkan integritas akademik dan teladan jujur bagi murid (K.1). 2) Salah: Plagiarisme karya ilmiah merupakan pelanggaran berat kode etik profesi guru dan hukum hak cipta. 3) Benar: Jurnal refleksi rutin menguatkan kesadaran diri dan pembelajaran sepanjang hayat (K.2). 4) Benar: Menjaga kerahasiaan serta martabat murid adalah bagian mutlak perilaku etis pendidik (K.1 & K.3).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q071",
+        "number": 71,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Tata tertib umum sekolah menetapkan bahwa peserta didik yang datang terlambat lebih dari 15 menit diminta menunggu di luar kelas dan melakukan kerja kebersihan selama jam pelajaran pertama. Anda mendapati seorang peserta didik yang sebenarnya tekun belajar datang terlambat tiga kali dalam dua minggu karena setiap pagi ia harus mengantar adiknya yang masih kelas 1 SD terlebih dahulu sejak ibunya dirawat sakit. Keputusan yang paling bijaksana dan berpihak pada hak belajar murid (K.3) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Tetap melarang peserta didik masuk kelas sepanjang jam pertama tanpa menanyakan alasan apa pun agar peraturan tampak dijalankan tanpa pandang bulu."
+          },
+          {
+            "id": "B",
+            "text": "Membiarkannya datang terlambat sesuka hati sepanjang tahun ajaran tanpa pernah mencari jalan keluar maupun berkoordinasi dengan pihak sekolah."
+          },
+          {
+            "id": "C",
+            "text": "Tetap mengizinkannya segera mengikuti pelajaran agar hak belajarnya tidak hilang, kemudian mengajaknya berdialog secara empatik usai jam kelas serta berkoordinasi dengan wali kelas, guru BK, dan keluarga untuk mencari solusi penjadwalan atau dukungan keberangkatan yang berkelanjutan."
+          },
+          {
+            "id": "D",
+            "text": "Menceritakan kondisi sakit ibunya di depan seluruh kelas sebagai alasan mengapa ia dibebaskan dari sanksi keterlambatan."
+          },
+          {
+            "id": "E",
+            "text": "Memberikan hukuman pengurangan nilai mata pelajaran secara otomatis setiap kali ia terlambat masuk kelas."
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Keberpihakan pada murid (K.3) diwujudkan melalui disiplin positif yang menjaga hak belajar anak (tidak mengusir dari kelas), memahami akar masalah secara empatik sambil melindungi privasi keluarga (menghindari D), dan membangun solusi kolaboratif bersama BK, wali kelas, dan orang tua (C).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q072",
+        "number": 72,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Di kelas reguler yang Anda ampu terdapat seorang peserta didik dengan hambatan pendengaran ringan yang menggunakan alat bantu dengar. Guru ingin memastikan komunikasi lisan maupun tulisan selama penjelasan materi, diskusi kelompok, dan instruksi praktik berlangsung inklusif, empatik, dan efektif (S.1). Strategi komunikasi yang paling tepat diterapkan guru adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Berbicara dengan suara berteriak keras sambil berjalan membelakangi kelas saat menulis di papan tulis agar suara terasa lebih lantang."
+          },
+          {
+            "id": "B",
+            "text": "Meminta peserta didik tersebut duduk sendiri di sudut paling belakang dan cukup menyalin buku catatan temannya setiap akhir pekan."
+          },
+          {
+            "id": "C",
+            "text": "Menghindari mengajukan pertanyaan diskusi kepada peserta didik tersebut agar ia tidak merasa kesulitan mengikuti percakapan kelas."
+          },
+          {
+            "id": "D",
+            "text": "Menyerahkan seluruh tanggung jawab menerjemahkan instruksi kelas kepada satu teman sebangkunya sehingga guru tidak perlu menyesuaikan gaya komunikasi."
+          },
+          {
+            "id": "E",
+            "text": "Menempatkan posisi duduknya strategis di area depan yang tenang dengan pencahayaan wajah guru terlihat jelas, berbicara dengan artikulasi wajar dan kontak visual menghadap kelas (tidak menutupi mulut), melengkapi arahan lisan dengan ringkasan teks/visual atau teks takarir (subtitle) pada video, serta memastikan partisipasinya tetap setara dalam diskusi."
+          }
+        ],
+        "correctAnswer": "E",
+        "explanation": "Komunikasi inklusif dan empatik (S.1) mengakomodasi aksesibilitas pendengaran melalui posisi duduk strategis, artikulasi natural menghadap murid (mendukung pembacaan gerak bibir dan suara jernih tanpa distorsi teriakan), dukungan instruksi visual/takarir, serta pelibatan aktif yang setara tanpa stigma (E).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q073",
+        "number": 73,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Selama satu bulan terakhir, seorang peserta didik kelas X yang biasanya aktif tampak sering melamun di kelas dan tiga kali melewatkan tenggat pengumpulan tugas proyek. Anda hendak menghubungi orang tuanya untuk mengajak berdiskusi mencari dukungan terbaik bagi anak. Kalimat pembuka komunikasi tertulis atau lisan yang paling empatik, objektif, dan membangun kemitraan (S.1) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Selamat sore Bapak/Ibu, saya sangat mengapresiasi keaktifan dan kreativitas Ananda selama awal semester ini. Belakangan saya mengamati Ananda tampak lebih sering kelelahan dan tiga tugas terakhirnya belum sempat terkumpul; apakah di rumah ada hal yang sedang dialami Ananda agar kita dapat berdiskusi bersama mencari cara terbaik mendukungnya?"
+          },
+          {
+            "id": "B",
+            "text": "Selamat sore Bapak/Ibu, anak Bapak/Ibu bulan ini menjadi sangat malas dan tidak disiplin sehingga kalau terus begini dipastikan nilainya tidak akan naik kelas."
+          },
+          {
+            "id": "C",
+            "text": "Mohon perhatian Bapak/Ibu, tampaknya pengawasan belajar di rumah sangat kurang karena anak Bapak/Ibu selalu melamun dan menyepelekan tugas dari guru."
+          },
+          {
+            "id": "D",
+            "text": "Bapak/Ibu segera datang ke sekolah besok pagi tanpa alasan apa pun untuk menandatangani surat peringatan atas kelalaian anak Bapak/Ibu."
+          },
+          {
+            "id": "E",
+            "text": "Halo Bapak/Ibu, mengapa anak Bapak/Ibu akhir-akhir ini nilainya jauh tertinggal dibandingkan teman-teman sekelasnya yang jauh lebih rajin?"
+          }
+        ],
+        "correctAnswer": "A",
+        "explanation": "Komunikasi efektif dan empatik dengan orang tua (S.1) menerapkan pendekatan berbasis kekuatan (mengapresiasi hal positif terlebih dahulu), menyampaikan observasi faktual tanpa melabeli anak 'malas' (B) atau menyalahkan pola asuh orang tua (C), menghindari pembandingan merendahkan (E), dan mengundang dialog kemitraan setara demi kepentingan anak (A).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q074",
+        "number": 74,
+        "type": "category",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Peningkatan kualitas layanan belajar peserta didik membutuhkan kolaborasi sinergis antarpendidik, tenaga kependidikan, orang tua, serta masyarakat atau dunia kerja di luar sekolah (S.2)."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan TEPAT atau TIDAK TEPAT bentuk kolaborasi pendidikan berikut!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Guru mata pelajaran rutin berkoordinasi dengan wali kelas dan guru Bimbingan Konseling (BK) untuk menyusun dukungan terpadu bagi peserta didik yang mengalami hambatan sosial-emosional maupun kesulitan belajar."
+          },
+          {
+            "id": "B",
+            "text": "Guru melibatkan pustakawan, laboran, dan teknisi studio sebagai mitra sejajar sejak tahap perencanaan jadwal sumber belajar, pemeliharaan perangkat, dan keselamatan ruang praktik."
+          },
+          {
+            "id": "C",
+            "text": "Guru menolak masukan dari orang tua maupun praktisi dunia kerja mengenai relevansi keterampilan proyek murid karena urusan pembelajaran dianggap hak eksklusif guru seorang diri di dalam kelas."
+          },
+          {
+            "id": "D",
+            "text": "Sekolah membangun forum komunikasi berkala bersama komite sekolah dan orang tua untuk menyelaraskan penguatan kebiasaan belajar, literasi digital aman, dan pendidikan karakter anak di rumah dan sekolah."
+          }
+        ],
+        "categories": [
+          {
+            "id": "tepat",
+            "text": "Tepat"
+          },
+          {
+            "id": "tidak-tepat",
+            "text": "Tidak Tepat"
+          }
+        ],
+        "correctAnswer": {
+          "A": "tepat",
+          "B": "tepat",
+          "C": "tidak-tepat",
+          "D": "tepat"
+        },
+        "explanation": "1) Tepat: Sinergi lintas peran internal (guru mapel, wali kelas, BK) menghadirkan pendampingan utuh bagi murid. 2) Tepat: Tenaga kependidikan (pustakawan, laboran, teknisi) adalah mitra penting ekosistem pembelajaran (S.2). 3) Tidak Tepat: Menutup diri dari orang tua dan dunia kerja menghambat relevansi serta kemitraan pendidikan. 4) Tepat: Keselarasan sekolah dan keluarga memperkuat keberlanjutan karakter serta budaya belajar murid.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q075",
+        "number": 75,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Di sekolah tempat Anda bertugas baru dibentuk Komunitas Belajar (Kombel) antarguru untuk memperkuat implementasi pembelajaran mendalam dan asesmen autentik. Sebagai pendidik yang berkomitmen terhadap pengembangan keprofesian berkelanjutan (S.3), bentuk kontribusi paling bermakna yang dapat Anda lakukan di dalam komunitas belajar tersebut adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Hanya hadir menandatangani daftar hadir rapat demi memenuhi kelengkapan administrasi kinerja tahunan tanpa pernah berpartisipasi dalam diskusi."
+          },
+          {
+            "id": "B",
+            "text": "Menjadikan pertemuan komunitas belajar sebagai ajang mengeluhkan kelemahan peserta didik dan kebijakan sekolah tanpa merumuskan solusi pembelajaran."
+          },
+          {
+            "id": "C",
+            "text": "Menyimpan sendiri seluruh perangkat ajar dan inovasi media yang berhasil di kelas Anda agar tetap menjadi satu-satunya guru berprestasi di sekolah."
+          },
+          {
+            "id": "D",
+            "text": "Berbagi praktik baik sekaligus secara terbuka membedah tantangan nyata pembelajaran di kelas, berkolaborasi merancang modul/rubrik bersama, serta aktif melakukan observasi kelas sejawat yang saling menguatkan demi peningkatan hasil belajar murid."
+          },
+          {
+            "id": "E",
+            "text": "Mewajibkan seluruh guru lain mengikuti persis gaya mengajar pribadi Anda tanpa membuka ruang diskusi bagi keragaman karakteristik mata pelajaran."
+          }
+        ],
+        "correctAnswer": "D",
+        "explanation": "Esensi Komunitas Belajar (Kombel, S.3) adalah pembelajaran kolaboratif yang berpusat pada dampak bagi murid: berbagi praktik baik secara terbuka, merefleksikan tantangan mengajar bersama, merancang perangkat kolaboratif, dan saling menguatkan lewat observasi sejawat (D).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q076",
+        "number": 76,
+        "type": "multiple",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Sekolah menyelenggarakan program kolaborasi proyek pemberdayaan dan layanan kreatif bersama warga kampung sekitar yang memiliki keragaman latar belakang sosial, budaya, dan ekonomi. Agar komunikasi serta kerja sama dengan masyarakat berlangsung harmonis, setara, dan beretika (S.1 & S.2), langkah yang tepat dilakukan guru beserta peserta didik adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Memotret kondisi keterbatasan rumah tangga warga dari jarak dekat tanpa persetujuan lalu mengunggahnya ke media sosial sekolah dengan narasi kasihan demi menaikkan citra kegiatan."
+          },
+          {
+            "id": "B",
+            "text": "Melibatkan tokoh masyarakat dan warga setempat sejak tahap pemetaan kebutuhan dan perencanaan kegiatan dengan bahasa komunikasi yang santun, adaptif budaya, serta menghormati kearifan lokal."
+          },
+          {
+            "id": "C",
+            "text": "Datang membawa program jadi yang disusun sepihak oleh sekolah dan menggurui warga mengenai cara memperbaiki usaha atau lingkungan mereka tanpa mendengarkan pengalaman setempat."
+          },
+          {
+            "id": "D",
+            "text": "Meminta peserta didik cukup menyerahkan bantuan secara simbolis di balai kelurahan selama sepuluh menit lalu segera pulang tanpa berinteraksi dengan warga."
+          },
+          {
+            "id": "E",
+            "text": "Membangun relasi kemitraan yang setara dan bermartabat—di mana sekolah dan warga saling belajar serta berbagi pengetahuan—serta meminta izin tertulis/lisan yang jelas sebelum mendokumentasikan atau memublikasikan cerita warga."
+          }
+        ],
+        "correctAnswer": [
+          "B",
+          "E"
+        ],
+        "minSelections": 2,
+        "maxSelections": 4,
+        "instruction": "Pilih dua, tiga, atau empat jawaban yang benar.",
+        "explanation": "Kolaborasi bermartabat antara sekolah dan masyarakat (S.1 & S.2) menuntut pelibatan partisipatif warga sejak perencanaan dengan komunikasi santun adaptif budaya (B) serta kemitraan setara yang menghormati martabat dan persetujuan dokumentasi warga (E). Opsi A termasuk eksploitasi citra kemiskinan, opsi C bersikap menggurui (patronizing), dan opsi D sekadar seremonial tanpa kebermaknaan sosial.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q077",
+        "number": 77,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam rapat perencanaan proyek kokurikuler lintas mata pelajaran, terjadi perdebatan cukup tegang antara tim guru produktif kejuruan dan tim guru mata pelajaran umum mengenai pembagian jam pelajaran dan dominasi tema proyek sehingga rapat sempat menemui jalan buntu. Sebagai rekan sejawat dengan kompetensi sosial yang matang (S.2), langkah mediasi kolaboratif yang paling tepat Anda usulkan adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Memihak kelompok mata pelajaran Anda sendiri secara vokal lalu mendesak pemimpin rapat segera melakukan pemungutan suara agar kelompok lain kalah."
+          },
+          {
+            "id": "B",
+            "text": "Mengajak kedua tim kembali memusatkan perhatian pada tujuan perkembangan kompetensi murid, memetakan irisan capaian belajar yang saling menguatkan antara mata pelajaran umum dan kejuruan dalam satu alur proyek bersama, serta menyepakati pembagian peran dan jadwal secara proporsional."
+          },
+          {
+            "id": "C",
+            "text": "Memilih diam seribu bahasa dan segera meninggalkan ruang rapat dengan alasan tidak ingin ikut campur dalam perselisihan rekan kerja."
+          },
+          {
+            "id": "D",
+            "text": "Mengusulkan agar masing-masing kelompok menjalankan proyek terpisah sendiri-sendiri sehingga peserta didik harus mengerjakan dua proyek besar secara bersamaan."
+          },
+          {
+            "id": "E",
+            "text": "Melaporkan salah satu tim yang bersikukuh kepada kepala sekolah usai rapat agar mereka mendapat teguran administratif."
+          }
+        ],
+        "correctAnswer": "B",
+        "explanation": "Kolaborasi antarpendidik (S.2) mengutamakan kepentingan belajar peserta didik di atas ego sektoral mata pelajaran. Memetakan irisan kompetensi lintas mapel agar terpadu dalam satu proyek yang proporsional (B) menyelesaikan kebuntuan secara konstruktif sekaligus mencegah beban tugas ganda bagi murid (menghindari D).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q078",
+        "number": 78,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam pertemuan Musyawarah Guru Mata Pelajaran (MGMP) tingkat kabupaten/kota, para guru dari berbagai sekolah mengungkapkan persoalan bersama terkait menurunnya daya tahan konsentrasi dan kemandirian belajar peserta didik saat mengerjakan tugas mendalam. Langkah kolaboratif tingkat organisasi profesi yang paling berdampak luas dan berkelanjutan (S.3) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menghabiskan seluruh agenda pertemuan untuk saling membandingkan sekolah mana yang muridnya paling sulit diatur tanpa menyusun rencana tindak lanjut."
+          },
+          {
+            "id": "B",
+            "text": "Menyepakati penurunan standar kriteria ketercapaian tujuan pembelajaran secara serempak di seluruh kabupaten agar seluruh murid tampak tuntas."
+          },
+          {
+            "id": "C",
+            "text": "Membentuk tim kerja lintas sekolah di MGMP untuk merancang bersama skenario pembelajaran aktif dan instrumen asesmen bertahap, mengujicobakannya melalui siklus lesson study di beberapa sekolah, mengevaluasi hasilnya berbasis data, lalu mendiseminasikan panduan praktik baiknya kepada seluruh anggota."
+          },
+          {
+            "id": "D",
+            "text": "Membubarkan kegiatan MGMP tatap muka dan menggantinya semata-mata dengan grup obrolan berbagi tautan dokumen administratif dari internet."
+          },
+          {
+            "id": "E",
+            "text": "Menunggu terbitnya instruksi petunjuk teknis baru dari kementerian pusat sebelum guru-guru berinisiatif melakukan perbaikan di kelas masing-masing."
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Organisasi profesi seperti MGMP (S.3) berfungsi sebagai wadah inovasi kolektif, riset kolaboratif/lesson study, dan diseminasi praktik baik berbasis bukti antarsekolah (C), bukan ruang keluh kesah (A), penurunan standar (B), atau sikap menunggu pasif (E).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q079",
+        "number": 79,
+        "type": "category",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pemanfaatan grup aplikasi pesan instan (seperti WhatsApp) bersama orang tua dan peserta didik menuntut kecakapan komunikasi tertulis yang sopan, terstruktur, dan menjaga etika profesi pendidik (S.1)."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan ETIS atau TIDAK ETIS perilaku komunikasi digital guru berikut!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Guru menyampaikan informasi jadwal kegiatan dan pengingat tugas kelas menggunakan bahasa yang jelas, ramah, dan terstruktur pada jam kerja/waktu wajar yang telah disepakati bersama."
+          },
+          {
+            "id": "B",
+            "text": "Guru mengunggah tangkapan layar daftar nama peserta didik yang nilainya paling rendah atau belum melunasi iuran kegiatan ke grup besar orang tua agar orang tua mereka merasa malu dan segera bertindak."
+          },
+          {
+            "id": "C",
+            "text": "Ketika muncul persoalan perilaku atau kendala akademik spesifik milik satu peserta didik, guru menghubungi orang tua yang bersangkutan secara personal (jalur pribadi) dengan pendekatan solutif."
+          },
+          {
+            "id": "D",
+            "text": "Guru rutin meneruskan pesan berantai berisi berita sensasional kesehatan dan isu politik yang belum terverifikasi kebenarannya ke grup orang tua dan peserta didik."
+          }
+        ],
+        "categories": [
+          {
+            "id": "etis",
+            "text": "Etis"
+          },
+          {
+            "id": "tidak-etis",
+            "text": "Tidak Etis"
+          }
+        ],
+        "correctAnswer": {
+          "A": "etis",
+          "B": "tidak-etis",
+          "C": "etis",
+          "D": "tidak-etis"
+        },
+        "explanation": "1) Etis: Pesan terstruktur, santun, dan menghormati batas waktu kerja mencerminkan profesionalisme komunikasi (S.1). 2) Tidak Etis: Membuka aib nilai atau kondisi finansial murid di grup publik melanggar privasi dan merendahkan martabat anak/keluarga. 3) Etis: Penanganan masalah personal melalui jalur pribadi menjaga etika dan efektivitas kolaborasi. 4) Tidak Etis: Menyebarkan informasi yang belum terverifikasi (hoaks) mencederai keteladanan literasi digital guru.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-1-q080",
+        "number": 80,
+        "type": "multiple",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Penguasaan kompetensi sosial guru secara utuh memadukan komunikasi efektif-empatik (S.1), kolaborasi lintas pemangku kepentingan (S.2), dan partisipasi aktif dalam organisasi profesi/komunitas belajar (S.3) demi pembelajaran yang berpusat pada peserta didik. Manakah praktik-praktik di bawah ini yang mencerminkan integrasi ketiga subkompetensi sosial tersebut?"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Bekerja secara tertutup di ruang kelas masing-masing dan membatasi komunikasi dengan orang tua hanya sekali setahun saat pembagian rapor akhir."
+          },
+          {
+            "id": "B",
+            "text": "Membangun komunikasi lisan, tulisan, dan visual yang ramah, inklusif, serta adaptif terhadap keberagaman latar belakang dan kebutuhan belajar seluruh peserta didik beserta keluarganya."
+          },
+          {
+            "id": "C",
+            "text": "Berkolaborasi sinergis bersama rekan guru lintas mapel, tenaga kependidikan, orang tua, serta praktisi masyarakat/dunia kerja untuk menghadirkan pengalaman belajar yang autentik dan relevan."
+          },
+          {
+            "id": "D",
+            "text": "Menghindari forum MGMP dan komunitas belajar sekolah karena diskusi antarpendidik dianggap menyita waktu persiapan administrasi pribadi."
+          },
+          {
+            "id": "E",
+            "text": "Berperan aktif berbagi praktik baik, melakukan refleksi sejawat, dan mengembangkan inovasi perangkat pembelajaran bersama organisasi profesi maupun komunitas belajar untuk kemajuan profesi berkelanjutan."
+          }
+        ],
+        "correctAnswer": [
+          "B",
+          "C",
+          "E"
+        ],
+        "minSelections": 2,
+        "maxSelections": 4,
+        "instruction": "Pilih dua, tiga, atau empat jawaban yang benar.",
+        "explanation": "Integrasi utuh kompetensi sosial guru meliputi komunikasi inklusif-empatik (S.1, opsi B), kolaborasi lintas pemangku kepentingan internal-eksternal (S.2, opsi C), serta kontribusi aktif pada organisasi profesi dan komunitas belajar (S.3, opsi E). Opsi A dan D mencerminkan isolasi profesional yang menghambat ekosistem belajar berpihak pada murid.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dkv-mcb-2",
+    "category": "prodi",
+    "programId": "dkv",
+    "groupLabel": "DKV",
+    "title": "Tryout PCK (MCB) DKV 2",
+    "description": "Latihan 80 soal UKPPPG Desain Komunikasi Visual Paket 2 (50 soal studi kasus PCK DKV + 30 soal Pedagogi Umum) campuran PG, PGK Kategori, dan PGK MCMA dengan studi kasus berbeda beserta pembahasan lengkap.",
+    "durationMinutes": 150,
+    "questions": [
+      {
+        "id": "dkv-mcb-2-q001",
+        "number": 1,
+        "type": "single",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Seorang guru DKV di SMK menyusun modul ajar Kurikulum Merdeka untuk elemen Produksi Media Gerak pada topik 'Videografi Kampanye Sosial Lingkungan'. Agar selaras dengan tujuan pendidikan kejuruan DKV (PF.1) serta pembelajaran mendalam yang konseptual, kontekstual, dan reflektif (P.1), rumusan tujuan pembelajaran yang paling tepat memadukan penguasaan konsep sinematografi, keterampilan teknis produksi, dan karakter Profil Pelajar Pancasila adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Peserta didik mampu menyebutkan delapan jenis ukuran bidang pandang kamera (ECU hingga EWS) serta menghafal definisi gerakan pan, tilt, dan dolly secara tertulis dengan ketepatan minimal 85%."
+          },
+          {
+            "id": "B",
+            "text": "Peserta didik mampu menyalin naskah iklan layanan masyarakat yang sudah populer di media sosial, merekam ulang adegannya di halaman sekolah, lalu mengunggah hasilnya guna mengejar jumlah penayangan terbanyak."
+          },
+          {
+            "id": "C",
+            "text": "Peserta didik mampu merancang konsep naratif dan storyboard berbasis riset isu pengelolaan sampah sekolah, memproduksi video kampanye sosial dengan komposisi shot dan tata suara yang komunikatif, serta merefleksikan dampak etis pesannya bagi audiens."
+          },
+          {
+            "id": "D",
+            "text": "Peserta didik mampu mengoperasikan seluruh fitur transisi efek khusus pada perangkat lunak penyuntingan video non-linear dan merender berkas proyek beresolusi 4K dalam durasi praktik dua jam pelajaran."
+          },
+          {
+            "id": "E",
+            "text": "Peserta didik mampu merangkum sejarah perkembangan kamera film analog hingga sensor digital dalam bentuk makalah kelompok yang disajikan melalui salindia presentasi di depan kelas."
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Tujuan pendidikan DKV pada Kurikulum Merdeka (PF.1) menekankan keterpaduan antara penalaran konseptual komunikasi visual, kompetensi produksi autentik sesuai alur kerja industri (pra-produksi hingga pascaproduksi), serta pembentukan karakter kepedulian sosial dan bernalar kritis (Profil Pelajar Pancasila). Opsi C secara utuh menggabungkan riset kontekstual, storyboard, produksi sinematografi-audio, dan refleksi etis (P.1), sedangkan opsi A, D, dan E terhenti pada hafalan atau keterampilan mekanis semata, dan B mendorong peniruan tanpa orisinalitas.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q002",
+        "number": 2,
+        "type": "single",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Saat membimbing praktik sinematografi dasar di kelas XI DKV, guru menemukan sebagian besar peserta didik meyakini bahwa video wawancara dan dialog akan terlihat lebih sinematik apabila kamera terus digerakkan secara agresif (panning bolak-balik dan zoom in-out) serta diposisikan bebas melompati garis imajiner antar-subjek (rule of 180 degrees) agar sudut pandangnya bervariasi. Strategi perubahan konseptual (conceptual change) yang paling efektif dilakukan guru (PF.2 & P.1) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menampilkan dua versi rekaman dialog pendek—satu melanggar garis 180 derajat dengan gerakan kamera berlebihan dan satu menjaga kontinuitas arah pandang serta motivasi gerak—lalu memandu murid menguji langsung efek disorientasi spasial tersebut pada penonton kelas sebelum merumuskan prinsip continuity editing."
+          },
+          {
+            "id": "B",
+            "text": "Meminta seluruh kelompok mengunci kepala tripod secara permanen sepanjang semester sehingga peserta didik sama sekali dilarang menggunakan teknik panning, tilting, maupun dolly pada seluruh proyek video mereka."
+          },
+          {
+            "id": "C",
+            "text": "Menugaskan peserta didik mencatat ulang definisi kaidah 180 derajat, axis of action, dan jenis pergerakan kamera dari buku panduan sinematografi sebanyak tiga halaman agar tertanam kuat di ingatan."
+          },
+          {
+            "id": "D",
+            "text": "Langsung memotong nilai praktik sebesar 30 poin bagi setiap kelompok yang videonya masih memuat jump cut atau perpindahan arah pandang tanpa menjelaskan penyebab kebingungan visualnya."
+          },
+          {
+            "id": "E",
+            "text": "Membiarkan kebiasaan pengambilan gambar tersebut tetap berjalan pada proyek pertama dengan anggapan bahwa selera audiens media sosial masa kini memang lebih menyukai gaya kamera yang acak dan cepat."
+          }
+        ],
+        "correctAnswer": "A",
+        "explanation": "Miskonsepsi sinematografi (PF.2) muncul ketika murid menyamakan 'dinamika kamera' dengan gerakan tanpa motivasi naratif dan mengabaikan spasialitas penonton. Menciptakan konflik kognitif melalui perbandingan visual langsung (A) membuat murid mengalami sendiri kebingungan arah pandang (eyeline mismatch) akibat pelanggaran rule of 180 degrees dan memahami fungsi motivasi gerak kamera secara konseptual (P.1). Pelarangan total (B) atau hafalan pasif (C) tidak membangun penalaran sinematografis.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q003",
+        "number": 3,
+        "type": "category",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam praktik produksi video profil bengkel UMKM di lingkungan sekolah, guru membimbing peserta didik menerapkan prosedur teknis tata suara lapangan dan manajemen produksi yang akurat (PF.2 & P.1)."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan SESUAI atau TIDAK SESUAI prosedur produksi videografi dan audio berikut!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Menggunakan mikrofon lavalier (clip-on) pada narasumber wawancara di ruang kerja yang agak bising karena jarak kapsul mikrofon yang dekat dengan sumber suara membantu meningkatkan rasio sinyal suara vokal terhadap kebisingan latar."
+          },
+          {
+            "id": "B",
+            "text": "Mengatur penguatan sinyal (gain) perekam audio hingga grafik meteran sering menyentuh batas merah 0 dBFS (clipping) agar rekaman suara terdengar lantang sejak awal dan tidak perlu dinaikkan lagi saat penyuntingan."
+          },
+          {
+            "id": "C",
+            "text": "Merekam room tone (suara suasana ruang alami tanpa dialog) selama 30–60 detik di lokasi pengambilan gambar untuk menambal celah sunyi saat penyuntingan dialog agar transisi audio terasa mulus."
+          },
+          {
+            "id": "D",
+            "text": "Mengelompokkan pengambilan gambar dalam shot list berdasarkan kesamaan lokasi dan tata cahaya (bukan urutan kronologis cerita pada naskah) demi efisiensi waktu produksi lapangan."
+          }
+        ],
+        "categories": [
+          {
+            "id": "sesuai",
+            "text": "Sesuai"
+          },
+          {
+            "id": "tidak-sesuai",
+            "text": "Tidak Sesuai"
+          }
+        ],
+        "correctAnswer": {
+          "A": "sesuai",
+          "B": "tidak-sesuai",
+          "C": "sesuai",
+          "D": "sesuai"
+        },
+        "explanation": "A) Sesuai: Mikrofon lavalier yang dekat mulut narasumber menghasilkan signal-to-noise ratio lebih baik di ruang bising dibandingkan mikrofon internal kamera. B) Tidak Sesuai: Sinyal audio yang menyentuh 0 dBFS mengalami digital clipping (distorsi pecah permanen yang tidak dapat dipulihkan secara utuh); level aman dialog umumnya dijaga pada kisaran -12 dB hingga -6 dB. C) Sesuai: Room tone esensial dalam kontinuitas tata suara pascaproduksi. D) Sesuai: Penjadwalan shot list berdasarkan kesamaan setup pencahayaan dan lokasi adalah standar efisiensi produksi (PF.2 & P.1).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q004",
+        "number": 4,
+        "type": "multiple",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pada pembelajaran Motion Graphics dan Animasi 2D di kelas XI DKV, guru menganalisis hasil latihan animasi bola memantul dan kinetic typography milik peserta didik untuk meluruskan pemahaman teknis 12 prinsip animasi (PF.2 & P.2). Manakah pernyataan konseptual yang BENAR dan perlu dikuatkan guru kepada peserta didik?"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Penerapan prinsip squash and stretch pada objek lunak yang memantul harus tetap mempertahankan volume keseluruhan objek agar gerakannya terasa elastis sekaligus meyakinkan secara fisika."
+          },
+          {
+            "id": "B",
+            "text": "Penggunaan interpolasi linear keyframe pada seluruh pergerakan teks dan ikon merupakan standar utama motion graphics profesional karena kecepatan konstan dari awal hingga berhenti membuat gerak tampak paling alami."
+          },
+          {
+            "id": "C",
+            "text": "Prinsip anticipation (gerak ancang-ancang berlawanan arah sesaat sebelum aksi utama) membantu memandu fokus mata penonton sekaligus membangun kesan berat dan tenaga pada suatu gerakan."
+          },
+          {
+            "id": "D",
+            "text": "Pengaturan kurva kecepatan melalui graph editor (slow in dan slow out / easing) membuat elemen grafis berakselerasi dan berdeselerasi secara organik, sehingga tidak terasa kaku seperti mesin."
+          },
+          {
+            "id": "E",
+            "text": "Prinsip follow through dan overlapping action berarti seluruh bagian objek atau karakter harus berhenti pada bingkai (frame) yang sama persis supaya komposisi terlihat rapi."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "C",
+          "D"
+        ],
+        "minSelections": 2,
+        "maxSelections": 4,
+        "instruction": "Pilih dua, tiga, atau empat jawaban yang benar.",
+        "explanation": "Dalam 12 prinsip animasi dan motion graphics (PF.2): squash and stretch wajib menjaga kekekalan volume agar tidak tampak membesar/mengecil secara aneh (A); anticipation menyiapkan mata penonton terhadap aksi utama (C); dan easing (slow in/slow out) melalui graph editor menciptakan akselerasi-deselerasi alami (D). Opsi B salah karena gerak linear tanpa easing justru terkesan kaku dan robotis; opsi E salah karena follow through & overlapping action justru membuat elemen sekunder berhenti sedikit lebih lambat akibat inersia.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q005",
+        "number": 5,
+        "type": "single",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam praktik fotografi produk komersial untuk katalog UMKM minuman botol kaca dan aksesori logam, banyak peserta didik berkeyakinan bahwa menembakkan lampu kilat (flash) secara langsung dari arah kamera adalah cara terbaik agar produk berkilau tajam, sekaligus mengira penggunaan bukaan diafragma lebar f/1.8 selalu menghasilkan ketajaman optimal di seluruh bagian kemasan produk. Desain eksplorasi praktik studio yang paling efektif untuk meluruskan kedua miskonsepsi tersebut (PF.2 & P.1) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menjelaskan rumus hukum pemantulan sudut datang sama dengan sudut pantul di papan tulis, lalu meminta murid menghafal tabel kedalaman ruang (depth of field) dari f/1.4 hingga f/22."
+          },
+          {
+            "id": "B",
+            "text": "Memfasilitasi eksperimen komparatif terkontrol pada botol kaca yang sama dengan membandingkan tembakan flash langsung vs pencahayaan terdifusi dari samping/belakang (bright-field/dark-field) serta membandingkan ketajaman teks label dari depan ke belakang pada f/1.8, f/5.6, dan f/11."
+          },
+          {
+            "id": "C",
+            "text": "Meminta murid memperbaiki seluruh pantulan menyilaukan dan area label kemasan yang buram tersebut menggunakan perangkat lunak pengolah gambar agar target jadwal katalog selesai tepat waktu."
+          },
+          {
+            "id": "D",
+            "text": "Menugaskan peserta didik mengganti seluruh objek botol kaca dengan botol plastik buram agar pantulan cahaya tidak lagi mengganggu hasil pemotretan katalog."
+          },
+          {
+            "id": "E",
+            "text": "Meminta setiap peserta didik mencari lima contoh foto produk minuman komersial dari internet dan mendiskusikan komposisi warnanya tanpa mempraktikkan pengaturan lampu di studio."
+          }
+        ],
+        "correctAnswer": "B",
+        "explanation": "Pemahaman optik fotografi produk (PF.2) dibangun paling kuat melalui eksperimen komparatif terkontrol (P.1). Dengan membandingkan langsung hard flash depan versus pencahayaan terdifusi samping/belakang (menghindari family of angles yang memantul langsung ke lensa), serta melihat perubahan area tajam label dari f/1.8 (depth of field terlalu sempit untuk teks penuh) ke f/8–f/11, murid mengonstruksi sendiri hubungan antara ukuran sumber cahaya, sudut pantul, dan bukaan diafragma.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q006",
+        "number": 6,
+        "type": "single",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Saat mempersiapkan sesi pengambilan gambar dokumenter di dalam ruang bengkel dan luar ruang yang berangin, seorang peserta didik menanyakan prosedur pemasangan lampu LED berdaya tinggi di atas light stand setinggi 2,5 meter, penataan kabel ekstensi di jalur lalu-lalang kru, serta penanganan baterai lithium-ion cadangan di bawah terik matahari. Prosedur keselamatan kerja (K3) produksi lapangan yang wajib ditekankan guru DKV (PF.2 & P.3) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Memasang lampu setinggi mungkin dengan bukaan kaki light stand sempit agar tidak memakan tempat, membiarkan kabel melintang longgar agar mudah dipindah, dan meletakkan baterai di atas dasbor kendaraan agar kering."
+          },
+          {
+            "id": "B",
+            "text": "Membentangkan kaki light stand secara stabil dan membebaninya dengan sandbag di sisi berlawanan arah beban lampu, menempelkan jalur kabel pada lantai menggunakan gaffer tape/cable ramp, serta menyimpan baterai lithium-ion di tas pelindung teduh bersekat agar tidak panas berlebih atau mengalami hubungan pendek."
+          },
+          {
+            "id": "C",
+            "text": "Meminta salah seorang anggota kru memegang tiang lampu dengan tangan kosong sepanjang sesi shooting selama dua jam sambil menyimpan seluruh baterai lepas bersama kunci logam di dalam satu saku."
+          },
+          {
+            "id": "D",
+            "text": "Menghubungkan seluruh lampu studio, pengisi daya baterai, dan monitor lapangan pada satu stopkontak cabang murah agar pemutus arus terpusat di satu titik tanpa perlu menghitung kapasitas watt."
+          },
+          {
+            "id": "E",
+            "text": "Membungkus seluruh bodi lampu LED yang menyala dengan plastik bening rapat untuk mencegah debu bengkel masuk meskipun sirkulasi kipas pendinginnya menjadi tertutup."
+          }
+        ],
+        "correctAnswer": "B",
+        "explanation": "Standar K3 produksi lapangan (PF.2 & P.3) mewajibkan pencegahan kecelakaan fisik dan kelistrikan: pembebanan light stand dengan sandbag mencegah lampu tumbang tertiup angin/tersenggol, pengamanan kabel dengan gaffer tape mencegah risiko tersandung (tripping hazard), dan penyimpanan baterai lithium-ion di tempat teduh bersekat terminal mencegah thermal runaway atau korsleting. Opsi A, C, D, dan E justru memicu bahaya tumbang, beban listrik berlebih, overheating, dan korsleting baterai.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q007",
+        "number": 7,
+        "type": "category",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Guru DKV merancang aktivitas perancangan Infografis dan Visualisasi Data agar peserta didik mampu menyederhanakan statistik kompleks menjadi grafik yang akurat tanpa distorsi visual (PF.2 & P.1)."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan TEPAT atau TIDAK TEPAT keputusan visualisasi data berikut!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Menggunakan grafik garis (line chart) dengan interval sumbu horizontal seragam untuk menunjukkan tren perubahan jumlah pengunjung perpustakaan sekolah dari bulan Januari hingga Desember."
+          },
+          {
+            "id": "B",
+            "text": "Memotong sumbu vertikal grafik batang (truncated Y-axis) sehingga dimulai dari angka 78% hingga 82% untuk membandingkan tingkat kehadiran dua kelas agar selisih kecil 2% terlihat jauh lebih dramatis."
+          },
+          {
+            "id": "C",
+            "text": "Menggunakan grafik lingkaran (pie chart) dengan 14 kategori kecil bernilai mirip dan menambahkan efek perspektif 3D miring agar tampilannya terasa lebih modern dan berdimensi."
+          },
+          {
+            "id": "D",
+            "text": "Menyusun tata letak infografis ringkas mengikuti pola alur baca Z-pattern atau F-pattern dengan hierarki tipografi jelas antara judul temuan utama, subjudul data, dan sumber referensi resmi."
+          }
+        ],
+        "categories": [
+          {
+            "id": "tepat",
+            "text": "Tepat"
+          },
+          {
+            "id": "tidak-tepat",
+            "text": "Tidak Tepat"
+          }
+        ],
+        "correctAnswer": {
+          "A": "tepat",
+          "B": "tidak-tepat",
+          "C": "tidak-tepat",
+          "D": "tepat"
+        },
+        "explanation": "A) Tepat: Line chart paling akurat memvisualisasikan tren deret waktu (time-series). B) Tidak Tepat: Memotong sumbu Y pada bar chart menciptakan misleading chart karena panjang batang tidak lagi proporsional dengan nilai absolutnya. C) Tidak Tepat: Pie chart idealnya maksimal 4–5 kategori kontras dan tidak boleh diberi perspektif 3D karena kemiringan mendistorsi persepsi luas irisan. D) Tepat: Alur baca Z/F-pattern dan pencantuman sumber data menjaga keterbacaan serta kredibilitas informasi (PF.2 & P.1).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q008",
+        "number": 8,
+        "type": "single",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam proyek Desain Publikasi penyusunan katalog tahunan setebal 120 halaman dengan jilid lem panas (perfect binding), peserta didik membuat tata letak spread (dua halaman berhadapan) dengan ukuran margin dalam (inside margin) sama tipisnya dengan margin luar sebesar 8 mm, serta menempatkan teks paragraf melintasi lipatan tengah halaman. Ketika guru meminta mereka memprediksi hasil cetaknya beserta alasan teknisnya, jawaban murid yang menunjukkan penguasaan konsep tata letak editorial paling tepat (PF.2 & P.2) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Hasil cetak tetap nyaman dibaca karena mesin potong kertas modern otomatis menggeser posisi seluruh teks ke arah tepi luar sebelum proses pengeleman dilakukan."
+          },
+          {
+            "id": "B",
+            "text": "Katalog akan mengalami perubahan warna dari CMYK menjadi RGB di area tengah karena lem panas memengaruhi kepekatan tinta hitam pada kertas art paper."
+          },
+          {
+            "id": "C",
+            "text": "Margin dalam justru seharusnya dibuat lebih sempit daripada margin luar agar kedua halaman terlihat menyatu rapat sebagai satu poster lebar tanpa ruang kosong."
+          },
+          {
+            "id": "D",
+            "text": "Pengaturan margin tidak berpengaruh pada keterbacaan jilid lem panas selama peserta didik sudah menambahkan area bleed sebesar 3 mm di seluruh keempat sisi halaman."
+          },
+          {
+            "id": "E",
+            "text": "Teks di dekat lipatan tengah akan tertarik masuk ke tulang punggung jilid (gutter) sehingga sulit dibaca saat buku dibuka; oleh karena itu margin dalam (inside margin) pada jilid lem panas perlu dibuat lebih lega dan elemen teks penting dihindarkan dari area lipatan."
+          }
+        ],
+        "correctAnswer": "E",
+        "explanation": "Pada publikasi cetak tebal berjilid lem panas (perfect binding), lekukan tulang punggung jilid memakan sebagian bidang dekat lipatan tengah (PF.2). Oleh sebab itu, margin dalam (inside margin/gutter allowance) wajib dirancang lebih lebar dan teks penting tidak boleh melintasi lipatan tengah agar keterbacaan tetap terjaga. Bleed (opsi D) berfungsi mengantisipasi toleransi pemotongan tepi luar, bukan menyelesaikan tarikan lipatan jilid.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q009",
+        "number": 9,
+        "type": "multiple",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pada pembelajaran Desain UI/UX dan Media Interaktif di kelas XII DKV, guru membimbing peserta didik merancang antarmuka aplikasi layanan informasi sekolah yang responsif dan inklusif mengacu pada standar aksesibilitas Web Content Accessibility Guidelines (WCAG) (PF.2 & P.1). Manakah prinsip desain antarmuka yang BENAR untuk diterapkan dalam proyek tersebut?"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Memastikan rasio kontras warna teks isi normal terhadap latar belakang minimal 4,5:1 (level WCAG AA) agar tetap terbaca jelas oleh pengguna dengan penurunan ketajaman penglihatan maupun di layar luar ruang."
+          },
+          {
+            "id": "B",
+            "text": "Tidak mengandalkan warna semata sebagai penanda status kesalahan formulir (misalnya merah saja), melainkan memadukannya dengan ikon peringatan dan pesan teks eksplisit agar tetap dipahami pengguna buta warna."
+          },
+          {
+            "id": "C",
+            "text": "Merancang tata letak desktop selebar 1440 piksel terlebih dahulu secara penuh lalu sekadar mengecilkan skala seluruh elemen secara proporsional di layar ponsel tanpa menyesuaikan ukuran bidang sentuh tombol."
+          },
+          {
+            "id": "D",
+            "text": "Menerapkan pendekatan mobile-first dengan prioritas konten inti, hierarki navigasi ringkas, serta ukuran area sentuh tombol (touch target) yang memadai untuk ibu jari pengguna ponsel."
+          },
+          {
+            "id": "E",
+            "text": "Menggunakan perataan teks rata kiri (left-aligned), jarak antarbaris (line-height) lega, dan jenis huruf sans-serif yang memiliki pembedaan bentuk karakter jelas untuk mendukung keterbacaan pengguna dengan disleksia."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "D",
+          "E"
+        ],
+        "minSelections": 2,
+        "maxSelections": 4,
+        "instruction": "Pilih dua, tiga, atau empat jawaban yang benar.",
+        "explanation": "Prinsip desain UI/UX aksesibel dan responsif (PF.2 & P.1) mencakup rasio kontras minimal 4,5:1 untuk teks normal (A), redundansi penanda non-warna berupa ikon dan teks bagi penyandang buta warna (B), pendekatan mobile-first dengan touch target memadai (D), serta tipografi rata kiri berjarak lega yang ramah disleksia (E). Opsi C keliru karena mengecilkan skala tampilan desktop ke layar ponsel membuat teks tak terbaca dan tombol terlalu kecil untuk disentuh.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q010",
+        "number": 10,
+        "type": "single",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam tahap pascaproduksi video non-linear editing (NLE), banyak peserta didik langsung menempelkan filter warna (LUT) bergaya sinematik berwarna oranye-biru pada seluruh klip mentah tanpa menyelaraskan eksposur maupun keseimbangan putih antar-kamera, dan menganggap color correction sama saja dengan color grading. Penjelasan konseptual dan alur kerja yang paling akurat disampaikan guru DKV (PF.2) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Color grading harus selalu dikerjakan sebelum color correction agar warna kreatif dominan dapat menutupi kesalahan white balance dan pencahayaan klip yang terlalu gelap."
+          },
+          {
+            "id": "B",
+            "text": "Color correction dan color grading merupakan istilah yang dapat dipertukarkan dan keduanya cukup dinilai secara subjektif menggunakan tingkat kecerahan maksimum layar laptop masing-masing."
+          },
+          {
+            "id": "C",
+            "text": "Color correction hanya diperlukan pada kamera sinema kelas industri yang merekam format RAW, sedangkan rekaman kamera mirrorless sekolah langsung masuk ke tahap penambahan efek transisi."
+          },
+          {
+            "id": "D",
+            "text": "Penerapan LUT secara otomatis telah menggantikan kebutuhan color correction maupun pembacaan grafik waveform karena perangkat lunak modern dapat membaca suasana hati sutradara."
+          },
+          {
+            "id": "E",
+            "text": "Color correction adalah tahap koreksi teknis terlebih dahulu untuk menormalkan eksposur, kontras, white balance, dan keselarasan antarklip menggunakan bantuan scopes (waveform/vectorscope), barulah color grading diterapkan secara kreatif untuk membangun nuansa emosi cerita."
+          }
+        ],
+        "correctAnswer": "E",
+        "explanation": "Alur kerja warna standar industri pascaproduksi NLE (PF.2) membedakan dua tahap berurutan: color correction (koreksi teknis objektif untuk menyamakan white balance, eksposur, dan warna kulit antarklip dengan referensi scopes seperti waveform/RGB parade/vectorscope) diikuti color grading (olah estetika kreatif untuk membentuk atmosfer visual). Menempelkan LUT pada klip yang tidak seimbang justru memperparah inkonsistensi warna antarsudut kamera.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q011",
+        "number": 11,
+        "type": "single",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Di wilayah sekitar sekolah terdapat sentra kuliner tradisional dan kesenian rakyat yang mulai kurang dikenal oleh generasi muda setempat. Guru DKV kelas XI ingin merancang pembelajaran proyek Desain Kampanye Sosial dan Periklanan Digital berbasis potensi serta kearifan lokal (PF.3 & P.5). Rancangan kegiatan belajar yang paling autentik dan bermakna adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Membimbing peserta didik mewawancarai perajin/pelaku kuliner lokal untuk menyusun creative brief nyata, memetakan profil audiens remaja, mengembangkan visual storytelling dan copywriting persuasi yang menghormati nilai budaya setempat, lalu menguji efektivitas keterbacaan kampanyenya di kanal media sosial dan ruang publik lokal."
+          },
+          {
+            "id": "B",
+            "text": "Menugaskan peserta didik mengunduh foto makanan tradisional dari mesin pencari, menempelkan slogan promosi diskon fiktif berbahasa asing, lalu mengumpulkan hasilnya dalam format JPEG ke folder kelas."
+          },
+          {
+            "id": "C",
+            "text": "Meminta seluruh kelas meniru mentah-mentah tata letak dan gaya bahasa iklan merek restoran cepat saji global dengan mengganti gambarnya menjadi jajanan pasar lokal tanpa analisis audiens."
+          },
+          {
+            "id": "D",
+            "text": "Menyampaikan materi teori segmentasi pasar dan jenis media ATL/BTL selama empat pertemuan berturut-turut, lalu mengujinya melalui soal esai mengenai definisi periklanan budaya."
+          },
+          {
+            "id": "E",
+            "text": "Menyarankan peserta didik membuat konten parodi berlebihan yang menertawakan cara bicara perajin senior di daerah tersebut agar kampanye cepat viral dan menarik perhatian warganet."
+          }
+        ],
+        "correctAnswer": "A",
+        "explanation": "Pendekatan kontekstual berbasis kearifan lokal dalam DKV (PF.3 & P.5) menempatkan riset lapangan nyata bersama pelaku budaya sebagai fondasi creative brief, segmentasi audiens, dan visual storytelling yang bermartabat. Opsi A menumbuhkan keterhubungan emosional sekaligus penguasaan alur kerja kampanye profesional, sedangkan B dan C kehilangan autentisitas, D terlalu verbalistik, dan E tidak etis terhadap komunitas lokal.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q012",
+        "number": 12,
+        "type": "single",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Di kelas XII DKV terdapat seorang peserta didik dengan hambatan penglihatan warna parsial merah-hijau (deuteranopia) yang memiliki kemampuan tata letak, tipografi, dan alur navigasi sangat kuat, namun kerap kesulitan saat praktik pemilihan palet warna UI/UX dan visualisasi data infografis. Penyesuaian strategi pembelajaran dan alat bantu yang paling tepat sesuai prinsip pendidikan inklusif DKV (PF.3 & P.2) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Membebaskan peserta didik tersebut dari seluruh proyek desain berwarna dan hanya menugaskannya mengerjakan proyek hitam-putih hingga lulus agar nilainya tidak turun."
+          },
+          {
+            "id": "B",
+            "text": "Meminta teman sebangkunya mengambil alih seluruh tahapan pewarnaan proyek peserta didik tersebut secara diam-diam supaya tidak ada rekan sekelas yang mengetahui kondisinya."
+          },
+          {
+            "id": "C",
+            "text": "Menyarankan orang tua agar memindahkan peserta didik tersebut ke jurusan lain karena semua bidang desain komunikasi visual dianggap mutlak mensyaratkan penglihatan warna sempurna."
+          },
+          {
+            "id": "D",
+            "text": "Membimbing peserta didik memanfaatkan pembacaan kode warna numerik (Hex/RGB/HSL), alat pemeriksa rasio kontras WCAG, palet ramah buta warna (colorblind-safe palette), penanda pola/tekstur pada grafik, serta menumbuhkan perannya dalam menguji aksesibilitas desain bagi seluruh kelas."
+          },
+          {
+            "id": "E",
+            "text": "Menilai karya warna peserta didik tersebut dengan standar berbeda yang lebih rendah tanpa membekalinya strategi alat bantu profesional untuk bekerja di industri kreatif."
+          }
+        ],
+        "correctAnswer": "D",
+        "explanation": "Prinsip pendidikan inklusif di SMK DKV (PF.3 & P.2) tidak menyingkirkan murid (C) atau membatasi potensinya pada tugas monokrom semata (A), melainkan menyediakan akomodasi alat bantu profesional (kode warna numerik, contrast checker, palet aksesibel, dan indikator pola/label). Bahkan, perspektif murid tersebut menjadi aset nyata kelas saat memvalidasi aksesibilitas desain UI/UX dan infografis.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q013",
+        "number": 13,
+        "type": "category",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam proyek 'Kampanye Anti-Perundungan Siber' pada kelas DKV yang memiliki kesiapan teknis, gaya kerja, dan minat medium berbeda-beda, guru merancang pembelajaran berdiferensiasi (PF.3 & P.2)."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan TEPAT atau TIDAK TEPAT strategi diferensiasi berikut!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Memberi kebebasan kelompok memilih media utama kampanye—seperti seri infografis carousel, video pendek vertikal, komik strip digital, atau microsite interaktif—dengan syarat seluruhnya mengacu pada standar creative brief dan rubrik efektivitas pesan yang setara."
+          },
+          {
+            "id": "B",
+            "text": "Menyediakan templat lembar analisis audiens terpandu beserta contoh anotasi bagi kelompok yang masih kesulitan membedah creative brief, sementara kelompok yang telah mahir langsung menyusun riset wawancara audiens secara mandiri."
+          },
+          {
+            "id": "C",
+            "text": "Menyediakan beragam sumber belajar untuk memahami copywriting persuasi, meliputi studi kasus cetak, video bedah iklan berdurasi pendek, dan kartu panduan struktur pesan."
+          },
+          {
+            "id": "D",
+            "text": "Hanya mengizinkan peserta didik dengan nilai praktik tertinggi merancang konsep ide kreatif dan narasi kampanye, sedangkan peserta didik yang masih lambat cukup diberi tugas mengetik teks ulang tanpa terlibat dalam pengambilan keputusan desain."
+          }
+        ],
+        "categories": [
+          {
+            "id": "tepat",
+            "text": "Tepat"
+          },
+          {
+            "id": "tidak-tepat",
+            "text": "Tidak Tepat"
+          }
+        ],
+        "correctAnswer": {
+          "A": "tepat",
+          "B": "tepat",
+          "C": "tepat",
+          "D": "tidak-tepat"
+        },
+        "explanation": "A) Tepat: Diferensiasi produk mengakomodasi minat medium (infografis, video, komik, UI) dengan standar capaian kompetensi yang tetap utuh. B) Tepat: Diferensiasi proses melalui variasi tingkat scaffolding sesuai kesiapan murid. C) Tepat: Diferensiasi konten menyediakan beragam modalitas belajar. D) Tidak Tepat: Membatasi akses berpikir kreatif tingkat tinggi (HOTS) hanya bagi murid tertentu melanggar keadilan belajar dan prinsip diferensiasi (PF.3 & P.2).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q014",
+        "number": 14,
+        "type": "multiple",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Sekolah berada dekat kawasan pasar tradisional, ruang publik kota, dan permukiman perajin. Guru DKV memanfaatkan lingkungan sekitar tersebut sebagai ruang belajar lapangan autentik untuk materi Foto Jurnalistik dan Dokumenter (PF.3 & P.5). Langkah pembelajaran yang tepat, kontekstual, dan beretika adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Membimbing peserta didik menyusun riset singkat dan daftar rencana liputan (story angle) terlebih dahulu sebelum terjun ke lokasi agar rangkaian foto memiliki alur cerita utuh."
+          },
+          {
+            "id": "B",
+            "text": "Mewajibkan peserta didik memperkenalkan diri, menjelaskan tujuan edukatif pemotretan, serta meminta persetujuan lisan atau formulir izin (model/location release) dari subjek yang dipotret secara dekat."
+          },
+          {
+            "id": "C",
+            "text": "Melatih peserta didik menulis takarir foto (caption) jurnalistik yang faktual memuat unsur 5W+1H secara akurat tanpa membesar-besarkan atau merekayasa kondisi subjek."
+          },
+          {
+            "id": "D",
+            "text": "Mengarahkan peserta didik mengatur ulang pose pedagang dan memindahkan barang dagangan agar terlihat lebih dramatis layaknya adegan film fiksi, lalu menamainya sebagai foto berita spontan."
+          },
+          {
+            "id": "E",
+            "text": "Menetapkan batas zona aman pemotretan, pembagian pasangan kerja (buddy system), dan jadwal berkumpul kembali untuk menjaga keselamatan peserta didik selama peliputan di ruang publik."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "E"
+        ],
+        "minSelections": 2,
+        "maxSelections": 4,
+        "instruction": "Pilih dua, tiga, atau empat jawaban yang benar.",
+        "explanation": "Pembelajaran foto jurnalistik/dokumenter berbasis lingkungan (PF.3 & P.5) mengintegrasikan perencanaan cerita (A), etika izin subjek/model release (B), ketepatan caption 5W+1H tanpa manipulasi fakta (C), dan manajemen keselamatan lapangan melalui buddy system (E). Opsi D keliru karena merekayasa adegan (staging) lalu mengklaimnya sebagai foto berita spontan melanggar kode etik foto jurnalistik.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q015",
+        "number": 15,
+        "type": "single",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pada awal pembelajaran topik 'Kinetic Typography dan Timing Animasi', guru memutar dua video motion graphics berdurasi 20 detik dengan teks dan warna identik: versi pertama menggunakan keyframe linear tanpa variasi jeda sehingga terasa datar dan melelahkan dibaca, sedangkan versi kedua menerapkan kurva easing, ritme timing selaras ketukan narasi, serta hierarki ukuran teks yang kuat. Guru kemudian mengajak peserta didik menganalisis mengapa versi kedua terasa jauh lebih persuasif sebelum memperkenalkan istilah teknisnya. Dampak pedagogis utama strategi berbasis fenomena visual ini (PF.3, P.3 & P.1) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Mempercepat penyelesaian silabus karena guru tidak perlu lagi membimbing peserta didik mempraktikkan pengaturan graph editor secara individu."
+          },
+          {
+            "id": "B",
+            "text": "Memastikan seluruh peserta didik meniru persis komposisi huruf, ritme animasi, dan gaya warna video contoh kedua pada proyek akhirnya."
+          },
+          {
+            "id": "C",
+            "text": "Memicu rasa ingin tahu dan kepekaan rasa gerak (visual-kinesthetic sense) murid melalui kontras pengalaman nyata sehingga istilah teknis timing, spacing, dan easing dipahami sebagai alat memecahkan masalah komunikasi, bukan sekadar menu perangkat lunak."
+          },
+          {
+            "id": "D",
+            "text": "Membuktikan kepada peserta didik bahwa pemilihan jenis huruf dan warna tidak memiliki pengaruh berarti dibandingkan efek kecepatan gerak semata."
+          },
+          {
+            "id": "E",
+            "text": "Mengurangi beban guru dalam menyiapkan rubrik penilaian karena kualitas animasi cukup diukur dari kesan spontan tepuk tangan kelas."
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Memulai pembelajaran dengan kontras fenomena visual autentik (anchoring visual phenomenon, PF.3, P.3 & P.1) mengaktifkan pengamatan kritis dan kesadaran rasa gerak (mindful & joyful). Murid memahami alasan komunikatif di balik parameter teknis graph editor, timing, dan spacing terlebih dahulu sebelum masuk ke penguasaan perangkat lunak, sehingga pembelajaran menjadi mendalam dan bermakna.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q016",
+        "number": 16,
+        "type": "single",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Sebuah SMK di daerah berkembang belum memiliki studio pencahayaan fotografi produk yang lengkap (tidak tersedia softbox profesional, meja pemotretan akrilik, maupun lampu studio kontinu berdaya besar). Padahal, capaian pembelajaran mewajibkan peserta didik menguasai teknik pencahayaan fotografi produk komersial dan makanan. Solusi pedagogis-teknis yang paling adaptif dan tetap mempertahankan ketepatan konsep optik (PF.3, P.5 & PF.2) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menghapus seluruh sesi praktik pemotretan produk dan menggantinya dengan latihan merangkai kolase dari bank foto stok berbayar."
+          },
+          {
+            "id": "B",
+            "text": "Mewajibkan setiap peserta didik menyewa studio foto komersial di pusat kota menggunakan biaya pribadi pada akhir pekan."
+          },
+          {
+            "id": "C",
+            "text": "Memotret produk di tengah lapangan terbuka tepat pukul 12.00 siang tanpa pengarah cahaya agar intensitas terang selalu maksimal."
+          },
+          {
+            "id": "D",
+            "text": "Menunda seluruh materi fotografi produk hingga tahun anggaran berikutnya sampai sekolah menerima bantuan pengadaan peralatan studio lengkap."
+          },
+          {
+            "id": "E",
+            "text": "Memanfaatkan cahaya alami terarah dari sisi jendela ruang kelas yang dilembutkan dengan kain tipis putih/kertas kalkir sebagai diffuser, dipadukan papan busa putih (foam board) sebagai reflektor pengisi bayangan dan karton hitam sebagai negative fill, serta penggunaan mode manual kamera ponsel/DSLR sekolah."
+          }
+        ],
+        "correctAnswer": "E",
+        "explanation": "Penguasaan prinsip fisika cahaya (arah, kualitas keras-lembut, refleksi, dan absorpsi, PF.2) memungkinkan guru DKV beradaptasi kreatif menghadapi keterbatasan sarana (PF.3 & P.5). Cahaya jendela terdifusi ditambah reflektor papan busa putih dan negative fill hitam secara persis mengajarkan konsep kendali pencahayaan studio komersial tanpa membebani biaya murid (B) ataupun merusak kualitas cahaya seperti matahari tengah hari (C).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q017",
+        "number": 17,
+        "type": "single",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Saat mengerjakan proyek Infografis Laporan Tahunan Bank Sampah Sekolah, beberapa peserta didik mampu menciptakan ilustrasi dan pemilihan warna yang sangat menarik, tetapi mereka kesulitan mengubah tabel data mentah (kilogram sampah per bulan dan persentase daur ulang) menjadi perbandingan visual yang akurat—sehingga batang grafik untuk angka 20 kg dan 60 kg digambar hanya berdasarkan perkiraan mata tanpa skala proporsional. Langkah perancah (scaffolding) pedagogis yang paling tepat dilakukan guru (PF.3 & P.2) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menjelaskan bahwa perbedaan tinggi batang grafik sekitar 20–30% dapat dimaklumi dalam desain komunikasi visual selama label angkanya tetap ditulis di samping batang."
+          },
+          {
+            "id": "B",
+            "text": "Menghapus kewajiban mencantumkan angka dan grafik dari infografis kelompok tersebut agar mereka cukup menampilkan ilustrasi dekoratif dan kalimat ajakan umum."
+          },
+          {
+            "id": "C",
+            "text": "Meminta guru Matematika menggantikan tugas desain infografis mereka dengan latihan soal perbandingan senilai hingga akhir semester."
+          },
+          {
+            "id": "D",
+            "text": "Memandu peserta didik melalui lembar kerja bertahap: menyaring angka inti di lembar kerja spreadsheet, menghasilkan grafik dasar berskala matematis otomatis terlebih dahulu, lalu mengimpor bentuk proporsional tersebut sebagai acuan vektor untuk diolah estetikanya tanpa mengubah rasio data."
+          },
+          {
+            "id": "E",
+            "text": "Mengerjakan ulang seluruh grafik data milik peserta didik tersebut menggunakan perangkat lunak guru agar pameran karya sekolah tidak memuat kesalahan statistik."
+          }
+        ],
+        "correctAnswer": "D",
+        "explanation": "Scaffolding literasi numerasi dalam DKV (PF.3 & P.2) menjembatani ketepatan matematis dengan ekspresi visual. Mengolah data di spreadsheet untuk memperoleh kerangka grafik proporsional lalu mengekspornya ke perangkat lunak vektor sebagai referensi bentuk menjaga integritas visualisasi data (menghindari lie factor) sekaligus memberdayakan kemandirian murid.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q018",
+        "number": 18,
+        "type": "category",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Sebagai calon praktisi komunikasi visual di tengah maraknya disinformasi digital, peserta didik DKV perlu dibekali kemampuan merancang Kampanye Sosial dan Periklanan yang strategis sekaligus beretika (PF.3 & P.5)."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan SESUAI atau TIDAK SESUAI muatan pembelajaran kampanye dan periklanan berikut!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Melatih peserta didik membedah creative brief untuk memastikan pesan utama (key message), nada suara (tone of voice), dan ajakan bertindak (call to action) selaras dengan perilaku audiens sasaran."
+          },
+          {
+            "id": "B",
+            "text": "Mengajarkan strategi pemilihan kombinasi kanal media Above The Line (ATL), Below The Line (BTL), dan media sosial digital berdasarkan kebiasaan konsumsi informasi audiens serta anggaran realistis."
+          },
+          {
+            "id": "C",
+            "text": "Mendorong peserta didik merancang judul umpan klik (clickbait) yang melebih-lebihkan ancaman kesehatan tanpa sumber ilmiah agar tingkat interaksi unggahan kampanye melonjak drastis."
+          },
+          {
+            "id": "D",
+            "text": "Membimbing peserta didik menyusun indikator evaluasi ketercapaian pesan—misalnya survei pemahaman audiens atau keterlibatan aksi nyata—bukan sekadar menghitung jumlah suka (likes)."
+          }
+        ],
+        "categories": [
+          {
+            "id": "sesuai",
+            "text": "Sesuai"
+          },
+          {
+            "id": "tidak-sesuai",
+            "text": "Tidak Sesuai"
+          }
+        ],
+        "correctAnswer": {
+          "A": "sesuai",
+          "B": "sesuai",
+          "C": "tidak-sesuai",
+          "D": "sesuai"
+        },
+        "explanation": "A) Sesuai: Analisis creative brief menjaga ketepatan strategi komunikasi visual. B) Sesuai: Media placement lintas kanal (ATL/BTL/digital) harus berbasis profil audiens dan sumber daya. C) Tidak Sesuai: Clickbait manipulatif dan fear-mongering tanpa dasar faktual melanggar etika persuasi periklanan serta merusak kepercayaan publik. D) Sesuai: Evaluasi kampanye profesional mengukur perubahan pemahaman/aksi audiens, bukan vanity metrics semata (PF.3 & P.5).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q019",
+        "number": 19,
+        "type": "single",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pada sesi kritik desain (design critique) proyek Desain Karakter dan Komik Edukasi Mitigasi Bencana, guru menerapkan kerangka argumentasi visual terstruktur: peserta didik harus menyampaikan pernyataan keputusan desain (claim), menunjukkannya pada elemen konkret seperti keterbacaan siluet karakter, turnaround sheet, atau alur balon kata antarpanel (evidence), dan menjelaskan dampaknya terhadap emosi/pemahaman pembaca (reasoning). Tujuan pedagogis utama penggunaan kerangka argumentasi ini (PF.3 & P.3) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menggeser diskusi desain dari sekadar selera pribadi ('bagus' atau 'kurang menarik') menuju penalaran profesional berbasis bukti visual, fungsi naratif, dan keterbacaan audiens."
+          },
+          {
+            "id": "B",
+            "text": "Menghindari perbedaan pendapat di kelas sehingga peserta didik yang dikritik tidak perlu merevisi sketsa karakter maupun susunan panel komiknya."
+          },
+          {
+            "id": "C",
+            "text": "Memaksa seluruh peserta didik menggunakan satu gaya gambar kartun yang seragam agar proses koreksi guru menjadi lebih cepat."
+          },
+          {
+            "id": "D",
+            "text": "Membiasakan peserta didik menghafal istilah bahasa Inggris di industri komik dan animasi tanpa perlu menguji kejelasan siluet karakternya."
+          },
+          {
+            "id": "E",
+            "text": "Menentukan pemenang karya terbaik di kelas berdasarkan kemampuan retorika lisan presenter meskipun tata letak panel dan konsistensi turnaround sheet-nya masih keliru."
+          }
+        ],
+        "correctAnswer": "A",
+        "explanation": "Sesi kritik desain yang efektif dalam pembelajaran DKV (PF.3 & P.3) menumbuhkan budaya argumentasi objektif dan aman secara psikologis. Kerangka Claim–Evidence–Reasoning melatih murid mempertanggungjawabkan keputusan desain (seperti kontras siluet karakter, konsistensi proporsi pada turnaround sheet, serta arah baca balon kata) secara rasional berbasis bukti visual dan fungsi komunikasi, bukan selera subjektif.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q020",
+        "number": 20,
+        "type": "multiple",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam proyek penciptaan Desain Karakter, Komik Digital, dan Animasi 2D bertema cerita rakyat Nusantara di kelas XI DKV, guru membimbing peserta didik mengintegrasikan unsur budaya lokal secara autentik, kontemporer, dan beretika (PF.3 & P.5). Praktik pembelajaran yang relevan dan akurat untuk dikembangkan adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menempelkan motif sakral adat tertentu secara sembarangan sebagai dekorasi latar belakang komik tanpa menelusuri makna filosofis maupun aturan penggunaannya di masyarakat."
+          },
+          {
+            "id": "B",
+            "text": "Melakukan riset referensi busana, gestur, dan nilai moral cerita rakyat setempat lalu menerjemahkannya ke dalam siluet karakter yang kuat, lembar ekspresi, dan turnaround sheet yang konsisten."
+          },
+          {
+            "id": "C",
+            "text": "Menyesuaikan dinamika ukuran panel, sudut pandang kamera komik, dan penempatan balon kata untuk membangun ritme ketegangan cerita rakyat agar mudah dicerna pembaca muda di perangkat digital."
+          },
+          {
+            "id": "D",
+            "text": "Menggambarkan tokoh dari daerah tertentu menggunakan karikatur stereotip yang merendahkan logat atau ciri fisiknya demi memancing tawa pembaca."
+          },
+          {
+            "id": "E",
+            "text": "Mengundang pegiat literasi budaya daerah atau komikus lokal untuk memberi masukan terkait akurasi konteks budaya sekaligus kejelasan penceritaan visual sebelum karya dipublikasikan."
+          }
+        ],
+        "correctAnswer": [
+          "B",
+          "C",
+          "E"
+        ],
+        "minSelections": 2,
+        "maxSelections": 4,
+        "instruction": "Pilih dua, tiga, atau empat jawaban yang benar.",
+        "explanation": "Integrasi budaya lokal dalam desain karakter dan komik (PF.3 & P.5) dilakukan melalui riset mendalam terhadap nilai dan visual budaya lalu mewujudkannya dalam siluet, ekspresi, serta turnaround sheet (B), merancang tata panel dan balon kata yang komunikatif bagi pembaca digital (C), serta melibatkan narasumber budaya/praktisi untuk verifikasi akurasi (E). Opsi A merupakan apropriasi budaya yang abai makna sakral, sementara D melanggengkan stereotip yang tidak etis.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q021",
+        "number": 21,
+        "type": "single",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam pembelajaran Desain UI/UX di kelas XII DKV, guru memanfaatkan perangkat lunak prototipe kolaboratif seperti Figma untuk merancang aplikasi pemesanan kantin sekolah. Saat pengamatan awal, banyak peserta didik langsung sibuk menghias gradasi warna, bayangan tombol, dan animasi mikro pada tampilan hi-fi tanpa memetakan kebutuhan pengguna maupun alur layar. Agar pemanfaatan Figma benar-benar memperdalam penalaran desain pengalaman pengguna dan bukan sekadar menghias antarmuka (P.4 & PF.4), langkah pedagogis yang paling tepat dilakukan guru adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Membagikan berkas UI Kit siap pakai berwarna lengkap agar seluruh murid tinggal mengganti tulisan menu kantin dan memperoleh tampilan antarmuka yang seragam rapi."
+          },
+          {
+            "id": "B",
+            "text": "Melarang penggunaan Figma selama satu semester penuh dan mengalihkan seluruh proyek UI/UX menjadi esai tertulis tentang sejarah interaksi manusia dan komputer."
+          },
+          {
+            "id": "C",
+            "text": "Menerapkan tahapan berjenjang dengan gerbang umpan balik: mewajibkan riset singkat pengguna, penyusunan user persona dan user flow, serta pengujian wireframe low-fi monokrom pada calon pengguna sebelum membuka tahap prototyping hi-fi di Figma."
+          },
+          {
+            "id": "D",
+            "text": "Meminta peserta didik langsung meniru antarmuka aplikasi pesan-antar makanan komersial terkenal dari layar ke layar agar tidak membuang waktu pada tahap riset."
+          },
+          {
+            "id": "E",
+            "text": "Menilai karya UI/UX semata-mata berdasarkan jumlah komponen interaktif dan kompleksitas transisi smart animate yang berhasil dibuat pada halaman akhir Figma."
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Integrasi teknologi desain seperti Figma (P.4 & PF.4) menjadi bermakna ketika diarahkan untuk melatih proses berpikir UX secara metodologis, bukan dekorasi visual dini. Mewajibkan user research, user persona, user flow, dan pengujian wireframe low-fi (grayscale/tanpa distraksi warna) memastikan murid memvalidasi arsitektur informasi dan hierarki navigasi sebelum masuk ke tahap visual hi-fi.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q022",
+        "number": 22,
+        "type": "single",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Untuk mengevaluasi ketercapaian kompetensi peserta didik pada unit Desain Publikasi dan Tata Letak Editorial—khususnya penguasaan sistem grid modular, master page, paragraph/character style, serta pemeriksaan pracetak (preflight) hingga ekspor PDF/X-1a siap cetak—bentuk asesmen yang paling valid dan autentik (PF.4 & P.6) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Tes pilihan ganda 40 butir yang menanyakan lokasi menu dan pintasan papan ketik (shortcut) fitur Master Page dan Preflight pada perangkat lunak tata letak."
+          },
+          {
+            "id": "B",
+            "text": "Penilaian tampilan gambar pratinjau halaman sampul dan dua halaman isi dalam format PNG semata tanpa memeriksa berkas kerja asli maupun laporan pracetak."
+          },
+          {
+            "id": "C",
+            "text": "Tes lisan menghafal perbedaan jenis kertas cetak offset dan ukuran standar kertas seri A hingga seri C secara bergiliran di depan kelas."
+          },
+          {
+            "id": "D",
+            "text": "Asesmen kinerja praktik disertai rubrik analitik yang memeriksa langsung berkas kerja native (konsistensi grid, penerapan master page, paragraph/character styles, tautan gambar beresolusi 300 ppi CMYK), hasil pemeriksaan panel preflight bebas galat, serta berkas akhir PDF/X-1a lengkap dengan bleed dan crop marks."
+          },
+          {
+            "id": "E",
+            "text": "Penugasan makalah kelompok tentang perkembangan desain majalah editorial dari era cetak mesin manual hingga majalah digital interaktif."
+          }
+        ],
+        "correctAnswer": "D",
+        "explanation": "Keterampilan teknis pracetak dan tata letak editorial (PF.4 & P.6) tidak dapat divalidasi secara utuh hanya dari gambar pratinjau PNG (B) atau hafalan shortcut (A), karena kesalahan fatal seperti teks overset, mode warna RGB, resolusi gambar rendah, atau tidak digunakannya paragraph style hanya terlihat di berkas kerja native dan panel preflight. Asesmen kinerja dengan rubrik analitik pada berkas kerja dan PDF/X-1a adalah evaluasi paling autentik sesuai standar percetakan industri.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q023",
+        "number": 23,
+        "type": "category",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam pembelajaran Sinematografi dan Penyuntingan Video, guru menyusun instrumen asesmen diagnostik dua tingkat (two-tier diagnostic test) berupa cuplikan storyboard dan pertanyaan alasan pemilihan shot untuk memetakan pemahaman murid mengenai type of shot (ECU–EWS), pergerakan kamera, dan continuity editing (P.6 & PF.4)."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan BENAR atau SALAH pernyataan berikut terkait penerapan asesmen diagnostik tersebut!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Tingkat pertama menanyakan pilihan jenis shot paling tepat untuk adegan tertentu (misalnya ECU untuk menyorot getaran tangan tokoh), sedangkan tingkat kedua menggali penalaran dampak psikologis-naratif di balik pilihan tersebut."
+          },
+          {
+            "id": "B",
+            "text": "Peserta didik yang memilih jawaban shot dengan benar pada tingkat pertama tetapi menuliskan alasan keliru pada tingkat kedua menandakan adanya tebakan atau miskonsepsi tersembunyi (false positive) yang perlu ditindaklanjuti."
+          },
+          {
+            "id": "C",
+            "text": "Hasil asesmen diagnostik awal ini wajib dijadikan komponen penentu utama nilai rapor akhir semester agar peserta didik bersungguh-sungguh mengerjakannya."
+          },
+          {
+            "id": "D",
+            "text": "Pemetaan pola miskonsepsi dari tes diagnostik dua tingkat digunakan guru untuk merancang kelompok bimbingan, contoh cuplikan film pembanding, dan strategi scaffolding pada pertemuan praktik berikutnya."
+          }
+        ],
+        "categories": [
+          {
+            "id": "benar",
+            "text": "Benar"
+          },
+          {
+            "id": "salah",
+            "text": "Salah"
+          }
+        ],
+        "correctAnswer": {
+          "A": "benar",
+          "B": "benar",
+          "C": "salah",
+          "D": "benar"
+        },
+        "explanation": "A) Benar: Struktur two-tier memadukan keputusan teknis (pilihan shot) dan penalaran sinematografis. B) Benar: Kombinasi jawaban benar dengan alasan keliru mengungkap tebakan atau miskonsepsi tersembunyi. C) Salah: Asesmen diagnostik berfungsi memetakan kesiapan belajar untuk merancang intervensi pedagogis (assessment for learning), bukan sebagai penentu nilai rapor akhir (P.6). D) Benar: Data diagnostik langsung memandu diferensiasi bimbingan dan media ajar.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q024",
+        "number": 24,
+        "type": "single",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Sekolah belum memiliki perangkat ukur studio khusus seperti light meter insiden, pengukur suhu warna (kelvin meter), dan digital timecode slate yang memadai untuk seluruh kelompok praktik produksi film pendek. Guru DKV memanfaatkan aplikasi pengukur berbasis sensor ponsel (seperti aplikasi lux/light meter, pengukur tingkat desibel kebisingan ruang, dan digital clapperboard) secara berkelompok. Nilai tambah pedagogis dan teknis utama dari inovasi tersebut (P.4 & PF.4) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menghilangkan seluruh kebutuhan mempelajari segitiga eksposur, white balance manual, dan prosedur perekaman audio eksternal karena aplikasi ponsel otomatis menyetel kamera DSLR."
+          },
+          {
+            "id": "B",
+            "text": "Melatih peserta didik mengambil keputusan tata cahaya, isolasi suara lokasi, dan sinkronisasi audio-video berbasis pengukuran kuantitatif objektif, bukan sekadar perkiraan subjektif mata dan telinga."
+          },
+          {
+            "id": "C",
+            "text": "Menggantikan sepenuhnya standar kalibrasi instrumen sinema profesional sehingga sekolah tidak pernah lagi memerlukan peralatan ukur studio pada masa depan."
+          },
+          {
+            "id": "D",
+            "text": "Mempermudah guru mengawasi aktivitas penggunaan ponsel peserta didik tanpa perlu merancang lembar pencatatan data praproduksi dan lokasi."
+          },
+          {
+            "id": "E",
+            "text": "Membuat proses pengambilan gambar terlihat lebih bergaya modern di hadapan warga sekolah meskipun data pembacaan desibel dan iluminasi tidak dicatat dalam laporan kru."
+          }
+        ],
+        "correctAnswer": "B",
+        "explanation": "Pemanfaatan aplikasi sensor ponsel secara terarah (P.4 & PF.4) mengubah gawai menjadi alat bantu ukur empiris yang memfasilitasi kerja profesional berbasis data—misalnya mengukur rasio cahaya key-to-fill, menguji tingkat kebisingan ruangan sebelum wawancara, dan menyinkronkan audio eksternal dengan slate digital—sehingga murid membangun kebiasaan kerja teknis yang objektif dan terukur.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q025",
+        "number": 25,
+        "type": "multiple",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam menyusun instrumen penilaian sumatif tertulis DKV yang berorientasi Higher-Order Thinking Skills (HOTS) dan pemecahan masalah desain autentik (P.6 & PF.4), manakah karakteristik butir soal yang berkualitas tinggi?"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menyajikan stimulus fungsional autentik—seperti potongan creative brief, hasil usability testing aplikasi, tangkapan layar timeline NLE, atau laporan galat preflight—yang wajib dianalisis untuk menemukan jawaban."
+          },
+          {
+            "id": "B",
+            "text": "Menampilkan gambar poster atau cuplikan storyboard panjang semata sebagai hiasan visual, sementara pertanyaannya cukup dijawab dengan menghafal tahun peluncuran perangkat lunak desain."
+          },
+          {
+            "id": "C",
+            "text": "Menuntut kemampuan analisis, evaluasi, atau perancangan keputusan desain (misalnya memilih perbaikan komposisi, tata suara, atau navigasi UI berdasarkan keluhan pengguna)."
+          },
+          {
+            "id": "D",
+            "text": "Merancang opsi pengecoh (distractor) berbasis miskonsepsi teknis yang kerap terjadi di studio murid—seperti mengira resolusi 72 ppi cukup untuk cetak brosur atau salah memahami garis 180 derajat."
+          },
+          {
+            "id": "E",
+            "text": "Menggunakan terminologi profesi DKV secara konsisten dan presisi disertai konteks kasus yang adil, jelas, dan tidak bias terhadap merek perangkat lunak tunggal."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "C",
+          "D",
+          "E"
+        ],
+        "minSelections": 2,
+        "maxSelections": 4,
+        "instruction": "Pilih dua, tiga, atau empat jawaban yang benar.",
+        "explanation": "Butir soal HOTS DKV yang berkualitas (P.6 & PF.4) memuat stimulus kontekstual fungsional (A), menuntut penalaran tingkat tinggi C4–C6 dalam memecahkan masalah desain (C), memakai pengecoh berbasis miskonsepsi studio nyata (D), dan menggunakan istilah profesi baku yang bebas bias vendor (E). Opsi B keliru karena stimulus hanya menjadi pajangan tanpa keterkaitan dengan soal ingatan (LOTS).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q026",
+        "number": 26,
+        "type": "single",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Guru DKV merancang proyek Desain UI/UX berbasis Design Thinking untuk membuat prototipe aplikasi katalog layanan perpustakaan SMK. Setelah peserta didik membangun prototipe interaktif di Figma, guru mewajibkan mereka melakukan uji kebergunaan (usability testing) sederhana terhadap lima siswa dari jurusan lain dengan skenario tugas konkret, mencatat titik kebingungan pengguna, lalu merevisi hierarki navigasi sebelum presentasi akhir. Tahapan kunci Design Thinking yang paling kuat dihidupkan dalam rancangan proyek tersebut (PF.4 & P.1) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Validasi empiris dan iterasi desain berbasis bukti perilaku pengguna nyata—menempatkan kegagalan navigasi pada tahap pengujian sebagai data berharga untuk menyempurnakan solusi antarmuka."
+          },
+          {
+            "id": "B",
+            "text": "Penilaian subjektif berdasarkan selera estetika perancang sendiri sehingga prototipe pertama langsung ditetapkan sebagai produk final."
+          },
+          {
+            "id": "C",
+            "text": "Pembuktian bahwa desainer harus selalu mempertahankan gagasan awalnya dan menjelaskan cara pakai aplikasi secara lisan bila pengguna merasa bingung."
+          },
+          {
+            "id": "D",
+            "text": "Penyelesaian cepat seluruh proyek dalam satu kali siklus linier tanpa membuka ruang bagi temuan kegagalan antarmuka di lapangan."
+          },
+          {
+            "id": "E",
+            "text": "Otomatisasi produksi antarmuka melalui penyalinan templat standar sehingga setiap kelompok menghasilkan struktur menu yang identik tanpa pengujian."
+          }
+        ],
+        "correctAnswer": "A",
+        "explanation": "Inti Design Thinking dan metodologi UX modern (PF.4 & P.1) adalah siklus iteratif berbasis empati dan bukti empiris. Pengujian usability pada pengguna nyata (non-perancang) mengungkap blind spot desainer terhadap label menu maupun alur tugas, sehingga revisi dilakukan berdasarkan data perilaku pengguna, bukan asumsi pribadi.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q027",
+        "number": 27,
+        "type": "single",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Saat memeriksa hasil proyek Foto Jurnalistik bertema 'Aktivitas Pagi Pengangkut Sampah Lingkungan', guru mendapati salah satu peserta didik telah menyunting fotonya secara berlebihan: menghapus tumpukan kantong plastik yang berserakan di latar belakang, memindahkan posisi seorang petugas ke sisi kiri bingkai, serta mengganti langit mendung asli menjadi langit senja jingga dramatis agar fotonya tampak lebih estetis. Umpan balik konstruktif yang paling tepat diberikan guru (P.6, PF.4 & PF.2) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Memberikan nilai sempurna pada aspek teknik olah digital karena peserta didik terbukti sangat terampil mengoperasikan fitur seleksi dan penghapusan objek secara halus."
+          },
+          {
+            "id": "B",
+            "text": "Meminta peserta didik cukup menambahkan tulisan kecil 'telah disunting' di sudut foto tanpa perlu kembali pada berkas foto asli agar nilai proyeknya tetap aman."
+          },
+          {
+            "id": "C",
+            "text": "Menayangkan foto manipulasi tersebut di hadapan seluruh kelas sebagai contoh tindakan tidak jujur dan langsung menetapkan status tidak lulus pada mata pelajaran fotografi."
+          },
+          {
+            "id": "D",
+            "text": "Mengapresiasi penguasaan teknis olah gambarnya secara objektif, namun menegaskan pelanggaran kode etik foto jurnalistik terkait larangan manipulasi substansi fakta—lalu membimbingnya kembali ke berkas mentah (RAW/asli) untuk hanya melakukan penyesuaian minor yang diperbolehkan (cropping wajar, eksposur, kontras, keseimbangan warna) serta membedakannya dengan genre fotografi komersial/manipulasi digital."
+          },
+          {
+            "id": "E",
+            "text": "Menyarankan peserta didik mengubah judul beritanya agar sesuai dengan langit senja jingga yang baru ditambahkan supaya takarir foto tidak bertentangan dengan gambarnya."
+          }
+        ],
+        "correctAnswer": "D",
+        "explanation": "Kejujuran visual dan kepatuhan pada kode etik genre merupakan kompetensi esensial DKV (PF.2 & PF.4). Pada foto jurnalistik/dokumenter, menambah, menghapus, atau memindahkan elemen yang mengubah fakta peristiwa adalah pelanggaran berat—berbeda dengan fotografi periklanan/manipulasi komersial. Umpan balik konstruktif (P.6) mengapresiasi kemampuan teknis di ranah yang tepat, menjelaskan batas etis genre, dan memberi kesempatan perbaikan dari berkas asli tanpa mempermalukan murid.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q028",
+        "number": 28,
+        "type": "category",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Di tengah derasnya konten visual manipulatif di media sosial—seperti infografis dengan skala grafik menyesatkan, foto lama yang diberi konteks palsu, dan iklan digital dengan klaim terselubung—guru DKV melatih literasi media visual kritis peserta didik (P.4 & PF.4)."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan TEPAT atau TIDAK TEPAT strategi pembelajaran berikut!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Melatih peserta didik melakukan penelusuran gambar balik (reverse image search) dan memeriksa metadata serta sumber rujukan asli sebelum mempercayai atau membagikan foto peristiwa viral."
+          },
+          {
+            "id": "B",
+            "text": "Mengajak peserta didik membedah contoh misleading chart dari media daring—seperti sumbu skala yang dipotong atau perbandingan luas ikon 2D yang tidak proporsional—lalu mendesain ulang grafiknya secara akurat."
+          },
+          {
+            "id": "C",
+            "text": "Mengajarkan peserta didik menilai kebenaran sebuah infografis statistik terutama dari kerapian tata letak, kualitas ilustrasi vektor, dan banyaknya jumlah bagikan (shares) di media sosial."
+          },
+          {
+            "id": "D",
+            "text": "Membimbing peserta didik mengenali teknik persuasi terselubung (dark patterns) pada antarmuka aplikasi maupun iklan digital agar mampu merancang komunikasi visual yang transparan dan menghormati pengguna."
+          }
+        ],
+        "categories": [
+          {
+            "id": "tepat",
+            "text": "Tepat"
+          },
+          {
+            "id": "tidak-tepat",
+            "text": "Tidak Tepat"
+          }
+        ],
+        "correctAnswer": {
+          "A": "tepat",
+          "B": "tepat",
+          "C": "tidak-tepat",
+          "D": "tepat"
+        },
+        "explanation": "A) Tepat: Reverse image search dan verifikasi sumber adalah keterampilan kunci verifikasi visual digital (P.4). B) Tepat: Membedah dan memperbaiki misleading chart melatih literasi data visual secara aktif. C) Tidak Tepat: Estetika tinggi dan viralitas tidak berkorelasi dengan akurasi data; disinformasi justru sering dibungkus desain menarik. D) Tepat: Mengenali dark patterns membangun kepekaan etis perancang UI/UX dan periklanan (PF.4).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q029",
+        "number": 29,
+        "type": "single",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam merancang pembelajaran topik 'Sistem Grid Kolom, Grid Modular, dan Hierarki Editorial' menggunakan pendekatan konstruktivis model siklus belajar 5E (Engage, Explore, Explain, Elaborate, Evaluate), urutan aktivitas studio yang paling tepat menumbuhkan pemahaman mendalam peserta didik (PF.4 & P.1) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menjelaskan definisi enam jenis sistem grid dari salindia secara rinci (Explain), menguji hafalan istilah gutter dan margin (Evaluate), lalu menyuruh murid menyalin satu halaman majalah di komputer (Explore)."
+          },
+          {
+            "id": "B",
+            "text": "Menayangkan video dokumenter sejarah percetakan selama satu jam pelajaran penuh (Engage) lalu langsung menilai kerapian buku catatan peserta didik sebagai evaluasi akhir (Evaluate)."
+          },
+          {
+            "id": "C",
+            "text": "Langsung membuka perangkat lunak tata letak dan mendiktekan angka margin dan jumlah kolom langkah demi langkah (Elaborate), kemudian baru menampilkan contoh majalah di akhir jam pelajaran (Engage)."
+          },
+          {
+            "id": "D",
+            "text": "Memberikan tes tertulis tentang aturan tata letak cetak (Evaluate), menugaskan kelompok membuat laporan tahunan 24 halaman secara mandiri (Elaborate), lalu menutup pelajaran dengan ceramah singkat tentang pentingnya grid (Explain)."
+          },
+          {
+            "id": "E",
+            "text": "Membandingkan dua halaman katalog—satu tertata rapi dan satu acak membingungkan (Engage); meminta murid menjiplak garis batas teks, foto, dan kolom pada majalah nyata menggunakan kertas kalkir untuk menemukan pola tersembunyi (Explore); memfasilitasi diskusi kelas merumuskan konsep grid kolom, modular, dan gutter (Explain); menugaskan perancangan spread katalog sekolah menggunakan master page dan paragraph style (Elaborate); serta melakukan kritik desain berbasis rubrik dan preflight (Evaluate)."
+          }
+        ],
+        "correctAnswer": "E",
+        "explanation": "Siklus belajar konstruktivis 5E (Bybee, PF.4 & P.1) menempatkan pemantik masalah visual (Engage) dan penemuan pola secara konkret melalui pembedahan fisik majalah dengan kertas kalkir (Explore) sebelum formalisasi konsep grid kolom/modular/gutter (Explain). Penerapan pada proyek autentik dengan master page (Elaborate) dan asesmen kritik/preflight (Evaluate) melengkapi konstruksi kompetensi secara utuh.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q030",
+        "number": 30,
+        "type": "multiple",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pembelajaran proyek DKV secara langsung menumbuhkan dimensi Profil Pelajar Pancasila dalam budaya kerja studio sehari-hari (PF.4 & P.1). Manakah praktik pembelajaran DKV berikut yang efektif menguatkan karakter tersebut?"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Membiasakan peserta didik mencantumkan kredit pembuat aset, mematuhi lisensi font dan musik bebas royalti/Creative Commons, serta menolak plagiarisme karya visual sebagai perwujudan integritas dan akhlak mulia."
+          },
+          {
+            "id": "B",
+            "text": "Menjalankan pembagian peran kru produksi film pendek (sutradara, kamerawan, penata suara, editor) disertai evaluasi kontribusi sejawat yang adil untuk menguatkan gotong royong."
+          },
+          {
+            "id": "C",
+            "text": "Menutup sesi diskusi kritik desain bagi peserta didik yang pendapatnya berbeda dengan gaya estetika guru agar seluruh karya kelas seragam dan cepat dinilai."
+          },
+          {
+            "id": "D",
+            "text": "Mengajak peserta didik mengevaluasi bias visual, akurasi data infografis, dan hasil usability testing berbasis bukti objektif guna mengasah dimensi bernalar kritis."
+          },
+          {
+            "id": "E",
+            "text": "Mendorong peserta didik merancang kampanye sosial inklusif dan antarmuka aplikasi yang aksesibel bagi penyandang disabilitas penglihatan/pendengaran untuk menumbuhkan empati dan kebinekaan global."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "D",
+          "E"
+        ],
+        "minSelections": 2,
+        "maxSelections": 4,
+        "instruction": "Pilih dua, tiga, atau empat jawaban yang benar.",
+        "explanation": "Integrasi Profil Pelajar Pancasila dalam ekosistem studio DKV (PF.4 & P.1) tampak pada kepatuhan lisensi dan anti-plagiarisme (akhlak mulia, A), kolaborasi kru produksi yang setara (gotong royong, B), pengujian desain berbasis bukti data/usability (bernalar kritis, D), serta desain aksesibel dan empatik (kebinekaan/kepedulian, E). Membungkam perbedaan pendapat kritis (C) justru menghambat kreativitas dan penalaran kritis.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q031",
+        "number": 31,
+        "type": "single",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam menilai budaya kerja profesional studio dan kedisiplinan produksi lapangan peserta didik—meliputi kepatuhan K3 rigging tripod/lampu, ketepatan konvensi penamaan file dan pencadangan data (backup), etika berkomunikasi dengan narasumber, serta tanggung jawab pengembalian peralatan—instrumen dan metode asesmen yang paling tepat digunakan guru (P.6 & PF.4) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Kuesioner pernyataan diri sederhana di akhir semester berisi pertanyaan 'Apakah kamu selalu disiplin saat praktik?' dengan pilihan jawaban Ya atau Tidak."
+          },
+          {
+            "id": "B",
+            "text": "Tes uraian tertulis mengenai sepuluh aturan keselamatan kerja studio dan manfaat pencadangan data di server jaringan lokal."
+          },
+          {
+            "id": "C",
+            "text": "Penilaian kesan umum guru dari daya ingat di akhir bulan tanpa mencatat bukti kejadian spesifik di bengkel atau lokasi shooting."
+          },
+          {
+            "id": "D",
+            "text": "Lembar observasi perilaku kerja berbasis indikator rubrik terukur disertai catatan anekdotal selama proses produksi, pemeriksaan log peminjaman alat, dan audit berkala struktur folder/penamaan berkas proyek."
+          },
+          {
+            "id": "E",
+            "text": "Menyamakan seluruh skor sikap kerja profesional dengan nilai kualitas estetika video atau poster akhir yang dikumpulkan kelompok."
+          }
+        ],
+        "correctAnswer": "D",
+        "explanation": "Sikap kerja profesional dan kepatuhan K3 (P.6 & PF.4) merupakan perilaku nyata yang hanya valid diukur melalui pengamatan langsung dan jejak proses autentik: lembar observasi berindikator, catatan anekdotal, log inventaris alat, dan audit berkas manajemen aset digital. Menilai dari tes hafalan (B), kesan subjektif (C), atau sekadar hasil akhir karya (E) gagal menangkap disiplin proses kerja studio.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q032",
+        "number": 32,
+        "type": "single",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Laboratorium DKV hanya memiliki 3 unit kamera mirrorless lengkap dengan tripod/mikrofon dan 4 unit pen tablet aktif, sementara satu rombongan belajar kelas XI berjumlah 32 peserta didik yang sedang mempelajari proyek terpadu Animasi 2D dan Produksi Video Pendek. Strategi pengorganisasian kelas dan rotasi perangkat yang paling efektif agar tidak terjadi antrean pasif dan seluruh murid memperoleh pengalaman praktik bermakna (PF.4 & P.2) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Meminta 32 peserta didik mengantre memanjang di depan meja kamera dan pen tablet secara bergiliran masing-masing 3 menit per pertemuan tanpa aktivitas lain yang terarah."
+          },
+          {
+            "id": "B",
+            "text": "Menyerahkan seluruh perangkat kamera dan pen tablet hanya kepada 7 peserta didik yang paling mahir agar produk proyek kelas cepat jadi, sedangkan 25 murid lainnya cukup menonton dari bangku."
+          },
+          {
+            "id": "C",
+            "text": "Menerapkan model Station Rotation terstruktur yang membagi kelas ke dalam empat stasiun bergilir berjadwal (Stasiun 1: Pra-produksi storyboard, shot list & turnaround sheet manual; Stasiun 2: Pengambilan gambar/audio dengan kamera mirrorless; Stasiun 3: Digitalisasi karakter & animasi keyframe dengan pen tablet; Stasiun 4: Penyuntingan NLE, tata suara & kritik sejawat) dilengkapi log rotasi peran sehingga setiap murid bergiliran mengoperasikan perangkat inti."
+          },
+          {
+            "id": "D",
+            "text": "Menyimpan kamera dan pen tablet di lemari inventaris agar tidak menimbulkan kecemburuan antarkelompok dan mengganti seluruh praktik dengan latihan gambar di buku tulis."
+          },
+          {
+            "id": "E",
+            "text": "Membubarkan jam praktik di laboratorium dan menugaskan seluruh peserta didik membeli pen tablet serta menyewa kamera secara mandiri di luar jam sekolah."
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Model Station Rotation dengan jadwal giliran dan kejelasan peran kru (PF.4 & P.2) merupakan solusi manajemen studio yang optimal saat rasio perangkat terbatas. Alur kerja produksi kreatif (pra-produksi, pengambilan gambar, digitalisasi/animasi, dan pascaproduksi) secara alami cocok dibagi ke dalam stasiun paralel sehingga tidak ada waktu tunggu pasif dan akses praktik tetap adil bagi seluruh 32 murid.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q033",
+        "number": 33,
+        "type": "category",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pengelolaan asesmen formatif yang terencana selama proses produksi Motion Graphics dan Kinetic Typography sangat menentukan mutu karya akhir sekaligus kedalaman pemahaman teknis peserta didik (P.6 & PF.4)."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan BENAR atau SALAH pernyataan terkait praktik asesmen formatif berikut!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Mengadakan pemeriksaan animatic (rangkaian storyboard bergerak yang disinkronkan dengan rekaman sulih suara kasar) pada tengah proyek berfungsi mendeteksi kesalahan timing dan alur cerita sebelum murid menghabiskan waktu merender animasi final."
+          },
+          {
+            "id": "B",
+            "text": "Umpan balik teknis guru mengenai keterbacaan tipografi dan kurva easing sebaiknya ditunda hingga seluruh proyek selesai dirender di akhir bulan agar murid terlatih menerima konsekuensi skor apa adanya."
+          },
+          {
+            "id": "C",
+            "text": "Menggunakan tiket keluar (exit ticket) singkat berisi tangkapan layar satu kurva graph editor disertai penjelasan alasan geraknya efektif mengecek pemahaman harian murid."
+          },
+          {
+            "id": "D",
+            "text": "Sesi ulasan sejawat (peer critique) yang dipandu kartu kriteria—seperti keterbacaan teks dalam 3 detik, keselarasan ritme audio, dan konsistensi warna—membantu murid melatih kepekaan evaluasi visual."
+          }
+        ],
+        "categories": [
+          {
+            "id": "benar",
+            "text": "Benar"
+          },
+          {
+            "id": "salah",
+            "text": "Salah"
+          }
+        ],
+        "correctAnswer": {
+          "A": "benar",
+          "B": "salah",
+          "C": "benar",
+          "D": "benar"
+        },
+        "explanation": "A) Benar: Review animatic merupakan gerbang formatif krusial dalam pipeline animasi untuk memperbaiki pacing sejak dini. B) Salah: Menunda umpan balik hingga setelah render final menggagalkan fungsi asesmen formatif (assessment for learning) yang seharusnya membantu perbaikan selama proses (P.6). C) Benar: Exit ticket visual cepat mendeteksi miskonsepsi graph editor. D) Benar: Peer critique berpanduan rubrik menumbuhkan budaya studio reflektif (PF.4).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q034",
+        "number": 34,
+        "type": "single",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pendidikan SMK DKV menuntut keterpaduan antar-elemen kompetensi komunikasi visual agar peserta didik memahami bagaimana berbagai medium saling mendukung dalam satu kampanye terintegrasi, bukan berjalan terpisah-pisah tanpa kaitan. Contoh desain proyek terpadu yang paling koheren pada tema 'Kampanye Literasi Keuangan Remaja' (PF.4 & P.1) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Memisahkan kelas menjadi tiga topik berbeda tanpa keterkaitan: minggu pertama memotret bunga di taman, minggu kedua membuat poster konser musik fiktif, dan minggu ketiga mendesain ikon aplikasi cuaca."
+          },
+          {
+            "id": "B",
+            "text": "Meminta peserta didik membaca tiga bab terpisah tentang periklanan, infografis, dan desain antarmuka, lalu mengerjakan tiga ulangan harian secara bergantian."
+          },
+          {
+            "id": "C",
+            "text": "Menugaskan seluruh murid hanya fokus membuat satu jenis poster cetak ukuran A3 selama satu semester penuh agar mereka tidak bingung berpindah perangkat lunak."
+          },
+          {
+            "id": "D",
+            "text": "Membiarkan setiap anggota kelompok memilih tema bebas sesuai hobinya masing-masing meskipun pesan, palet warna, dan audiens antarmedia tidak saling terhubung."
+          },
+          {
+            "id": "E",
+            "text": "Merancang satu ekosistem kampanye dari creative brief dan riset audiens remaja yang sama: data survei keuangan diolah menjadi infografis beralur Z-pattern, pesan kuncinya diadaptasi ke video pendek kinetic typography berdurasi 30 detik, dan seluruhnya diarahkan melalui kode QR menuju halaman arahan (landing page) UI mobile-first yang aksesibel."
+          }
+        ],
+        "correctAnswer": "E",
+        "explanation": "Pembelajaran DKV terpadu (integrated creative workflow, PF.4 & P.1) menghubungkan riset audiens, visualisasi data, media gerak, dan media interaktif dalam satu benang merah strategi komunikasi (integrated marketing/social communication). Opsi E menampakkan keterpaduan utuh mulai dari creative brief hingga ekosistem lintas kanal cetak-gerak-interaktif yang saling menguatkan.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q035",
+        "number": 35,
+        "type": "multiple",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pada penutupan siklus proyek Desain UI/UX dan Publikasi Katalog Digital, guru memandu sesi refleksi bersama peserta didik untuk menumbuhkan kesadaran metakognitif dan penalaran desain yang mendalam (P.6 & P.1). Manakah pertanyaan refleksi yang paling efektif diajukan guru?"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Keputusan desain awal manakah pada wireframe atau sistem grid kelompokmu yang akhirnya berubah setelah hasil usability testing atau kritik desain, dan bukti apa yang mendasari perubahan tersebut?"
+          },
+          {
+            "id": "B",
+            "text": "Berapa jumlah total tombol dan halaman yang berhasil kamu buat dibandingkan dengan kelompok di sebelahmu?"
+          },
+          {
+            "id": "C",
+            "text": "Kendala teknis apa (seperti hierarki navigasi, kontras warna WCAG, atau galat preflight) yang paling menantang selama produksi, dan strategi kerja apa yang akan kamu perbaiki pada proyek berikutnya?"
+          },
+          {
+            "id": "D",
+            "text": "Siapakah di antara teman sekelasmu yang menurutmu paling lambat menyelesaikan tugas hari ini?"
+          },
+          {
+            "id": "E",
+            "text": "Bagaimana rancangan struktur informasi dan tampilan visual yang kamu buat mempermudah pengguna sasaran memahami pesan tanpa harus diberi penjelasan tambahan secara lisan?"
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "C",
+          "E"
+        ],
+        "minSelections": 2,
+        "maxSelections": 4,
+        "instruction": "Pilih dua, tiga, atau empat jawaban yang benar.",
+        "explanation": "Refleksi metakognitif desain (P.6 & P.1) mengajak murid melacak evolusi keputusan berbasis bukti pengujian (A), mengevaluasi kendala teknis dan rencana strategi perbaikan (C), serta menilai keberhasilan komunikasi dari sudut pandang pengguna (E). Opsi B berfokus pada kuantitas dangkal, sementara D justru memicu saling menyalahkan yang merusak iklim kelas.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q036",
+        "number": 36,
+        "type": "single",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Hasil evaluasi praktik menunjukkan bahwa 65% peserta didik kelas XI DKV masih menghasilkan animasi 2D dan motion graphics yang terasa kaku, patah-patah, dan kurang ekspresif karena mereka cenderung hanya menempatkan dua keyframe linear awal-akhir tanpa memahami konsep timing, spacing, maupun pengaturan kurva kecepatan di graph editor. Untuk meningkatkan mutu pembelajaran secara empiris melalui Penelitian Tindakan Kelas (PTK) (PF.5), desain tindakan inovatif yang paling tepat dirancang guru adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menerapkan siklus tindakan berbasis latihan 'Video Reference Breakdown & Visual Spacing Chart'—murid merekam gerak benda nyata/diri sendiri dengan ponsel pada 24 fps, memetakan jarak perpindahan antar-bingkai (spacing) dan jeda waktu (timing) secara manual, lalu menerjemahkannya ke kurva Bezier pada graph editor disertai pengukuran kemajuan kualitas gerak melalui rubrik observasi antar-siklus."
+          },
+          {
+            "id": "B",
+            "text": "Membagikan berkas preset animasi otomatis siap pakai agar seluruh kelompok cukup menekan satu tombol efek dan nilai kelulusan langsung melampaui 90%."
+          },
+          {
+            "id": "C",
+            "text": "Menambah jam ulangan teori tertulis tentang biografi pencipta 12 prinsip animasi Disney dan meminta murid meringkasnya dua kali dalam sebulan."
+          },
+          {
+            "id": "D",
+            "text": "Mengganti seluruh capaian pembelajaran animasi 2D menjadi tugas ilustrasi poster statis supaya tingkat ketuntasan belajar kelas cepat meningkat."
+          },
+          {
+            "id": "E",
+            "text": "Membandingkan nilai akhir animasi kelas XI DKV dengan kelas XII angkatan sebelumnya melalui survei angket minat semata tanpa melakukan intervensi perbaikan strategi mengajar di kelas."
+          }
+        ],
+        "correctAnswer": "A",
+        "explanation": "PTK yang bermutu (PF.5) mengatasi akar masalah spesifik melalui intervensi pedagogis empiris bersiklus. Kesulitan murid memahami timing, spacing, dan kurva graph editor diatasi secara konkret dengan menghubungkan observasi video referensi gerak nyata (frame-by-frame breakdown) dengan visualisasi spacing chart dan kurva Bezier, lalu dievaluasi peningkatannya lewat rubrik terukur antar-siklus.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q037",
+        "number": 37,
+        "type": "single",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam praktik cetak publikasi editorial dan fotografi produk di studio DKV, sering menumpuk limbah kertas uji cetak (proof) yang gagal akibat salah margin/warna serta biaya pengadaan aksesori pencahayaan yang tinggi. Sebagai upaya menerapkan prinsip desain berkelanjutan (eco-design) dan kreativitas pengembangan sarana bengkel (PF.5 & P.5), inovasi yang paling tepat dilakukan guru DKV adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menghapus kewajiban pemeriksaan cetak fisik secara total tanpa mengajarkan cara memvalidasi profil warna CMYK maupun ukuran huruf cetak."
+          },
+          {
+            "id": "B",
+            "text": "Mewajibkan prosedur soft-proofing kalibrasi layar dan preflight digital PDF/X-1a bertingkat sebelum izin cetak fisik diberikan untuk menekan kertas proof terbuang, memanfaatkan sisi kosong kertas sisa cetak untuk sketsa thumbnail/storyboard, serta merakit reflektor, gobos, dan light tent studio dari kardus kemasan bekas dan kain putih daur ulang."
+          },
+          {
+            "id": "C",
+            "text": "Membakar tumpukan kertas uji cetak dan karton sisa pemotongan di halaman belakang bengkel setiap hari Jumat sore agar ruang praktik tampak bersih."
+          },
+          {
+            "id": "D",
+            "text": "Mewajibkan peserta didik mencetak ulang seluruh katalog setebal 40 halaman setiap kali menemukan satu kesalahan ejaan kecil supaya terbiasa dengan standar percetakan."
+          },
+          {
+            "id": "E",
+            "text": "Membeli perangkat studio impor termahal dengan dana iuran peserta didik agar tidak perlu lagi merancang alat bantu pencahayaan sederhana."
+          }
+        ],
+        "correctAnswer": "B",
+        "explanation": "Prinsip eco-design dan kreativitas pengelolaan sarana DKV (PF.5 & P.5) mengutamakan pencegahan pemborosan sejak praproduksi (soft-proofing dan preflight digital sebelum cetak fisik), prinsip reuse pada kertas sisa untuk sketsa/storyboard, serta inovasi alat bantu studio dari bahan daur ulang fungsional. Membakar limbah (C) mencemari udara dan membahayakan lingkungan.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q038",
+        "number": 38,
+        "type": "category",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Sebagai pengelola laboratorium kreatif dan produksi lapangan, guru DKV wajib menanamkan standar manajemen aset digital, tata kelola kolaborasi studio, serta legalitas produksi (PF.5)."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan BENAR atau SALAH prosedur pengelolaan studio dan produksi berikut!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Menerapkan konvensi penamaan berkas standar industri (seperti Proyek_Aset_YYYYMMDD_v02.prproj) serta struktur folder seragam (01_Footage, 02_Audio, 03_Project, 04_Export) mencegah kekacauan versi dan tautan media hilang (offline media) saat bekerja dalam tim."
+          },
+          {
+            "id": "B",
+            "text": "Menyimpan seluruh rekaman mentah proyek film pendek kelas hanya pada satu kartu SD kamera hingga hari pengumpulan akhir sudah cukup aman karena perangkat penyimpanan modern jarang rusak."
+          },
+          {
+            "id": "C",
+            "text": "Menerapkan prinsip pencadangan data berlapis (seperti menyimpan salinan di workstation lab dan server NAS/penyimpanan cloud sekolah) melindungi proses belajar murid dari risiko kerusakan cakram keras atau kegagalan daya."
+          },
+          {
+            "id": "D",
+            "text": "Mengurus surat izin lokasi (location release) dan formulir persetujuan penampilan subjek (model release) sebelum produksi lapangan merupakan bagian wajib dari tata kelola hukum dan etika industri kreatif."
+          }
+        ],
+        "categories": [
+          {
+            "id": "benar",
+            "text": "Benar"
+          },
+          {
+            "id": "salah",
+            "text": "Salah"
+          }
+        ],
+        "correctAnswer": {
+          "A": "benar",
+          "B": "salah",
+          "C": "benar",
+          "D": "benar"
+        },
+        "explanation": "A) Benar: Konvensi penamaan berkas, version control, dan hierarki folder standar mencegah media offline dalam kolaborasi NLE/desain. B) Salah: Menyimpan rekaman hanya di satu kartu SD (single point of failure) sangat berisiko hilang, terformat tidak sengaja, atau korup. C) Benar: Pencadangan berlapis (aturan 3-2-1 / lokal + NAS/cloud) adalah standar manajemen aset digital studio. D) Benar: Location release dan model release melindungi hak privasi warga sekaligus mencegah sengketa hukum produksi (PF.5).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q039",
+        "number": 39,
+        "type": "single",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam proyek Film Dokumenter Sosial mengenai aktivitas pekerja informal di sekitar terminal, sekelompok peserta didik mengusulkan untuk merekam wajah para pekerja dan anak-anak mereka secara sembunyi-sembunyi dari jarak jauh menggunakan lensa telefoto tanpa meminta izin, lalu langsung mengunggahnya ke kanal YouTube publik dengan alasan 'agar ekspresi mereka tetap natural dan dramatis'. Keputusan profesional dan etis yang paling tepat diambil guru DKV (PF.5 & P.2) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menyetujui usulan tersebut sepanjang kamera disembunyikan di dalam tas agar tidak memicu keributan dengan warga di sekitar lokasi terminal."
+          },
+          {
+            "id": "B",
+            "text": "Menolak praktik perekaman diam-diam secara edukatif, menjelaskan prinsip etika dokumenter, hak privasi, serta perlindungan anak—lalu membimbing kelompok membangun kedekatan (rapport) dengan narasumber secara terbuka, memperoleh persetujuan tertulis (informed consent/model release, termasuk izin orang tua/wali untuk anak di bawah umur), atau menggunakan teknik visual tanpa mengekspos identitas bila narasumber menginginkan anonimitas."
+          },
+          {
+            "id": "C",
+            "text": "Melarang seluruh proyek dokumenter sosial dan menggantinya dengan rekaman wawancara sesama teman di dalam ruang kelas sekolah saja."
+          },
+          {
+            "id": "D",
+            "text": "Mengizinkan perekaman diam-diam tersebut dengan syarat wajah para pekerja diburamkan sebagian hanya jika suatu saat ada pihak yang mengajukan protes setelah video tayang."
+          },
+          {
+            "id": "E",
+            "text": "Menyerahkan keputusan sepenuhnya kepada ketua kelompok karena pengalaman berhadapan dengan penolakan warga dianggap baik untuk melatih mental pembuat film."
+          }
+        ],
+        "correctAnswer": "B",
+        "explanation": "Etika produksi dokumenter dan perlindungan anak (PF.5 & P.2) melarang eksploitasi visual dan perekaman tanpa persetujuan sadar (informed consent), terlebih melibatkan anak di bawah umur yang wajib mendapat persetujuan wali. Pendekatan membangun rapport secara terbuka menghasilkan kealamian emosi yang bermartabat tanpa melanggar hak privasi maupun keselamatan murid.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q040",
+        "number": 40,
+        "type": "multiple",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Anda ditugaskan membina peserta didik SMK untuk menghadapi Lomba Kompetensi Siswa (LKS) bidang Graphic Design Technology dan Film Pendek tingkat provinsi. Praktik pembimbingan lomba yang profesional, etis, dan mengembangkan potensi murid secara autentik (PF.5 & P.5) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menyusun program latihan berbasis simulasi creative brief dan batasan waktu nyata (speed-test layout, preflight PDF/X-1a, serta alur produksi film pendek) disertai umpan balik rubrik standar teknis LKS."
+          },
+          {
+            "id": "B",
+            "text": "Melakukan seleksi terbuka dan adil berbasis portofolio serta kesiapan belajar, sambil membagikan bahan latihan dan praktik baik LKS ke dalam pembelajaran reguler agar seluruh murid kelas ikut terangkat mutunya."
+          },
+          {
+            "id": "C",
+            "text": "Mengambil alih penyuntingan warna (color grading), tata suara, dan tata letak akhir karya film pendek lomba milik murid pada malam sebelum batas unggah demi memperbesar peluang meraih medali emas."
+          },
+          {
+            "id": "D",
+            "text": "Menjaga keseimbangan jadwal latihan dengan hak belajar mata pelajaran lain serta melatih manajemen stres, kesiapan presentasi konsep, dan ketangguhan menghadapi kendala teknis di arena lomba."
+          },
+          {
+            "id": "E",
+            "text": "Membeli aset templat desain berbayar dan menugaskan murid menghafal cara merakit ulang satu desain yang sama persis untuk segala jenis soal brief di arena lomba."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "D"
+        ],
+        "minSelections": 2,
+        "maxSelections": 4,
+        "instruction": "Pilih dua, tiga, atau empat jawaban yang benar.",
+        "explanation": "Pembinaan LKS yang profesional dan berintegritas (PF.5 & P.5) berfokus pada penguasaan kompetensi otentik murid melalui simulasi brief/waktu nyata berbasis standar teknis (A), seleksi transparan dengan efek imbas positif bagi seluruh kelas (B), serta pembinaan holistik menjaga keseimbangan akademik dan kesiapan mental (D). Mengambil alih pengerjaan karya murid (C) melanggar integritas akademik, sedangkan hafalan templat (E) gagal melatih pemecahan masalah desain.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q041",
+        "number": 41,
+        "type": "single",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Guru DKV mengembangkan e-modul interaktif berbasis web untuk topik 'Bahasa Sinematografi dan Tata Suara Dasar' yang memadukan uraian ringkas, cuplikan video perbandingan ukuran shot (ECU–EWS), simulasi diagram interaktif garis imajiner 180 derajat, sampel audio normal vs clipping yang dapat diputar langsung, serta kuis diagnostik dengan umpan balik otomatis. Keunggulan pedagogis utama inovasi bahan ajar multimoda ini bagi pembelajaran peserta didik (PF.5 & P.4) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menghadirkan representasi multipel (visual gerak, diagram spasial, dan auditori langsung) yang menjembatani konsep abstrak sinematografi-audio dengan pengalaman persepsi nyata sekaligus mendukung kemandirian kecepatan belajar murid sebelum dan sesudah praktik studio."
+          },
+          {
+            "id": "B",
+            "text": "Menggantikan sepenuhnya kebutuhan praktik memegang kamera, memasang mikrofon, dan bekerja dalam tim kru di lokasi shooting."
+          },
+          {
+            "id": "C",
+            "text": "Menjamin seluruh peserta didik pasti meraih skor sempurna pada proyek film pendek tanpa memerlukan umpan balik langsung dari guru."
+          },
+          {
+            "id": "D",
+            "text": "Menghilangkan kewajiban guru memfasilitasi diskusi kritik desain di kelas karena seluruh interaksi belajar telah diambil alih oleh kuis otomatis."
+          },
+          {
+            "id": "E",
+            "text": "Memudahkan guru mengarsipkan materi satu arah berbentuk teks panjang agar tidak perlu lagi memperbarui contoh cuplikan film selama bertahun-tahun."
+          }
+        ],
+        "correctAnswer": "A",
+        "explanation": "Kekuatan utama e-modul interaktif berbasis web dalam DKV (PF.5 & P.4) terletak pada representasi multipel yang selaras dengan karakter media audio-visual: murid dapat melihat perbedaan shot, memanipulasi diagram 180 derajat, dan mendengar langsung distorsi audio clipping sesuai ritme belajarnya masing-masing sebagai penguat praktik studio, bukan pengganti praktik nyata (B) ataupun peran fasilitator guru (D).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q042",
+        "number": 42,
+        "type": "single",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Saat melakukan demonstrasi pencahayaan fotografi produk komersial di depan kelas—memotret gelas minuman dingin transparan dengan lampu diletakkan di belakang diffuser (backlight) dan sepasang karton hitam di sisi kiri-kanan (bright-field lighting)—guru menerapkan strategi Predict–Observe–Explain (POE). Alasan pedagogis mengapa tahap 'Predict' (meminta murid menggambar sketsa prediksi hasil pantulan dan tepi gelas beserta alasannya sebelum tombol rana ditekan) sangat krusial (PF.5 & P.3) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Memperpanjang durasi demonstrasi studio agar jadwal jam pelajaran praktik terisi penuh hingga bel pergantian berbunyi."
+          },
+          {
+            "id": "B",
+            "text": "Menguji kecepatan menggambar sketsa manual peserta didik sebelum mereka diizinkan menyentuh kamera dan lampu studio."
+          },
+          {
+            "id": "C",
+            "text": "Mengaktifkan pengetahuan awal dan komitmen kognitif murid terhadap dugaan optiknya sendiri sehingga mereka mengamati foto hasil jepretan secara kritis dan terdorong merekonstruksi pemahaman tentang pembiasan serta kontur gelap tepi kaca saat hasilnya berbeda dari dugaan."
+          },
+          {
+            "id": "D",
+            "text": "Memastikan seluruh peserta didik langsung mengetahui jawaban benar sejak menit pertama sehingga tidak terjadi perbedaan pendapat di kelas."
+          },
+          {
+            "id": "E",
+            "text": "Menyaring peserta didik yang menebak salah agar mereka duduk di barisan belakang selama sesi pemotretan lanjutan."
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Strategi Predict–Observe–Explain (POE, PF.5 & P.3) mengubah demonstrasi studio dari sekadar tontonan pasif menjadi penyelidikan mental aktif. Ketika murid berkomitmen pada prediksinya sebelum rana ditekan, anomali visual—seperti munculnya garis kontur hitam tegas pada tepi kaca transparan akibat karton hitam samping—memicu konflik kognitif dan penguatan pemahaman optik secara mendalam pada tahap Explain.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q043",
+        "number": 43,
+        "type": "category",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pengelolaan limbah elektronik, baterai perangkat produksi, kartrid tinta cetak, dan material habis pakai studio DKV merupakan bagian penting dari tanggung jawab profesional dan pendidikan keberlanjutan guru (PF.5)."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan TEPAT atau TIDAK TEPAT tindakan pengelolaan limbah studio DKV berikut!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Mengisolasi baterai lithium-ion kamera yang sudah menggelembung atau rusak di wadah tahan api khusus, melapisi kutub terminalnya dengan selotip isolasi, lalu menyalurkannya ke fasilitas pengumpulan limbah B3/e-waste resmi."
+          },
+          {
+            "id": "B",
+            "text": "Membuang kartrid tinta printer kosong, kabel charger rusak, dan baterai kamera bekas menjadi satu ke tempat sampah umum sekolah agar cepat diangkut bersama sampah organik kantin."
+          },
+          {
+            "id": "C",
+            "text": "Memilah limbah kertas cetak bersih sisa pemotongan (trimming) terpisah dari potongan stiker vinil/laminasi plastik sehingga kertas murni dapat didaur ulang atau dipakai ulang untuk latihan lipatan dummy publikasi."
+          },
+          {
+            "id": "D",
+            "text": "Menghimbau peserta didik membersihkan sisa tinta cetak berbasis pelarut (solvent) dengan membuang air bilasan berpewarna pekat langsung ke saluran drainase halaman sekolah."
+          }
+        ],
+        "categories": [
+          {
+            "id": "tepat",
+            "text": "Tepat"
+          },
+          {
+            "id": "tidak-tepat",
+            "text": "Tidak Tepat"
+          }
+        ],
+        "correctAnswer": {
+          "A": "tepat",
+          "B": "tidak-tepat",
+          "C": "tepat",
+          "D": "tidak-tepat"
+        },
+        "explanation": "A) Tepat: Baterai lithium kembung berisiko terbakar/meledak (limbah B3), sehingga wajib diisolasi terminalnya dan disalurkan ke pengelola e-waste resmi. B) Tidak Tepat: Mencampur limbah elektronik/tinta (mengandung logam berat dan bahan kimia berbahaya) ke sampah umum mencemari tanah dan air. C) Tepat: Pemilahan kertas murni dari plastik laminasi memungkinkan daur ulang dan penggunaan ulang untuk dummy cetak. D) Tidak Tepat: Membuang limbah tinta solvent ke saluran drainase menyebabkan pencemaran perairan (PF.5).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q044",
+        "number": 44,
+        "type": "single",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam kelas Desain Periklanan dan Kampanye Sosial, guru mengangkat studi kasus nyata berupa dilema agensi kreatif: sebuah produsen minuman berpemanis tinggi dan berkafein menawarkan proyek iklan digital bernilai besar yang meminta penggunaan karakter kartun menggemaskan serta gim interaktif untuk menarik anak usia sekolah dasar. Pendekatan pembelajaran berbasis isu sosio-profesional tersebut sangat berharga bagi pembentukan calon desainer (PF.5 & P.2) karena..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Mengajarkan peserta didik bahwa desainer profesional wajib selalu menuruti seluruh permintaan klien demi pemasukan finansial tanpa mempertimbangkan dampak sosialnya."
+          },
+          {
+            "id": "B",
+            "text": "Melatih penalaran etis, tanggung jawab sosial desainer terhadap kelompok rentan (anak-anak), serta keterampilan merumuskan argumen negosiasi kreatif alternatif—seperti mengarahkan ulang segmentasi audiens atau transparansi informasi gizi—secara rasional dan bermartabat."
+          },
+          {
+            "id": "C",
+            "text": "Mendorong peserta didik menolak seluruh pekerjaan di industri periklanan komersial dan hanya boleh berkarya di bidang seni rupa murni."
+          },
+          {
+            "id": "D",
+            "text": "Membiasakan peserta didik berdebat secara emosional mengenai mana merek dagang yang paling berbahaya tanpa merujuk regulasi periklanan dan etika profesi."
+          },
+          {
+            "id": "E",
+            "text": "Menghindari pembahasan teknis desain karakter dan copywriting karena waktu pelajaran dialihkan sepenuhnya untuk diskusi hukum kesehatan."
+          }
+        ],
+        "correctAnswer": "B",
+        "explanation": "Studi kasus dilema sosio-profesional dalam DKV (PF.5 & P.2) menempatkan siswa pada persimpangan nyata antara tujuan komersial klien dan etika perlindungan publik (khususnya anak-anak dalam Pariwara Indonesia/etika periklanan). Murid belajar mengambil keputusan etis berbasis bukti dan menawarkan solusi komunikasi bertanggung jawab, bukan sekadar pasif menuruti klien (A) atau menolak industri komersial secara ekstrem (C).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q045",
+        "number": 45,
+        "type": "multiple",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Setelah menyelesaikan satu siklus pembelajaran proyek Teaching Factory pembuatan Katalog Produk UMKM dan Video Promosi Digital bersama kelas XII DKV, guru melakukan refleksi profesional secara empiris (PF.5 & P.6). Indikator-indikator yang tepat digunakan guru untuk mengevaluasi efektivitas pembelajaran yang telah berlangsung adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Penurunan kesalahan teknis berulang pada karya murid dibandingkan awal semester, seperti berkurangnya galat preflight PDF/X-1a, audio clipping, dan pelanggaran kontinuitas penyuntingan."
+          },
+          {
+            "id": "B",
+            "text": "Kualitas umpan balik dari mitra UMKM/klien nyata mengenai kejelasan informasi katalog, efektivitas pesan video promosi, dan kesopanan komunikasi profesional peserta didik."
+          },
+          {
+            "id": "C",
+            "text": "Catatan refleksi peserta didik dan log pembagian peran tim yang menunjukkan pemerataan pengalaman praktik menggunakan kamera, perangkat layout, serta kepatuhan manajemen aset dan K3 studio."
+          },
+          {
+            "id": "D",
+            "text": "Kecepatan peserta didik menghafal seluruh daftar nama menu dan efek transisi perangkat lunak tanpa mempertimbangkan kecocokan visual dengan creative brief."
+          },
+          {
+            "id": "E",
+            "text": "Ketercapaian kemampuan peserta didik mempertahankan keputusan desainnya secara argumentatif berbasis riset audiens dan hasil uji keterbacaan pada sesi presentasi portofolio."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "E"
+        ],
+        "minSelections": 2,
+        "maxSelections": 4,
+        "instruction": "Pilih dua, tiga, atau empat jawaban yang benar.",
+        "explanation": "Refleksi profesional guru DKV berbasis bukti (PF.5 & P.6) menelaah pertumbuhan penguasaan teknis nyata dan penurunan miskonsepsi/galat produksi (A), validasi dampak karya dari mitra pengguna/UMKM (B), keadilan proses kolaborasi dan budaya kerja K3/aset (C), serta kematangan argumentasi desain murid (E). Hafalan menu tanpa keterkaitan creative brief (D) tidak mencerminkan mutu pendidikan kejuruan DKV.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q046",
+        "number": 46,
+        "type": "single",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Sebagai guru DKV, Anda menginisiasi program 'Audit Aksesibilitas dan Efektivitas Media Informasi Sekolah' bersama OSIS dan peserta didik kelas XI–XII sebagai penerapan autentik materi Desain UI/UX, Infografis, Tata Letak Editorial, dan Videografi (PF.5 & P.1). Langkah pertama yang paling sistematis dan edukatif untuk mengawali program tersebut adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Membimbing peserta didik menyusun instrumen audit berbasis kriteria objektif—menguji rasio kontras WCAG dan navigasi situs web sekolah di layar ponsel, mengevaluasi alur baca Z/F-pattern dan tipografi poster mading, memeriksa kejernihan audio/takarir (subtitle) video pengumuman—lalu mengumpulkan umpan balik warga sekolah sebagai data dasar perancangan ulang."
+          },
+          {
+            "id": "B",
+            "text": "Menugaskan peserta didik langsung mengganti warna latar belakang situs web sekolah dengan warna favorit OSIS agar tampil lebih segar."
+          },
+          {
+            "id": "C",
+            "text": "Membuat surat keluhan resmi kepada pengelola web sekolah dan pengurus OSIS terdahulu karena media informasi lama dianggap ketinggalan zaman."
+          },
+          {
+            "id": "D",
+            "text": "Langsung menurunkan seluruh poster mading, menghapus unggahan media sosial sekolah, dan memblokir situs web sekolah sebelum melakukan pemeriksaan."
+          },
+          {
+            "id": "E",
+            "text": "Menggelar lomba membuat logo baru sekolah secara acak tanpa mengidentifikasi permasalahan keterbacaan dan hambatan akses informasi yang dialami warga sekolah."
+          }
+        ],
+        "correctAnswer": "A",
+        "explanation": "Program audit media informasi sekolah berbasis data (PF.5 & P.1) mengubah teori DKV (WCAG, alur baca Z/F-pattern, navigasi mobile-first, kualitas audio/subtitle) menjadi aksi layanan nyata berbasis riset evaluasi. Tahap pertama yang tepat adalah menyusun instrumen audit objektif dan memetakan temuan di lapangan bersama pengguna nyata sebelum melangkah ke tahap redesain.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q047",
+        "number": 47,
+        "type": "single",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Saat menjelaskan konsep sistem grid editorial pada tata letak majalah, guru DKV menggunakan analogi kerangka kolom dan balok bangunan beton yang menopang dinding agar ruang tertata rapi dan kokoh. Agar penggunaan analogi tersebut membantu pemahaman awal tanpa memicu miskonsepsi baru yang membuat desain murid menjadi kaku dan monoton (PF.5 & P.3), hal terpenting yang wajib dilakukan guru adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Meminta peserta didik mempelajari ilmu teknik sipil mengenai perhitungan beban beton bertulang sebelum diizinkan membuka perangkat lunak tata letak."
+          },
+          {
+            "id": "B",
+            "text": "Menegaskan bahwa setiap foto, judul, dan kotak teks tidak boleh sekali pun menyentuh atau melampaui garis kolom grid layaknya tembok beton yang haram dibongkar."
+          },
+          {
+            "id": "C",
+            "text": "Menghindari seluruh penggunaan analogi dalam pembelajaran DKV karena setiap perumpamaan selalu berpotensi disalahpahami oleh peserta didik SMK."
+          },
+          {
+            "id": "D",
+            "text": "Memetakan secara eksplisit titik kesamaan analogi (grid sebagai struktur pengikat konsistensi dan ritme visual) sekaligus menjelaskan batasannya (berbeda dari beton permanen, desainer dapat menerapkan penggabungan modul atau teknik breaking the grid secara sadar dan terukur untuk menciptakan titik fokus dramatis)."
+          },
+          {
+            "id": "E",
+            "text": "Menyampaikan analogi kerangka bangunan secara singkat di akhir pertemuan tanpa menunjukkan contoh nyata halaman majalah yang menaati maupun melanggar grid secara kreatif."
+          }
+        ],
+        "correctAnswer": "D",
+        "explanation": "Prinsip Teaching With Analogies (Glynn, PF.5 & P.3) menegaskan bahwa analogi efektif jika guru memetakan kesamaan fungsional sekaligus secara eksplisit menunjukkan titik batasan analogi (where the analogy breaks down). Dalam desain editorial, menjelaskan bahwa grid adalah panduan fleksibel—bukan penjara kaku, dan dapat dipecahkan secara sengaja (breaking the grid) demi penekanan visual—mencegah tata letak murid menjadi kering dan seragam.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q048",
+        "number": 48,
+        "type": "category",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Peserta didik mulai memanfaatkan perangkat kecerdasan artifisial (AI generatif) dalam produksi video, sulih suara (audio), dan perancangan kampanye visual. Guru DKV menetapkan pedoman integritas dan etika digital studio (PF.5 & P.4)."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan ETIS atau TIDAK ETIS praktik pemanfaatan teknologi AI berikut!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Menggunakan fitur AI transkripsi otomatis (speech-to-text) untuk membantu membuat draf teks takarir (subtitle) video dokumenter aksesibel, kemudian menyunting dan memverifikasi keakuratan ejaannya secara manual."
+          },
+          {
+            "id": "B",
+            "text": "Mengkloning suara (voice cloning) kepala sekolah atau tokoh masyarakat menggunakan AI tanpa persetujuan yang bersangkutan untuk mengisi narasi video promosi agar terdengar lebih berwibawa."
+          },
+          {
+            "id": "C",
+            "text": "Merekayasa video deepfake wajah teman sekelas atau publik figur seolah-olah menyampaikan testimoni dukungan produk tanpa izin demi keperluan tugas kampanye periklanan."
+          },
+          {
+            "id": "D",
+            "text": "Menggunakan AI sebatas mitra curah pendapat awal (brainstorming struktur naskah atau palet inspirasi) disertai pelabelan transparan penggunaan alat bantu dan eksekusi produksi aset foto, video, serta ilustrasi akhir secara orisinal."
+          }
+        ],
+        "categories": [
+          {
+            "id": "etis",
+            "text": "Etis"
+          },
+          {
+            "id": "tidak-etis",
+            "text": "Tidak Etis"
+          }
+        ],
+        "correctAnswer": {
+          "A": "etis",
+          "B": "tidak-etis",
+          "C": "tidak-etis",
+          "D": "etis"
+        },
+        "explanation": "A) Etis: AI speech-to-text yang diverifikasi manual meningkatkan aksesibilitas video bagi audiens tuli/hard-of-hearing tanpa melanggar hak siapa pun (P.4). B) Tidak Etis: Voice cloning tanpa persetujuan sadar melanggar hak identitas suara, privasi, dan rawan pemalsuan informasi. C) Tidak Etis: Deepfake wajah tanpa izin merupakan manipulasi identitas yang melanggar etika profesi dan hukum. D) Etis: Pemanfaatan AI sebagai alat ideasi awal secara transparan dengan tetap mengeksekusi karya autentik menjaga kepemilikan intelektual dan proses belajar (PF.5).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q049",
+        "number": 49,
+        "type": "single",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Untuk menyelaraskan kompetensi lulusan SMK DKV dengan standar kerja nyata di bidang periklanan, media gerak, UI/UX, dan publikasi cetak, guru merancang program kemitraan dengan industri kreatif sekitar (PF.5 & P.5). Bentuk kolaborasi industri yang paling relevan, berkelanjutan, dan berdampak langsung pada peningkatan kualitas belajar peserta didik adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Membangun kemitraan terstruktur bersama agensi kreatif, rumah produksi, dan percetakan offset/digital melalui penyusunan creative brief autentik proyek kelas, sesi ulasan portofolio oleh praktisi (art director/UX designer), kunjungan observasi alur preflight hingga cetak, serta sinkronisasi rubrik asesmen dengan standar kerja industri."
+          },
+          {
+            "id": "B",
+            "text": "Menyerahkan peserta didik magang ke percetakan untuk mengerjakan tugas membersihkan mesin dan mengantar paket cetak selama enam bulan penuh tanpa pendampingan kompetensi desain maupun pracetak."
+          },
+          {
+            "id": "C",
+            "text": "Mengundang perwakilan perusahaan percetakan sekali setahun sekadar untuk membagikan brosur promosi mesin cetak baru saat upacara pembukaan tahun ajaran."
+          },
+          {
+            "id": "D",
+            "text": "Meminta agensi kreatif lokal menandatangani nota kesepahaman (MoU) administratif semata demi memenuhi kelengkapan dokumen akreditasi sekolah tanpa tindak lanjut kegiatan belajar."
+          },
+          {
+            "id": "E",
+            "text": "Menyerahkan seluruh proyek pesanan berbayar milik klien komersial kepada peserta didik dengan tenggat malam hari tanpa pengawasan pedagogis maupun perlindungan hak belajar mereka."
+          }
+        ],
+        "correctAnswer": "A",
+        "explanation": "Kemitraan dunia usaha dan dunia industri (DUDI) yang bermakna dalam SMK DKV (PF.5 & P.5) terwujud dalam integrasi kurikuler nyata: brief autentik, ulasan portofolio oleh praktisi, observasi alur preflight/produksi industri, dan penyelarasan rubrik penilaian. Opsi B mengeksploitasi tenaga murid di luar kompetensi, C dan D bersifat seremonial administratif, sedangkan E melanggar prinsip perlindungan belajar murid.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q050",
+        "number": 50,
+        "type": "multiple",
+        "section": "PCK Desain Komunikasi Visual",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Perkembangan ekosistem desain digital, standar aksesibilitas antarmuka, teknologi pascaproduksi audio-visual, dan pedoman etika AI berlangsung sangat cepat. Untuk terus mengembangkan praktik profesional pendidikan DKV secara konseptual, empiris, kreatif, dan inovatif (PF.5), langkah-langkah pengembangan diri yang paling relevan dilakukan guru DKV adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Mempertahankan modul ajar, studi kasus iklan, dan perangkat lunak versi lama dari sepuluh tahun lalu agar tidak perlu menyusun ulang latihan praktik bengkel."
+          },
+          {
+            "id": "B",
+            "text": "Aktif dalam forum MGMP DKV, komunitas kreatif, dan program magang guru (upskilling/reskilling) di agensi atau studio produksi untuk memperbarui standar kerja NLE, UI/UX, dan pracetak."
+          },
+          {
+            "id": "C",
+            "text": "Melaksanakan Penelitian Tindakan Kelas (PTK) dan berbagi praktik baik perangkat ajar inovatif berdasarkan temuan kesulitan nyata murid di studio."
+          },
+          {
+            "id": "D",
+            "text": "Menjaga keterlibatan berkarya (portofolio desain/fotografi/video pribadi) sekaligus rutin merefleksikan umpan balik murid dan mitra industri untuk menyempurnakan strategi pembelajaran."
+          },
+          {
+            "id": "E",
+            "text": "Mengikuti tren efek visual viral secara membabi buta di kelas tanpa mengaitkannya dengan dasar prinsip komunikasi visual, keterbacaan, dan capaian pembelajaran."
+          }
+        ],
+        "correctAnswer": [
+          "B",
+          "C",
+          "D"
+        ],
+        "minSelections": 2,
+        "maxSelections": 4,
+        "instruction": "Pilih dua, tiga, atau empat jawaban yang benar.",
+        "explanation": "Pengembangan keprofesian berkelanjutan guru DKV (PF.5) mencakup keterlibatan aktif di MGMP/komunitas kreatif dan magang industri (B), riset praktis PTK berbasis masalah kelas (C), serta pengasahan praktik berkarya dan refleksi berbasis umpan balik murid/industri (D). Stagnasi perangkat lama (A) dan pengejaran tren dangkal tanpa dasar konseptual (E) tidak mencerminkan profesionalisme guru DKV.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q051",
+        "number": 51,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Seorang guru merancang penggunaan portofolio digital sepanjang satu semester agar peserta didik tidak sekadar mengumpulkan hasil akhir tugas demi nilai, melainkan benar-benar mengalami pemahaman konseptual, penerapan kontekstual, dan kesadaran atas perkembangan belajarnya sendiri (P.1). Rancangan pengelolaan portofolio digital yang paling mencerminkan prinsip pembelajaran berpusat pada murid tersebut adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Meminta seluruh murid mengunggah satu berkas PDF tugas akhir sehari sebelum ujian semester untuk langsung diberi skor angka oleh guru tanpa catatan."
+          },
+          {
+            "id": "B",
+            "text": "Mengharuskan seluruh murid menyalin ulang rangkuman materi dari papan tulis ke dokumen daring dengan format huruf dan warna sampul yang seragam."
+          },
+          {
+            "id": "C",
+            "text": "Menjadikan portofolio digital sebagai ajang lomba memilih satu tampilan halaman paling mewah untuk dipajang tanpa menelaah ketepatan konsep isinya."
+          },
+          {
+            "id": "D",
+            "text": "Mengizinkan murid mengunggah tugas apa saja secara acak ke folder cloud kelas tanpa kriteria kurasi maupun kesempatan meninjau ulang perkembangan karyanya."
+          },
+          {
+            "id": "E",
+            "text": "Membimbing murid mengarsipkan rangkaian bukti proses—mulai dari gagasan awal, catatan umpan balik, draf revisi, hingga karya final—disertai entri refleksi tertulis mengenai perubahan pemahaman konsep dan strategi belajar yang paling efektif bagi dirinya."
+          }
+        ],
+        "correctAnswer": "E",
+        "explanation": "Subkompetensi P.1 menekankan pembelajaran yang membangun pemahaman konseptual, penerapan kontekstual, dan refleksi bermakna. Portofolio digital berbasis proses (growth portfolio, opsi E) menampakkan perjalanan berpikir murid dari draf awal ke revisi berbasis umpan balik, sehingga murid menyadari pertumbuhan konseptual dan regulasi belajarnya sendiri—bukan sekadar gudang berkas akhir (A/D).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q052",
+        "number": 52,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Di sebuah kelas reguler terdapat seorang peserta didik dengan indikasi hambatan pemusatan perhatian dan hiperaktivitas ringan (ADHD ringan). Ia sangat antusias menjawab pertanyaan dan kaya gagasan kreatif, tetapi kerap kesulitan mengikuti instruksi lisan yang panjang, mudah teralihkan oleh keramaian dekat jendela, dan cepat gelisah bila harus duduk diam menyimak lebih dari 15 menit. Akomodasi pedagogis yang paling tepat dan berpihak pada murid sesuai prinsip pembelajaran inklusif dan berdiferensiasi (P.2) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Memindahkan tempat duduknya menyendiri di sudut paling belakang ruang kelas dan melarangnya bertanya sebelum guru selesai berceramah selama satu jam penuh."
+          },
+          {
+            "id": "B",
+            "text": "Menempatkannya di area depan yang minim distraksi visual tanpa memberi label negatif, memecah tugas kompleks menjadi tahapan mikro dengan daftar periksa (checklist) visual yang jelas, serta menyisipkan transisi aktivitas singkat yang memberi ruang gerak fungsional (seperti membantu membagikan lembar kerja atau berganti stasiun belajar)."
+          },
+          {
+            "id": "C",
+            "text": "Menurunkan target capaian belajarnya jauh di bawah teman sekelas dan membiarkannya menggambar bebas di luar topik selama jam pelajaran agar kelas tetap tenang."
+          },
+          {
+            "id": "D",
+            "text": "Meminta seluruh teman sekelas menegurnya secara serempak setiap kali ia tampak menoleh atau gelisah di bangkunya supaya timbul efek jera."
+          },
+          {
+            "id": "E",
+            "text": "Memberikan seluruh tugasnya dalam satu instruksi lisan cepat di awal pertemuan agar ia terpaksa melatih daya ingat dan konsentrasinya seperti murid lain."
+          }
+        ],
+        "correctAnswer": "B",
+        "explanation": "Akomodasi bagi murid dengan ADHD ringan (P.2) berfokus pada penataan lingkungan minim distraksi tanpa pengucilan, penyederhanaan instruksi menjadi langkah mikro berpanduan visual (chunking & visual checklist), serta penyaluran kebutuhan gerak secara konstruktif (brain breaks/peran fungsional). Opsi A dan D menimbulkan stigma/isolasi, C menurunkan ekspektasi secara tidak adil, dan E justru memperburuk beban memori kerja murid.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q053",
+        "number": 53,
+        "type": "category",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Sekolah melaksanakan pembelajaran tematik lintas disiplin dengan pendekatan pembelajaran mendalam (deep learning) yang memadukan prinsip berkesadaran (mindful), bermakna (meaningful), dan menggembirakan (joyful)."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan SESUAI atau TIDAK SESUAI praktik pembelajaran berikut dengan ketiga prinsip tersebut!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Guru mengajak murid berhenti sejenak di pertengahan pengerjaan proyek untuk mengecek strategi mana yang berhasil dan hambatan apa yang sedang mereka rasakan sebelum melanjutkan langkah berikutnya (Berkesadaran)."
+          },
+          {
+            "id": "B",
+            "text": "Guru menghubungkan materi pelajaran dengan persoalan nyata di lingkungan tempat tinggal murid dan mengundang mereka merumuskan solusi yang berdampak bagi warga sekolah (Bermakna)."
+          },
+          {
+            "id": "C",
+            "text": "Guru menyelingi setiap sesi dengan menayangkan potongan video komedi acak selama 25 menit yang sama sekali tidak terkait tujuan belajar agar murid terhibur dan lupa rasa lelah (Menggembirakan)."
+          },
+          {
+            "id": "D",
+            "text": "Guru memfasilitasi pameran karya mini di kelas yang merayakan beragam cara pandang dan keberanian mencoba ide baru sehingga tumbuh antusiasme intelektual murid (Menggembirakan & Bermakna)."
+          }
+        ],
+        "categories": [
+          {
+            "id": "sesuai",
+            "text": "Sesuai"
+          },
+          {
+            "id": "tidak-sesuai",
+            "text": "Tidak Sesuai"
+          }
+        ],
+        "correctAnswer": {
+          "A": "sesuai",
+          "B": "sesuai",
+          "C": "tidak-sesuai",
+          "D": "sesuai"
+        },
+        "explanation": "A) Sesuai: Jeda reflektif memantau strategi dan kesadaran diri merupakan inti mindful learning. B) Sesuai: Keterhubungan konsep dengan persoalan nyata di sekitar murid membangun meaningful learning. C) Tidak Sesuai: Joyful learning bukan hiburan lepas konteks yang menyita waktu belajar, melainkan suasana aman dan kegembiraan dalam menemukan pemahaman. D) Sesuai: Perayaan proses belajar dan keberagaman ide menguatkan kegembiraan intelektual sekaligus kebermaknaan.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q054",
+        "number": 54,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Seorang guru mulai memanfaatkan Learning Management System (LMS) sekolah dan fitur komentar anotasi dokumen kolaboratif daring pada kegiatan pembelajaran mingguan. Indikator evaluatif yang paling tepat untuk memastikan bahwa integrasi teknologi tersebut benar-benar mentransformasi kedalaman belajar murid (P.4), bukan sekadar menggantikan kertas menjadi layar digital, adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Seluruh modul cetak guru telah berhasil dipindai ke dalam format PDF dan diunggah rapi ke dalam folder LMS sekolah."
+          },
+          {
+            "id": "B",
+            "text": "Durasi aktif peserta didik menatap layar LMS tercatat melampaui tiga jam setiap pekannya tanpa melihat isi interaksi yang terjadi."
+          },
+          {
+            "id": "C",
+            "text": "Halaman beranda kelas di LMS dilengkapi spanduk animasi mencolok dan stiker warna-warni yang dibuat guru setiap minggu."
+          },
+          {
+            "id": "D",
+            "text": "Fitur anotasi kolaboratif dan rubrik digital di LMS dimanfaatkan murid untuk saling memberi umpan balik berbasis argumen, melacak jejak revisi gagasan, serta melakukan penyelidikan mandiri yang sebelumnya sulit terlaksana secara klasikal."
+          },
+          {
+            "id": "E",
+            "text": "Guru tidak perlu lagi berdialog tatap muka dengan peserta didik karena seluruh instruksi dan pengumuman tugas telah dikirimkan melalui notifikasi otomatis."
+          }
+        ],
+        "correctAnswer": "D",
+        "explanation": "Mengacu pada kerangka TPACK dan model SAMR (P.4), pemanfaatan TIK mencapai taraf transformasi (Modification/Redefinition) apabila teknologi membuka peluang berpikir tingkat tinggi, umpan balik iteratif berbasis bukti, dan kolaborasi mendalam (D). Sekadar mengunggah PDF (A) hanya berhenti pada substitusi pasif, sedangkan durasi layar (B) atau dekorasi tampilan (C) tidak mengukur kualitas kognitif belajar.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q055",
+        "number": 55,
+        "type": "multiple",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Guru ingin merancang proyek pembelajaran kontekstual yang memanfaatkan potensi sosial, ruang publik, serta ekosistem ekonomi kreatif di daerah sekitar sekolah (P.5). Langkah-langkah rancangan pembelajaran yang paling mencerminkan implementasi optimal subkompetensi tersebut adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Memetakan potensi dan tantangan nyata di lingkungan sekitar sekolah—seperti pengelolaan ruang publik, tradisi lokal, atau kebutuhan UMKM sekitar—sebagai sumber pemantik masalah autentik bagi proyek murid."
+          },
+          {
+            "id": "B",
+            "text": "Menjadikan studi kasus dari kota metropolitan luar negeri sebagai satu-satunya rujukan kelas karena fenomena daerah setempat dianggap terlalu sederhana."
+          },
+          {
+            "id": "C",
+            "text": "Melibatkan praktisi lokal, pengelola sanggar, atau pelaku usaha sekitar sebagai narasumber dialog untuk memberikan wawasan lapangan sekaligus umpan balik atas gagasan murid."
+          },
+          {
+            "id": "D",
+            "text": "Membimbing peserta didik menelaah nilai kearifan lokal dan konteks sosial budaya masyarakat secara kritis agar solusi yang dihasilkan relevan dan menghormati warga setempat."
+          },
+          {
+            "id": "E",
+            "text": "Meminta peserta didik menyalin data profil kecamatan dari ensiklopedia daring tanpa melakukan observasi lapangan atau wawancara langsung."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "C",
+          "D"
+        ],
+        "minSelections": 2,
+        "maxSelections": 4,
+        "instruction": "Pilih dua, tiga, atau empat jawaban yang benar.",
+        "explanation": "Subkompetensi P.5 menekankan pemanfaatan lingkungan sekitar dan kearifan lokal secara bermakna melalui pemetaan masalah autentik setempat (A), pelibatan narasumber komunitas lokal (C), dan kajian kritis nilai sosial budaya agar karya/solusi kontekstual (D). Mengabaikan realitas lokal (B) dan sekadar menyalin data daring tanpa interaksi lapangan (E) menghilangkan esensi kontekstualitas.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q056",
+        "number": 56,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pada pekan kedua pengerjaan proyek kelompok, guru mengamati salah satu tim mengalami konflik pembagian peran: satu murid yang sangat dominan mengambil alih hampir seluruh bagian pekerjaan karena merasa teman-temannya terlalu lambat, sementara dua anggota lain menjadi pasif dan enggan berpendapat sehingga draf proyek tidak mencerminkan kolaborasi. Intervensi asesmen formatif proses dan umpan balik yang paling tepat dilakukan guru saat itu (P.6) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Membiarkan dinamika tersebut berjalan hingga proyek selesai karena konflik internal dianggap cara alami melatih mental kerja kelompok."
+          },
+          {
+            "id": "B",
+            "text": "Langsung mengeluarkan dua murid yang pasif dari kelompok tersebut dan memberi mereka nilai nol tanpa menelusuri penyebab kebuntuan komunikasi tim."
+          },
+          {
+            "id": "C",
+            "text": "Mengajak kelompok berdialog singkat secara empatik, menggunakan rubrik kolaborasi dan papan pembagian tugas (task board) untuk menata ulang tanggung jawab tiap anggota sesuai kekuatan masing-masing, serta menetapkan pos pemeriksaan berkala (check-in) di mana setiap anggota memaparkan kontribusinya."
+          },
+          {
+            "id": "D",
+            "text": "Memuji murid yang mendominasi di depan kelas karena dinilai paling cekatan sekaligus menyarankan seluruh kelompok lain meniru pola kerja satu pemimpin tunggal tersebut."
+          },
+          {
+            "id": "E",
+            "text": "Membubarkan seluruh proyek kelompok di kelas tersebut dan menggantinya dengan tugas individu terpisah agar tidak ada lagi perselisihan antaranggota."
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Asesmen formatif (P.6) memantau bukan hanya produk akhir melainkan juga proses kolaborasi secara real-time. Intervensi dialogis dengan instrumen task board, rubrik peran yang transparan, dan check-in kontribusi individu (C) membantu murid dominan belajar berbagi kendali sekaligus memberdayakan anggota pasif kembali terlibat aktif secara adil.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q057",
+        "number": 57,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Di awal semester, guru melakukan asesmen diagnostik kesiapan belajar dan asesmen awal non-kognitif. Hasilnya menunjukkan bahwa sebagian besar murid mengalami kejenuhan tinggi terhadap pembelajaran berbasis ceramah satu arah dan terdapat kesenjangan tajam dalam kemampuan menyusun paragraf argumentasi analitis. Keputusan penyesuaian modul ajar yang paling tepat diambil guru (P.1, P.2 & P.6) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menghapus seluruh komponen menulis analitis dari tujuan pembelajaran semester ini agar murid tidak merasa terbebani maupun bosan."
+          },
+          {
+            "id": "B",
+            "text": "Tetap menjalankan modul ajar ceramah dari tahun lalu persis seperti semula agar target jumlah bab yang disampaikan tidak tertinggal dari kelas paralel."
+          },
+          {
+            "id": "C",
+            "text": "Merancang ulang alur kegiatan menjadi lebih aktif berbasis studi kasus kontekstual dan diskusi terbimbing, serta menyediakan perancah bertingkat (seperti kerangka kalimat pemantik/graphic organizer bagi murid yang masih kesulitan menulis analitis dan tantangan kajian sumber ganda bagi yang sudah mahir)."
+          },
+          {
+            "id": "D",
+            "text": "Memberikan hukuman menulis esai lima halaman setiap akhir pekan khusus bagi peserta didik yang skor asesmen awalnya berada di bawah rata-rata."
+          },
+          {
+            "id": "E",
+            "text": "Menyimpan data asesmen diagnostik sebagai arsip lampiran administrasi semata karena perubahan metode di tengah jalan dianggap merepotkan."
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Esensi asesmen awal (P.6) adalah menginformasikan desain pembelajaran kontekstual (P.1) dan diferensiasi proses (P.2). Mengubah pendekatan menjadi aktif-kontekstual untuk mengatasi kejenuhan sekaligus memberi perancah kerangka berpikir (graphic organizer) menjembatani kesenjangan literasi analitis tanpa menurunkan standar capaian kompetensi.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q058",
+        "number": 58,
+        "type": "category",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam Kurikulum Merdeka, ketepatan guru memahami fungsi asesmen formatif, asesmen sumatif, serta penilaian sejawat (peer assessment) menentukan keadilan dan kebermaknaan proses belajar (P.6)."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan BENAR atau SALAH pernyataan terkait pengelolaan asesmen pembelajaran berikut!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Penilaian sejawat (peer assessment) yang dipandu rubrik kriteria konkret melatih murid mengenali standar kualitas karya sekaligus belajar memberi masukan yang santun dan konstruktif."
+          },
+          {
+            "id": "B",
+            "text": "Hasil asesmen formatif di tengah proses belajar berfungsi memetakan kesulitan murid untuk perbaikan strategi mengajar, sehingga umumnya tidak dijadikan pembobotan utama nilai rapor akhir."
+          },
+          {
+            "id": "C",
+            "text": "Umpan balik tertulis guru cukup berupa tanda centang dan angka skor tanpa penjelasan letak kekuatan maupun saran langkah perbaikan agar koreksi selesai lebih cepat."
+          },
+          {
+            "id": "D",
+            "text": "Ketercapaian tujuan pembelajaran dapat dinilai menggunakan kriteria ketercapaian (KKTP) berbasis deskripsi kriteria atau rubrik interval, bukan semata satu angka KKM kaku tanpa makna kualitatif."
+          }
+        ],
+        "categories": [
+          {
+            "id": "benar",
+            "text": "Benar"
+          },
+          {
+            "id": "salah",
+            "text": "Salah"
+          }
+        ],
+        "correctAnswer": {
+          "A": "benar",
+          "B": "benar",
+          "C": "salah",
+          "D": "benar"
+        },
+        "explanation": "A) Benar: Peer assessment berbasis rubrik merupakan wujud Assessment as Learning yang menguatkan kesadaran standar kualitas. B) Benar: Asesmen formatif berfokus pada umpan balik perbaikan proses belajar, sedangkan capaian rapor merujuk pada asesmen sumatif. C) Salah: Umpan balik efektif harus spesifik, deskriptif, dan menunjukkan langkah tindak lanjut (feed-forward), bukan sekadar skor angka (P.6). D) Benar: KKTP dalam Kurikulum Merdeka menekankan ketercapaian kompetensi kualitatif melalui deskripsi/rubrik/interval nilai.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q059",
+        "number": 59,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Saat sesi presentasi hasil diskusi kelompok, seorang murid yang biasanya aktif tiba-tiba terdiam, menutup buku catatannya, dan tampak menahan kesal setelah seorang rekannya melontarkan komentar sarkastis yang meremehkan idenya di hadapan kelas. Tindakan segera yang paling tepat dilakukan guru untuk memulihkan iklim belajar yang aman secara psikologis dan menghargai martabat setiap murid (P.3) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menertawakan komentar sarkastis tersebut bersama kelas agar suasana yang tegang segera mencair kembali."
+          },
+          {
+            "id": "B",
+            "text": "Memarahi murid yang berkomentar sarkastis dengan suara keras di depan semua teman dan mengusirnya keluar ruangan agar adil."
+          },
+          {
+            "id": "C",
+            "text": "Mengabaikan reaksi emosional murid yang tersinggung dan langsung menunjuk kelompok berikutnya maju supaya alokasi waktu tidak terganggu."
+          },
+          {
+            "id": "D",
+            "text": "Menasihati murid yang tersinggung agar tidak mudah terbawa perasaan karena kritik tajam sudah biasa terjadi di dunia luar."
+          },
+          {
+            "id": "E",
+            "text": "Menghentikan komentar sarkastis secara tenang namun tegas dengan mengingatkan kesepakatan kelas tentang kritik berbasis gagasan (bukan menyerang pribadi), mengapresiasi keberanian murid presenter berbagi ide, lalu mengajak kedua murid berdialog restoratif singkat setelah sesi diskusi usai."
+          }
+        ],
+        "correctAnswer": "E",
+        "explanation": "Subkompetensi P.3 menuntut penciptaan iklim kelas yang aman, nyaman, dan menghargai martabat manusia. Penegakan kesepakatan kelas secara tenang dan tegas (membedakan kritik terhadap gagasan dari serangan personal), pemulihan harga diri korban di forum, serta dialog restoratif pasca-sesi (E) menjaga keamanan psikologis tanpa mempermalukan pihak mana pun.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q060",
+        "number": 60,
+        "type": "multiple",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam merancang model Pembelajaran Berbasis Proyek (Project-Based Learning / PjBL) yang benar-benar autentik dan berdampak bagi komunitas sekolah (P.1 & P.5), manakah karakteristik esensial yang wajib terwujud dalam rancangan guru?"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Proyek diberikan hanya di akhir bab sebagai tugas tambahan keterampilan tangan yang seragam bentuknya dan tidak memengaruhi penguasaan konsep inti mata pelajaran."
+          },
+          {
+            "id": "B",
+            "text": "Kegiatan bertolak dari pertanyaan pemantik menantang berbasis persoalan nyata, memberi ruang suara dan pilihan (voice and choice) bagi murid, serta melalui siklus umpan balik dan revisi berkelanjutan."
+          },
+          {
+            "id": "C",
+            "text": "Guru menentukan secara rinci seluruh langkah teknis dan desain produk sejak awal sehingga seluruh kelompok menghasilkan karya yang identik tanpa ruang eksplorasi."
+          },
+          {
+            "id": "D",
+            "text": "Produk proyek dipublikasikan atau dipresentasikan kepada audiens autentik di luar ruang kelas (seperti warga sekolah, orang tua, atau mitra komunitas) guna memperkuat kebermaknaan dan tanggung jawab murid."
+          },
+          {
+            "id": "E",
+            "text": "Penilaian proyek hanya memperhitungkan keindahan hasil akhir pada hari pengumpulan tanpa mendokumentasikan proses penyelidikan, refleksi, dan kolaborasi tim."
+          }
+        ],
+        "correctAnswer": [
+          "B",
+          "D"
+        ],
+        "minSelections": 2,
+        "maxSelections": 4,
+        "instruction": "Pilih dua, tiga, atau empat jawaban yang benar.",
+        "explanation": "Prinsip Gold Standard PjBL (P.1 & P.5) dicirikan oleh pertanyaan pemantik autentik, voice and choice murid, serta siklus kritik-revisi yang mendalam (B), disertai publikasi produk kepada audiens nyata di luar kelas untuk mendorong standar mutu dan dampak kontekstual (D). Opsi A adalah sekadar 'dessert project' (bukan main course PjBL), C mematikan otonomi inkuiri, dan E mengabaikan asesmen proses dan refleksi.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q061",
+        "number": 61,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam penugasan telaah artikel ilmiah populer, guru mendapati hampir separuh peserta didik mengumpulkan ringkasan yang struktur kalimatnya nyaris seragam dan memuat beberapa kutipan fiktif (halusinasi data) karena mereka langsung menyalin keluaran mesin AI generatif tanpa membaca teks rujukan aslinya. Strategi pedagogis yang paling tepat untuk membangun literasi digital dan literasi AI secara kritis (P.4) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Melarang keras seluruh murid mengakses internet maupun perangkat digital selama satu semester dan mengembalikan semua penugasan menjadi salin tulis tangan dari buku cetak."
+          },
+          {
+            "id": "B",
+            "text": "Membedah bersama contoh halusinasi data keluaran AI di kelas, melatih teknik verifikasi silang terhadap sumber primer (fact-checking), serta merancang ulang tugas yang mewajibkan anotasi bacaan pribadi, pengaitan dengan observasi lokal, dan penjelasan lisan singkat atas argumennya."
+          },
+          {
+            "id": "C",
+            "text": "Langsung memberi nilai nol tanpa penjelasan kepada seluruh murid yang diduga memakai AI berdasarkan firasat guru terhadap gaya bahasa tulisan mereka."
+          },
+          {
+            "id": "D",
+            "text": "Membiarkan praktik penyalinan AI tersebut karena kemampuan menyusun perintah singkat (prompting) dianggap sudah mencukupi keterampilan literasi abad ke-21."
+          },
+          {
+            "id": "E",
+            "text": "Menyarankan murid memakai aplikasi pengubah susunan kata (paraphraser otomatis) agar hasil salinan AI tidak mudah terdeteksi oleh pemeriksa plagiarisme."
+          }
+        ],
+        "correctAnswer": "B",
+        "explanation": "Subkompetensi P.4 menuntut kecakapan memanfaatkan TIK secara kritis dan etis. Alih-alih pelarangan total (A) atau vonis berbasis firasat (C), guru membekali murid keterampilan verifikasi silang terhadap halusinasi AI serta merancang ulang tugas autentik berbasis konteks lokal dan penalaran personal (B) agar proses berpikir tetap dimiliki oleh murid.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q062",
+        "number": 62,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pada sepuluh menit terakhir pembelajaran berbasis penyelidikan, guru menerapkan protokol refleksi tertulis singkat agar peserta didik mampu mengevaluasi perubahan cara berpikirnya sekaligus merencanakan tindak lanjut belajar (P.6 & P.1). Rangkaian pemantik refleksi yang paling kuat menumbuhkan kesadaran metakognitif peserta didik adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "'Apakah kalian senang dengan pelajaran hari ini? Lingkari gambar wajah tersenyum atau cemberut di pojok kertas.'"
+          },
+          {
+            "id": "B",
+            "text": "'Sebutkan kembali tiga definisi istilah penting yang baru saja tertulis pada papan tulis bagian kanan.'"
+          },
+          {
+            "id": "C",
+            "text": "'Tuliskan nama anggota kelompokmu yang menurutmu paling banyak berbicara dan yang paling jarang memberi ide hari ini.'"
+          },
+          {
+            "id": "D",
+            "text": "'Dulu saya berpikir bahwa..., sekarang setelah melihat bukti diskusi hari ini saya menyadari..., bagian yang masih membuat saya ragu adalah..., dan langkah konkret yang akan saya lakukan berikutnya adalah...'"
+          },
+          {
+            "id": "E",
+            "text": "'Berapa nilai antara 1 sampai 100 yang menurutmu pantas diberikan kepada materi pelajaran hari ini?'"
+          }
+        ],
+        "correctAnswer": "D",
+        "explanation": "Protokol refleksi berbasis perubahan konseptual ('I used to think..., now I think...') yang dilengkapi identifikasi kebingungan dan rencana aksi (D) merupakan praktik metakognitif mendalam (P.1 & P.6). Opsi A dan E terlalu superfisial, B hanya mengukur ingatan jangka pendek, sedangkan C mengarahkan pada saling menyalahkan antarteman.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q063",
+        "number": 63,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Menjelang pelaksanaan pekan gelar karya dan pameran inovasi sekolah, perwakilan sebuah perusahaan ritel menawarkan bantuan dana sponsor yang sangat besar bagi panitia dengan syarat guru mewajibkan seluruh peserta didik membeli paket produk berbayar milik perusahaan tersebut serta memasang spanduk promosi agresif di dalam setiap ruang kelas. Sikap profesional yang paling mencerminkan kematangan moral, integritas, dan keteladanan guru (K.1) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Langsung menyetujui persyaratan tersebut demi kelancaran acara pameran dan mengimbau orang tua agar tidak mempermasalahkan kewajiban pembelian produk."
+          },
+          {
+            "id": "B",
+            "text": "Menolak klausul komersialisasi yang memaksa murid maupun mengintervensi ruang belajar secara santun namun tegas, menjelaskan batas etika perlindungan peserta didik kepada pimpinan dan panitia, serta mengupayakan dukungan pendanaan yang transparan dan bebas konflik kepentingan."
+          },
+          {
+            "id": "C",
+            "text": "Menerima dana sponsornya secara diam-diam tanpa melaporkan syarat pemaksaan pembelian kepada kepala sekolah agar pameran tetap meriah."
+          },
+          {
+            "id": "D",
+            "text": "Memarahi perwakilan perusahaan tersebut di depan peserta didik agar warga sekolah melihat ketegasan panitia menolak pihak luar."
+          },
+          {
+            "id": "E",
+            "text": "Mewajibkan pembelian produk hanya kepada peserta didik dari keluarga mampu saja supaya tidak menimbulkan keluhan dari keluarga kurang mampu."
+          }
+        ],
+        "correctAnswer": "B",
+        "explanation": "Subkompetensi K.1 menekankan kematangan moral, integritas, dan keteladanan etis guru dalam menjaga lingkungan sekolah sebagai ruang edukasi yang bebas eksploitasi komersial. Menolak syarat yang membebani murid secara santun dan terukur sambil mencari alternatif pendanaan transparan (B) mencerminkan keseimbangan ketegasan moral dan kematangan emosional.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q064",
+        "number": 64,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Di sebuah kelas baru yang majemuk, terdapat beberapa peserta didik pindahan dari luar daerah yang memiliki logat bicara khas daerah asalnya. Saat mereka menyampaikan pendapat dalam diskusi kelas, beberapa teman mulai saling melirik dan menirukan logat tersebut dengan nada candaan halus hingga membuat murid pindahan tersebut memilih diam. Sikap keteladanan profesional guru yang menjunjung nilai keberagaman dan martabat manusia (K.1) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menyarankan murid pindahan tersebut berlatih menghilangkan logat daerahnya secepat mungkin agar tidak lagi menjadi bahan candaan teman sekelas."
+          },
+          {
+            "id": "B",
+            "text": "Mengabaikan sindiran halus tersebut karena menganggapnya sekadar gurauan biasa antaremaja yang akan hilang dengan sendirinya."
+          },
+          {
+            "id": "C",
+            "text": "Membebaskan murid pindahan dari seluruh kewajiban berbicara di depan kelas agar mereka terhindar dari situasi tidak nyaman."
+          },
+          {
+            "id": "D",
+            "text": "Menghukum seluruh kelas berdiri di depan papan tulis selama 20 menit tanpa menjelaskan dampak negatif ejekan berbasis latar belakang budaya."
+          },
+          {
+            "id": "E",
+            "text": "Menegaskan secara tenang dan teladan bahwa keragaman bahasa serta logat daerah merupakan kekayaan budaya bangsa yang wajib dihormati, menghentikan peniruan bernada ejekan melalui refleksi empati bersama kelas, dan memastikan ruang partisipasi yang setara bagi seluruh murid."
+          }
+        ],
+        "correctAnswer": "E",
+        "explanation": "Keteladanan berbasis nilai keberagaman dan kebinekaan (K.1) menuntut guru bertindak cepat melindungi martabat setiap latar belakang budaya tanpa menormalisasi mikroagresi (B) ataupun memaksa asimilasi dengan menghapus identitas daerah murid (A). Menjadikan momen tersebut refleksi empati dan penegakan ruang aman setara (E) membangun karakter inklusif seluruh kelas.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q065",
+        "number": 65,
+        "type": "category",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Saat sekolah mengadopsi pembaruan sistem asesmen digital dan kepala sekolah melaksanakan supervisi klinis di kelas, sikap reflektif dan pola pikir bertumbuh (growth mindset) seorang guru (K.2) tampak dalam respons sehari-harinya."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan SESUAI atau TIDAK SESUAI sikap guru berikut dengan prinsip growth mindset dan belajar sepanjang hayat!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Menyambut catatan observasi supervisi klinis mengenai minimnya waktu tunggu (wait time) saat bertanya kepada murid sebagai bahan refleksi konkret untuk memperbaiki pola interaksi di pertemuan berikutnya."
+          },
+          {
+            "id": "B",
+            "text": "Menolak mencoba platform asesmen digital baru dengan alasan metode manual yang telah dipakai selama 15 tahun terakhir sudah pasti paling efektif sehingga tidak perlu berubah."
+          },
+          {
+            "id": "C",
+            "text": "Secara berkala meminta umpan balik anonim singkat dari peserta didik tentang kejelasan instruksi dan kenyamanan suasana belajar guna menyempurnakan strategi mengajarnya."
+          },
+          {
+            "id": "D",
+            "text": "Menyalahkan rendahnya motivasi generasi muda setiap kali suatu rencana pembelajaran tidak berjalan sesuai harapan, tanpa menelaah kembali kesesuaian rancangan aktivitas yang dibuatnya."
+          }
+        ],
+        "categories": [
+          {
+            "id": "sesuai",
+            "text": "Sesuai"
+          },
+          {
+            "id": "tidak-sesuai",
+            "text": "Tidak Sesuai"
+          }
+        ],
+        "correctAnswer": {
+          "A": "sesuai",
+          "B": "tidak-sesuai",
+          "C": "sesuai",
+          "D": "tidak-sesuai"
+        },
+        "explanation": "A) Sesuai: Memandang umpan balik supervisi klinis sebagai peluang pertumbuhan kompetensi mencerminkan growth mindset (K.2). B) Tidak Sesuai: Penolakan adaptasi karena terpaku kebiasaan lama mencerminkan fixed mindset. C) Sesuai: Keterbukaan mendengar suara murid menunjukkan kerendahan hati reflektif. D) Tidak Sesuai: Sikap menyalahkan faktor eksternal semata menghalangi refleksi diri dan perbaikan praktik mengajar.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q066",
+        "number": 66,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Seorang peserta didik kelas XI menunjukkan bakat menonjol dalam kewirausahaan digital, komunikasi publik, dan pengorganisasian acara sekolah. Namun, ia kerap kesulitan bertahan lama pada tugas tertulis konvensional yang panjang sehingga beberapa rekan guru melabelinya sebagai 'anak yang tidak fokus belajar'. Keputusan konsisten yang paling tepat diambil guru untuk mengembangkan potensi murid secara utuh (K.3) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Mengakui serta menyalurkan kekuatan kewirausahaan dan kepemimpinannya dalam proyek kontekstual sekolah, sembari membimbingnya secara terstruktur menautkan minat tersebut pada penguatan literasi tulis dan numerasi fungsional (seperti menyusun proposal acara, rencana anggaran, dan laporan evaluasi)."
+          },
+          {
+            "id": "B",
+            "text": "Melarangnya terlibat dalam seluruh kepanitiaan maupun organisasi sekolah agar seluruh waktunya habis untuk mengerjakan latihan soal tertulis di kelas."
+          },
+          {
+            "id": "C",
+            "text": "Membebaskannya dari seluruh tugas membaca dan menulis di kelas reguler karena bakat utamanya dianggap sudah cukup menjamin masa depannya."
+          },
+          {
+            "id": "D",
+            "text": "Ikut membenarkan label 'tidak fokus' dalam rapat dewan guru agar wali kelas segera memindahkannya ke kelas dengan target pembelajaran paling rendah."
+          },
+          {
+            "id": "E",
+            "text": "Membiarkannya bekerja sesuka hati selama jam pelajaran berlangsung sepanjang ia mau membantu guru mengurus acara seremonial sekolah."
+          }
+        ],
+        "correctAnswer": "A",
+        "explanation": "Subkompetensi K.3 menekankan pengambilan keputusan konsisten yang berpihak pada pengembangan potensi dan budaya belajar murid. Pendidikan holistik tidak mematikan bakat unik anak (B) ataupun melepaskan tanggung jawab kompetensi dasar (C), melainkan menjembatani minat nyatanya (proposal, anggaran, evaluasi acara) untuk menumbuhkan kompetensi literasi dan regulasi belajar secara bermakna (A).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q067",
+        "number": 67,
+        "type": "multiple",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Akibat miskomunikasi mengenai bahan proyek pembelajaran yang sebenarnya dapat memanfaatkan barang daur ulang di rumah, seorang wali murid menuliskan komentar bernada marah di kolom komentar akun media sosial resmi sekolah yang menuduh guru membebani keluarga dengan biaya tinggi. Sikap yang mencerminkan kematangan emosional, etika profesi, dan refleksi diri guru (K.1 & K.2) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menahan diri dari membalas dengan emosi di kolom komentar publik, lalu berkoordinasi dengan pimpinan/humas sekolah untuk menghubungi wali murid tersebut secara personal dan santun guna menjernihkan informasi."
+          },
+          {
+            "id": "B",
+            "text": "Membalas komentar tersebut secara panjang lebar di media sosial publik dengan menyertakan tangkapan layar nilai anaknya agar warganet mengetahui duduk perkaranya."
+          },
+          {
+            "id": "C",
+            "text": "Mendengarkan kekhawatiran wali murid secara empatik saat berdialog, menjelaskan secara jelas bahwa bahan proyek dirancang berbiaya nol/daur ulang, serta memastikan tidak ada perlakuan berbeda terhadap anaknya di kelas."
+          },
+          {
+            "id": "D",
+            "text": "Mengajak rekan-rekan guru lain dan murid-muridnya untuk beramai-ramai menulis komentar pembelaan di media sosial agar komentar wali murid tersebut tenggelam."
+          },
+          {
+            "id": "E",
+            "text": "Melakukan refleksi diri untuk memperbaiki kejelasan surat edaran atau panduan tertulis proyek ke depan agar tidak kembali menimbulkan salah tafsir bagi orang tua."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "C",
+          "E"
+        ],
+        "minSelections": 2,
+        "maxSelections": 4,
+        "instruction": "Pilih dua, tiga, atau empat jawaban yang benar.",
+        "explanation": "Kematangan emosional dan etika profesi (K.1) ditunjukkan dengan meredam eskalasi publik lalu menempuh jalur dialog personal yang santun (A), mendengarkan dengan empati sambil menjamin keadilan terhadap anak (C), dan merefleksikan perbaikan komunikasi instruksi tertulis (K.2, opsi E). Membuka data nilai anak di ruang publik (B) melanggar privasi, sementara mengerahkan balasan massal (D) merusak marwah profesi pendidik.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q068",
+        "number": 68,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Di awal tahun ajaran, guru membangun kebiasaan mengisi jurnal refleksi mingguan untuk menumbuhkan kesadaran belajar peserta didik. Namun, pada bulan ketiga guru melihat sebagian besar murid mulai mengisi jurnal secara terburu-buru dengan kalimat klise yang sama setiap minggu ('Hari ini pelajaran menyenangkan, saya sudah paham semuanya') karena menganggapnya sekadar beban administratif. Tindakan konsisten yang paling tepat dilakukan guru untuk menghidupkan kembali budaya refleksi yang bermakna (K.3) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menghentikan seluruh kegiatan refleksi sejak minggu depan karena peserta didik dinilai belum cukup dewasa untuk berpikir metakognitif."
+          },
+          {
+            "id": "B",
+            "text": "Mewajibkan panjang tulisan jurnal refleksi minimal dua halaman penuh disertai sanksi pengurangan nilai sikap bagi yang menulis kurang dari batas tersebut."
+          },
+          {
+            "id": "C",
+            "text": "Mengevaluasi format refleksi bersama murid, memvariasikan medianya (seperti peta pikiran singkat, catatan suara, atau dialog berpasangan dengan pertanyaan pemantik yang konkret), serta secara nyata menindaklanjuti isi refleksi murid dalam penyesuaian pembelajaran pekan berikutnya agar mereka merasakan suaranya dihargai."
+          },
+          {
+            "id": "D",
+            "text": "Tetap mengumpulkan buku jurnal refleksi setiap hari Jumat tanpa pernah membacanya agar guru tetap memiliki bukti fisik kegiatan refleksi."
+          },
+          {
+            "id": "E",
+            "text": "Menuliskan contoh satu paragraf refleksi standar di papan tulis untuk disalin persis oleh seluruh peserta didik setiap akhir pekan."
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Merawat budaya belajar secara konsisten (K.3) menuntut kepekaan guru ketika suatu rutinitas berubah menjadi formalitas kosong. Memvariasikan format refleksi, menajamkan pertanyaan pemantik, dan membuktikan bahwa masukan murid benar-benar ditindaklanjuti dalam perbaikan kelas (C) menghidupkan motivasi intrinsik dan kebermaknaan refleksi.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q069",
+        "number": 69,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Seorang perwakilan penerbit swasta mendatangi Anda secara pribadi dan menawarkan komisi sebesar 25% dari total penjualan apabila Anda mewajibkan seluruh peserta didik kelas yang Anda ampu membeli buku kumpulan latihan soal terbitannya, padahal sekolah telah menyediakan buku teks resmi dan modul digital terbuka yang memadai. Sikap yang paling tepat sesuai kode etik profesi dan integritas moral guru (K.1) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menerima tawaran tersebut dengan alasan komisi yang diperoleh nantinya akan sebagian disumbangkan untuk membeli perlengkapan kelas."
+          },
+          {
+            "id": "B",
+            "text": "Mewajibkan pembelian buku hanya bagi peserta didik yang ingin memperoleh nilai tambahan tugas terstruktur di akhir semester."
+          },
+          {
+            "id": "C",
+            "text": "Menyetujui penjualan buku tersebut namun meminta perwakilan penerbit menawarkannya melalui ketua kelas agar nama guru tidak tercatat secara langsung."
+          },
+          {
+            "id": "D",
+            "text": "Menolak tawaran komisi tersebut dengan tegas dan santun untuk menghindari konflik kepentingan serta pungutan tidak sah, tetap mengoptimalkan sumber belajar resmi dan terbuka yang disediakan sekolah, serta melaporkan penawaran gratifikasi tersebut sesuai prosedur tata kelola sekolah."
+          },
+          {
+            "id": "E",
+            "text": "Meminta penerbit menaikkan persentase komisi terlebih dahulu sebelum memutuskan apakah buku tersebut layak direkomendasikan kepada wali murid."
+          }
+        ],
+        "correctAnswer": "D",
+        "explanation": "Kode etik profesi guru dan subkompetensi K.1 melarang keras penerimaan gratifikasi, konflik kepentingan, maupun penyalahgunaan wewenang untuk membebani murid/orang tua. Menolak secara tegas-santun, mengoptimalkan sumber belajar resmi/terbuka, dan menjaga akuntabilitas kelembagaan (D) menegakkan integritas moral pendidik.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q070",
+        "number": 70,
+        "type": "category",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Kompetensi kepribadian guru tercermin dari integritas akademik, pengelolaan emosi di kelas, kerahasiaan data murid, dan konsistensi pembelajaran sepanjang hayat (K.1, K.2 & K.3)."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan BENAR atau SALAH pernyataan praktik profesional guru berikut!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Guru yang menyadari dirinya sempat keliru menyampaikan konsep pada pertemuan sebelumnya lalu mengakuinya secara jujur di kelas dan meluruskan konsep tersebut memberikan teladan integritas intelektual yang kuat bagi murid."
+          },
+          {
+            "id": "B",
+            "text": "Membagikan rincian catatan konseling keluarga atau riwayat hambatan belajar seorang murid kepada rekan-rekan di ruang guru sebagai bahan obrolan santai saat istirahat merupakan bentuk kepedulian sosial guru."
+          },
+          {
+            "id": "C",
+            "text": "Saat merasa kelelahan emosional menghadapi dinamika kelas yang riuh, guru mengambil jeda napas sejenak dan menggunakan komunikasi tenang terstruktur alih-alih melontarkan bentakan atau julukan merendahkan kepada murid."
+          },
+          {
+            "id": "D",
+            "text": "Menuliskan sumber rujukan dan kredit pembuat asli pada setiap materi ajar, gambar, maupun modul yang diadaptasi guru melatih budaya kejujuran akademik di sekolah."
+          }
+        ],
+        "categories": [
+          {
+            "id": "benar",
+            "text": "Benar"
+          },
+          {
+            "id": "salah",
+            "text": "Salah"
+          }
+        ],
+        "correctAnswer": {
+          "A": "benar",
+          "B": "salah",
+          "C": "benar",
+          "D": "benar"
+        },
+        "explanation": "A) Benar: Keberanian mengakui kekeliruan secara jujur adalah keteladanan integritas dan growth mindset (K.1 & K.2). B) Salah: Data pribadi, riwayat konseling, dan hambatan belajar murid bersifat rahasia dan hanya dibahas secara profesional dengan pihak berwenang (BK/wali kelas/orang tua) demi kepentingan murid. C) Benar: Regulasi emosi mencegah kekerasan verbal dan menjaga keamanan psikologis (K.1). D) Benar: Penghargaan hak cipta dalam bahan ajar guru menjadi teladan nyata budaya akademik sehat (K.3).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q071",
+        "number": 71,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Aturan tenggat pengumpulan tugas daring di kelas ditetapkan setiap pukul 20.00 WIB melalui aplikasi pembelajaran. Anda mendapati seorang peserta didik dari keluarga berpenghasilan terbatas kerap terlambat mengunggah tugas hingga mendekati tengah malam karena di rumah hanya terdapat satu ponsel yang harus bergantian dipakai orang tuanya untuk bekerja hingga pukul 21.30 WIB. Keputusan kebijakan kelas yang paling adil dan berpihak pada hak belajar murid (K.3) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Tetap memotong skor keterlambatannya sebesar 25% di setiap penugasan demi menegakkan keseragaman aturan kelas tanpa pengecualian."
+          },
+          {
+            "id": "B",
+            "text": "Meminta orang tuanya segera membelikan ponsel pribadi untuk anaknya meskipun kondisi ekonomi keluarga sedang sangat terbatas."
+          },
+          {
+            "id": "C",
+            "text": "Memberikan keadilan akses tanpa menurunkan standar kompetensi dengan menyediakan opsi penyelesaian dan pengunggahan tugas memanfaatkan perangkat komputer/perpustakaan sekolah pada jam istirahat atau usai pulang sekolah, serta membuka fleksibilitas moda pengumpulan luring/daring yang setara tanpa mempermalukan kondisinya."
+          },
+          {
+            "id": "D",
+            "text": "Membebaskannya dari kewajiban mengerjakan seluruh tugas rumah sepanjang semester agar ia tidak lagi mengalami kendala keterlambatan."
+          },
+          {
+            "id": "E",
+            "text": "Mengumumkan kondisi keterbatasan ekonomi keluarganya di depan seluruh kelas agar teman-temannya merasa iba dan mau meminjamkan ponsel mereka."
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Keadilan pendidikan (equity, K.3) berbeda dari penyeragaman kaku (A): guru menghapus hambatan akses perangkat dengan membuka fasilitas laboratorium/perpustakaan sekolah serta fleksibilitas moda pengumpulan luring/daring sambil tetap menjaga standar kompetensi dan martabat/privasi murid (tidak mengekspos kondisi keluarganya seperti E).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q072",
+        "number": 72,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Seorang peserta didik memiliki gagasan analisis yang sangat tajam dalam tugas tertulis, tetapi mengalami kecemasan berat saat harus berbicara di depan forum besar (social anxiety)—tangannya gemetar dan suaranya nyaris hilang setiap kali tiba giliran presentasi individu di depan kelas. Strategi komunikasi dan fasilitasi inklusif yang paling empatik serta memberdayakan perkembangan murid tersebut (S.1) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Langsung memanggilnya tampil paling awal di depan seluruh kelas secara mendadak agar rasa takutnya hilang karena terbiasa menghadapi tekanan."
+          },
+          {
+            "id": "B",
+            "text": "Membebaskannya secara permanen dari segala bentuk komunikasi lisan hingga lulus sekolah tanpa pernah melatih rasa percaya dirinya."
+          },
+          {
+            "id": "C",
+            "text": "Menegurnya di depan kelas agar tidak bersikap manja karena semua peserta didik lain juga mampu tampil berbicara tanpa gemetar."
+          },
+          {
+            "id": "D",
+            "text": "Mengurangi nilai pengetahuannya secara drastis setiap kali suaranya terdengar pelan saat presentasi di depan teman-temannya."
+          },
+          {
+            "id": "E",
+            "text": "Berkomunikasi secara personal dan empatik untuk menyepakati tahapan bertumbuh (scaffolding komunikasi): mulai dari presentasi berpasangan atau kelompok kecil, opsi dukungan media rekaman suara/visual, hingga latihan berbicara di forum lebih besar secara bertahap seiring tumbuhnya rasa aman murid."
+          }
+        ],
+        "correctAnswer": "E",
+        "explanation": "Komunikasi empatik dan inklusif (S.1) memahami kebutuhan psikologis murid tanpa memaksa secara traumatis (A) ataupun menyerah melatih potensinya (B). Pendekatan bertahap melalui dialog personal yang aman—dimulai dari audiens kecil/berpasangan dan dukungan media menuju forum lebih luas (E)—menumbuhkan keberanian komunikasi secara bermartabat.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q073",
+        "number": 73,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Berdasarkan hasil asesmen diagnostik awal dan pengamatan di kelas, seorang peserta didik memerlukan pendampingan khusus pada keterampilan membaca pemahaman dan organisasi tugas. Orang tuanya diketahui cukup sensitif dan kerap merasa disalahkan bila mendengar laporan kesulitan belajar anaknya. Kalimat pembuka komunikasi yang paling empatik, objektif, dan membangun kemitraan sejajar dengan orang tua (S.1) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "'Selamat pagi Bapak/Ibu, saya sangat mengapresiasi antusiasme dan kerapian ananda saat berdiskusi kelompok di kelas; hari ini saya ingin berdiskusi bersama mengenai beberapa catatan pengamatan agar kita dapat merancang dukungan membaca pemahaman dan jadwal belajar yang paling nyaman untuk mengoptimalkan potensinya.'"
+          },
+          {
+            "id": "B",
+            "text": "'Selamat pagi Bapak/Ibu, saya terpaksa memanggil Bapak/Ibu karena kemampuan membaca anak Bapak/Ibu tertinggal jauh dibandingkan teman sekelasnya dan tugasnya sering berantakan.'"
+          },
+          {
+            "id": "C",
+            "text": "'Mohon perhatian Bapak/Ibu, selama sebulan ini anak Bapak/Ibu tampak kurang mendapat pendampingan belajar di rumah sehingga nilainya terus menurun.'"
+          },
+          {
+            "id": "D",
+            "text": "'Bapak/Ibu, kalau pola belajar anak Bapak/Ibu di rumah tidak segera diubah bulan ini, besar kemungkinan ia akan kesulitan naik kelas pada akhir tahun.'"
+          },
+          {
+            "id": "E",
+            "text": "'Sebenarnya semua baik-baik saja Bapak/Ibu, tidak ada masalah serius, jadi Bapak/Ibu tidak perlu khawatir mengenai hasil asesmen awal ananda kemarin.'"
+          }
+        ],
+        "correctAnswer": "A",
+        "explanation": "Komunikasi empatik dan efektif dengan orang tua (S.1) mengawali dialog dari kekuatan nyata anak (strength-based approach), menyampaikan kebutuhan belajar secara objektif tanpa melabeli atau menyalahkan pola asuh keluarga (B/C/D), serta mengajak orang tua sebagai mitra setara dalam merancang solusi—tanpa menyembunyikan kebutuhan belajar anak seperti pada opsi E.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q074",
+        "number": 74,
+        "type": "category",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Penyelenggaraan gelar karya pembelajaran dan dukungan tumbuh kembang murid di sekolah membutuhkan kolaborasi sinergis lintas peran di dalam maupun luar satuan pendidikan (S.2)."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan TEPAT atau TIDAK TEPAT bentuk kolaborasi ekosistem sekolah berikut!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Guru mata pelajaran berkoordinasi secara rutin dengan guru Bimbingan Konseling (BK) dan wali kelas untuk merancang strategi pendampingan terpadu bagi murid yang menunjukkan gejala kelelahan emosional."
+          },
+          {
+            "id": "B",
+            "text": "Guru melibatkan pustakawan, teknisi laboratorium, dan staf tata usaha sejak tahap perencanaan proyek pameran agar ketersediaan referensi, keselamatan fasilitas, dan logistik ruang berjalan lancar."
+          },
+          {
+            "id": "C",
+            "text": "Guru menolak masukan alumni praktisi dan komite sekolah dalam persiapan pameran karya karena pihak di luar jajaran guru mata pelajaran dianggap tidak berwenang ikut memberi gagasan."
+          },
+          {
+            "id": "D",
+            "text": "Guru membangun komunikasi dua arah bersama orang tua dan pengurus komite untuk menyelaraskan dukungan pembiasaan karakter disiplin serta literasi antara rumah dan sekolah."
+          }
+        ],
+        "categories": [
+          {
+            "id": "tepat",
+            "text": "Tepat"
+          },
+          {
+            "id": "tidak-tepat",
+            "text": "Tidak Tepat"
+          }
+        ],
+        "correctAnswer": {
+          "A": "tepat",
+          "B": "tepat",
+          "C": "tidak-tepat",
+          "D": "tepat"
+        },
+        "explanation": "A) Tepat: Sinergi guru mapel, BK, dan wali kelas memperkuat dukungan holistik murid. B) Tepat: Tenaga kependidikan (pustakawan, teknisi lab, tata usaha) adalah mitra strategis pendukung mutu pembelajaran. C) Tidak Tepat: Menutup diri terhadap kontribusi konstruktif alumni dan komite bertentangan dengan prinsip kolaborasi ekosistem sekolah-masyarakat (S.2). D) Tepat: Kemitraan rumah-sekolah menjamin keberlanjutan penguatan karakter murid.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q075",
+        "number": 75,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Beberapa sekolah di satu wilayah kecamatan membentuk Komunitas Praktisi antarsekolah untuk memperkuat implementasi pembelajaran mendalam dan asesmen autentik. Sebagai pendidik yang berkomitmen pada pengembangan keprofesian berkelanjutan (S.3), bentuk partisipasi dan kontribusi yang paling bermakna dalam komunitas praktisi antarsekolah tersebut adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Hadir secara bergantian sekadar menandatangani daftar hadir guna memperoleh sertifikat kegiatan tanpa pernah berbagi maupun menguji praktik di kelas sendiri."
+          },
+          {
+            "id": "B",
+            "text": "Menggunakan seluruh waktu pertemuan komunitas praktisi untuk mengeluhkan keterbatasan sarana sekolah tanpa merumuskan alternatif solusi pedagogis bersama."
+          },
+          {
+            "id": "C",
+            "text": "Menyimpan rapat modul ajar dan inovasi media pembelajaran terbaik milik sendiri agar sekolah tempat Anda mengajar tetap unggul dibanding sekolah lain di kecamatan."
+          },
+          {
+            "id": "D",
+            "text": "Membuka kelas secara sukarela untuk kegiatan saling observasi (open class / peer coaching), berbagi secara jujur keberhasilan maupun kendala perangkat ajar yang diterapkan, serta ikut menyusun bank praktik baik bersama rekan lintas sekolah demi peningkatan belajar murid."
+          },
+          {
+            "id": "E",
+            "text": "Mendominasi forum dengan mengkritik tajam kelemahan metode mengajar rekan guru dari sekolah lain agar terlihat paling berpengalaman."
+          }
+        ],
+        "correctAnswer": "D",
+        "explanation": "Subkompetensi S.3 mendorong partisipasi aktif dan saling memberdayakan dalam komunitas belajar serta organisasi profesi. Praktik open class/peer coaching, keterbukaan berbagi tantangan sekaligus solusi, dan kurasi bank praktik baik bersama lintas sekolah (D) secara langsung meningkatkan kualitas pembelajaran secara kolektif.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q076",
+        "number": 76,
+        "type": "multiple",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Sekolah merancang program proyek layanan masyarakat dan magang mini berkolaborasi dengan kelompok pelaku UMKM serta paguyuban warga di kelurahan sekitar. Agar komunikasi dan kolaborasi dengan masyarakat berlangsung setara, aman, dan beretika (S.1 & S.2), langkah-langkah kunci yang wajib dilakukan guru bersama peserta didik adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Melibatkan perwakilan pelaku UMKM dan tokoh warga sejak tahap identifikasi kebutuhan melalui dialog santun dan setara agar solusi proyek murid benar-benar sesuai aspirasi lokal, bukan dipaksakan sepihak."
+          },
+          {
+            "id": "B",
+            "text": "Mempublikasikan dokumentasi kondisi tempat usaha warga yang kurang tertata secara dramatis di media sosial sekolah demi menunjukkan betapa besarnya jasa bantuan siswa."
+          },
+          {
+            "id": "C",
+            "text": "Meminta peserta didik langsung mengajari pelaku usaha senior dengan nada menggurui karena teori terbaru dari kelas dianggap pasti lebih unggul daripada pengalaman warga."
+          },
+          {
+            "id": "D",
+            "text": "Menyusun kesepakatan tertulis mengenai ruang lingkup kegiatan, tata krama lokal, jam pendampingan, serta protokol keselamatan dan perlindungan peserta didik selama berada di lingkungan mitra."
+          },
+          {
+            "id": "E",
+            "text": "Memutus seluruh komunikasi dengan mitra warga segera setelah foto serah terima kegiatan untuk laporan sekolah selesai didokumentasikan."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "D"
+        ],
+        "minSelections": 2,
+        "maxSelections": 4,
+        "instruction": "Pilih dua, tiga, atau empat jawaban yang benar.",
+        "explanation": "Kemitraan sekolah-masyarakat yang etis dan kolaboratif (S.1 & S.2) dibangun di atas dialog partisipatif yang setara sejak perencanaan (A) serta kejelasan ruang lingkup, tata krama lokal, dan protokol keselamatan murid (D). Eksploitasi citra warga (B), sikap menggurui/patronizing (C), dan pendekatan transaksional demi dokumentasi semata (E) merusak etika kemitraan sosial.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q077",
+        "number": 77,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Menjelang pekan asesmen praktik akhir semester, terjadi ketegangan antardua kelompok guru bidang studi karena jadwal penggunaan laboratorium komputer dan aula sekolah saling berbenturan, dan masing-masing pihak bersikeras bahwa ujian praktiknya paling mendesak. Sebagai rekan sejawat dengan kompetensi sosial dan kolaboratif yang matang (S.2), langkah mediasi yang paling tepat Anda usulkan adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Memihak kelompok guru yang paling senior di sekolah agar perdebatan cepat berakhir dan hubungan pribadi Anda tetap aman."
+          },
+          {
+            "id": "B",
+            "text": "Mengajak kedua pihak duduk bersama dengan kepala sekolah/wakil kurikulum untuk memetakan kebutuhan teknis tiap asesmen, menyusun ulang skema rotasi sesi (shift) atau pemanfaatan ruang alternatif secara transparan, dengan prioritas utama memastikan kenyamanan dan keadilan kondisi ujian bagi seluruh murid."
+          },
+          {
+            "id": "C",
+            "text": "Menyebarkan percakapan perdebatan rapat tersebut di grup tidak resmi guru lain untuk mencari dukungan suara mayoritas."
+          },
+          {
+            "id": "D",
+            "text": "Mengunci jadwal laboratorium komputer lebih dulu untuk kelas Anda sendiri lalu membiarkan kedua kelompok guru lain menyelesaikan sendiri bentrokan mereka."
+          },
+          {
+            "id": "E",
+            "text": "Mengusulkan pembatalan asesmen praktik untuk kedua mata pelajaran tersebut dan menggantinya dengan soal pilihan ganda di kelas masing-masing."
+          }
+        ],
+        "correctAnswer": "B",
+        "explanation": "Kompetensi kolaborasi antarpendidik (S.2) menempatkan kepentingan belajar murid di atas ego sektoral maupun senioritas. Memfasilitasi pemetaan kebutuhan objektif dan skema rotasi jadwal/ruang secara transparan bersama wakil kurikulum (B) menyelesaikan konflik secara solutif dan menjaga keharmonisan tim sekolah.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q078",
+        "number": 78,
+        "type": "single",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam pertemuan rutin forum organisasi profesi guru/MGMP tingkat kota, para anggota melaporkan meningkatnya kasus perundungan siber (cyberbullying) dan kecemasan digital yang mulai mengganggu konsentrasi belajar remaja di berbagai sekolah. Langkah kolaboratif tingkat organisasi profesi yang paling strategis dan berdampak luas (S.3) adalah..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menyepakati rekomendasi penutupan akses jaringan internet di seluruh sekolah tingkat kota tanpa membekali literasi keamanan digital kepada murid."
+          },
+          {
+            "id": "B",
+            "text": "Menganggap isu kesehatan mental dan perundungan siber sepenuhnya merupakan urusan polisi serta keluarga sehingga tidak perlu dibahas dalam forum profesi guru."
+          },
+          {
+            "id": "C",
+            "text": "Membentuk tim kerja lintas sekolah bersama praktisi psikologi pendidikan dan guru BK untuk menyusun modul integrasi kewargaan digital anti-perundungan, mengujicobakannya melalui kolaborasi riset praktik/lesson study, serta mendiseminasikan panduannya bagi seluruh guru dan orang tua di wilayah tersebut."
+          },
+          {
+            "id": "D",
+            "text": "Cukup menerbitkan satu pernyataan keprihatinan singkat di media sosial pengurus organisasi profesi tanpa rancangan aksi edukatif di ruang kelas."
+          },
+          {
+            "id": "E",
+            "text": "Mengumpulkan daftar nama murid pelaku perundungan dari tiap sekolah untuk dibagikan secara terbuka di forum rapat guru sekota."
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Organisasi profesi dan MGMP (S.3) memiliki daya ungkit kolektif yang besar apabila digerakkan untuk kolaborasi lintas disiplin (psikolog/BK), pengembangan modul kontekstual berbasis bukti, uji coba lesson study, dan diseminasi luas ke sekolah serta orang tua (C). Menyebarkan identitas murid (E) melanggar prinsip perlindungan anak, sementara aksi pasif (B/D) tidak menjawab masalah nyata.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q079",
+        "number": 79,
+        "type": "category",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Aktivitas pendidik di ruang digital—termasuk mengunggah dokumentasi pembelajaran murid di media sosial dan berkomunikasi dalam forum daring wali murid—memerlukan kematangan etika komunikasi serta perlindungan privasi anak (S.1)."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan ETIS atau TIDAK ETIS perilaku komunikasi digital guru berikut!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Memastikan adanya persetujuan sekolah dan orang tua sebelum mempublikasikan foto atau video wajah murid pada kanal resmi sekolah serta tidak pernah menyertakan data pribadi sensitif (seperti alamat rumah atau nomor telepon anak)."
+          },
+          {
+            "id": "B",
+            "text": "Merekam video seorang murid yang sedang kebingungan atau menangis saat mengerjakan soal di papan tulis lalu mengunggahnya ke akun media sosial pribadi guru dengan keterangan bernada candaan demi konten hiburan."
+          },
+          {
+            "id": "C",
+            "text": "Menyampaikan pengumuman jadwal dan informasi akademik di grup komunikasi orang tua dengan bahasa santun, ringkas, terstruktur, dan menghormati batas jam kerja wajar."
+          },
+          {
+            "id": "D",
+            "text": "Mengunggah tangkapan layar daftar nama murid yang belum melunasi iuran kegiatan atau belum mengumpulkan tugas ke grup orang tua secara terbuka agar orang tua merasa malu dan segera merespons."
+          }
+        ],
+        "categories": [
+          {
+            "id": "etis",
+            "text": "Etis"
+          },
+          {
+            "id": "tidak-etis",
+            "text": "Tidak Etis"
+          }
+        ],
+        "correctAnswer": {
+          "A": "etis",
+          "B": "tidak-etis",
+          "C": "etis",
+          "D": "tidak-etis"
+        },
+        "explanation": "A) Etis: Persetujuan publikasi dan perlindungan data pribadi anak merupakan standar etika komunikasi digital dan perlindungan anak (S.1). B) Tidak Etis: Menjadikan kerentanan/kesulitan murid sebagai konten hiburan melanggar martabat serta keamanan psikologis anak. C) Etis: Komunikasi terstruktur, santun, dan menghargai batas waktu kerja menunjukkan profesionalisme guru. D) Tidak Etis: Mempermalukan keluarga/murid secara terbuka di grup publik melanggar privasi dan merusak hubungan kemitraan sekolah-orang tua.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "dkv-mcb-2-q080",
+        "number": 80,
+        "type": "multiple",
+        "section": "Pedagogi Umum",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Penguasaan kompetensi sosial guru secara utuh memadukan komunikasi efektif-empatik (S.1), kolaborasi dengan ekosistem sekolah serta masyarakat (S.2), dan partisipasi aktif dalam pengembangan keprofesian berkelanjutan (S.3). Manakah rangkaian praktik pendidik di bawah ini yang mencerminkan integrasi ketiga subkompetensi sosial tersebut?"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menutup diri dari masukan wali murid serta menghindari kegiatan MGMP agar dapat fokus mengajar seorang diri sesuai gaya pribadi di dalam ruang kelas."
+          },
+          {
+            "id": "B",
+            "text": "Membangun komunikasi dua arah yang inklusif, santun, dan bebas stigma bersama peserta didik maupun orang tua guna memantau perkembangan belajar serta kesejahteraan emosional anak."
+          },
+          {
+            "id": "C",
+            "text": "Bekerja sama secara sinergis bersama rekan guru lintas bidang, guru BK, tenaga kependidikan, dan komunitas mitra lokal untuk menghadirkan pengalaman belajar kontekstual yang aman dan berdampak."
+          },
+          {
+            "id": "D",
+            "text": "Menggunakan forum rapat sekolah maupun komunitas profesi sebatas ajang mencari kesalahan kebijakan pimpinan tanpa menawarkan gagasan kolaboratif bagi kemajuan murid."
+          },
+          {
+            "id": "E",
+            "text": "Berpartisipasi aktif dalam komunitas praktisi, lesson study, dan organisasi profesi guru untuk berbagi praktik baik, saling memberi umpan balik reflektif, dan menumbuhkan mutu pendidikan secara kolektif."
+          }
+        ],
+        "correctAnswer": [
+          "B",
+          "C",
+          "E"
+        ],
+        "minSelections": 2,
+        "maxSelections": 4,
+        "instruction": "Pilih dua, tiga, atau empat jawaban yang benar.",
+        "explanation": "Integrasi utuh kompetensi sosial guru terwujud melalui komunikasi dua arah yang inklusif dan empatik bersama murid serta orang tua (S.1, opsi B), kolaborasi lintas peran internal sekolah dan komunitas masyarakat demi pembelajaran autentik (S.2, opsi C), serta peran aktif yang konstruktif di komunitas praktisi dan organisasi profesi untuk pertumbuhan kolektif (S.3, opsi E). Opsi A mencerminkan isolasi profesional dan D menunjukkan sikap destruktif non-kolaboratif.",
         "sourcePages": [
           1
         ],
