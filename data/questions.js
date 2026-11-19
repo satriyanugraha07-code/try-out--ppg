@@ -31740,7 +31740,7 @@ window.TRYOUT_PACKS = [
   },
   {
     "id": "teknik-mesin-to-1",
-    "title": "Tryout UTBK/PCK Teknik Mesin",
+    "title": "Tryout UTBK/PCK Teknik Mesin 1",
     "description": "Latihan 82 soal UKPPPG Pendidikan Teknik Mesin (40 Pilihan Ganda, 40 PGK MCMA, dan 2 Esai Studi Kasus K3 & Bengkel) beserta kunci dan rubrik.",
     "durationMinutes": 150,
     "category": "prodi",
@@ -36036,6 +36036,8704 @@ window.TRYOUT_PACKS = [
         ],
         "correctAnswer": "",
         "explanation": "Contoh Jawaban:\nTindakan penanganan berdasarkan prinsip K3:\n1. Segera mematikan mesin/sumber daya (emergency stop) untuk mengamankan lokasi dan mencegah cedera lanjutan.\n2. Mengarahkan siswa yang berkerumun untuk menjauh ke zona aman agar tidak mengganggu evakuasi atau terpapar bahaya mesin.\n3. Menenangkan korban, melakukan pertolongan pertama (P3K) sesuai prosedur keselamatan, dan segera merujuk ke UKS/fasilitas medis jika diperlukan sambil memastikan pengawasan kelas tetap aman.\nLangkah pencegahan setelah korban tertangani:\n1. Menginvestigasi akar penyebab kecelakaan (kondisi mesin, penggunaan APD, dan kepatuhan SOP).\n2. Memeriksa serta memastikan kelayakan mesin, APD, dan rambu keselamatan sebelum praktik dilanjutkan.\n3. Memberikan evaluasi, refleksi, dan penguatan ulang SOP K3 serta prosedur tanggap darurat kepada seluruh siswa.\n\nKata Kunci / Rubrik Penilaian:\nK3 – amankan area – hentikan mesin – pertolongan pertama – jangan memindahkan korban sembarangan – identifikasi penyebab kecelakaan – evaluasi prosedur kerja – penggunaan APD – pencegahan kecelakaan berulang.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "id": "teknik-mesin-to-2",
+    "title": "Tryout UTBK/PCK Teknik Mesin 2",
+    "description": "Latihan 82 soal UKPPPG Pendidikan Teknik Mesin versi 2 (40 PG, 40 PGK MCMA, dan 2 Esai) terintegrasi teori belajar PPG, K3/LOTO, TeFa, dan pembahasan lengkap.",
+    "durationMinutes": 150,
+    "category": "prodi",
+    "programId": "teknik-mesin",
+    "groupLabel": "Teknik Mesin",
+    "source": "Paket Latihan PCK UKPPPG Teknik Mesin 2 (PPG Calon Guru)",
+    "sourcePageCount": 1,
+    "questions": [
+      {
+        "id": "teknik-mesin-to-2-q001",
+        "number": 1,
+        "type": "single",
+        "section": "PCK Teknik Mesin 2 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pada pembelajaran pembubutan ulir luar di kelas XI Teknik Pemesinan, guru terlebih dahulu mendemonstrasikan penyetelan pahat setinggi senter dan pengaturan tuas kisar (pitch) sambil menjelaskan alasan setiap langkah, lalu meminta murid mencoba dengan bimbingan lisan, dan akhirnya membiarkan murid membubut ulir secara mandiri. Berdasarkan teori belajar sosial Albert Bandura, tahapan proses pemodelan (observational learning) yang sedang difasilitasi guru secara berurutan adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Stimulus, respons, penguatan negatif, dan penghapusan perilaku."
+          },
+          {
+            "id": "B",
+            "text": "Atensi (memperhatikan model), retensi (mengingat prosedur), reproduksi motorik (mempraktikkan), dan motivasi/penguatan."
+          },
+          {
+            "id": "C",
+            "text": "Enaktif, ikonik, simbolik, dan generalisasi abstrak."
+          },
+          {
+            "id": "D",
+            "text": "Asimilasi skema, konflik kognitif, akomodasi, dan ekuilibrasi."
+          },
+          {
+            "id": "E",
+            "text": "Pengalaman konkret, observasi reflektif, konseptualisasi, dan eksperimentasi."
+          }
+        ],
+        "correctAnswer": "B",
+        "explanation": "Konsep Inti (Teori Belajar Sosial Bandura): Observational learning berlangsung melalui 4 proses: (1) Atensi (murid mengamati demonstrasi guru sebagai model), (2) Retensi (mengingat alasan & urutan penyetelan), (3) Reproduksi motorik (mempraktikkan penyetelan dan pembubutan), dan (4) Motivasi/penguatan (keberhasilan kerja mandiri). Opsi A adalah behaviorisme Skinner; C teori Bruner; D teori Piaget; E siklus Experiential Learning Kolb.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q002",
+        "number": 2,
+        "type": "single",
+        "section": "PCK Teknik Mesin 2 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Sebelum masuk ke materi perhitungan putaran spindel mesin bubut (n = 1000 · Vc / (π · d)), guru menampilkan peta konsep besar mengenai 'Hubungan Jenis Material, Sifat Pahat Potong, Kecepatan Potong, dan Umur Pahat' serta mengaitkannya dengan pengalaman murid saat melihat pahat cepat tumpul ketika memotong baja karbon tinggi. Strategi pembuka ini paling tepat mencerminkan prinsip teori belajar David Ausubel yang disebut ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Advance organizer untuk menjembatani struktur kognitif lama dengan konsep baru secara bermakna."
+          },
+          {
+            "id": "B",
+            "text": "Shaping perilaku bertahap melalui pemberian hadiah setiap kali murid menjawab benar."
+          },
+          {
+            "id": "C",
+            "text": "Zone of Proximal Development (ZPD) yang menuntut pendampingan teman sebaya."
+          },
+          {
+            "id": "D",
+            "text": "Law of Exercise yang menekankan pengulangan soal hitungan secara mekanis."
+          },
+          {
+            "id": "E",
+            "text": "Extinction untuk menghilangkan kebiasaan menghitung secara manual."
+          }
+        ],
+        "correctAnswer": "A",
+        "explanation": "Konsep Inti (Teori Belajar Bermakna Ausubel): Advance organizer adalah kerangka konseptual umum yang disajikan di awal pembelajaran untuk mengaitkan pengetahuan awal murid (subsumer) dengan materi baru yang lebih rinci agar terjadi meaningful learning, bukan rote learning (hafalan). B & E konsep Skinner, C konsep Vygotsky, D konsep Thorndike.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q003",
+        "number": 3,
+        "type": "single",
+        "section": "PCK Teknik Mesin 2 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Untuk mengajarkan konsep proyeksi ortogonal sudut pertama (Eropa) dan sudut ketiga (Amerika) pada Gambar Teknik, guru pertama-tama meminta murid memegang benda blok bertingkat 3D nyata dan memutarnya di dalam kotak kaca transparan, kemudian menggambar tampak depan-atas-samping pada kertas berpetak, dan akhirnya menafsirkan simbol proyeksi serta notasi toleransi standar ISO pada jobsheet. Urutan pembelajaran tersebut paling sesuai dengan tahap representasi Jerome Bruner, yaitu ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Simbolik → ikonik → enaktif"
+          },
+          {
+            "id": "B",
+            "text": "Ikonik → enaktif → simbolik"
+          },
+          {
+            "id": "C",
+            "text": "Enaktif → ikonik → simbolik"
+          },
+          {
+            "id": "D",
+            "text": "Abstrak → konkret → prosedural"
+          },
+          {
+            "id": "E",
+            "text": "Praoperasional → operasional konkret → formal"
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Konsep Inti (Teori Belajar Kognitif Bruner): Representasi pengetahuan berkembang dari (1) Enaktif — manipulasi benda konkret/tindakan langsung (memegang & memutar blok 3D), (2) Ikonik — representasi visual/gambar (menggambar tampak di kertas berpetak), hingga (3) Simbolik — penggunaan lambang, notasi, dan standar ISO. Opsi E adalah tahap perkembangan Piaget.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q004",
+        "number": 4,
+        "type": "single",
+        "section": "PCK Teknik Mesin 2 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Seorang murid kelas X Teknik Mesin sudah mengenal aturan bahwa 'semakin besar putaran spindel, permukaan benda kerja semakin halus'. Namun saat praktik membubut baja keras berdiameter besar dengan pahat HSS pada putaran terlalu tinggi, pahat menjadi gosong dan permukaan benda justru kasar bergelombang. Guru lalu mengajak murid membandingkan kondisi tersebut hingga murid memperbarui pemahamannya bahwa putaran optimal bergantung pada diameter benda, material, dan kecepatan potong. Menurut Jean Piaget, proses perubahan struktur kognitif murid tersebut dinamakan ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Asimilasi murni karena pengetahuan lama langsung dipakai tanpa perubahan."
+          },
+          {
+            "id": "B",
+            "text": "Transfer negatif yang mengharuskan guru menghapus seluruh skema awal murid."
+          },
+          {
+            "id": "C",
+            "text": "Kondisioning klasik karena timbul refleks takut saat pahat gosong."
+          },
+          {
+            "id": "D",
+            "text": "Pembelajaran tuntas melalui pengulangan drill berkecepatan tinggi."
+          },
+          {
+            "id": "E",
+            "text": "Akomodasi melalui disekuilibrium untuk mencapai ekuilibrasi baru."
+          }
+        ],
+        "correctAnswer": "E",
+        "explanation": "Konsep Inti (Teori Perkembangan Kognitif Piaget): Skema lama murid tidak mampu menjelaskan fenomena pahat gosong sehingga memicu konflik kognitif (disekuilibrium). Melalui bimbingan guru, murid memodifikasi skema lamanya agar sesuai realitas (akomodasi) sehingga tercapai keseimbangan pemahaman baru (ekuilibrasi). Asimilasi (A) hanya memasukkan info baru ke skema lama tanpa mengubahnya.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q005",
+        "number": 5,
+        "type": "single",
+        "section": "PCK Teknik Mesin 2 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Di bengkel pemesinan, guru menerapkan aturan bahwa setiap kelompok yang berhasil menjaga area mesin bersih sesuai standar 5R (Ringkas, Rapi, Resik, Rawat, Rajin) tanpa temuan pelanggaran K3 selama satu bulan dibebaskan dari tugas piket pembersihan gudang alat di akhir pekan. Setelah aturan berjalan, kepatuhan 5R dan K3 meningkat signifikan. Dalam teori pengondisian operan B.F. Skinner, tindakan guru tersebut termasuk ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Positive reinforcement"
+          },
+          {
+            "id": "B",
+            "text": "Positive punishment"
+          },
+          {
+            "id": "C",
+            "text": "Negative punishment"
+          },
+          {
+            "id": "D",
+            "text": "Negative reinforcement"
+          },
+          {
+            "id": "E",
+            "text": "Classical conditioning"
+          }
+        ],
+        "correctAnswer": "D",
+        "explanation": "Konsep Inti (Operant Conditioning Skinner): Reinforcement bertujuan meningkatkan perilaku target; 'negatif' berarti menghilangkan stimulus yang tidak diinginkan (bebas dari tugas piket tambahan akhir pekan) agar perilaku kepatuhan 5R/K3 meningkat. A menambahkan stimulus menyenangkan; B & C bertujuan menurunkan perilaku; E adalah teori Pavlov.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q006",
+        "number": 6,
+        "type": "single",
+        "section": "PCK Teknik Mesin 2 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam merancang modul ajar 'Pembuatan Poros Bertingkat dengan Mesin Bubut' menggunakan kerangka Understanding by Design (UbD / Backward Design), urutan langkah perencanaan guru yang paling tepat adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menetapkan capaian/tujuan kompetensi & pemahaman bermakna → merancang bukti asesmen kinerja & rubrik → menyusun aktivitas pembelajaran dan urutan praktik."
+          },
+          {
+            "id": "B",
+            "text": "Memilih video tutorial YouTube terlebih dahulu → menyusun jobsheet → menentukan tujuan pembelajaran di akhir semester."
+          },
+          {
+            "id": "C",
+            "text": "Menentukan jadwal penggunaan mesin bubut → membagi kelompok → membuat soal pilihan ganda setelah praktik selesai."
+          },
+          {
+            "id": "D",
+            "text": "Menyusun daftar hadir bengkel → mendemonstrasikan mesin → merumuskan kriteria ketuntasan minimal berdasarkan nilai tertinggi kelas."
+          },
+          {
+            "id": "E",
+            "text": "Menyalin RPP tahun lalu → menugaskan praktik langsung → menyesuaikan tujuan dengan hasil produk yang jadi."
+          }
+        ],
+        "correctAnswer": "A",
+        "explanation": "Konsep Inti (Understanding by Design — Wiggins & McTighe): Perencanaan alur mundur (backward design) terdiri dari 3 tahap: (1) Identify desired results (tujuan & pemahaman esensial), (2) Determine acceptable evidence (bukti asesmen/rubrik kinerja), baru (3) Plan learning experiences and instruction (aktivitas & skenario praktik).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q007",
+        "number": 7,
+        "type": "single",
+        "section": "PCK Teknik Mesin 2 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pada awal semester, guru melakukan asesmen diagnostik keterampilan metrologi di kelas X Teknik Mesin. Hasilnya: 8 murid belum memahami konsep skala utama & nonius, 16 murid paham membaca skala namun masih keliru posisi rahang ukur, dan 8 murid sudah mahir mengukur hingga ketelitian 0,02 mm. Penerapan pendekatan Teaching at the Right Level (TaRL) yang paling tepat adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menyamakan seluruh latihan pengukuran dari soal paling sulit agar semua murid cepat terbiasa."
+          },
+          {
+            "id": "B",
+            "text": "Memisahkan 8 murid yang belum paham secara permanen sepanjang tahun ajaran sebagai kelompok remedial tetap."
+          },
+          {
+            "id": "C",
+            "text": "Meminta 8 murid yang belum paham mempelajari modul sendiri di perpustakaan selama jam bengkel."
+          },
+          {
+            "id": "D",
+            "text": "Menurunkan standar ketelitian ukur menjadi 1 mm bagi seluruh kelas agar semua tuntas."
+          },
+          {
+            "id": "E",
+            "text": "Mengelompokkan murid berdasarkan tingkat penguasaan aktual saat ini (bukan semata kelas/usia) untuk mendapat pendampingan bertahap, lalu memindahkannya secara fleksibel saat capaiannya meningkat."
+          }
+        ],
+        "correctAnswer": "E",
+        "explanation": "Konsep Inti (TaRL — Teaching at the Right Level): TaRL menempatkan murid sesuai capaian aktual hasil asesmen awal, memberi dukungan belajar yang tepat sasaran, dan bersifat dinamis/fleksibel (bukan pelabelan permanen seperti B dan tidak menurunkan standar CP seperti D).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q008",
+        "number": 8,
+        "type": "single",
+        "section": "PCK Teknik Mesin 2 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Seorang murid kelas XI mampu memprogram gerakan linier G01 pada simulator CNC hanya ketika guru memberi lembar ceklis sintaks dan pertanyaan pemandu, tetapi masih sering keliru menentukan koordinat absolut (G90) vs inkremental (G91) bila dilepas tanpa bantuan. Mengacu pada teori Lev Vygotsky, posisi belajar murid dan intervensi paling tepat adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Murid berada di luar jangkauan belajar sehingga materi CNC harus ditunda ke kelas XII."
+          },
+          {
+            "id": "B",
+            "text": "Murid mengalami gangguan motorik sehingga harus digantikan teman kelompoknya saat memprogram."
+          },
+          {
+            "id": "C",
+            "text": "Murid sudah mencapai tahap mandiri sehingga cukup diberi soal hafalan kode G dan M."
+          },
+          {
+            "id": "D",
+            "text": "Murid berada pada Zone of Proximal Development (ZPD); guru memberikan scaffolding bertahap (contoh perbandingan G90/G91, pertanyaan pemandu, lalu pengurangan bantuan)."
+          },
+          {
+            "id": "E",
+            "text": "Guru harus langsung menuliskan seluruh kode program CNC agar hasil praktik tidak merusak pahat."
+          }
+        ],
+        "correctAnswer": "D",
+        "explanation": "Konsep Inti (Teori Sosiokultural Vygotsky): ZPD adalah jarak antara kemampuan mandiri murid dan kemampuan potensial dengan bimbingan orang lebih ahli (MKO). Intervensi yang tepat adalah scaffolding yang disesuaikan dan dikurangi perlahan (fading) hingga murid mandiri.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q009",
+        "number": 9,
+        "type": "single",
+        "section": "PCK Teknik Mesin 2 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam pembelajaran praktik pengelasan SMAW posisi datar (1G), guru merancang alur: (1) murid mencoba mengelas pelat uji pertama kali, (2) murid mengamati hasil rigi las yang berlubang/porositas dan mendiskusikan penyebabnya bersama rekan, (3) murid merumuskan hubungan antara panjang busur, arus listrik, dan sudut elektroda terhadap kualitas las, lalu (4) murid menguji ulang pengaturan arus pada pelat baru. Alur ini menerapkan siklus belajar dari ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Experiential Learning David Kolb (Concrete Experience → Reflective Observation → Abstract Conceptualization → Active Experimentation)."
+          },
+          {
+            "id": "B",
+            "text": "Operant Conditioning B.F. Skinner."
+          },
+          {
+            "id": "C",
+            "text": "Hierarki Kebutuhan Abraham Maslow."
+          },
+          {
+            "id": "D",
+            "text": "Hukum Kesiapan Edward Thorndike."
+          },
+          {
+            "id": "E",
+            "text": "Sembilan Peristiwa Instruksional Robert Gagné secara terbalik."
+          }
+        ],
+        "correctAnswer": "A",
+        "explanation": "Konsep Inti (Experiential Learning Kolb): Keempat tahap siklus Kolb tampak jelas: (1) Pengalaman konkret (mengelas), (2) Observasi reflektif (mengamati cacat las & berdiskusi), (3) Konseptualisasi abstrak (merumuskan hubungan arus/busur/sudut), dan (4) Eksperimentasi aktif (menguji ulang pengaturan baru).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q010",
+        "number": 10,
+        "type": "single",
+        "section": "PCK Teknik Mesin 2 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Guru menerapkan sembilan peristiwa pembelajaran Robert Gagné pada topik 'Pemilihan Parameter Pemotongan Mesin Frais'. Setelah menarik perhatian murid dengan video patahnya pisau endmill akibat salah penyetelan dan menyampaikan tujuan belajar, guru menanyakan kembali konsep kecepatan potong dan diameter pahat yang telah dipelajari pada semester lalu. Tahap Gagné yang sedang dilaksanakan guru tersebut adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Gaining attention"
+          },
+          {
+            "id": "B",
+            "text": "Presenting the stimulus"
+          },
+          {
+            "id": "C",
+            "text": "Stimulating recall of prior learning"
+          },
+          {
+            "id": "D",
+            "text": "Eliciting performance"
+          },
+          {
+            "id": "E",
+            "text": "Assessing performance"
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Konsep Inti (9 Events of Instruction — Robert Gagné): (1) Gaining attention (video patahnya endmill), (2) Informing learners of objectives (menyampaikan tujuan), (3) Stimulating recall of prior learning (mengingat kembali materi prasyarat kecepatan potong & diameter pahat). Opsi B, D, E adalah tahap selanjutnya.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q011",
+        "number": 11,
+        "type": "single",
+        "section": "PCK Teknik Mesin 2 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pada praktik mesin bubut, seorang murid tampak ragu-ragu dan takut menyalakan spindel karena pada pertemuan sebelumnya ia pernah ditegur keras oleh temannya saat lupa melepas kunci cekam (chuck key). Menurut pendekatan humanistik (Maslow & Rogers), langkah pertama paling tepat yang harus dilakukan guru adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Memaksa murid langsung membubut benda kerja ujian agar rasa takutnya hilang seketika."
+          },
+          {
+            "id": "B",
+            "text": "Mengalihkan murid tersebut menjadi pencatat alat saja hingga akhir semester."
+          },
+          {
+            "id": "C",
+            "text": "Mengumumkan di depan kelas agar tidak ada murid yang ceroboh seperti murid tersebut."
+          },
+          {
+            "id": "D",
+            "text": "Memberikan pengurangan nilai sikap karena murid dinilai tidak siap secara mental."
+          },
+          {
+            "id": "E",
+            "text": "Membangun keamanan psikologis (psychological safety) dan iklim bengkel bebas ejekan, memvalidasi kekhawatirannya, lalu mendampingi pengecekan prosedur K3 secara tenang hingga rasa percaya dirinya pulih."
+          }
+        ],
+        "correctAnswer": "E",
+        "explanation": "Konsep Inti (Teori Belajar Humanistik — Maslow & Rogers): Kebutuhan rasa aman (safety needs) dan lingkungan bebas ancaman adalah prasyarat sebelum murid mampu belajar optimal dan mengaktualisasikan potensinya. Membangun keamanan psikologis sekaligus pendampingan K3 yang tenang memulihkan self-efficacy murid tanpa mengabaikan keselamatan.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q012",
+        "number": 12,
+        "type": "single",
+        "section": "PCK Teknik Mesin 2 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Sekolah SMK Teknik Mesin bermitra dengan industri manufaktur lokal untuk menerapkan pembelajaran berbasis Teaching Factory (TeFa) dalam pembuatan komponen bracket mesin pertanian. Prinsip pedagogis paling esensial yang membedakan TeFa dari praktik bengkel biasa adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Murid memproduksi barang secara massal demi keuntungan sekolah tanpa perlu memahami gambar teknik dan perhitungan pemesinan."
+          },
+          {
+            "id": "B",
+            "text": "Proses pembelajaran diintegrasikan dengan standar mutu, alur kerja (SOP), budaya 5R, pengendalian kualitas (QC), dan tenggat waktu nyata industri namun tetap berpusat pada pencapaian kompetensi belajar murid."
+          },
+          {
+            "id": "C",
+            "text": "Seluruh pengerjaan produk dilakukan oleh teknisi bengkel agar pesanan industri cepat selesai."
+          },
+          {
+            "id": "D",
+            "text": "Guru menghapus seluruh asesmen formatif dan refleksi karena fokus utama hanyalah target produksi."
+          },
+          {
+            "id": "E",
+            "text": "Hanya murid berperingkat lima besar yang boleh terlibat mengerjakan proyek TeFa."
+          }
+        ],
+        "correctAnswer": "B",
+        "explanation": "Konsep Inti (Teaching Factory / TeFa Pendidikan Vokasi): TeFa memadukan standar industri nyata (SOP, QC, K3, 5R, ketepatan waktu) sebagai wahana belajar autentik. Fokus utamanya tetap pencapaian kompetensi dan pengalaman belajar inklusif bagi seluruh murid, bukan eksploitasi tenaga kerja (A) atau eksklusivitas (E).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q013",
+        "number": 13,
+        "type": "single",
+        "section": "PCK Teknik Mesin 2 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Sebelum membongkar dan membersihkan sistem transmisi sabuk-puli pada mesin bubut yang mengalami slip, seorang murid langsung membuka penutup sabuk sementara sakelar utama (MCB) masih dalam posisi ON. Tindakan prosedural K3 standar industri yang wajib diajarkan dan ditekankan guru pada kasus ini adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Cukup menempelkan catatan kertas biasa di meja kerja bahwa mesin sedang diperbaiki."
+          },
+          {
+            "id": "B",
+            "text": "Menggunakan sarung tangan kain tebal saat menyentuh puli yang masih terhubung listrik."
+          },
+          {
+            "id": "C",
+            "text": "Meminta satu teman berdiri di dekat tombol darurat sementara murid lain memperbaiki sabuk dalam keadaan mesin berlistrik."
+          },
+          {
+            "id": "D",
+            "text": "Menerapkan prosedur LOTO (Lockout/Tagout): memutus sumber daya listrik utama, mengunci sakelar isolasi dengan gembok, memasang label penanda petugas, dan memverifikasi kondisi energi nol sebelum menyentuh mekanisme transmisi."
+          },
+          {
+            "id": "E",
+            "text": "Mempercepat proses penggantian sabuk agar risiko tersetrum lebih kecil."
+          }
+        ],
+        "correctAnswer": "D",
+        "explanation": "Konsep Inti (Keselamatan Kerja Bengkel / LOTO): Lockout/Tagout (LOTO) adalah prosedur wajib isolasi energi berbahaya sebelum perawatan/perbaikan mesin (memutus daya, mengunci/lock, melabeli/tag, dan uji coba energi nol/try-out) untuk mencegah penyalaan tak disengaja yang fatal.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q014",
+        "number": 14,
+        "type": "single",
+        "section": "PCK Teknik Mesin 2 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Saat memeriksa benda kerja poros hasil pembubutan murid yang mensyaratkan toleransi Ø20 ±0,05 mm, guru mendapati murid menggunakan mistar baja (ketelitian 1 mm) untuk menyatakan bahwa produknya 'sudah pas 20 mm'. Kesalahan konseptual metrologi dan tindak lanjut pedagogis paling tepat adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menjelaskan konsep resolusi/ketelitian alat ukur (aturan 1/10 toleransi), lalu membimbing murid membandingkan hasil pengukuran poros yang sama menggunakan mistar baja, jangka sorong (0,02 mm), dan mikrometer luar (0,01 mm)."
+          },
+          {
+            "id": "B",
+            "text": "Membenarkan hasil murid karena angka 20 mm pada mistar baja sudah sesuai ukuran nominal."
+          },
+          {
+            "id": "C",
+            "text": "Langsung memberi nilai nol tanpa menjelaskan perbedaan fungsi mistar baja dan mikrometer."
+          },
+          {
+            "id": "D",
+            "text": "Meminta murid menghafalkan seluruh nama alat ukur di buku teks sebelum boleh masuk bengkel."
+          },
+          {
+            "id": "E",
+            "text": "Mengubah toleransi pada jobsheet menjadi ±1 mm agar sesuai dengan alat ukur yang dipakai murid."
+          }
+        ],
+        "correctAnswer": "A",
+        "explanation": "Konsep Inti (PCK Metrologi & Konstruktivisme): Toleransi ±0,05 mm (rentang 0,10 mm) membutuhkan alat ukur berketelitian minimal 0,01 mm (mikrometer luar) atau jangka sorong presisi, bukan mistar baja (1 mm). Mengajak murid membandingkan langsung ketiga alat memicu konflik kognitif dan pemahaman fungsional tentang resolusi alat ukur.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q015",
+        "number": 15,
+        "type": "single",
+        "section": "PCK Teknik Mesin 2 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam praktikum pengujian logam (uji kekerasan/identifikasi baja), seorang murid menyimpulkan bahwa 'baja yang didinginkan mendadak dengan air (quenching) menjadi lebih keras sehingga otomatis juga jauh lebih ulet dan tahan benturan'. Strategi perubahan konseptual (conceptual change) terbaik untuk meluruskan miskonsepsi material teknik ini adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Meminta murid menyalin diagram fasa Fe-Fe₃C sebanyak tiga kali di buku catatan."
+          },
+          {
+            "id": "B",
+            "text": "Memfasilitasi perbandingan eksperimental/demonstrasi aman (uji tekuk/patah spesimen baja sebelum dan sesudah quenching vs tempering) agar murid mengamati bahwa kekerasan meningkat tetapi kegetasan juga meningkat bila tanpa tempering."
+          },
+          {
+            "id": "C",
+            "text": "Mengabaikan pernyataan murid karena materi metalurgi dianggap terlalu dalam untuk SMK."
+          },
+          {
+            "id": "D",
+            "text": "Memberi ulangan dadakan berisi definisi martensit, perlit, dan austenit."
+          },
+          {
+            "id": "E",
+            "text": "Menyampaikan secara lisan bahwa pendapatnya keliru tanpa menunjukkan bukti sifat mekanis."
+          }
+        ],
+        "correctAnswer": "B",
+        "explanation": "Konsep Inti (PCK Material Teknik & Conceptual Change): Quenching membentuk struktur martensit yang sangat keras namun getas (keuletan turun), sehingga diperlukan tempering untuk menyeimbangkan kekerasan dan ketangguhan. Bukti observasi langsung memicu perubahan konseptual lebih kuat daripada hafalan (A, D) atau ceramah sepihak (E).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q016",
+        "number": 16,
+        "type": "single",
+        "section": "PCK Teknik Mesin 2 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Guru menggunakan perangkat lunak CAD/CAM (misalnya Mastercam/Fusion 360) dalam pembelajaran CNC sehingga murid dapat merancang model 3D, mensimulasikan lintasan pahat (toolpath) untuk mendeteksi tabrakan (collision), mengoptimalkan waktu pemesinan, lalu mengekspor G-code ke mesin CNC. Menurut model SAMR (Puentedura), tingkat integrasi teknologi ini mencerminkan ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Substitusi, karena komputer sekadar menggantikan kertas gambar tanpa perubahan fungsi."
+          },
+          {
+            "id": "B",
+            "text": "Augmentasi sederhana, karena hanya memperindah warna gambar kerja."
+          },
+          {
+            "id": "C",
+            "text": "Penghapusan peran guru bengkel dalam mengawasi keselamatan mesin CNC."
+          },
+          {
+            "id": "D",
+            "text": "Hambatan pedagogis, karena murid menjadi lupa cara mengasah pahat konvensional."
+          },
+          {
+            "id": "E",
+            "text": "Modifikasi hingga Redefinisi (Transformasi), karena teknologi memungkinkan simulasi deteksi tabrakan dan validasi lintasan pahat secara dinamis sebelum pemotongan nyata yang mustahil dilakukan secara manual di kertas."
+          }
+        ],
+        "correctAnswer": "E",
+        "explanation": "Konsep Inti (TPACK & Model SAMR — Puentedura): Pada tingkat Transformasi (Modification & Redefinition), TIK tidak sekadar menggantikan media lama (Substitution), melainkan mendesain ulang tugas belajar dan menghadirkan kemampuan baru seperti simulasi collision & optimasi toolpath sebelum eksekusi pada mesin nyata.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q017",
+        "number": 17,
+        "type": "single",
+        "section": "PCK Teknik Mesin 2 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Seorang guru Teknik Mesin mengajar di SMK yang berada di wilayah sentra industri kecil pandai besi dan bengkel permesinan alat pertanian lokal. Untuk menerapkan Culturally Responsive Teaching (CRT) dan pemanfaatan potensi lingkungan sekitar (P.5 & PF.3), rancangan pembelajaran yang paling bermakna adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Hanya menggunakan studi kasus pabrik otomotif luar negeri agar pembelajaran terkesan modern dan mengabaikan bengkel lokal."
+          },
+          {
+            "id": "B",
+            "text": "Meminta murid menyalin katalog mesin bubut impor dari internet untuk tugas makalah."
+          },
+          {
+            "id": "C",
+            "text": "Menyatakan bahwa metode kerja perajin pandai besi lokal sudah ketinggalan zaman dan tidak layak dibahas di kelas."
+          },
+          {
+            "id": "D",
+            "text": "Mengajak murid mengobservasi teknik pengerasan baja dan perbaikan komponen mesin panen di bengkel lokal, menganalisis prinsip ilmiahnya (heat treatment, suaian, pengelasan), dan merancang inovasi perbaikan produk lokal."
+          },
+          {
+            "id": "E",
+            "text": "Mengganti seluruh kurikulum pemesinan standar nasional dengan magang tak terstruktur di bengkel tetangga."
+          }
+        ],
+        "correctAnswer": "D",
+        "explanation": "Konsep Inti (CRT & Pemanfaatan Kearifan/Potensi Lokal — P.5 & PF.3): Mengaitkan pengetahuan teknis lokal (pandai besi, bengkel alat pertanian) dengan prinsip sains-teknik modern (heat treatment, toleransi, K3) menghargai konteks budaya-lingkungan murid sekaligus meningkatkan kebermaknaan belajar.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q018",
+        "number": 18,
+        "type": "single",
+        "section": "PCK Teknik Mesin 2 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Di akhir pembelajaran praktik pembuatan alur pasak di mesin frais, guru meminta setiap murid mengisi lembar 'Penilaian Diri (Self-Assessment)' berdasarkan rubrik kualitas permukaan, akurasi lebar alur, kepatuhan K3, serta menuliskan satu langkah perbaikan untuk praktik minggu depan. Fungsi asesmen yang paling dominan pada aktivitas tersebut adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Assessment of Learning (sumatif akhir semester)"
+          },
+          {
+            "id": "B",
+            "text": "Assessment as Learning (asesmen sebagai pembelajaran untuk melatih metakognisi dan regulasi diri murid)"
+          },
+          {
+            "id": "C",
+            "text": "Seleksi peringkat kelas untuk menentukan siswa terbaik"
+          },
+          {
+            "id": "D",
+            "text": "Penilaian administratif semata untuk melengkapi arsip bengkel"
+          },
+          {
+            "id": "E",
+            "text": "Pengganti sepenuhnya pengamatan kinerja oleh guru"
+          }
+        ],
+        "correctAnswer": "B",
+        "explanation": "Konsep Inti (Paradigma Asesmen — P.6): Assessment as Learning menempatkan murid sebagai penilai aktif atas proses belajarnya sendiri melalui self-assessment dan refleksi terpandu rubrik guna membangun metakognisi serta kemandirian perbaikan (bukan pengganti mutlak observasi guru seperti E, maupun sekadar sumatif A).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q019",
+        "number": 19,
+        "type": "single",
+        "section": "PCK Teknik Mesin 2 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam pembelajaran sistem pneumatik dasar, guru mengamati bahwa 60% murid mampu merangkai katup 5/2 dan silinder kerja ganda sesuai skema di papan tulis, tetapi ketika diminta memodifikasi rangkaian agar silinder maju hanya jika dua tombol ditekan bersamaan (fungsi keselamatan dua tangan / katup AND), hampir semua kelompok gagal. Akar masalah dan solusi pedagogis terbaik adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Murid baru mencapai level imitasi prosedural; guru perlu membimbing analisis logika fungsi tiap komponen melalui masalah troubleshooting dan simulasi rangkaian (seperti FluidSIM) sebelum merangkai."
+          },
+          {
+            "id": "B",
+            "text": "Murid kurang banyak menyalin simbol-simbol katup ISO 1219 di buku tulis."
+          },
+          {
+            "id": "C",
+            "text": "Guru sebaiknya menggambar langsung rangkaian akhir fungsi AND di papan tulis agar semua kelompok tinggal meniru."
+          },
+          {
+            "id": "D",
+            "text": "Komponen pneumatik di laboratorium harus diganti seluruhnya karena menyulitkan murid."
+          },
+          {
+            "id": "E",
+            "text": "Guru meniadakan soal modifikasi rangkaian dan cukup menguji hafalan nama katup."
+          }
+        ],
+        "correctAnswer": "A",
+        "explanation": "Konsep Inti (Taksonomi Bloom / Psikomotorik & Transfer Belajar): Mampu meniru rangkaian contoh (level imitasi/C1–C2) belum berarti mampu menerapkan dan menganalisis pada masalah baru (C3–C4). Membimbing analisis logika komponen lewat masalah autentik dan simulasi membangun pemahaman konseptual yang dapat ditransfer.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q020",
+        "number": 20,
+        "type": "single",
+        "section": "PCK Teknik Mesin 2 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pada suatu kelas XI Teknik Mesin, terdapat satu peserta didik dengan hambatan pendengaran ringan (tunarungu ringan) yang mengikuti praktik mesin gerinda bangku dan bubut. Penyesuaian lingkungan belajar inklusif dan aman (K3) yang paling tepat dilakukan guru adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Melarang murid tersebut mengikuti seluruh praktik bengkel dan hanya memberinya tugas merangkum teori."
+          },
+          {
+            "id": "B",
+            "text": "Menempatkan murid di area dengan pencahayaan jelas agar dapat membaca gerak bibir/instruksi visual, menyediakan SOP & rambu K3 visual/lampu indikator darurat yang jelas, memastikan kontak mata sebelum memberi aba-aba, dan memasangkannya dengan rekan kerja yang suportif."
+          },
+          {
+            "id": "C",
+            "text": "Memperlakukan murid sama persis tanpa penyesuaian komunikasi agar tidak terkesan pilih kasih."
+          },
+          {
+            "id": "D",
+            "text": "Berteriak keras dari belakang punggung murid ketika mesin sedang menyala agar ia mendengar."
+          },
+          {
+            "id": "E",
+            "text": "Menugaskan rekan kerjanya mengoperasikan seluruh mesin atas nama murid tersebut."
+          }
+        ],
+        "correctAnswer": "B",
+        "explanation": "Konsep Inti (Pendidikan Inklusif & Komunikasi Empatik — P.2, S.1): Pendidikan inklusif di bengkel menjamin hak belajar praktik sekaligus standar K3 melalui akomodasi yang layak (instruksi visual, kontak pandang, indikator darurat visual, dukungan kolaboratif), bukan eksklusi (A, E) atau mengabaikan kebutuhan keselamatan komunikasi (C, D).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q021",
+        "number": 21,
+        "type": "single",
+        "section": "PCK Teknik Mesin 2 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Guru menyusun soal ulangan harian materi Mekanika Teknik (Kesetimbangan Gaya dan Momen) dengan hanya menanyakan 'Sebutkan rumus momen gaya!' dan 'Apa satuan gaya dalam SI?'. Kepala bengkel menyarankan agar instrumen ditingkatkan ke level HOTS (Higher-Order Thinking Skills). Revisi butir soal yang paling sesuai dengan karakteristik HOTS (C4–C6) adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Meminta murid menuliskan definisi gaya, momen, dan kopel sesuai buku paket."
+          },
+          {
+            "id": "B",
+            "text": "Menyajikan gambar skema kunci pas atau tuas pengungkit dengan beban baut macet, panjang lengan berbeda, serta sudut tarikan tertentu, lalu meminta murid menganalisis posisi gaya paling efektif dan mengevaluasi risiko patahnya baut."
+          },
+          {
+            "id": "C",
+            "text": "Menambah jumlah soal hitungan M = F · d dengan angka desimal yang sangat rumit sebanyak 30 nomor."
+          },
+          {
+            "id": "D",
+            "text": "Meminta murid menghafalkan tabel konversi satuan Newton ke kilogram-force."
+          },
+          {
+            "id": "E",
+            "text": "Memberikan soal menjodohkan antara nama besaran mekanika dan simbol hurufnya."
+          }
+        ],
+        "correctAnswer": "B",
+        "explanation": "Konsep Inti (Asesmen HOTS — P.6): Soal HOTS tidak diukur dari kerumitan angka (C) atau banyaknya hafalan (A, D, E), melainkan dari penggunaan stimulus kontekstual yang menuntut analisis (C4), evaluasi (C5), atau kreasi/pemecahan masalah (C6) pada situasi teknik nyata.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q022",
+        "number": 22,
+        "type": "single",
+        "section": "PCK Teknik Mesin 2 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam praktik pengelasan, seorang murid terus-menerus menghasilkan cacat undercut (alur tergerus di tepi rigi las) dan tampak mulai putus asa. Respons umpan balik formatif (feedback) guru yang paling konstruktif dan selaras dengan growth mindset adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "'Hasil lasmu jelek sekali, sepertinya kamu memang tidak berbakat di bidang pengelasan.'"
+          },
+          {
+            "id": "B",
+            "text": "'Sudah bagus kok, yang penting pelatnya menempel dan cepat selesai.'"
+          },
+          {
+            "id": "C",
+            "text": "'Biarkan saja dulu, nanti nilai akhir semester akan menentukan lulus atau tidaknya.'"
+          },
+          {
+            "id": "D",
+            "text": "'Lihat nilai temanmu di sebelah yang sudah 95, tiru saja caranya tanpa banyak bertanya.'"
+          },
+          {
+            "id": "E",
+            "text": "'Arah lasmu sudah lurus, bagus! Coba perhatikan tepi jalur las yang tergerus ini—ini undercut yang biasanya muncul karena arus terlalu tinggi atau ayunan terlalu cepat. Coba turunkan arus 10 Ampere dan tahan sebentar di tepi, lalu kita lihat perbedaannya.'"
+          }
+        ],
+        "correctAnswer": "E",
+        "explanation": "Konsep Inti (Umpan Balik Formatif & Growth Mindset — P.6, K.2): Umpan balik efektif bersifat spesifik (menunjuk kekuatan & letak kesalahan teknis), menjelaskan penyebab (arus/kecepatan ayunan), memberi langkah perbaikan terukur, serta membangun keyakinan bahwa keterampilan dapat berkembang lewat latihan.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q023",
+        "number": 23,
+        "type": "single",
+        "section": "PCK Teknik Mesin 2 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Saat memeriksa hasil ujian praktik pembubutan, guru menemukan benda kerja milik keponakan wakil kepala sekolah tidak memenuhi batas toleransi ukuran (keluar +0,35 mm dari batas maksimal). Rekan sejawat menyarankan agar guru meloloskan saja nilainya demi menjaga keharmonisan sekolah. Sikap profesional guru sesuai kompetensi kepribadian (K.1) adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Meloloskan nilai tersebut diam-diam asalkan murid berjanji belajar lebih giat di semester depan."
+          },
+          {
+            "id": "B",
+            "text": "Menurunkan nilai murid lain agar hasil keponakan wakil kepala sekolah terlihat sejajar."
+          },
+          {
+            "id": "C",
+            "text": "Memarahi rekan sejawat tersebut di ruang guru agar semua pihak tahu bahwa dirinya tegas."
+          },
+          {
+            "id": "D",
+            "text": "Menolak saran tersebut dengan santun dan tegas, menilai produk secara objektif sesuai rubrik standar toleransi, serta memberikan kesempatan remedial terarah yang sama sebagaimana berlaku bagi murid lain."
+          },
+          {
+            "id": "E",
+            "text": "Meminta teknisi bengkel membubut ulang benda kerja murid tersebut supaya mencapai toleransi."
+          }
+        ],
+        "correctAnswer": "D",
+        "explanation": "Konsep Inti (Kompetensi Kepribadian — K.1 Integritas & Keadilan): Guru wajib menjunjung objektivitas, kejujuran akademik, dan keadilan tanpa pilih kasih, sambil menyampaikan penolakan secara matang/santun dan tetap berpihak pada proses belajar murid melalui kesempatan remedial yang setara.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q024",
+        "number": 24,
+        "type": "single",
+        "section": "PCK Teknik Mesin 2 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Setelah dua siklus praktik membaca mikrometer luar (0,01 mm), data evaluasi menunjukkan 65% murid kelas X masih sering keliru membedakan garis skala setengah milimeter (0,5 mm) pada sleeve. Guru ingin memperbaiki praktik mengajarnya secara sistematis dan empiris melalui Penelitian Tindakan Kelas (PTK). Rancangan PTK yang paling tepat adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menyebar angket ke 5 sekolah lain tentang merek mikrometer yang paling awet."
+          },
+          {
+            "id": "B",
+            "text": "Merancang dua siklus tindakan di kelasnya sendiri menggunakan media simulator mikrometer interaktif proyektor + model peraga skala besar + latihan berpasangan, disertai observasi proses, tes diagnostik tiap siklus, dan refleksi perbaikan."
+          },
+          {
+            "id": "C",
+            "text": "Menguji korelasi antara nilai Matematika SMP dengan nilai praktik bengkel tanpa mengubah metode mengajar."
+          },
+          {
+            "id": "D",
+            "text": "Menghapus materi skala 0,5 mm dari ujian praktik agar persentase kelulusan naik."
+          },
+          {
+            "id": "E",
+            "text": "Meminta guru lain menggantikan mengajar kelas tersebut lalu membandingkan nilainya."
+          }
+        ],
+        "correctAnswer": "B",
+        "explanation": "Konsep Inti (Pengembangan Profesi / PTK — PF.5 & S.3): PTK (Action Research) berfokus pada perbaikan nyata masalah pembelajaran di kelas guru sendiri melalui siklus berulang: Perencanaan → Tindakan → Observasi → Refleksi. Opsi A (survei) dan C (korelasional) bukan PTK.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q025",
+        "number": 25,
+        "type": "single",
+        "section": "PCK Teknik Mesin 2 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Seorang guru Teknik Mesin menerapkan prinsip Pembelajaran Mendalam (Deep Learning: berkesadaran/mindful, bermakna/meaningful, dan menggembirakan/joyful) pada materi 'Sistem Pelumasan dan Perawatan Mesin'. Kombinasi kegiatan yang paling tepat mewujudkan ketiga prinsip tersebut adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Memutar lagu keras di bengkel sambil memberi kuis tebak-tebakan yang tidak berkaitan dengan materi pelumasan."
+          },
+          {
+            "id": "B",
+            "text": "Mengajak murid menetapkan target belajar & memantau pemahamannya (mindful), menganalisis kasus nyata kerusakan bantalan mesin akibat salah viskositas oli (meaningful), serta mengeksplorasi simulasi/praktik inspeksi bengkel dalam suasana kolaboratif yang aman dan menantang rasa ingin tahu (joyful)."
+          },
+          {
+            "id": "C",
+            "text": "Mendiktekan tabel kode kekentalan oli SAE selama 90 menit lalu memberi PR menyalin buku manual."
+          },
+          {
+            "id": "D",
+            "text": "Membebaskan murid bermain gim di ponsel selama 30 menit pertama sebelum membuka materi pelumasan."
+          },
+          {
+            "id": "E",
+            "text": "Menyampaikan materi secepat mungkin agar murid bisa pulang lebih awal dengan gembira."
+          }
+        ],
+        "correctAnswer": "B",
+        "explanation": "Konsep Inti (Pembelajaran Mendalam / Deep Learning — P.3): Berkesadaran (regulasi diri & refleksi), Bermakna (keterkaitan dengan problem nyata dunia teknik), dan Menggembirakan (kegembiraan intelektual, rasa ingin tahu, dan keamanan psikologis — bukan hiburan lepas konteks seperti A atau D).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q026",
+        "number": 26,
+        "type": "single",
+        "section": "PCK Teknik Mesin 2 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam pembelajaran proyek pembuatan ragum mini (bench vise) secara berkelompok, guru melihat konflik antaranggota: Murid A ingin segera memotong bahan tanpa membuat gambar kerja rinci, sedangkan Murid B bersikeras harus menyelesaikan gambar kerja dan daftar kebutuhan bahan terlebih dahulu. Peran guru sebagai fasilitator PjBL yang tepat adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Memihak Murid A agar proyek cepat selesai sebelum jam bengkel habis."
+          },
+          {
+            "id": "B",
+            "text": "Memindahkan Murid B ke kelompok lain agar tidak menghambat teman-temannya."
+          },
+          {
+            "id": "C",
+            "text": "Membatalkan proyek kelompok dan menggantinya dengan soal tertulis individu."
+          },
+          {
+            "id": "D",
+            "text": "Mengambil alih seluruh keputusan dan menyuruh semua murid menunggu instruksi langkah demi langkah dari guru."
+          },
+          {
+            "id": "E",
+            "text": "Memfasilitasi dialog kedua murid untuk menimbang risiko teknis (pemborosan bahan & kesalahan ukuran) berdasarkan rubrik proyek, lalu membantu kelompok menyepakati urutan kerja standar manufaktur."
+          }
+        ],
+        "correctAnswer": "E",
+        "explanation": "Konsep Inti (PjBL & Resolusi Konflik Kolaboratif — P.1, P.3, S.1): Guru berperan sebagai fasilitator yang mendorong penalaran berbasis standar teknis (perencanaan gambar kerja sebelum fabrikasi) dan melatih komunikasi kolaboratif murid dalam mengambil keputusan kelompok.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q027",
+        "number": 27,
+        "type": "single",
+        "section": "PCK Teknik Mesin 2 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Hasil uji kompetensi praktik gerinda pahat bubut menunjukkan beberapa murid menghasilkan sudut potong (rake angle dan clearance angle) yang tidak seragam karena posisi tangan saat mengasah sering berubah. Dari sudut pandang psikomotorik (Dave / Simpson) dan strategi latihan, tindakan guru yang paling efektif adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Memberikan penguatan latihan terpandu (guided response) menggunakan mal sudut (bevel protractor/angle gauge) untuk memeriksa sudut setiap beberapa detik pengasahan, disertai demonstrasi posisi tumpuan tangan yang stabil."
+          },
+          {
+            "id": "B",
+            "text": "Menambah durasi ceramah mengenai rumus gaya potong selama dua jam pelajaran."
+          },
+          {
+            "id": "C",
+            "text": "Melarang murid menggunakan batu gerinda dan langsung membelikan pahat sisipan (insert) jadi."
+          },
+          {
+            "id": "D",
+            "text": "Menyuruh murid mengasah 20 batang pahat sekaligus tanpa evaluasi antara."
+          },
+          {
+            "id": "E",
+            "text": "Memberikan hukuman membersihkan bengkel setiap kali sudut pahat meleset."
+          }
+        ],
+        "correctAnswer": "A",
+        "explanation": "Konsep Inti (Ranah Psikomotorik & Latihan Terbimbing): Pembentukan keterampilan motorik presisi memerlukan umpan balik segera (verifikasi berkala dengan mal sudut) dan pemodelan postur/tumpuan tangan yang benar sebelum mencapai tingkat ketepatan/mekanisme otomatis.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q028",
+        "number": 28,
+        "type": "single",
+        "section": "PCK Teknik Mesin 2 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Ketika membimbing kelompok praktik mesin frais, guru menemukan bahwa benda kerja aluminium yang difrais mengalami permukaan kasar dan serpihan menempel pada sisi potong pisau (built-up edge). Guru ingin melatih penalaran ilmiah dan keterampilan troubleshooting murid. Pertanyaan pemantik yang paling tepat adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "'Mengapa kalian tidak membaca halaman 42 buku paket sebelum praktik?'"
+          },
+          {
+            "id": "B",
+            "text": "'Berapa harga pisau endmill yang kalian pakai saat ini?'"
+          },
+          {
+            "id": "C",
+            "text": "'Coba amati serpihan yang menempel di sisi pahat dan permukaan benda kerja ini; faktor apa dari kecepatan potong, cairan pendingin (coolant), atau ketajaman pahat yang menurut data kalian memicu kondisi tersebut, dan bagaimana cara mengujinya?'"
+          },
+          {
+            "id": "D",
+            "text": "'Apakah kalian setuju bahwa aluminium memang selalu menghasilkan permukaan kasar?'"
+          },
+          {
+            "id": "E",
+            "text": "'Siapa anggota kelompok yang paling salah dalam menyetel mesin tadi?'"
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Konsep Inti (Scientific Reasoning & Pertanyaan Metakognitif/HOTS): Pertanyaan pemantik yang baik memfokuskan murid pada bukti fisik (built-up edge), menghubungkan variabel teknis (Vc, coolant, geometri pahat), dan mendorong pengujian solusi secara ilmiah — bukan menyalahkan personal (A, E) atau mengarahkan ke miskonsepsi (D).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q029",
+        "number": 29,
+        "type": "single",
+        "section": "PCK Teknik Mesin 2 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Guru ingin menyusun rubrik analitik untuk menilai proyek pembuatan poros bertingkat di kelas XI. Manakah susunan kriteria rubrik yang paling valid dan adil untuk mencerminkan kompetensi utuh Teknik Mesin?"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Hanya menilai dimensi akhir benda kerja (bobot 100%) agar penilaian cepat selesai."
+          },
+          {
+            "id": "B",
+            "text": "Menilai kerapian sampul laporan (40%), ketepatan waktu kumpul (40%), dan ukuran benda kerja (20%)."
+          },
+          {
+            "id": "C",
+            "text": "Menilai secara terukur aspek perencanaan & pembacaan gambar kerja, kepatuhan K3 & 5R, ketepatan prosedur pemesinan & penggunaan alat ukur, akurasi dimensi/toleransi produk, serta kualitas refleksi/troubleshooting dengan deskriptor jelas tiap level."
+          },
+          {
+            "id": "D",
+            "text": "Memberikan skor subjektif 'Baik/Cukup/Kurang' tanpa deskriptor agar guru leluasa menyesuaikan nilai."
+          },
+          {
+            "id": "E",
+            "text": "Menyamakan nilai seluruh anggota kelompok tanpa mengecek kinerja masing-masing individu."
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Konsep Inti (Asesmen Kinerja & Rubrik Analitik — P.6): Rubrik analitik yang valid pada pendidikan vokasi menilai proses dan produk secara menyeluruh (persiapan, K3/5R, prosedur, metrologi, kualitas produk, refleksi) dilengkapi deskriptor objektif pada setiap tingkat capaian.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q030",
+        "number": 30,
+        "type": "single",
+        "section": "PCK Teknik Mesin 2 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Seorang wali murid menghubungi guru produktif Teknik Mesin melalui WhatsApp pada pukul 22.30 malam dengan nada khawatir karena anaknya menceritakan kesulitan mengikuti praktik mesin bubut dan takut tidak lulus PKL. Tindakan komunikasi yang paling etis, empatik, dan profesional (S.1 & K.1) adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Mengabaikan pesan tersebut selamanya karena dikirim di luar jam kerja."
+          },
+          {
+            "id": "B",
+            "text": "Membalas dengan nada kesal di grup WhatsApp orang tua agar seluruh wali murid memahami etika jam kerja."
+          },
+          {
+            "id": "C",
+            "text": "Menyarankan orang tua segera memindahkan anaknya ke jurusan non-teknik karena dianggap tidak berbakat."
+          },
+          {
+            "id": "D",
+            "text": "Membalas secara santun pada waktu kerja yang wajar (atau memberi respon singkat sopan bahwa akan dibahas esok pagi), mengajak orang tua berdiskusi secara personal, menyampaikan kekuatan serta area yang perlu didampingi pada anak, dan menyusun rencana latihan bertahap bersama."
+          },
+          {
+            "id": "E",
+            "text": "Mengirimkan daftar nilai seluruh teman sekelas sebagai pembanding agar orang tua menegur anaknya di rumah."
+          }
+        ],
+        "correctAnswer": "D",
+        "explanation": "Konsep Inti (Kompetensi Sosial S.1 — Komunikasi Empatik & Etika Digital): Guru menjaga batas profesional secara santun, menggunakan jalur pribadi (menjaga privasi murid — bukan grup publik B atau membeberkan nilai kelas E), serta membangun kemitraan berbasis solusi bersama orang tua.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q031",
+        "number": 31,
+        "type": "single",
+        "section": "PCK Teknik Mesin 2 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Di awal pembelajaran materi 'Suaian (Fits): Suaian Longgar, Pas, dan Paksa', guru ingin menerapkan Law of Readiness (Hukum Kesiapan) Edward Thorndike agar murid siap secara mental dan teknis mengikuti pembelajaran. Langkah paling tepat adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Memastikan kesiapan fisik-mental, menggali pengalaman awal murid tentang perakitan bantalan (bearing) pada poros sepeda motor/mesin yang longgar vs seret, serta menjelaskan manfaat nyata materi bagi pekerjaan pemesinan."
+          },
+          {
+            "id": "B",
+            "text": "Langsung memberikan tes dadakan berisi 20 soal tabel toleransi ISO tanpa pengantar."
+          },
+          {
+            "id": "C",
+            "text": "Meminta murid menyalin tabel ISO 286 sepanjang 5 halaman sebelum penjelasan dimulai."
+          },
+          {
+            "id": "D",
+            "text": "Menghukum murid yang lupa membawa buku catatan dengan berdiri di luar kelas."
+          },
+          {
+            "id": "E",
+            "text": "Mempercepat penjelasan rumus tanpa mengecek apakah murid sudah menguasai konsep toleransi dasar."
+          }
+        ],
+        "correctAnswer": "A",
+        "explanation": "Konsep Inti (Hukum Kesiapan / Law of Readiness — Thorndike): Belajar akan berlangsung efektif dan memuaskan apabila peserta didik berada dalam kondisi siap (terbangun motivasi, relevansi konteks nyata, dan pengaktifan prasyarat) sebelum menerima materi inti.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q032",
+        "number": 32,
+        "type": "single",
+        "section": "PCK Teknik Mesin 2 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam merancang pembelajaran kolaboratif antar-mata pelajaran di SMK (kolaborasi guru Teknik Mesin, guru Matematika, dan guru Bahasa Indonesia) untuk proyek pembuatan produk kreatif berbasis industri, terjadi perbedaan pendapat mengenai porsi jam dan bentuk laporan proyek. Sebagai guru yang memiliki kompetensi sosial matang (S.2), langkah mediasi paling konstruktif adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Memaksakan agar 90% waktu hanya digunakan untuk praktik bengkel karena mata pelajaran produktif dianggap paling utama."
+          },
+          {
+            "id": "B",
+            "text": "Meminta kepala sekolah membatalkan kolaborasi lintas mata pelajaran agar tiap guru bekerja sendiri."
+          },
+          {
+            "id": "C",
+            "text": "Menyalahkan guru mata pelajaran umum karena dianggap tidak memahami dunia bengkel."
+          },
+          {
+            "id": "D",
+            "text": "Menyetujui semua usulan tanpa membaca silabus agar rapat cepat berakhir."
+          },
+          {
+            "id": "E",
+            "text": "Mengajak tim memetakan irisan capaian pembelajaran (perhitungan biaya/toleransi di Matematika, gambar & fabrikasi di Teknik Mesin, penyusunan proposal/manual produk di Bahasa Indonesia) sehingga satu produk proyek dapat dinilai bersama secara sinergis."
+          }
+        ],
+        "correctAnswer": "E",
+        "explanation": "Konsep Inti (Kolaborasi Antarpendidik — S.2): Penyelesaian perbedaan lintas mapel dilakukan dengan berpusat pada capaian belajar murid, memetakan irisan kompetensi antar-mapel (integrated project), dan membangun pembagian peran yang saling menguatkan tanpa ego sektoral.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q033",
+        "number": 33,
+        "type": "single",
+        "section": "PCK Teknik Mesin 2 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Sebuah bengkel SMK hanya memiliki 4 unit mesin bubut yang berfungsi optimal untuk kelas berisi 24 peserta didik, sementara alokasi waktu praktik adalah 4 jam pelajaran. Strategi manajemen kelas bengkel yang paling efektif agar seluruh murid tetap aktif belajar bermakna dan aman secara K3 adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Membiarkan 20 murid duduk santai menunggu giliran di pinggir mesin yang sedang beroperasi."
+          },
+          {
+            "id": "B",
+            "text": "Meniadakan praktik mesin bubut sepanjang semester hingga sekolah membeli 20 mesin baru."
+          },
+          {
+            "id": "C",
+            "text": "Menumpuk 6 murid mengelilingi satu mesin bubut secara bersamaan agar semua cepat selesai."
+          },
+          {
+            "id": "D",
+            "text": "Menerapkan model rotasi stasiun (station rotation): Stasiun 1 praktik membubut langsung (berpasangan dengan peran operator & pemeriksa K3/pengukur), Stasiun 2 simulasi penyetelan parameter & pembacaan gambar kerja/CAD, dan Stasiun 3 latihan metrologi/inspeksi QC benda contoh, dengan rotasi terjadwal."
+          },
+          {
+            "id": "E",
+            "text": "Hanya mengizinkan 4 murid terbaik yang mengoperasikan mesin sementara sisanya mencatat dari jauh."
+          }
+        ],
+        "correctAnswer": "D",
+        "explanation": "Konsep Inti (Manajemen Pembelajaran & Adaptasi Sarana Bengkel — PF.4 & P.2): Station rotation memaksimalkan keterlibatan aktif seluruh murid, mencegah kerumunan berbahaya di sekitar mesin berputar (K3), dan menjaga efisiensi waktu belajar secara adil.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q034",
+        "number": 34,
+        "type": "single",
+        "section": "PCK Teknik Mesin 2 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pada praktik pembuatan ulir dalam menggunakan tap tangan (hand tap), seorang murid memutar tap terus searah jarum jam dengan tenaga besar tanpa pernah memutar balik seperempat putaran untuk mematahkan beram (chips), sehingga tap patah di dalam lubang benda kerja. Pendekatan pedagogis terbaik guru menyikapi insiden ini adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Mengamankan area kerja, menenangkan murid, mengajaknya menganalisis penyebab teknis patahnya tap (penumpukan beram, kurang cairan pelumas, tegak lurus sumbu), mendiskusikan cara pencegahan, dan melatih prosedur pengetapan yang benar pada benda uji."
+          },
+          {
+            "id": "B",
+            "text": "Langsung memarahi murid di depan seluruh kelas dan mewajibkannya mengganti harga tap seketika tanpa analisis penyebab."
+          },
+          {
+            "id": "C",
+            "text": "Mengabaikan insiden tersebut dan langsung memberi tap baru tanpa menjelaskan teknik pematahan beram."
+          },
+          {
+            "id": "D",
+            "text": "Melarang murid tersebut menyentuh perkakas tangan hingga akhir semester."
+          },
+          {
+            "id": "E",
+            "text": "Mengeluarkan tap yang patah sendiri lalu mengganti benda kerja murid dengan produk jadi milik guru."
+          }
+        ],
+        "correctAnswer": "A",
+        "explanation": "Konsep Inti (Pembelajaran dari Kesalahan & PCK Perkakas Tangan): Kesalahan teknis di bengkel adalah momen belajar bernilai tinggi. Guru menjaga keamanan psikologis, membedah akar masalah teknis (pemutaran balik pematah beram, pelumasan, kelurusan), dan membimbing perbaikan keterampilan.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q035",
+        "number": 35,
+        "type": "single",
+        "section": "PCK Teknik Mesin 2 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Guru Teknik Mesin melihat bahwa selama ini banyak lulusan masih bingung membaca standar lembar spesifikasi prosedur pengelasan (WPS) dan prosedur pengecekan mutu industri. Untuk mengembangkan profesionalisme dan memperkaya ekosistem belajar murid (PF.5 & S.3), kolaborasi eksternal yang paling berdampak adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menutup akses pihak industri ke bengkel sekolah agar rahasia metode mengajar guru terjaga."
+          },
+          {
+            "id": "B",
+            "text": "Menggunakan modul fotokopi 15 tahun lalu karena dianggap sudah cukup memadai."
+          },
+          {
+            "id": "C",
+            "text": "Mengikuti seminar umum yang tidak relevan semata-mata demi mengumpulkan sertifikat."
+          },
+          {
+            "id": "D",
+            "text": "Menyerahkan seluruh proses pembelajaran bengkel sekolah kepada pihak luar tanpa keterlibatan guru."
+          },
+          {
+            "id": "E",
+            "text": "Aktif di forum MGMP Teknik Mesin dan bermitra dengan praktisi DUDI/instruktur las bersertifikat untuk penyelarasan kurikulum (link and match), program guru tamu, serta pembaruan rubrik asesmen sesuai standar industri."
+          }
+        ],
+        "correctAnswer": "E",
+        "explanation": "Konsep Inti (Kemitraan DUDI & Pengembangan Keprofesian Berkelanjutan — PF.5, S.2, S.3): Penyelarasan kurikulum dengan DUDI, guru tamu industri, dan kolaborasi MGMP memastikan pembelajaran vokasi selalu mutakhir dan relevan dengan standar dunia kerja.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q036",
+        "number": 36,
+        "type": "single",
+        "section": "PCK Teknik Mesin 2 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam pembelajaran 'Gambar Potongan (Section View)', guru ingin menerapkan diferensiasi produk agar murid dengan beragam minat dan gaya belajar dapat menunjukkan penguasaan kompetensi yang sama. Contoh diferensiasi produk yang tepat adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Murid yang mahir membuat gambar potongan benda kerja rumit, sedangkan murid yang kurang mahir dibebaskan tidak membuat gambar potongan sama sekali."
+          },
+          {
+            "id": "B",
+            "text": "Guru menetapkan rubrik penilaian yang jauh lebih longgar bagi murid yang memilih media digital."
+          },
+          {
+            "id": "C",
+            "text": "Setiap murid bebas menggambar objek apa pun meski tidak memuat konsep potongan."
+          },
+          {
+            "id": "D",
+            "text": "Seluruh murid mencapai tujuan yang sama (menggambarkan potongan lengkap sesuai aturan arsiran ISO), namun boleh menyajikannya melalui gambar manual di kertas A3, pemodelan potong 3D CAD, atau presentasi model fisik potong beserta proyeksinya dengan rubrik standar ISO yang setara."
+          },
+          {
+            "id": "E",
+            "text": "Semua murid wajib membuat produk dengan format, ukuran, dan alat yang persis sama tanpa pilihan."
+          }
+        ],
+        "correctAnswer": "D",
+        "explanation": "Konsep Inti (Diferensiasi Produk — Tomlinson / P.2): Diferensiasi produk memberi pilihan moda unjuk kerja sesuai minat/profil belajar murid sambil tetap menjaga kesetaraan tujuan pembelajaran dan standar kriteria penilaian (aturan potongan ISO).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q037",
+        "number": 37,
+        "type": "single",
+        "section": "PCK Teknik Mesin 2 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Seorang murid menyampaikan pertanyaan kritis di luar buku teks saat pelajaran Elemen Mesin: 'Pak, mengapa pada kendaraan listrik modern banyak transmisi roda gigi bertingkat dihilangkan dibanding mobil bermesin bensin?' Guru belum mengetahui detail teknis terbaru secara lengkap. Respons guru yang paling mencerminkan sikap ilmiah, kejujuran intelektual, dan keteladanan (K.1 & K.2) adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menjawab asal-asalan dengan istilah teknis rumit agar wibawa guru tidak turun di hadapan murid."
+          },
+          {
+            "id": "B",
+            "text": "Menegur murid agar tidak bertanya di luar materi silabus ujian."
+          },
+          {
+            "id": "C",
+            "text": "Mengapresiasi pertanyaan kritis murid, menjelaskan prinsip dasar torsi motor listrik yang sudah dikuasai, jujur menyatakan bagian detail yang perlu diverifikasi, lalu mengajak murid menelusuri referensi teknis tepercaya bersama untuk dibahas pada pertemuan berikutnya."
+          },
+          {
+            "id": "D",
+            "text": "Mengalihkan topik pembicaraan dan pura-pura tidak mendengar pertanyaan tersebut."
+          },
+          {
+            "id": "E",
+            "text": "Menyuruh murid mencari sendiri di blog anonim tanpa pendampingan verifikasi sumber."
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Konsep Inti (Keteladanan Moral & Belajar Sepanjang Hayat — K.1, K.2): Mengakui batas pengetahuan secara jujur, menghargai rasa ingin tahu murid, dan memodelkan cara memverifikasi referensi ilmiah yang kredibel menumbuhkan budaya bernalar kritis dan integritas.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q038",
+        "number": 38,
+        "type": "single",
+        "section": "PCK Teknik Mesin 2 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Saat melakukan refleksi akhir unit pembelajaran 'Perawatan Preventif Mesin Frais', guru ingin mengukur kedalaman metakognisi murid — bukan sekadar reaksi emosional sesaat. Pertanyaan refleksi yang paling tepat adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "'Apakah kalian senang mengikuti praktik bengkel hari ini?'"
+          },
+          {
+            "id": "B",
+            "text": "'Berapa jumlah baut yang kalian kencangkan pada meja mesin frais tadi?'"
+          },
+          {
+            "id": "C",
+            "text": "'Langkah inspeksi mana yang paling menantang bagimu hari ini, mengapa kesalahan itu bisa terjadi, dan strategi apa yang akan kamu ubah saat melakukan perawatan preventif berikutnya?'"
+          },
+          {
+            "id": "D",
+            "text": "'Siapa teman kelompok yang paling rajin membersihkan beram?'"
+          },
+          {
+            "id": "E",
+            "text": "'Halaman berapa pada jobsheet yang sudah kita selesaikan?'"
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Konsep Inti (Refleksi Bermakna & Metakognisi — P.1, P.6): Pertanyaan metakognitif mendorong murid mengevaluasi tantangan belajarnya, menganalisis penyebab kesalahan, dan merencanakan strategi perbaikan diri (planning-monitoring-evaluating), jauh lebih mendalam daripada pertanyaan ya/tidak (A) atau faktual dangkal (B, E).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q039",
+        "number": 39,
+        "type": "single",
+        "section": "PCK Teknik Mesin 2 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam pembelajaran proyek CNC, beberapa murid mulai menggunakan kecerdasan artifisial (AI generatif) untuk menghasilkan kode G-code secara instan lalu langsung memasukkannya ke mesin CNC tanpa memeriksa lintasan pahat maupun titik nol benda kerja. Sikap literasi digital kritis dan keselamatan kerja (P.4 & K3) yang wajib diajarkan guru adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Melarang total penggunaan segala teknologi digital dan komputer di kelas Teknik Mesin."
+          },
+          {
+            "id": "B",
+            "text": "Membiarkan murid langsung menjalankan kode buatan AI di mesin CNC nyata agar tahu sendiri akibatnya jika menabrak."
+          },
+          {
+            "id": "C",
+            "text": "Mengajarkan bahwa AI boleh dimanfaatkan sebagai alat bantu belajar/brainstorming sintaks, tetapi setiap baris G-code wajib diverifikasi secara manual, diuji melalui simulasi grafis (dry run/backplot), dan dipahami logika koordinatnya sebelum dijalankan di mesin demi keselamatan K3 dan integritas belajar."
+          },
+          {
+            "id": "D",
+            "text": "Memberikan nilai tertinggi kepada murid yang paling cepat menghasilkan kode lewat AI tanpa uji pemahaman."
+          },
+          {
+            "id": "E",
+            "text": "Menyalin kode dari AI dan membagikannya sebagai kunci jawaban tunggal bagi seluruh kelas."
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Konsep Inti (Literasi Digital Kritis, Etika AI, & K3 CNC — P.4, PF.5): Dalam rekayasa CNC, kesalahan satu baris kode dari AI dapat menyebabkan tabrakan pahat fatal (crash). Guru menanamkan literasi digital kritis: verifikasi teknis, simulasi/dry run, kepemilikan pemahaman, dan transparansi penggunaan AI.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q040",
+        "number": 40,
+        "type": "single",
+        "section": "PCK Teknik Mesin 2 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Guru menemukan seorang murid kelas XI yang selalu datang terlambat 15 menit saat jadwal praktik pagi dan tampak mengantuk di bengkel. Setelah diajak berdialog empat mata secara empatik, diketahui ia membantu orang tuanya berjualan di pasar subuh sebelum berangkat sekolah. Tindakan profesional yang paling mencerminkan keberpihakan pada murid dan keselamatan K3 bengkel (K.3 & S.1) adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Langsung memulangkannya dan memberinya nilai nol praktik setiap kali terlambat tanpa mencari solusi."
+          },
+          {
+            "id": "B",
+            "text": "Membiarkannya langsung mengoperasikan mesin bubut berkecepatan tinggi meskipun sangat mengantuk agar tidak ketinggalan praktik."
+          },
+          {
+            "id": "C",
+            "text": "Memastikan kondisi fisiknya aman terlebih dahulu (tidak mengoperasikan mesin berbahaya saat sangat lelah/mengantuk), mengarahkannya pada tugas bengkel berisiko rendah seperti inspeksi/gambar kerja sementara, serta berkoordinasi dengan wali kelas, guru BK, dan orang tua untuk mencari solusi jadwal dan dukungan belajar yang manusiawi."
+          },
+          {
+            "id": "D",
+            "text": "Menceritakan kondisi ekonomi keluarganya di depan kelas agar teman-temannya merasa iba."
+          },
+          {
+            "id": "E",
+            "text": "Memintanya berhenti membantu orang tua secara sepihak tanpa memahami kondisi keluarganya."
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Konsep Inti (Keberpihakan pada Murid, K3, & Kolaborasi Sekolah — K.3, S.1, S.2): Mengoperasikan mesin berputar dalam kondisi mengantuk berisiko kecelakaan fatal (B salah). Guru melindungi keselamatan sekaligus hak belajar murid, menjaga privasi keluarga (D salah), dan berkolaborasi dengan BK/wali kelas/orang tua mencari solusi berkelanjutan.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q041",
+        "number": 41,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin 2 (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam menerapkan teori scaffolding Lev Vygotsky pada praktik penyetelan titik nol benda kerja (workpiece zeroing / G54) di mesin CNC, tindakan guru yang paling tepat meliputi ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Memetakan terlebih dahulu keterampilan awal murid melalui asesmen diagnostik singkat."
+          },
+          {
+            "id": "B",
+            "text": "Memberikan lembar panduan bergambar langkah demi langkah dan pertanyaan penuntun pada percobaan awal."
+          },
+          {
+            "id": "C",
+            "text": "Mengurangi intensitas bantuan secara bertahap (fading) ketika murid mulai mampu melakukan penyetelan secara akurat."
+          },
+          {
+            "id": "D",
+            "text": "Selalu melakukan penyetelan G54 sendiri bagi murid setiap pertemuan agar mesin tidak pernah rusak."
+          },
+          {
+            "id": "E",
+            "text": "Memanfaatkan teman sebaya yang lebih mahir (More Knowledgeable Other) untuk mendampingi pengecekan prosedur."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "E"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Konsep Inti (Scaffolding & ZPD — Vygotsky): Scaffolding yang efektif diawali pemetaan kemampuan awal (A), pemberian dukungan bertahap (B), pelibatan MKO/teman sebaya (E), dan pengurangan bantuan seiring kemandirian (C). Mengambil alih pekerjaan murid terus-menerus (D) justru menciptakan ketergantungan.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q042",
+        "number": 42,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin 2 (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Manakah praktik pembelajaran di bengkel Teknik Mesin yang mencerminkan teori belajar bermakna David Ausubel?"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menyajikan peta konsep keterkaitan antara jenis material, kecepatan potong, pemakanan, dan umur pahat sebelum latihan hitung."
+          },
+          {
+            "id": "B",
+            "text": "Mengaitkan konsep suaian ISO dengan pengalaman nyata murid membongkar pasang bantalan (bearing) pada poros motor."
+          },
+          {
+            "id": "C",
+            "text": "Meminta murid menghafalkan seluruh tabel angka toleransi ISO di luar kepala tanpa memahami konteks perakitan."
+          },
+          {
+            "id": "D",
+            "text": "Mendorong murid menghubungkan konsep gaya gesek pada pelajaran Fisika dengan kebutuhan cairan pendingin (coolant) saat membubut."
+          },
+          {
+            "id": "E",
+            "text": "Memberikan 50 soal hitungan berulang identik tanpa membahas makna fisik hasil perhitungannya."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "D"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Konsep Inti (Meaningful Learning — Ausubel): Belajar bermakna terjadi bila informasi baru dikaitkan secara substantif dengan struktur kognitif lama melalui advance organizer (A), konteks pengalaman nyata (B), dan keterkaitan lintas konsep (D). Hafalan mekanis (C, E) termasuk rote learning.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q043",
+        "number": 43,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin 2 (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pada pembelajaran proyek berbasis Teaching Factory (TeFa) pembuatan pin engsel baja di kelas XII, indikator yang mencerminkan implementasi TeFa yang autentik dan edukatif adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Adanya SOP pengerjaan, lembar kendali mutu (QC sheet), dan batas toleransi ukuran sesuai standar industri."
+          },
+          {
+            "id": "B",
+            "text": "Penanaman budaya kerja 5R (Ringkas, Rapi, Resik, Rawat, Rajin) serta kepatuhan K3 di setiap stasiun kerja."
+          },
+          {
+            "id": "C",
+            "text": "Seluruh murid memperoleh rotasi peran belajar yang adil dari perencanaan, pemesinan, hingga inspeksi mutu."
+          },
+          {
+            "id": "D",
+            "text": "Menghapus sesi refleksi belajar karena seluruh jam pelajaran hanya mengejar target jumlah barang."
+          },
+          {
+            "id": "E",
+            "text": "Pelibatan praktisi/mitra DUDI dalam validasi rubrik penilaian maupun standar produk."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "E"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Konsep Inti (Teaching Factory): TeFa menyatukan standar mutu industri (A, E), budaya kerja 5R/K3 (B), dan pemerataan pengalaman belajar murid (C). Menghilangkan refleksi belajar demi kuantitas produksi (D) menyalahi hakikat pendidikan.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q044",
+        "number": 44,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin 2 (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam praktikum pengujian sambungan las SMAW, guru menemukan beberapa murid masih kesulitan membedakan cacat porositas, slag inclusion, dan undercut. Berdasarkan teori representasi Bruner (enaktif–ikonik–simbolik), strategi yang tepat dilakukan guru adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Memperlihatkan spesimen pelat las nyata dengan beragam cacat agar murid dapat mengamati dan meraba konturnya secara aman (enaktif)."
+          },
+          {
+            "id": "B",
+            "text": "Menampilkan foto makro dan skema penampang melintang tiap jenis cacat las untuk membandingkan ciri visualnya (ikonik)."
+          },
+          {
+            "id": "C",
+            "text": "Membimbing murid menuliskan kode simbol cacat las serta kriteria keberterimaan standar AWS/ISO pada lembar inspeksi (simbolik)."
+          },
+          {
+            "id": "D",
+            "text": "Langsung meminta murid menghafal kode standar AWS tanpa pernah melihat spesimen nyata maupun gambarnya."
+          },
+          {
+            "id": "E",
+            "text": "Menyampaikan bahwa semua cacat las memiliki penyebab tunggal yang sama yaitu arus terlalu rendah."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Konsep Inti (Teori Bruner): Pembelajaran bergerak dari konkret/enaktif (A), visual/ikonik (B), ke lambang/standar simbolik (C). Opsi D melompati tahap enaktif-ikonik, sedangkan E keliru secara teknis (undercut umumnya akibat arus terlalu tinggi atau ayunan terlalu cepat).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q045",
+        "number": 45,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin 2 (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Manakah praktik penerapan Lockout/Tagout (LOTO) dan K3 yang BENAR saat melakukan perawatan atau perbaikan mesin perkakas di bengkel?"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Memutus sumber daya listrik utama pada panel isolasi sebelum membuka pelindung transmisi."
+          },
+          {
+            "id": "B",
+            "text": "Memasang gembok pengunci (lock) dan label informasi petugas/waktu perbaikan (tag) pada sakelar isolasi."
+          },
+          {
+            "id": "C",
+            "text": "Melakukan uji coba tekan tombol START (try-out) untuk memastikan mesin benar-benar dalam kondisi energi nol."
+          },
+          {
+            "id": "D",
+            "text": "Meminta teman memegang tombol STOP sambil tangan teknisi membersihkan roda gigi di dalam gearbox."
+          },
+          {
+            "id": "E",
+            "text": "Hanya melepas gembok LOTO oleh petugas yang memasangnya setelah seluruh pelindung mesin terpasang kembali."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "E"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Konsep Inti (Prosedur K3 / LOTO): Urutan keselamatan LOTO mencakup isolasi energi (A), penguncian dan pelabelan (B), verifikasi energi nol (C), serta pelepasan kunci hanya oleh pemasang setelah area aman (E). Mengandalkan penjagaan tombol STOP saat mesin masih berenergi (D) sangat berbahaya.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q046",
+        "number": 46,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin 2 (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Guru ingin merancang pembelajaran berdiferensiasi pada topik 'Pemrograman Dasar Mesin Bubut CNC' untuk kelas dengan kesiapan belajar beragam. Strategi diferensiasi yang sesuai dengan prinsip Tomlinson meliputi ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Diferensiasi konten: menyediakan modul teks, video animasi pergerakan sumbu X–Z, dan contoh program bertingkat."
+          },
+          {
+            "id": "B",
+            "text": "Diferensiasi proses: memberi template kerangka kode bagi pemula dan tantangan optimasi siklus (G71/G70) bagi yang sudah mahir."
+          },
+          {
+            "id": "C",
+            "text": "Diferensiasi produk: memberi pilihan verifikasi melalui simulasi perangkat lunak, lembar dry-run, atau pemotongan benda lunak dengan standar akurasi koordinat yang setara."
+          },
+          {
+            "id": "D",
+            "text": "Menurunkan standar keselamatan K3 CNC bagi kelompok yang belum mahir agar lebih cepat selesai."
+          },
+          {
+            "id": "E",
+            "text": "Melabeli murid secara permanen sebagai 'kelompok lambat' sehingga tidak boleh mencoba simulasi CNC."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Konsep Inti (Pembelajaran Berdiferensiasi — Tomlinson): Diferensiasi mencakup konten (A), proses (B), produk (C), dan lingkungan belajar tanpa pernah menurunkan standar keselamatan K3 (D) atau melakukan pelabelan permanen yang merusak mindset (E).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q047",
+        "number": 47,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin 2 (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Ciri utama rancangan pembelajaran berbasis Understanding by Design (UbD) pada mata pelajaran Elemen Mesin antara lain ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Dimulai dengan merumuskan pemahaman bermakna (enduring understandings) dan pertanyaan esensial tentang fungsi transmisi daya."
+          },
+          {
+            "id": "B",
+            "text": "Menetapkan bukti kinerja autentik (misalnya analisis pemilihan sabuk-V dan rasio puli pada mesin nyata) sebelum menyusun rincian aktivitas harian."
+          },
+          {
+            "id": "C",
+            "text": "Menyelaraskan seluruh kegiatan praktik, bahan ajar, dan umpan balik agar bermuara pada tujuan kompetensi yang ditetapkan."
+          },
+          {
+            "id": "D",
+            "text": "Menentukan buku teks terlebih dahulu lalu mengajarkan bab per bab tanpa menetapkan kriteria bukti penguasaan."
+          },
+          {
+            "id": "E",
+            "text": "Hanya menggunakan soal hafalan pilihan ganda di akhir semester sebagai satu-satunya bukti belajar."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Konsep Inti (UbD / Backward Design): UbD berfokus pada tujuan & pemahaman esensial (A), bukti asesmen autentik yang disusun sebelum skenario aktivitas (B), dan keselarasan konstruktif (C). Opsi D dan E merupakan kelemahan perencanaan konvensional (textbook coverage).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q048",
+        "number": 48,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin 2 (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pada praktikum pengukuran ketegaklurusan dan kebulatan poros menggunakan Dial Test Indicator (DTI) dan V-block, murid mengalami kesalahan pembacaan berulang. Langkah asesmen formatif dan tindak lanjut guru yang tepat adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Mengamati langsung posisi pemasangan stylus DTI, sudut kontak, dan kestabilan alas magnetik saat murid mengukur."
+          },
+          {
+            "id": "B",
+            "text": "Memberikan umpan balik spesifik pada letak kesalahan prosedur, bukan sekadar mengatakan 'angkamu salah'."
+          },
+          {
+            "id": "C",
+            "text": "Mengajak murid melakukan verifikasi nol (zero setting) dan pengulangan pengukuran untuk mengecek konsistensi data."
+          },
+          {
+            "id": "D",
+            "text": "Langsung memberikan nilai akhir rendah tanpa kesempatan memperbaiki cara pengukuran."
+          },
+          {
+            "id": "E",
+            "text": "Mencatat pola kesalahan kelas untuk memperbaiki demonstrasi pada pertemuan berikutnya."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "E"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Konsep Inti (Assessment for Learning / Formatif — P.6): Asesmen formatif dilakukan selama proses melalui observasi langsung (A), umpan balik spesifik (B), latihan korektif segera (C), dan penyesuaian strategi mengajar guru (E). Menghukum dengan nilai akhir tanpa bimbingan (D) bertentangan dengan fungsi formatif.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q049",
+        "number": 49,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin 2 (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam siklus Experiential Learning David Kolb pada praktik pembuatan ulir segitiga di mesin bubut, aktivitas yang mencerminkan tahap Reflective Observation dan Abstract Conceptualization adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Murid mengamati profil puncak ulir yang rompal/terpotong tidak rata dan membandingkannya dengan mal ulir (thread pitch gauge)."
+          },
+          {
+            "id": "B",
+            "text": "Murid berdiskusi dalam kelompok tentang pengaruh kedalaman pemakanan (depth of cut) dan posisi spindel saat pengulangan sayatan."
+          },
+          {
+            "id": "C",
+            "text": "Murid merumuskan prinsip umum bahwa kedalaman sayatan ulir harus dikurangi bertahap pada sayatan akhir (finishing) dan mengaitkannya dengan tabel kisar."
+          },
+          {
+            "id": "D",
+            "text": "Murid langsung membuang benda kerja yang gagal tanpa memeriksa apa pun."
+          },
+          {
+            "id": "E",
+            "text": "Guru mendiktekan jawaban penyebab kegagalan lalu melarang murid bertanya."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Konsep Inti (Experiential Learning Kolb): Reflective Observation tampak pada pengamatan hasil/kegagalan dan diskusi (A, B), sedangkan Abstract Conceptualization tampak pada perumusan prinsip/hubungan teknis dari pengalaman tersebut (C).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q050",
+        "number": 50,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin 2 (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Manakah penerapan pendekatan Problem-Based Learning (PBL) yang tepat pada materi 'Perawatan dan Perbaikan Sistem Hidrolik Industri'?"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menyajikan kasus nyata berupa tekanan aktuator hidrolik yang turun drastis disertai suara kavitasi pada pompa."
+          },
+          {
+            "id": "B",
+            "text": "Membimbing murid merumuskan hipotesis penyebab (kebocoran seal, level oli rendah, filter hisap tersumbat, atau udara terjebak)."
+          },
+          {
+            "id": "C",
+            "text": "Memfasilitasi murid mengumpulkan bukti dari diagram sirkuit, manual servis, dan pemeriksaan tekanan secara aman."
+          },
+          {
+            "id": "D",
+            "text": "Langsung memberi tahu kerusakan utamanya di awal kelas agar seluruh kelompok menulis jawaban seragam."
+          },
+          {
+            "id": "E",
+            "text": "Meminta kelompok mempresentasikan diagnosis dan rekomendasi perbaikan berbasis bukti data teknis."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "E"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Konsep Inti (PBL — Problem-Based Learning): PBL dimulai dari masalah autentik/ill-structured (A), perumusan hipotesis (B), penyelidikan berbasis bukti (C), dan argumentasi solusi (E). Memberi jawaban langsung di awal (D) menghilangkan esensi penyelidikan PBL.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q051",
+        "number": 51,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin 2 (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Untuk mencegah kecelakaan akibat kesalahan penggunaan mesin gerinda bangku (bench grinder), hal-hal K3 teknis yang wajib dipastikan guru bersama murid sebelum menyalakan mesin adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Memeriksa keretakan batu gerinda (ring test/inspeksi visual) dan memastikan pelindung kaca (eye shield) terpasang baik."
+          },
+          {
+            "id": "B",
+            "text": "Memastikan jarak celah penyangga benda kerja (tool rest) maksimal sekitar 2–3 mm dari permukaan roda gerinda agar benda tidak terjepit."
+          },
+          {
+            "id": "C",
+            "text": "Mengenakan kacamata pelindung (safety goggles) dan berdiri sedikit di samping bidang putar batu gerinda saat awal dinyalakan."
+          },
+          {
+            "id": "D",
+            "text": "Menggunakan sarung tangan kain longgar agar tangan tidak terasa panas saat menggerinda benda kecil."
+          },
+          {
+            "id": "E",
+            "text": "Menggerinda logam lunak seperti aluminium secara paksa pada roda gerinda baja standar tanpa penyesuaian."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Konsep Inti (PCK K3 Mesin Gerinda): Inspeksi batu & pelindung (A), celah tool rest 2–3 mm (B), serta penggunaan kacamata & posisi aman saat start-up (C) adalah prosedur wajib K3. Sarung tangan longgar (D) berisiko terlilit benda berputar, dan menggerinda aluminium pada roda gerinda baja (E) menyumbat pori roda (loading) dan memicu pecahnya batu gerinda.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q052",
+        "number": 52,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin 2 (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Ketika membina sikap ilmiah dan dimensi Profil Pelajar Pancasila dalam pembelajaran praktik Teknik Mesin, praktik pedagogis yang paling relevan adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Membiasakan murid mencatat hasil pengukuran dimensi apa adanya meskipun meleset dari toleransi (Integritas / Berakhlak Mulia)."
+          },
+          {
+            "id": "B",
+            "text": "Melatih murid mengevaluasi penyebab cacat produk berdasarkan data pengukuran dan parameter potong (Bernalar Kritis)."
+          },
+          {
+            "id": "C",
+            "text": "Mengatur pembagian tugas kolaboratif dan budaya 5R bersama setelah praktik selesai (Bergotong Royong)."
+          },
+          {
+            "id": "D",
+            "text": "Mendorong murid merancang jig/fixture sederhana dari bahan sisa untuk mempercepat pemasangan benda kerja (Kreatif)."
+          },
+          {
+            "id": "E",
+            "text": "Meminta murid memalsukan laporan QC agar tingkat kelulusan kelas tampak 100%."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Konsep Inti (Profil Pelajar Pancasila dalam Vokasi): Integritas data QC (A), analisis berbasis bukti (B), kolaborasi & 5R (C), dan rekayasa alat bantu (D) mewujudkan karakter Profil Pelajar Pancasila secara autentik, sedangkan manipulasi data (E) melanggar etika profesi.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q053",
+        "number": 53,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin 2 (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam evaluasi penggunaan teknologi pembelajaran di jurusan Teknik Mesin (TPACK & P.4), indikator bahwa integrasi media digital benar-benar meningkatkan kualitas belajar murid adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Murid mampu menguji variasi parameter pemotongan atau rangkaian pneumatik pada simulator sebelum praktik nyata untuk memprediksi hasil."
+          },
+          {
+            "id": "B",
+            "text": "Media animasi 3D membantu murid memvisualisasikan mekanisme dalam gearbox/katup yang sulit dilihat secara langsung."
+          },
+          {
+            "id": "C",
+            "text": "Kuis diagnostik digital dimanfaatkan guru untuk memetakan miskonsepsi gambar proyeksi secara cepat sebagai dasar scaffolding."
+          },
+          {
+            "id": "D",
+            "text": "Guru menayangkan salindia penuh teks sepanjang pelajaran tanpa diskusi atau aktivitas praktikum."
+          },
+          {
+            "id": "E",
+            "text": "Seluruh waktu praktik bengkel digantikan menonton video agar sekolah hemat biaya bahan."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Konsep Inti (TPACK — Technological Pedagogical Content Knowledge): Teknologi bernilai tinggi bila memperdalam pemahaman konseptual dan kesiapan praktik melalui simulasi (A), visualisasi mekanisme abstrak (B), dan asesmen diagnostik cepat (C), bukan menggantikan praktik tangan secara total (E) atau ceramah pasif (D).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q054",
+        "number": 54,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin 2 (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pada pembelajaran Gambar Teknik CAD 2D/3D, beberapa murid sangat mahir mengoperasikan perintah software (Extrude, Revolve, Fillet), tetapi gambar kerja yang dicetak tidak mencantumkan proyeksi yang benar, tanda pengerjaan permukaan, dan garis sumbu sesuai standar ISO. Langkah perbaikan guru yang tepat adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menguatkan kembali pemahaman bahwa CAD adalah alat bantu gambar, sedangkan aturan gambar teknik ISO adalah bahasa komunikasi rekayasa utama."
+          },
+          {
+            "id": "B",
+            "text": "Menggunakan rubrik penilaian yang memberi bobot memadai pada kelengkapan norma gambar teknik ISO (garis sumbu, ukuran fungsional, proyeksi, etiket), bukan sekadar kecepatan memakai software."
+          },
+          {
+            "id": "C",
+            "text": "Mengajak murid melakukan peer review gambar kerja antarteman dengan mengecek apakah gambar tersebut dapat dibaca dan dikerjakan oleh operator bengkel tanpa kebingungan."
+          },
+          {
+            "id": "D",
+            "text": "Menghapus penilaian aturan proyeksi ISO karena dianggap kuno di era CAD 3D."
+          },
+          {
+            "id": "E",
+            "text": "Memberikan nilai sempurna asalkan tampilan rendering 3D berwarna bagus."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Konsep Inti (PCK Gambar Teknik & Asesmen Autentik): Penguasaan software CAD tanpa kaidah standar gambar teknik ISO membuat gambar tidak dapat diproduksi di bengkel. Penekanan standar komunikasi teknik (A), rubrik holistik (B), dan peer review berbasis keterbacaan bengkel (C) meluruskan orientasi belajar.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q055",
+        "number": 55,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin 2 (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Berdasarkan teori pengondisian operan B.F. Skinner, manakah contoh penerapan penguatan (reinforcement) yang tepat dan mendidik dalam membiasakan budaya K3 di bengkel?"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Memberikan apresiasi spesifik segera saat murid memeriksa kondisi chuck dan memasang pelindung mata sebelum menyalakan mesin (positive reinforcement)."
+          },
+          {
+            "id": "B",
+            "text": "Memberikan poin penghargaan kelompok bagi tim yang konsisten menerapkan 5R tanpa pelanggaran K3 selama praktikum (positive reinforcement)."
+          },
+          {
+            "id": "C",
+            "text": "Membebaskan kelompok yang selalu tertib K3 dan 5R dari kewajiban menyusun ringkasan korektif K3 tambahan (negative reinforcement)."
+          },
+          {
+            "id": "D",
+            "text": "Mempermalukan murid yang lupa memakai sepatu keselamatan di depan seluruh sekolah."
+          },
+          {
+            "id": "E",
+            "text": "Mengabaikan kepatuhan K3 karena dianggap kewajiban rutin yang tidak perlu diapresiasi."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Konsep Inti (Operant Conditioning Skinner): Penguatan positif (A, B) menambah konsekuensi menyenangkan, sedangkan penguatan negatif (C) menghilangkan beban tambahan yang tidak diinginkan; keduanya memperkuat kebiasaan K3 secara konstruktif tanpa mempermalukan murid (D).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q056",
+        "number": 56,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin 2 (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Seorang murid perempuan di kelas Teknik Pemesinan sering diremehkan oleh beberapa teman laki-lakinya saat pembagian tugas mengoperasikan mesin bubut dan selalu diminta menjadi pencatat laporan saja. Sikap guru yang menjunjung kesetaraan, inklusivitas, dan kompetensi kepribadian-sosial (K.1, P.3, S.1) adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menegakkan norma kelas yang menghargai kesetaraan gender dan kompetensi setiap murid tanpa stereotip."
+          },
+          {
+            "id": "B",
+            "text": "Menerapkan rotasi peran wajib dalam kelompok sehingga setiap murid mendapat kesempatan yang sama menjadi operator mesin, pengukur QC, dan pencatat."
+          },
+          {
+            "id": "C",
+            "text": "Memberikan umpan balik objektif berdasarkan kualitas kerja teknis setiap murid guna membangun kepercayaan diri dan saling menghargai."
+          },
+          {
+            "id": "D",
+            "text": "Membiarkan pembagian tugas tersebut karena menganggap mesin bubut memang lebih cocok untuk laki-laki."
+          },
+          {
+            "id": "E",
+            "text": "Memindahkan murid perempuan tersebut ke pekerjaan administrasi bengkel agar tidak terjadi perselisihan."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Konsep Inti (Keberagaman, Kesetaraan, & Iklim Belajar Aman — K.1, P.3, S.1): Guru wajib menghapus stereotip gender di bengkel (D, E salah), menjamin akses belajar setara lewat rotasi peran (B), menegakkan budaya saling menghargai (A), dan menilai objektif berdasarkan kompetensi (C).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q057",
+        "number": 57,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin 2 (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Sebelum memulai praktik pemotongan pelat menggunakan mesin gergaji mesin (power hacksaw) atau gerinda potong, tindakan asesmen diagnostik kesiapan K3 yang tepat dilakukan guru adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Meminta murid menunjukkan posisi tombol emergency stop dan cara pencekaman benda kerja yang benar sebelum menyalakan mesin."
+          },
+          {
+            "id": "B",
+            "text": "Memberikan kuis singkat berbasis skenario bahaya untuk mengecek pemahaman APD dan arah percikan bunga api."
+          },
+          {
+            "id": "C",
+            "text": "Melakukan pengecekan langsung kelengkapan APD (kacamata, sepatu safety, pakaian kerja rapi tanpa bagian menjuntai)."
+          },
+          {
+            "id": "D",
+            "text": "Langsung mengizinkan murid memotong bahan tanpa pengecekan karena mereka sudah lulus kelas X."
+          },
+          {
+            "id": "E",
+            "text": "Hanya mengandalkan tanda tangan daftar hadir sebagai bukti bahwa murid menguasai K3."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Konsep Inti (Asesmen Diagnostik Kesiapan K3 Bengkel): Kesiapan keselamatan harus diverifikasi secara konkret melalui unjuk lokasi emergency stop & pencekaman (A), pengecekan pemahaman risiko (B), dan inspeksi APD nyata (C), bukan asumsi (D) atau tanda tangan administratif (E).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q058",
+        "number": 58,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin 2 (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam pembelajaran Mekanika Kekuatan Bahan (tegangan tarik, regangan, dan faktor keamanan/safety factor), guru ingin meningkatkan kemampuan berpikir tingkat tinggi (HOTS) murid. Aktivitas belajar yang sesuai meliputi ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Meminta murid membandingkan grafik tegangan-regangan baja karbon rendah vs besi cor untuk memilih material yang aman bagi poros pemikul beban kejut."
+          },
+          {
+            "id": "B",
+            "text": "Mengajak murid menganalisis dampak pengurangan diameter poros sebesar 20% terhadap peningkatan tegangan tarik pada beban yang sama."
+          },
+          {
+            "id": "C",
+            "text": "Menugaskan murid mengevaluasi kelayakan desain gantungan beban berdasarkan nilai safety factor dan batas luluh (yield strength) material."
+          },
+          {
+            "id": "D",
+            "text": "Meminta murid menyalin definisi hukum Hooke dari papan tulis sebanyak lima kali."
+          },
+          {
+            "id": "E",
+            "text": "Memberikan tes menebak warna cat batang spesimen uji tarik."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Konsep Inti (HOTS C4–C5 pada Mekanika Bahan): Membandingkan karakteristik material dari grafik (A), menganalisis pengaruh variabel geometri terhadap tegangan (B), dan mengevaluasi keamanan desain memakai safety factor (C) melatih penalaran analitis dan evaluatif.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q059",
+        "number": 59,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin 2 (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Setelah melakukan uji kompetensi praktik pengelasan, guru menemukan sebagian murid telah melampaui target (tuntas dengan hasil las mulus sesuai standar), sementara sebagian lainnya masih gagal pada keseragaman lebar jalur las dan penetrasi. Tindak lanjut remedial dan pengayaan yang tepat adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Memberikan bimbingan remedial terfokus pada teknik kestabilan jarak busur (arc length) dan kecepatan gerak elektroda bagi murid yang belum tuntas."
+          },
+          {
+            "id": "B",
+            "text": "Memberikan tantangan pengayaan berupa posisi pengelasan lebih menantang (misalnya 2F/2G) atau peran inspektor visual berbasis rubrik bagi murid yang sudah tuntas."
+          },
+          {
+            "id": "C",
+            "text": "Meminta murid yang sudah tuntas duduk diam tanpa aktivitas hingga seluruh temannya selesai remedial."
+          },
+          {
+            "id": "D",
+            "text": "Menurunkan standar kelulusan penetrasi las agar seluruh murid segera mendapat nilai tuntas."
+          },
+          {
+            "id": "E",
+            "text": "Menggunakan catatan hasil pengamatan remedial untuk mengevaluasi efektivitas latihan dasar di pertemuan berikutnya."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "E"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Konsep Inti (Tindak Lanjut Asesmen: Remedial & Pengayaan — P.2, P.6): Remedial menargetkan akar kesulitan spesifik (A) tanpa menurunkan standar (D salah), pengayaan memberi tantangan bermakna bagi murid cepat (B, bukan menunggu pasif C), dan hasilnya menjadi bahan refleksi guru (E).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q060",
+        "number": 60,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin 2 (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Manakah pernyataan yang BENAR mengenai penerapan pendekatan Pembelajaran Mendalam (Deep Learning) dalam pendidikan kejuruan Teknik Mesin?"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Pembelajaran tidak berhenti pada hafalan langkah SOP, tetapi memastikan murid memahami alasan teknis di balik setiap langkah dan mampu mentransfernya pada mesin/kasus baru."
+          },
+          {
+            "id": "B",
+            "text": "Prinsip berkesadaran (mindful) diwujudkan melalui pemantauan diri murid terhadap keselamatan kerja, ketelitian ukuran, dan refleksi proses belajar."
+          },
+          {
+            "id": "C",
+            "text": "Prinsip menggembirakan (joyful) berarti menciptakan ruang eksplorasi aman dan kepuasan intelektual saat berhasil memecahkan masalah teknis nyata."
+          },
+          {
+            "id": "D",
+            "text": "Deep learning menuntut guru menumpuk sebanyak mungkin topik teori dalam satu pertemuan tanpa praktik mendalam."
+          },
+          {
+            "id": "E",
+            "text": "Prinsip bermakna (meaningful) dibangun dengan menghubungkan kompetensi bengkel terhadap kebutuhan industri dan kehidupan masyarakat sekitar."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "E"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Konsep Inti (Deep Learning — Mindful, Meaningful, Joyful): Deep learning menekankan kedalaman pemahaman dan transfer (A) bukan keluasan materi dangkal (D), serta memadukan kesadaran diri (B), kepuasan memecahkan masalah dalam iklim aman (C), dan relevansi nyata (E).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q061",
+        "number": 61,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin 2 (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam penerapan teori konstruktivisme Piaget dan Vygotsky di kelas Teknik Mesin, peran utama guru yang paling tepat adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menggali konsepsi awal murid mengenai fenomena pemesinan/mekanika sebelum menyampaikan formalisasi teori."
+          },
+          {
+            "id": "B",
+            "text": "Merancang situasi konflik kognitif atau masalah bengkel autentik agar murid menguji dan merevisi pemahamannya berdasarkan bukti."
+          },
+          {
+            "id": "C",
+            "text": "Bertindak sebagai fasilitator yang menyediakan scaffolding sesuai ZPD murid dan memfasilitasi diskusi kolaboratif."
+          },
+          {
+            "id": "D",
+            "text": "Memosisikan diri sebagai satu-satunya sumber kebenaran yang menuntut murid menyalin semua catatan tanpa bertanya."
+          },
+          {
+            "id": "E",
+            "text": "Membiarkan murid bereksperimen bebas menggunakan mesin berbahaya tanpa panduan K3 apa pun."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Konsep Inti (Konstruktivisme Piaget & Vygotsky): Guru menggali skema awal (A), memfasilitasi konflik kognitif/inkuiri (B), dan memberi scaffolding dalam ZPD (C). Guru bukan diktator ceramah (D), tetapi juga tidak melepas pengawasan keselamatan K3 (E).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q062",
+        "number": 62,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin 2 (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Ketika membimbing proyek akhir siswa SMK membuat alat perajang singkong/kompos sederhana bagi UMKM sekitar, integrasi prinsip Engineering Design Process (EDP) dalam STEM/PjBL yang tepat meliputi ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Mengidentifikasi kebutuhan pengguna UMKM, kapasitas kerja, batasan biaya, dan syarat keselamatan operator."
+          },
+          {
+            "id": "B",
+            "text": "Merancang beberapa alternatif desain mekanisme pisau & transmisi dalam gambar kerja disertai perhitungan daya motor."
+          },
+          {
+            "id": "C",
+            "text": "Membuat prototipe fungsional, menguji performa pemotongan secara terukur, dan mencatat kendala getaran/keausan."
+          },
+          {
+            "id": "D",
+            "text": "Melakukan iterasi perbaikan desain berdasarkan hasil uji coba lapangan sebelum serah terima produk."
+          },
+          {
+            "id": "E",
+            "text": "Langsung mengelas besi tanpa gambar kerja maupun pengujian kinerja asalkan bentuknya tampak kokoh."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Konsep Inti (STEM & Engineering Design Process): Siklus EDP meliputi identifikasi masalah & batasan (A), perancangan berbasis konsep teknik (B), pembuatan & pengujian kuantitatif prototipe (C), serta iterasi perbaikan berbasis data uji (D).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q063",
+        "number": 63,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin 2 (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam penyusunan soal tes tertulis pilihan ganda PCK/kejuruan Teknik Mesin yang berkualitas tinggi, kaidah penulisan butir soal yang wajib dipenuhi guru adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menggunakan stimulus kontekstual yang fungsional (gambar teknik, tabel parameter potong, atau kasus bengkel) yang benar-benar diperlukan untuk menjawab soal."
+          },
+          {
+            "id": "B",
+            "text": "Menyusun opsi pengecoh (distractor) yang homogen dan masuk akal berdasarkan miskonsepsi umum murid."
+          },
+          {
+            "id": "C",
+            "text": "Menggunakan notasi, satuan SI/ISO, dan istilah teknik yang baku serta bahasa yang tidak ambigu."
+          },
+          {
+            "id": "D",
+            "text": "Membuat jawaban benar selalu jauh lebih panjang daripada opsi pengecoh agar mudah ditebak."
+          },
+          {
+            "id": "E",
+            "text": "Memastikan setiap butir soal selaras dengan indikator tujuan pembelajaran yang tercantum dalam kisi-kisi."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "E"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Konsep Inti (Pengembangan Instrumen Asesmen Berkualitas — P.6): Soal bermutu memiliki stimulus fungsional (A), pengecoh homogen berbasis miskonsepsi (B), istilah/satuan baku (C), dan kesesuaian kisi-kisi (E). Panjang opsi yang timpang (D) menjadi petunjuk tak valid (clueing).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q064",
+        "number": 64,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin 2 (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Seorang guru Teknik Mesin menerapkan strategi Predict–Observe–Explain (POE) saat mendemonstrasikan pengaruh sudut potong pahat bubut terhadap bentuk beram (chip) dan kehalusan permukaan. Manfaat pedagogis strategi POE ini adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Tahap Predict mengaktifkan pengetahuan awal murid dan membuat mereka berkomitmen secara kognitif pada dugaannya."
+          },
+          {
+            "id": "B",
+            "text": "Tahap Observe melatih ketelitian murid mengamati perubahan bentuk beram (kontinu vs putus-putus) dan kualitas permukaan secara nyata."
+          },
+          {
+            "id": "C",
+            "text": "Tahap Explain mendorong murid merekonstruksi penjelasan ilmiah berbasis hubungan geometri pahat dan sifat material bila pengamatan berbeda dari prediksi."
+          },
+          {
+            "id": "D",
+            "text": "Menggantikan seluruh asesmen keterampilan praktik bengkel sepanjang tahun."
+          },
+          {
+            "id": "E",
+            "text": "Mengubah demonstrasi guru dari tontonan pasif menjadi penyelidikan konseptual aktif."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "E"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Konsep Inti (Strategi POE — White & Gunstone): POE mengaktifkan skema awal (A), memfokuskan observasi bukti (B), membangun rekonstruksi konsep saat anomali muncul (C), dan menjadikan demonstrasi interaktif/aktif (E), meski tetap melengkapi—bukan menghapus—praktik langsung (D salah).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q065",
+        "number": 65,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin 2 (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam membangun ekosistem kolaborasi sekolah yang mendukung keselamatan dan mutu bengkel Teknik Mesin (Kompetensi Sosial S.2), bentuk kerja sama yang tepat meliputi ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Berkolaborasi dengan teknisi/toolman bengkel dalam kalibrasi alat ukur, inventarisasi APD, dan jadwal perawatan preventif mesin."
+          },
+          {
+            "id": "B",
+            "text": "Bekerja sama dengan guru BK dan wali kelas untuk mendampingi murid yang mengalami kesulitan adaptasi atau kecemasan saat praktik mesin."
+          },
+          {
+            "id": "C",
+            "text": "Melibatkan praktisi industri/DUDI dalam penyelarasan SOP K3, uji kompetensi keahlian (UKK), dan pembekalan PKL."
+          },
+          {
+            "id": "D",
+            "text": "Menolak masukan dari kepala bengkel atau teknisi karena urusan mesin dianggap hak pribadi guru pengampu."
+          },
+          {
+            "id": "E",
+            "text": "Menjalin komunikasi terbuka dengan orang tua terkait perkembangan kompetensi praktik dan kedisiplinan K3 anak."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "E"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Konsep Inti (Kolaborasi Ekosistem Sekolah — S.2): Mutu pembelajaran bengkel membutuhkan sinergi internal (toolman/teknisi A, BK/wali kelas B) dan eksternal (DUDI C, orang tua E), bukan sikap tertutup/ego sektoral (D).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q066",
+        "number": 66,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin 2 (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pada materi 'Perlakuan Panas (Heat Treatment)' dan 'Pengujian Material', beberapa murid mengutip video media sosial yang mengklaim bahwa 'semua jenis besi/baja dapat dikeraskan hingga sekeras mata bor cukup dengan dipanaskan di kompor lalu dicelup oli bekas'. Tindakan guru untuk melatih literasi informasi dan penalaran ilmiah murid adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Mengajak murid memeriksa klaim tersebut terhadap konsep kadar karbon baja (baja karbon rendah < 0,25% C tidak signifikan mengeras melalui quenching biasa) dan suhu austenitisasi."
+          },
+          {
+            "id": "B",
+            "text": "Membimbing murid membandingkan informasi video viral dengan buku referensi metalurgi atau standar ASM/SNI."
+          },
+          {
+            "id": "C",
+            "text": "Menjelaskan risiko bahaya kebakaran dan asap beracun dari pencelupan logam panas ke oli bekas tanpa prosedur K3."
+          },
+          {
+            "id": "D",
+            "text": "Membenarkan klaim video tersebut karena memiliki ratusan ribu tanda suka (likes)."
+          },
+          {
+            "id": "E",
+            "text": "Melarang murid menggunakan internet sama sekali untuk mencari referensi teknik mesin."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Konsep Inti (Literasi Ilmiah-Digital & PCK Material — P.4, PF.2): Guru melatih verifikasi klaim berdasarkan prinsip ilmiah (kadar karbon & fasa austenit — A), rujukan kredibel (B), serta kesadaran K3 (C). Popularitas media sosial (D) bukan bukti ilmiah, dan pelarangan total internet (E) tidak mendidik literasi digital.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q067",
+        "number": 67,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin 2 (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Saat menyusun modul ajar berbasis proyek pembuatan komponen roda gigi lurus (spur gear) di mesin frais dengan kepala pembagi (dividing head), langkah perencanaan guru yang sesuai prinsip konstruktif dan keselamatan adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Memastikan murid menguasai perhitungan rasio pembagian (n = 40/Z) dan pemilihan nomor pisau modul sebelum menyentuh mesin frais."
+          },
+          {
+            "id": "B",
+            "text": "Menyediakan lembar verifikasi pemeriksaan persiapan (pemasangan arbor, piring pembagi, gunting sektor, dan pencekaman benda kerja) sebelum mesin dinyalakan."
+          },
+          {
+            "id": "C",
+            "text": "Menjadwalkan sesi umpan balik formatif pada pemotongan gigi pertama untuk mengecek kedalaman dan jarak antar-gigi sebelum melanjutkan seluruh keliling."
+          },
+          {
+            "id": "D",
+            "text": "Langsung menyuruh murid memotong seluruh 30 gigi sekaligus tanpa pengecekan awal agar hemat waktu."
+          },
+          {
+            "id": "E",
+            "text": "Menyediakan rubrik penilaian yang transparan mencakup ketepatan profil gigi, prosedur pembagian, K3, dan kerapian 5R."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "E"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Konsep Inti (Perencanaan Praktik Pemesinan Presisi & Asesmen Formatif): Pengecekan konsep prasyarat (A), daftar cek keselamatan persiapan (B), verifikasi formatif pada gigi pertama untuk mencegah cacat massal (C), dan rubrik transparan (E) merupakan praktik PCK terbaik.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q068",
+        "number": 68,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin 2 (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Manakah praktik guru yang mencerminkan pola pikir bertumbuh (growth mindset) dan pengembangan keprofesian berkelanjutan (K.2 & S.3) di bidang Teknik Mesin?"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Mencatat jurnal refleksi pasca-praktikum tentang jenis kesalahan pengukuran yang paling sering muncul untuk perbaikan modul ajar berikutnya."
+          },
+          {
+            "id": "B",
+            "text": "Aktif berbagi perangkat ajar, jobsheet, dan melakukan lesson study bersama rekan di komunitas belajar / MGMP Teknik Mesin."
+          },
+          {
+            "id": "C",
+            "text": "Mengikuti pelatihan magang guru (upskilling/reskilling) di industri manufaktur modern untuk memperbarui kompetensi CNC dan CAD/CAM."
+          },
+          {
+            "id": "D",
+            "text": "Terbuka menerima masukan konstruktif dari kepala sekolah saat supervisi kelas bengkel."
+          },
+          {
+            "id": "E",
+            "text": "Mempertahankan diktat dan metode mengajar 20 tahun lalu tanpa perubahan karena merasa sudah sangat berpengalaman."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Konsep Inti (Growth Mindset & PKB — K.2, S.3, PF.5): Refleksi rutin (A), kolaborasi MGMP/lesson study (B), upskilling industri (C), dan keterbukaan terhadap supervisi (D) mencerminkan growth mindset, sedangkan stagnasi (E) mencerminkan fixed mindset.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q069",
+        "number": 69,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin 2 (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Ketika seorang murid menyalin mentah-mentah file gambar 3D CAD milik teman sekelasnya lalu mengganti nama pada kolom etiket (title block) untuk dikumpulkan sebagai tugas proyek individu, tindakan etis dan edukatif guru yang tepat adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Melakukan klarifikasi secara personal dan objektif dengan memeriksa riwayat fitur (feature tree) dan meminta murid menjelaskan proses pembuatannya."
+          },
+          {
+            "id": "B",
+            "text": "Menegaskan nilai integritas akademik dan etika profesi keteknikan bahwa plagiarisme desain melanggar kode etik rekayasa."
+          },
+          {
+            "id": "C",
+            "text": "Memberikan konsekuensi penilaian sesuai aturan rubrik disertai tugas pengganti/perbaikan terarah agar murid benar-benar menguasai kompetensi pemodelan CAD."
+          },
+          {
+            "id": "D",
+            "text": "Membiarkannya lulus dengan nilai penuh karena tidak ingin membuat suasana kelas canggung."
+          },
+          {
+            "id": "E",
+            "text": "Menyebarkan nama murid tersebut di media sosial sekolah sebagai bentuk sanksi sosial."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Konsep Inti (Integritas Akademik & Pembinaan Bermartabat — K.1, K.3): Guru memverifikasi bukti objektif secara privat (A), mendidik etika profesi rekayasa (B), dan memberi konsekuensi adil + kesempatan belajar ulang (C), tanpa membiarkan kecurangan (D) atau mempermalukan di publik (E).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q070",
+        "number": 70,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin 2 (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam pembelajaran 'Sistem Transmisi Roda Gigi dan Sabuk', guru menggunakan berbagai model belajar untuk mengakomodasi perbedaan gaya belajar dan kesiapan murid. Aktivitas yang menunjukkan penguatan pemahaman konseptual (bukan sekadar hafalan rumus) adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Meminta murid memutar langsung rangkaian dua roda gigi nyata berjumlah gigi berbeda untuk menghitung perbandingan putaran dan arah putarnya."
+          },
+          {
+            "id": "B",
+            "text": "Menugaskan murid menganalisis kapan transmisi sabuk-V lebih tepat dipilih dibanding transmisi roda gigi (jarak poros jauh, redaman kejut, risiko slip)."
+          },
+          {
+            "id": "C",
+            "text": "Mengajak murid memprediksi perubahan torsi dan kecepatan putar ketika diameter puli penggerak diperbesar dua kali lipat, lalu mengujinya pada trainer."
+          },
+          {
+            "id": "D",
+            "text": "Meminta murid menghafalkan definisi 15 jenis roda gigi tanpa melihat gambar atau benda nyata."
+          },
+          {
+            "id": "E",
+            "text": "Memberikan soal pengulangan perkalian perbandingan angka tanpa konteks arah putar atau torsi."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Konsep Inti (Pemahaman Konseptual Elemen Mesin — P.1, PF.2): Pengamatan langsung (A), analisis pemilihan berbasis fungsi teknis (B), dan prediksi-uji hubungan torsi vs kecepatan (C) membangun pemahaman mendalam dibanding hafalan mekanis (D, E).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q071",
+        "number": 71,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin 2 (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Sebagai penanggung jawab bengkel pemesinan, pengelolaan limbah dan kepedulian lingkungan (Green Workshop / Berakhlak kepada Alam) yang tepat diajarkan kepada murid meliputi ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Memilah beram (gram) logam berdasarkan jenis materialnya (baja, aluminium, kuningan) ke wadah terpisah agar mudah didaur ulang."
+          },
+          {
+            "id": "B",
+            "text": "Mengumpulkan limbah cairan pendingin (coolant) bekas dan oli pelumas bekas dalam jeriken tertutup berlabel limbah B3 untuk diserahkan ke pengelola berizin."
+          },
+          {
+            "id": "C",
+            "text": "Mengajarkan penggunaan kuas dan pengait beram (chip hook) saat membersihkan mesin, bukan meniupkan udara bertekanan langsung ke wajah/lantai sembarangan."
+          },
+          {
+            "id": "D",
+            "text": "Membuang sisa cairan pendingin dan oli bekas langsung ke saluran selokan air di belakang bengkel."
+          },
+          {
+            "id": "E",
+            "text": "Mengoptimalkan tata letak pemotongan bahan (nesting) pada pelat logam guna meminimalkan sisa potongan (scrap)."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "E"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Konsep Inti (Pengelolaan Limbah Bengkel & Green Manufacturing — PF.5): Pemilahan logam daur ulang (A), penampungan oli/coolant B3 (B), pembersihan beram aman (C), dan efisiensi bahan/nesting (E) adalah standar bengkel ramah lingkungan. Membuang oli/coolant ke selokan (D) mencemari lingkungan.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q072",
+        "number": 72,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin 2 (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pada pembelajaran asesmen diri dan antarteman (peer assessment) dalam praktik pemeriksaan kualitas produk bengkel, langkah guru agar peer assessment berjalan objektif dan mendidik adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menyediakan lembar ceklis/rubrik inspeksi QC yang memuat standar ukuran, toleransi, dan kriteria visual secara jelas."
+          },
+          {
+            "id": "B",
+            "text": "Melatih murid terlebih dahulu cara mengukur secara konsisten dan cara memberikan umpan balik yang santun serta berbasis data."
+          },
+          {
+            "id": "C",
+            "text": "Tetap melakukan verifikasi dan moderasi guru agar penilaian akhir tetap akurat dan adil."
+          },
+          {
+            "id": "D",
+            "text": "Menyerahkan 100% nilai rapor akhir kepada hasil penilaian teman tanpa pengecekan guru."
+          },
+          {
+            "id": "E",
+            "text": "Mendorong murid mendiskusikan temuan perbedaan hasil ukur untuk menemukan sumber kesalahan pengukuran."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "E"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Konsep Inti (Peer Assessment / Assessment as Learning — P.6): Peer assessment efektif bila didukung rubrik jelas (A), pembekalan cara memberi feedback santun berbasis bukti (B), diskusi kalibrasi temuan (E), serta verifikasi guru untuk keadilan nilai akhir (C, bukan lepas tangan seperti D).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q073",
+        "number": 73,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin 2 (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Seorang murid sering menyelesaikan pekerjaan bubut lebih cepat dari teman-temannya, tetapi kerap terburu-buru hingga lupa mematikan mesin saat mengukur benda kerja. Intervensi pedagogis dan K3 yang tepat adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menghentikan segera tindakan berbahaya tersebut dan menegaskan aturan mutlak bahwa pengukuran pada mesin bubut hanya boleh dilakukan saat spindel berhenti total."
+          },
+          {
+            "id": "B",
+            "text": "Menjelaskan risiko nyata cedera tangan dan kerusakan alat ukur apabila rahang jangka sorong tersangkut benda yang berputar."
+          },
+          {
+            "id": "C",
+            "text": "Menyesuaikan rubrik dan budaya kelas agar ketepatan prosedur K3 dan akurasi kualitas lebih dihargai daripada sekadar kecepatan selesai."
+          },
+          {
+            "id": "D",
+            "text": "Memberi pujian atas kecepatannya dan mengabaikan pelanggaran K3 tersebut agar motivasinya tidak turun."
+          },
+          {
+            "id": "E",
+            "text": "Memberikan tantangan pengayaan pada kualitas kehalusan permukaan dan ketelitian toleransi agar energinya tersalurkan secara positif dan aman."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "E"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Konsep Inti (Manajemen Keselamatan & Pengayaan — K3, P.2, P.6): Mengukur benda berputar adalah pelanggaran K3 berat yang harus dihentikan segera (A) dengan penjelasan rasional risiko (B), koreksi budaya penghargaan kualitas/K3 dibanding kecepatan (C), dan penyaluran kelebihan kemampuan ke tantangan presisi (E).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q074",
+        "number": 74,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin 2 (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam menerapkan sembilan peristiwa instruksional Robert Gagné pada topik 'Pembacaan Simbol Kekasaran Permukaan (Ra) pada Gambar Teknik', pasangan tahap dan aktivitas yang TEPAT adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Gaining attention: membandingkan dua permukaan poros (kasar vs halus seperti cermin) dan menanyakan pengaruhnya pada keausan seal oli."
+          },
+          {
+            "id": "B",
+            "text": "Informing learners of the objective: menyampaikan target bahwa murid mampu membaca simbol Ra dan memilih proses pemesinan yang sesuai."
+          },
+          {
+            "id": "C",
+            "text": "Providing learning guidance: memberikan panduan membaca arti tiap bagian simbol kekasaran beserta contoh tabel nilai Ra tiap proses mesin."
+          },
+          {
+            "id": "D",
+            "text": "Eliciting performance: meminta murid menentukan simbol kekasaran yang tepat untuk beberapa kasus komponen mesin secara mandiri/berkelompok."
+          },
+          {
+            "id": "E",
+            "text": "Enhancing retention and transfer: mengakhiri pelajaran langsung setelah membaca definisi tanpa contoh penerapan baru."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Konsep Inti (9 Events of Instruction — Robert Gagné): A, B, C, dan D menunjukkan penerapan tepat tahap perhatian, penyampaian tujuan, bimbingan belajar, dan unjuk kerja. Opsi E keliru karena tahap retention and transfer justru menuntut aplikasi ke konteks/kasus baru.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q075",
+        "number": 75,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin 2 (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pada praktikum kelistrikan dasar/motor listrik penggerak mesin perkakas, guru ingin memastikan keamanan sekaligus pemahaman konseptual. Praktik PCK yang benar meliputi ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Memastikan kondisi tangan dan area lantai kering serta alat ukur multimeter terkalibrasi pada skala pengukuran yang sesuai sebelum pengujian."
+          },
+          {
+            "id": "B",
+            "text": "Menggunakan trainer tegangan aman atau simulasi terlebih dahulu saat murid baru mengenal rangkaian kontrol kontaktor (DOL/Forward-Reverse)."
+          },
+          {
+            "id": "C",
+            "text": "Melatih murid membaca diagram pengawatan (wiring diagram) dan memeriksa kontinuitas rangkaian sebelum sumber daya dihubungkan (cold check)."
+          },
+          {
+            "id": "D",
+            "text": "Mengizinkan murid menyambung kabel motor 3 fasa langsung dalam keadaan tegangan hidup agar lebih realistis."
+          },
+          {
+            "id": "E",
+            "text": "Menjelaskan fungsi komponen pengaman seperti MCB, thermal overload relay (TOR), dan tombol emergency stop."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "E"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Konsep Inti (K3 Kelistrikan Mesin & PCK Kontrol Motor): Area kering & setelan ukur tepat (A), trainer/simulasi bertahap (B), pengecekan dingin sebelum bertegangan (C), dan pemahaman proteksi MCB/TOR/emergency (E) adalah standar keselamatan. Bekerja pada tegangan hidup 3 fasa di bengkel sekolah (D) membahayakan nyawa.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q076",
+        "number": 76,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin 2 (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Guru menemukan bahwa pada saat diskusi kelas teori Teknologi Mekanik, banyak murid mengantuk dan tidak fokus karena materi disampaikan satu arah dengan teks padat. Strategi pembelajaran aktif (active learning) yang tepat untuk memperbaiki situasi tersebut adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menerapkan Think–Pair–Share menggunakan studi kasus kerusakan komponen mesin nyata."
+          },
+          {
+            "id": "B",
+            "text": "Menggunakan metode Jigsaw di mana tiap kelompok ahli membedah satu jenis proses pemesinan (bubut, frais, sekrap, gerinda) lalu saling mengajarkan."
+          },
+          {
+            "id": "C",
+            "text": "Menyelipkan demonstrasi singkat komponen rusak (bantalan aus, pahat patah, las cacat) untuk dianalisis bersama."
+          },
+          {
+            "id": "D",
+            "text": "Mempercepat pembacaan salindia teks agar materi lebih cepat habis tanpa tanya jawab."
+          },
+          {
+            "id": "E",
+            "text": "Menggunakan polling/kuis interaktif singkat di tengah sesi untuk mengecek pemahaman secara real-time."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "E"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Konsep Inti (Strategi Pembelajaran Aktif — P.1, P.3): Think-Pair-Share (A), Jigsaw (B), analisis benda nyata (C), dan cek pemahaman interaktif (E) mendorong keterlibatan kognitif dan sosial aktif murid, bukan ceramah satu arah (D).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q077",
+        "number": 77,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin 2 (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Ketika menyusun portofolio praktik peserta didik selama satu semester di jurusan Teknik Mesin, bukti-bukti autentik yang bernilai tinggi untuk dimasukkan dalam portofolio antara lain ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Gambar kerja/CAD buatan murid lengkap dengan revisinya."
+          },
+          {
+            "id": "B",
+            "text": "Lembar perencanaan proses kerja (operation plan) dan perhitungan parameter pemotongan."
+          },
+          {
+            "id": "C",
+            "text": "Lembar inspeksi dimensi (QC report) beserta dokumentasi foto hasil benda kerja."
+          },
+          {
+            "id": "D",
+            "text": "Jurnal refleksi perkembangan keterampilan, kesalahan yang pernah terjadi, dan strategi perbaikan yang diterapkan."
+          },
+          {
+            "id": "E",
+            "text": "Kumpulan fotokopi bab buku teks tanpa catatan analisis atau karya pribadi murid."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Konsep Inti (Asesmen Portofolio — P.6): Portofolio autentik merekam proses, produk, dan pertumbuhan belajar murid (gambar kerja & revisi A, rencana proses B, laporan QC & bukti produk C, serta jurnal refleksi D), bukan sekadar fotokopi buku (E).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q078",
+        "number": 78,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin 2 (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam menangani perbedaan kecepatan belajar pada praktik pembuatan komponen dengan mesin sekrap/frais, tindakan guru yang sesuai dengan prinsip keadilan belajar (equity) adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menetapkan standar capaian kompetensi minimum dan standar keselamatan K3 yang sama bagi seluruh murid."
+          },
+          {
+            "id": "B",
+            "text": "Menyediakan tambahan waktu latihan terstruktur atau video panduan akses mandiri bagi murid yang membutuhkan penguatan."
+          },
+          {
+            "id": "C",
+            "text": "Memberikan variasi bantuan (scaffolding) sesuai hasil pengamatan diagnostik tiap murid."
+          },
+          {
+            "id": "D",
+            "text": "Menuntut semua murid mencapai ketuntasan dengan cara, media, dan durasi bantuan yang persis seragam tanpa melihat hambatan individu."
+          },
+          {
+            "id": "E",
+            "text": "Memfasilitasi proyek perluasan/tantangan presisi tambahan bagi murid yang telah tuntas lebih awal."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "E"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Konsep Inti (Keadilan Belajar / Equity vs Equality — P.2): Keadilan belajar berarti menjaga standar kompetensi & K3 yang sama (A) sambil menyesuaikan dukungan (B, C) dan tantangan (E) sesuai kebutuhan individu — bukan menyeragamkan perlakuan secara kaku (D).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q079",
+        "number": 79,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin 2 (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Guru Teknik Mesin mendampingi tim siswa mengikuti Lomba Kompetensi Siswa (LKS) bidang CNC Turning. Praktik pembimbingan yang profesional, etis, dan berorientasi pengembangan potensi murid (K.1, K.3, PF.5) meliputi ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Melatih siswa merancang strategi pemesinan, menulis program, dan melakukan troubleshooting secara mandiri sesuai kisi-kisi lomba."
+          },
+          {
+            "id": "B",
+            "text": "Menjadikan pengalaman persiapan LKS sebagai sarana menularkan praktik baik dan standar presisi ke seluruh kelas, bukan hanya bagi satu siswa."
+          },
+          {
+            "id": "C",
+            "text": "Menjaga keseimbangan jadwal latihan lomba agar kesehatan fisik, mental, dan capaian mata pelajaran lain siswa tetap terjaga."
+          },
+          {
+            "id": "D",
+            "text": "Memprogramkan dan mengerjakan diam-diam benda kerja latihan atas nama siswa demi menjamin medali emas."
+          },
+          {
+            "id": "E",
+            "text": "Mengajak siswa melakukan refleksi setelah simulasi waktu lomba untuk memperbaiki akurasi dan manajemen waktu."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "E"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Konsep Inti (Pembinaan Potensi & Etika Profesi — K.1, K.3, PF.5): Pembinaan etis menumbuhkan kemandirian siswa (A), menyebarkan dampak positif ke kelas (B), menjaga kesejahteraan holistik siswa (C), dan melatih refleksi (E). Mengambil alih karya siswa (D) melanggar integritas.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q080",
+        "number": 80,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin 2 (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Untuk mengevaluasi efektivitas pembelajaran praktik Teknik Mesin secara menyeluruh pada akhir semester (PF.5 & P.6), sumber data reflektif yang tepat dimanfaatkan guru adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Perbandingan hasil asesmen awal (diagnostik) dengan hasil uji kompetensi kinerja akhir murid."
+          },
+          {
+            "id": "B",
+            "text": "Catatan insiden/hampir celaka (near-miss) K3 serta tingkat kepatuhan budaya 5R selama semester berlangsung."
+          },
+          {
+            "id": "C",
+            "text": "Umpan balik anonim dari murid mengenai kejelasan jobsheet, demonstrasi guru, dan kenyamanan iklim belajar bengkel."
+          },
+          {
+            "id": "D",
+            "text": "Masukan dari mitra DUDI atau guru pembimbing PKL terkait kesiapan keterampilan kerja lulusan/peserta magang."
+          },
+          {
+            "id": "E",
+            "text": "Hanya mengandalkan perasaan pribadi guru bahwa pembelajaran sudah berjalan baik tanpa melihat data."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Konsep Inti (Evaluasi Reflektif Berbasis Data — PF.5, K.2, P.6): Refleksi profesional yang valid memadukan triangulasi data empiris: progres capaian (A), rekam K3/5R (B), suara murid (C), dan umpan balik DUDI (D), bukan sekadar asumsi subjektif (E).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q081",
+        "number": 81,
+        "type": "essay",
+        "section": "PCK Teknik Mesin 2 (Esai)",
+        "formatLabel": "Uraian",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Di kelas XI Teknik Pemesinan SMK, guru melaksanakan pembelajaran proyek berbasis Teaching Factory (TeFa) untuk memproduksi 20 unit poros pemegang pisau (arbor sederhana) dengan spesifikasi toleransi diameter Ø25 h7 (+0,000 / -0,021 mm) menggunakan mesin bubut konvensional dan mesin frais.\n\nBerdasarkan asesmen diagnostik awal, terdapat keragaman kemampuan yang tajam: 6 murid sudah sangat mahir membaca gambar kerja dan menggunakan mikrometer, 12 murid mampu mengoperasikan mesin namun masih sering salah menetapkan parameter putaran spindel (n) serta kedalaman pemakanan finishing sehingga ukuran kerap meleset di bawah toleransi (undersize), sedangkan 6 murid lainnya masih ragu-ragu membaca skala mikrometer dan takut menyalakan mesin karena khawatir merusak benda kerja.\n\nPertanyaan:\nBagaimana Anda merancang strategi pembelajaran yang mengintegrasikan prinsip Teaching Factory, pembelajaran berdiferensiasi (atau TaRL), serta minimal dua teori belajar PPG yang relevan agar seluruh 24 murid mencapai standar kompetensi dengan aman (K3) dan bermakna?"
+          }
+        ],
+        "correctAnswer": "",
+        "explanation": "Contoh Jawaban Ideal:\n1. Analisis Permasalahan & Tujuan (UbD): Masalah utama mencakup kesenjangan kesiapan metrologi (6 murid), miskonsepsi/kesalahan teknis parameter potong & finishing (12 murid), serta kebutuhan tantangan bagi murid mahir (6 murid), di tengah tuntutan standar toleransi presisi TeFa (Ø25 h7).\n\n2. Integrasi Teori Belajar PPG:\n- Teori Sosiokultural Vygotsky (ZPD & Scaffolding): Murid dikelompokkan berdasarkan kesiapan aktual (prinsip TaRL) dan dibimbing sesuai ZPD-nya. Kelompok pemula (6 murid) mendapat scaffolding intensif berupa latihan membaca mikrometer menggunakan benda kalibrasi, demonstrasi ulang K3, serta panduan ceklis langkah penyetelan mesin sebelum beralih ke pemotongan mandiri; bantuan dikurangi bertahap (fading).\n- Teori Belajar Sosial Bandura (Modeling & Self-Efficacy) dan Humanisme (Maslow/Rogers): Membangun keamanan psikologis bebas ejekan bagi 6 murid yang takut mesin, memodelkan prosedur K3 & pembubutan finishing secara jelas (atensi–retensi–reproduksi), dan memasangkan murid mahir sebagai MKO/mentor sebaya pada stasiun inspeksi.\n- Teori Belajar Bermakna Ausubel / Konstruktivisme: Bagi 12 murid yang sering undersize, guru menyajikan pengait konsep (advance organizer) hubungan antara kecepatan potong, pemakanan finishing tipis, defleksi benda kerja, dan pengukuran bertahap (test cut) sebelum pemakanan akhir.\n\n3. Strategi Diferensiasi & Alur TeFa (Station Rotation):\n- Mengatur 3 stasiun kerja berotasi (Stasiun Persiapan & Metrologi QC, Stasiun Pemesinan Bubut/Frais, Stasiun Analisis Parameter & Gambar Kerja) agar aman K3 dan semua murid aktif.\n- Diferensiasi proses: panduan ceklis bertahap bagi pemula, latihan kontrol test-cut bagi kelompok menengah, dan tantangan pengayaan sebagai koordinator QC/verifikasi toleransi serta optimasi waktu siklus bagi 6 murid mahir.\n\n4. Asesmen Autentik & Refleksi:\n- Menggunakan rubrik kinerja analitik mencakup K3 & 5R, ketepatan prosedur, akurasi pengukuran mikrometer, ketepatan toleransi produk, dan jurnal refleksi metakognitif (Assessment as Learning) di akhir sesi.\n\nKata Kunci / Rubrik Penilaian:\nAsesmen diagnostik – TaRL/diferensiasi konten/proses – Vygotsky (ZPD & scaffolding bertahap) – Bandura (modeling) / Ausubel / Humanistik (keamanan psikologis) – standar mutu & alur TeFa (SOP, QC, toleransi h7, 5R) – manajemen bengkel/station rotation – K3 – rubrik kinerja analitik & refleksi.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-2-q082",
+        "number": 82,
+        "type": "essay",
+        "section": "PCK Teknik Mesin 2 (Esai)",
+        "formatLabel": "Uraian",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pada pembelajaran CNC Turning di kelas XII Teknik Mesin, sebagian murid menggunakan aplikasi AI generatif di ponsel untuk membuat kode program G-code pembuatan poros bertingkat dan tirus, lalu ingin langsung memasukkan file tersebut ke kontroler mesin CNC tanpa pemeriksaan manual maupun simulasi grafis. Selain itu, seorang murid terlihat membuka pintu pelindung mesin (safety interlock) sambil mencoba membersihkan beram di sekitar turret menggunakan tangan kosong saat mesin dalam mode jeda program (feed hold), bukan posisi mati total (emergency/LOTO).\n\nPertanyaan:\nSebagai guru Teknik Mesin, bagaimana langkah segera dan strategi pembelajaran jangka menengah yang Anda lakukan untuk menangani persoalan keselamatan kerja (K3/LOTO) sekaligus membangun literasi digital kritis dan integritas akademik murid terhadap penggunaan teknologi/AI?"
+          }
+        ],
+        "correctAnswer": "",
+        "explanation": "Contoh Jawaban Ideal:\n1. Tindakan Segera (Prioritas K3 & Keselamatan):\n- Segera menghentikan aktivitas berbahaya tersebut: menekan tombol Emergency Stop / memastikan mesin dalam status berhenti aman (spindle stop & isolasi daya jika melakukan pembersihan/perawatan dalam area kerja).\n- Mengarahkan seluruh murid menjauh sejenak dari area berbahaya dan menegaskan aturan mutlak K3 CNC: pintu pelindung (safety interlock) tidak boleh dimanipulasi/dibuka saat mesin aktif atau sekadar feed hold, dan pembersihan beram wajib menggunakan kuas/chip hook setelah mesin benar-benar berhenti dan terkunci aman (prinsip LOTO saat perbaikan/penyetelan mendalam).\n- Menghentikan eksekusi langsung file G-code buatan AI sebelum melewati verifikasi.\n\n2. Penanganan Pedagogis & Penguatan K3 (Teori Bandura & Skinner):\n- Menggunakan kejadian tersebut sebagai momen refleksi kolektif tanpa mempermalukan individu (menjaga keamanan psikologis), memodelkan ulang SOP K3 CNC dan prosedur dry run / single block (Bandura).\n- Memberikan penguatan positif (Skinner) pada kebiasaan pengecekan K3 & 5R serta mewajibkan tanda tangan verifikasi keselamatan sebelum eksekusi program.\n\n3. Literasi Digital Kritis & Integritas Penggunaan AI (TPACK/SAMR & Etika Akademik):\n- Menetapkan pedoman etis penggunaan AI: AI hanya boleh sebagai mitra belajar/referensi sintaks, bukan pengganti pemahaman koordinat X–Z, G90/G91, kompensasi pahat, dan batas aman chuck.\n- Menerapkan alur verifikasi wajib sebelum ke mesin nyata: (a) baca & jelaskan fungsi tiap blok G-code (lisan/komentar kode), (b) uji simulasi grafis/backplot pada simulator CAD/CAM untuk mendeteksi potensi collision, (c) lakukan dry run di atas benda kerja dengan kecepatan rendah (single block) bersama pengawasan guru.\n- Penilaian dilakukan melalui rubrik yang menilai pemahaman logika program (tanya jawab verifikasi), keberhasilan simulasi bebas tabrakan, kepatuhan K3, serta refleksi perbaikan.\n\nKata Kunci / Rubrik Penilaian:\nHentikan segera / Emergency Stop – larangan manipulasi safety interlock – perbedaan feed hold vs kondisi mati total/LOTO – alat bantu pembersih beram (kuas/chip hook) – etika & literasi digital AI – verifikasi manual G-code – simulasi grafis/collision check – dry run & single block – pendekatan Bandura/Skinner/reflektif – asesmen pemahaman & K3.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      }
+    ]
+  },
+  {
+    "id": "teknik-mesin-to-3",
+    "title": "Tryout UTBK/PCK Teknik Mesin 3",
+    "description": "Latihan 82 soal UKPPPG Pendidikan Teknik Mesin versi 3 (40 PG, 25 PGK MCMA, 15 PGK Kategori, dan 2 Esai) berstandar HOTS, UbD, Deep Learning, dan pembahasan komplit.",
+    "durationMinutes": 150,
+    "category": "prodi",
+    "programId": "teknik-mesin",
+    "groupLabel": "Teknik Mesin",
+    "source": "Paket Latihan PCK UKPPPG Teknik Mesin 3 (PPG Calon Guru)",
+    "sourcePageCount": 1,
+    "questions": [
+      {
+        "id": "teknik-mesin-to-3-q001",
+        "number": 1,
+        "type": "single",
+        "section": "PCK Teknik Mesin 3 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam pembelajaran pengelasan GMAW (MIG/MAG) di kelas XI, banyak murid beranggapan bahwa meningkatkan aliran gas pelindung (shielding gas) setinggi mungkin selalu membuat sambungan las semakin bersih bebas porositas. Padahal aliran gas yang terlalu deras justru menimbulkan turbulensi yang menyedot udara luar ke dalam kawah las. Strategi konflik kognitif (Piaget) yang paling efektif untuk meluruskan miskonsepsi tersebut adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Memfasilitasi uji perbandingan las pelat pada tiga setelan debit gas (terlalu rendah, optimal sesuai WPS, dan terlalu tinggi) lalu mengajak murid memeriksa porositas dan menyimpulkan hubungan aliran laminar vs turbulen."
+          },
+          {
+            "id": "B",
+            "text": "Menugaskan murid menghafalkan tabel tekanan gas CO₂ dan Argon dari buku manual sepanjang 40 menit."
+          },
+          {
+            "id": "C",
+            "text": "Mengurangi nilai praktik murid yang masih menyetel regulator gas terlalu tinggi tanpa penjelasan."
+          },
+          {
+            "id": "D",
+            "text": "Menghapus pengaturan regulator gas dari kompetensi murid dan menyerahkannya sepenuhnya kepada teknisi bengkel."
+          },
+          {
+            "id": "E",
+            "text": "Menjelaskan secara lisan bahwa aliran terlalu tinggi buruk tanpa memperlihatkan perbandingan hasil las."
+          }
+        ],
+        "correctAnswer": "A",
+        "explanation": "Konsep Inti (Konflik Kognitif / Akomodasi Piaget & PCK Pengelasan GMAW): Skema keliru murid ('makin besar gas makin bersih') diuji langsung melalui data empiris tiga setelan debit gas (A) sehingga terjadi disekuilibrium dan akomodasi konsep menuju pemahaman aliran laminar vs turbulen.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q002",
+        "number": 2,
+        "type": "single",
+        "section": "PCK Teknik Mesin 3 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Guru mengajar materi 'Toleransi Geometris (GD&T): Konsentrisitas dan Kerataan' pada kelas XI Gambar Teknik Manufaktur. Berdasarkan teori belajar bermakna David Ausubel, tindakan awal paling tepat sebelum menjelaskan simbol-simbol kotak kontrol fitur (feature control frame) adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Meminta murid menyalin seluruh 14 simbol GD&T ISO 1101 ke buku catatan sebelum guru berbicara."
+          },
+          {
+            "id": "B",
+            "text": "Menampilkan kerangka konsep besar (advance organizer) tentang mengapa toleransi ukuran linier saja belum cukup menjamin poros tidak bergetar saat berputar kencang, lalu mengaitkannya dengan pengalaman murid pada roda/poros bengkok."
+          },
+          {
+            "id": "C",
+            "text": "Langsung memberikan kuis pilihan ganda tentang sejarah standar ASME Y14.5."
+          },
+          {
+            "id": "D",
+            "text": "Menyuruh murid memasang software CAD terbaru tanpa pengantar konsep toleransi."
+          },
+          {
+            "id": "E",
+            "text": "Memberikan hukuman meringkas bab GD&T bagi murid yang tidak hafal simbol silindrisitas."
+          }
+        ],
+        "correctAnswer": "B",
+        "explanation": "Konsep Inti (Advance Organizer — David Ausubel): Menyajikan kerangka pengait yang menghubungkan keterbatasan toleransi linier dengan fenomena poros bergetar (B) mengaktifkan struktur kognitif awal murid sebelum masuk ke rincian simbol GD&T.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q003",
+        "number": 3,
+        "type": "single",
+        "section": "PCK Teknik Mesin 3 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Saat mengajarkan sistem hidrolik dasar (Hukum Pascal dan perbandingan luas penampang silinder), guru meminta murid terlebih dahulu menekan dua suntikan medis berisi air yang dihubungkan selang dengan diameter berbeda, lalu menggambar skema gaya dan tekanan pada buku kerja, dan akhirnya menyelesaikan perhitungan F₂ = F₁ · (A₂/A₁). Urutan ini menerapkan tahap belajar Jerome Bruner secara utuh, yaitu ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Simbolik → ikonik → enaktif."
+          },
+          {
+            "id": "B",
+            "text": "Asimilasi → akomodasi → ekuilibrasi."
+          },
+          {
+            "id": "C",
+            "text": "Enaktif (manipulasi konkret) → ikonik (representasi gambar/skema) → simbolik (persamaan matematis)."
+          },
+          {
+            "id": "D",
+            "text": "Atensi → retensi → reproduksi → motivasi."
+          },
+          {
+            "id": "E",
+            "text": "Pengalaman konkret → eksperimentasi → hafalan rumus."
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Konsep Inti (Teori Representasi Bruner): Memegang dan menekan suntikan berisi air = enaktif; menggambar skema gaya/tekanan = ikonik; merumuskan serta menghitung persamaan F₂ = F₁ · (A₂/A₁) = simbolik (C). Opsi B adalah Piaget dan D adalah Bandura.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q004",
+        "number": 4,
+        "type": "single",
+        "section": "PCK Teknik Mesin 3 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pada praktik penyetelan ragum mesin frais agar sejajar dengan sumbu meja (dialing the vise), murid A sudah tahu cara membaca jarum Dial Indicator, tetapi masih bingung arah putaran pemukulan palu plastik untuk menolkan penyimpangan ujung ragum. Guru mendampinginya dengan mengajukan pertanyaan arah jarum, mencontohkan setengah langkah, lalu melepaskan murid menyetel ulang hingga penyimpangan ≤ 0,02 mm. Konsep utama teori Lev Vygotsky yang diterapkan adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Pengondisian klasik pada respon motorik."
+          },
+          {
+            "id": "B",
+            "text": "Penghapusan perilaku salah melalui hukuman positif."
+          },
+          {
+            "id": "C",
+            "text": "Belajar tuntas berbasis hafalan prosedur tertulis."
+          },
+          {
+            "id": "D",
+            "text": "Scaffolding dalam Zone of Proximal Development (ZPD) yang dikurangi bertahap hingga murid mandiri."
+          },
+          {
+            "id": "E",
+            "text": "Pembelajaran penemuan murni tanpa arahan guru sama sekali."
+          }
+        ],
+        "correctAnswer": "D",
+        "explanation": "Konsep Inti (ZPD & Scaffolding — Vygotsky): Murid telah memiliki dasar membaca dial indicator namun butuh jembatan bimbingan pada penyesuaian arah ketukan; pemberian petunjuk bertahap lalu dilepas mandiri adalah esensi scaffolding dalam ZPD (D).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q005",
+        "number": 5,
+        "type": "single",
+        "section": "PCK Teknik Mesin 3 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Seorang guru mengamati murid-murid kelas X baru pertama kali mengoperasikan mesin bor duduk (drilling machine). Sebelum praktik, guru mendemonstrasikan pencekaman benda kerja dengan ragum bor, pelepasan kunci kepala bor, penggunaan kacamata keselamatan, dan pengaturan kecepatan spindel sambil menjelaskan konsekuensi keselamatannya. Beberapa murid yang awalnya takut mulai percaya diri mencoba setelah melihat teman sebayanya berhasil melakukannya dengan tenang. Fenomena peningkatan keyakinan diri melalui pengamatan keberhasilan teman sebaya dalam teori Albert Bandura dikenal sebagai ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Extinction."
+          },
+          {
+            "id": "B",
+            "text": "Negative punishment."
+          },
+          {
+            "id": "C",
+            "text": "Advance organizer."
+          },
+          {
+            "id": "D",
+            "text": "Law of Disuse."
+          },
+          {
+            "id": "E",
+            "text": "Vicarious experience (pengalaman vikarius) yang membangun self-efficacy melalui observational learning."
+          }
+        ],
+        "correctAnswer": "E",
+        "explanation": "Konsep Inti (Teori Belajar Sosial Bandura): Mengamati model (guru maupun rekan sebaya) berhasil menjalankan tugas secara aman memberikan pengalaman vikarius (vicarious experience) yang memperkuat keyakinan diri (self-efficacy) murid dalam meniru perilaku tersebut (E).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q006",
+        "number": 6,
+        "type": "single",
+        "section": "PCK Teknik Mesin 3 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Di bengkel CAD/CNC, guru menerapkan sistem 'Checklist Kesiapan Program CNC': setiap murid yang menyelesaikan verifikasi simulasi bebas tabrakan tanpa kesalahan sintaks langsung memperoleh tanda verifikasi 'Siap Mesin' dan apresiasi lisan spesifik di depan kelompoknya. Hasilnya, ketelitian pengecekan kode sebelum ke mesin meningkat drastis. Menurut B.F. Skinner, strategi guru ini adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Positive reinforcement (penguatan positif) yang memperkuat perilaku ketelitian verifikasi."
+          },
+          {
+            "id": "B",
+            "text": "Negative reinforcement karena menghilangkan tugas menggambar CAD."
+          },
+          {
+            "id": "C",
+            "text": "Positive punishment karena menambah beban daftar ceklis."
+          },
+          {
+            "id": "D",
+            "text": "Negative punishment karena menunda akses ke mesin bagi semua murid."
+          },
+          {
+            "id": "E",
+            "text": "Generalisasi stimulus dalam teori Pavlov."
+          }
+        ],
+        "correctAnswer": "A",
+        "explanation": "Konsep Inti (Operant Conditioning Skinner): Pemberian stimulus menyenangkan berupa tanda 'Siap Mesin' dan apresiasi spesifik segera setelah perilaku teliti muncul merupakan positive reinforcement (A) yang meningkatkan frekuensi perilaku tersebut.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q007",
+        "number": 7,
+        "type": "single",
+        "section": "PCK Teknik Mesin 3 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pada tahap ke-8 dari sembilan peristiwa pembelajaran Robert Gagné ('Assessing performance'), aktivitas yang paling tepat dilakukan guru pada akhir modul 'Pembacaan Mikrometer Luar dan Dalam' adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Memutar video kecelakaan industri akibat salah ukuran di awal pertemuan."
+          },
+          {
+            "id": "B",
+            "text": "Melaksanakan uji kinerja objektif di mana setiap murid mengukur 3 komponen poros dan lubang yang belum pernah diukur sebelumnya, lalu dinilai menggunakan rubrik ketelitian dan teknik pegang."
+          },
+          {
+            "id": "C",
+            "text": "Mengingatkan murid kembali tentang satuan milimeter dan sentimeter dari jenjang SMP."
+          },
+          {
+            "id": "D",
+            "text": "Memberikan penjelasan tujuan pembelajaran di papan tulis sebelum praktik dimulai."
+          },
+          {
+            "id": "E",
+            "text": "Memberikan petunjuk cara memutar ratchet stop saat murid sedang berlatih pertama kali."
+          }
+        ],
+        "correctAnswer": "B",
+        "explanation": "Konsep Inti (9 Events of Instruction — Gagné): Tahap ke-8 Assessing performance adalah penilaian unjuk kerja akhir secara objektif tanpa bantuan tambahan untuk memverifikasi ketercapaian tujuan belajar (B). A = tahap 1 (gaining attention), C = tahap 3 (recall prior learning), D = tahap 2 (objectives), E = tahap 5 (learning guidance).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q008",
+        "number": 8,
+        "type": "single",
+        "section": "PCK Teknik Mesin 3 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Guru menerapkan siklus Experiential Learning David Kolb pada praktikum 'Perawatan Sistem Pendingin dan Pelumasan Mesin Bubut'. Setelah murid memeriksa viskositas oli gearbox dan mengalami sendiri kendala pompa coolant tersumbat beram (Concrete Experience), langkah kedua yang paling tepat untuk memfasilitasi tahap Reflective Observation adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Langsung memberikan ujian pilihan ganda mengenai jenis-jenis oli industri."
+          },
+          {
+            "id": "B",
+            "text": "Menyuruh teknisi membersihkan pompa coolant tanpa melibatkan murid."
+          },
+          {
+            "id": "C",
+            "text": "Memandu murid mencatat temuan kondisi saringan, warna/kekentalan cairan, dan berdiskusi mengapa sumbatan serta penurunan aliran coolant bisa terjadi."
+          },
+          {
+            "id": "D",
+            "text": "Meminta murid menyalin spesifikasi mesin dari buku manual pabrik."
+          },
+          {
+            "id": "E",
+            "text": "Meminta murid langsung mengganti seluruh komponen mesin tanpa menganalisis kondisi awalnya."
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Konsep Inti (Experiential Learning Kolb): Setelah Concrete Experience, tahap Reflective Observation berfokus pada meninjau kembali pengalaman, mencatat temuan, dan mendiskusikan apa yang terjadi serta mengapa hal itu terjadi (C) sebelum masuk ke Abstract Conceptualization.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q009",
+        "number": 9,
+        "type": "single",
+        "section": "PCK Teknik Mesin 3 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam perencanaan modul ajar 'Pembuatan Komponen Flange dengan Mesin Bubut & Bor' menggunakan kerangka Understanding by Design (UbD), setelah guru menetapkan tujuan akhir (murid mampu memproduksi flange sesuai toleransi lubang baut dan SOP K3), langkah kedua yang harus disusun guru adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menentukan buku paket penerbit mana yang akan dibagikan."
+          },
+          {
+            "id": "B",
+            "text": "Menyusun urutan kegiatan pemanasan dan pembagian kelompok harian."
+          },
+          {
+            "id": "C",
+            "text": "Memilih merek cairan pendingin yang tersedia di gudang."
+          },
+          {
+            "id": "D",
+            "text": "Menetapkan bukti asesmen yang dapat diterima (misalnya rubrik kinerja pemesinan, lembar QC dimensi jarak pitch lubang, dan lembar verifikasi K3) yang membuktikan tujuan tercapai."
+          },
+          {
+            "id": "E",
+            "text": "Menghitung jumlah jam kosong pada kalender akademik."
+          }
+        ],
+        "correctAnswer": "D",
+        "explanation": "Konsep Inti (Backward Design / UbD): Tahap 1 = Tujuan & pemahaman bermakna; Tahap 2 = Bukti asesmen yang valid & rubrik kinerja (D); Tahap 3 = Merancang pengalaman/aktivitas belajar (B).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q010",
+        "number": 10,
+        "type": "single",
+        "section": "PCK Teknik Mesin 3 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Seorang guru SMK Teknik Mesin menemukan dari asesmen diagnostik awal bahwa dari 30 murid kelas X, terdapat 10 murid yang belum lancar mengonversi pecahan inci ke milimeter dan operasi desimal dasar, padahal keterampilan ini vital untuk membaca ulir Whitworth dan skala vernier. Penerapan Teaching at the Right Level (TaRL) yang paling tepat adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Mengabaikan kesulitan numerasi karena dianggap tanggung jawab mutlak guru Matematika."
+          },
+          {
+            "id": "B",
+            "text": "Menghentikan seluruh mata pelajaran produktif selama dua bulan untuk mengulang Matematika SD."
+          },
+          {
+            "id": "C",
+            "text": "Memberikan 100 soal konversi satuan sebagai hukuman pekerjaan rumah tanpa penjelasan."
+          },
+          {
+            "id": "D",
+            "text": "Menghapus seluruh materi ulir inci dari kurikulum kelas X."
+          },
+          {
+            "id": "E",
+            "text": "Menyisipkan sesi penguatan numerasi terapan kontekstual (bridging) khusus kelompok 10 murid menggunakan mistar perbandingan inci-mm dan tabel bantu bertahap, sementara kelompok yang sudah siap mengerjakan tantangan pembacaan gambar ulir nyata."
+          }
+        ],
+        "correctAnswer": "E",
+        "explanation": "Konsep Inti (TaRL & Bridging Numerasi dalam Vokasi — P.2, PF.3): TaRL memberi penguatan tepat pada level kebutuhan aktual murid melalui konteks nyata teknik (E) tanpa melabeli permanen, mengabaikan hambatan (A), atau membuang kompetensi inti (D).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q011",
+        "number": 11,
+        "type": "single",
+        "section": "PCK Teknik Mesin 3 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Di sebuah SMK yang berada di wilayah pesisir dengan banyak nelayan pengguna mesin perahu motor tempel, guru Teknik Mesin ingin menerapkan Culturally Responsive Teaching (CRT) pada materi 'Korosi Logam dan Pemilihan Material'. Langkah pembelajaran yang paling kontekstual dan bermakna adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Mengajak murid menganalisis kasus nyata korosi pada poros baling-baling dan baut mesin perahu di lingkungan sekitar akibat air laut, membandingkan ketahanan baja karbon vs baja tahan karat/kuningan, lalu merancang rekomendasi perawatan anti-korosi bagi warga."
+          },
+          {
+            "id": "B",
+            "text": "Membahas korosi baja pada jembatan di negara bersalju tanpa pernah mengaitkannya dengan lingkungan pesisir tempat tinggal murid."
+          },
+          {
+            "id": "C",
+            "text": "Meminta murid menghafalkan deret Volta secara mekanis tanpa contoh komponen mesin."
+          },
+          {
+            "id": "D",
+            "text": "Menyatakan bahwa peralatan nelayan lokal terlalu sederhana untuk dijadikan bahan kajian teknik mesin."
+          },
+          {
+            "id": "E",
+            "text": "Memberikan tugas menyalin artikel Wikipedia mengenai karat besi."
+          }
+        ],
+        "correctAnswer": "A",
+        "explanation": "Konsep Inti (CRT & Kearifan/Konteks Lokal — P.5, PF.3): Mengangkat persoalan nyata lingkungan pesisir tempat tinggal murid (korosi poros perahu nelayan) mengaitkan identitas budaya-ekonomi lokal dengan konsep metalurgi dan keteknikan (A).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q012",
+        "number": 12,
+        "type": "single",
+        "section": "PCK Teknik Mesin 3 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pada praktik pengelasan busur listrik (SMAW), guru meminta murid menyalakan mesin las, tetapi seorang murid baru menyadari kabel massa (ground clamp) terkelupas isolasinya dan lantai bengkel sedikit basah di dekat area las. Prinsip K3 prioritas tertinggi yang wajib ditanamkan guru pada situasi ini adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Tetap melanjutkan pengelasan asalkan murid mengenakan sepatu olahraga karet biasa."
+          },
+          {
+            "id": "B",
+            "text": "Menghentikan persiapan praktik di titik tersebut (Stop Work Authority), memutus daya mesin las, melaporkan & mengisolasi kabel rusak untuk diganti/diperbaiki teknisi berwenang, serta mengeringkan area kerja sebelum pengelasan diizinkan."
+          },
+          {
+            "id": "C",
+            "text": "Menutup kabel yang terkelupas sementara dengan lakban kertas agar praktikum tidak tertunda."
+          },
+          {
+            "id": "D",
+            "text": "Meminta murid berdiri di atas kardus tipis saat mengelas di atas lantai basah."
+          },
+          {
+            "id": "E",
+            "text": "Mengurangi arus las sebesar 20 Ampere agar sengatan listrik dianggap tidak terasa."
+          }
+        ],
+        "correctAnswer": "B",
+        "explanation": "Konsep Inti (PCK K3 Pengelasan Listrik): Kabel terkelupas di lantai basah berisiko sengatan listrik fatal (electrocution). Prinsip K3 tidak boleh dikompromikan dengan solusi darurat tak aman (lakban kertas C atau kardus D); aktivitas wajib dihentikan, daya diputus, peralatan diperbaiki sesuai standar, dan lantai dikeringkan (B).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q013",
+        "number": 13,
+        "type": "single",
+        "section": "PCK Teknik Mesin 3 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Seorang murid kelas XII sangat teliti saat mengerjakan tugas proyek CNC, tetapi ketika mempresentasikan laporan analisis waktu pemesinan di depan kelas ia gugup, terbata-bata, dan beberapa teman mulai berbisik menertawakannya. Berdasarkan prinsip Pembelajaran Mendalam (Deep Learning — mindful, meaningful, joyful) dan pengelolaan kelas positif (P.3), tindakan segera guru adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Langsung memotong presentasi murid tersebut dan menyuruhnya duduk agar tidak membuang waktu."
+          },
+          {
+            "id": "B",
+            "text": "Ikut tersenyum sambil mengatakan agar murid tersebut lebih banyak berlatih bicara di rumah."
+          },
+          {
+            "id": "C",
+            "text": "Mengingatkan kelas secara tenang mengenai norma saling menghargai, mengapresiasi ketelitian data teknis yang sudah disusun murid tersebut, dan memberinya waktu sejenak serta pertanyaan pemandu ramah agar ia dapat melanjutkan presentasi dengan percaya diri."
+          },
+          {
+            "id": "D",
+            "text": "Menghukum murid yang berbisik keluar ruangan sepanjang jam pelajaran tanpa dialog."
+          },
+          {
+            "id": "E",
+            "text": "Membatalkan sesi presentasi untuk seluruh kelas dan menggantinya dengan ulangan tertulis."
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Konsep Inti (Keamanan Psikologis & Iklim Belajar Positif — P.3): Guru menegakkan norma saling menghargai dengan tenang, menguatkan sisi kekuatan murid (ketelitian teknis), dan memberi scaffolding komunikasi agar murid tetap merasa aman dan bermartabat (C).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q014",
+        "number": 14,
+        "type": "single",
+        "section": "PCK Teknik Mesin 3 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam merancang pembelajaran 'Sistem Pemeliharaan Mesin (Preventive, Predictive, dan Corrective Maintenance)', guru ingin mengintegrasikan TPACK secara optimal. Contoh pemanfaatan teknologi yang paling mencerminkan perpaduan konten Teknik Mesin, pedagogi aktif, dan teknologi adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menyuruh murid mengetik ulang definisi tiga jenis perawatan di pengolah kata."
+          },
+          {
+            "id": "B",
+            "text": "Menayangkan foto mesin pabrik selama satu jam penuh tanpa lembar analisis."
+          },
+          {
+            "id": "C",
+            "text": "Menggunakan aplikasi pesan singkat hanya untuk mengirim jadwal masuk bengkel."
+          },
+          {
+            "id": "D",
+            "text": "Memanfaatkan aplikasi sensor getaran/suara ponsel atau simulasi kondisi bantalan (bearing fault simulator) untuk mengumpulkan data getaran mesin normal vs aus, lalu membimbing murid menganalisis jadwal predictive maintenance berbasis data."
+          },
+          {
+            "id": "E",
+            "text": "Mengganti seluruh kegiatan inspeksi mesin bengkel dengan menonton video iklan alat pelumas."
+          }
+        ],
+        "correctAnswer": "D",
+        "explanation": "Konsep Inti (TPACK — Technological Pedagogical Content Knowledge): TPACK terwujud ketika teknologi (sensor getaran/simulator) dipadukan dengan strategi inkuiri/analisis data untuk mendalami konten autentik predictive maintenance (D).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q015",
+        "number": 15,
+        "type": "single",
+        "section": "PCK Teknik Mesin 3 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pada praktik mesin frais vertikal, murid harus memilih antara teknik pengefraisan searah (climb milling) dan berlawanan arah (conventional/up milling) pada mesin frais konvensional yang ulir penggerak mejanya (leadscrew) sudah memiliki kelonggaran (backlash) cukup besar. Konsep teknis PCK yang wajib ditekankan guru agar praktik aman dan akurat adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Meminta murid selalu memakai climb milling pada mesin ber-backlash besar agar pemotongan lebih cepat."
+          },
+          {
+            "id": "B",
+            "text": "Membiarkan murid mencoba kedua arah tanpa menjelaskan risiko benda kerja tertarik ke dalam pisau."
+          },
+          {
+            "id": "C",
+            "text": "Menghilangkan pembahasan arah pemakanan karena dianggap tidak berpengaruh pada keselamatan."
+          },
+          {
+            "id": "D",
+            "text": "Mengganti benda kerja dengan plastik lunak setiap kali mesin memiliki backlash."
+          },
+          {
+            "id": "E",
+            "text": "Menjelaskan bahwa pada mesin frais konvensional yang memiliki backlash signifikan, conventional (up) milling lebih aman karena gaya potong melawan arah gerak meja sehingga mencegah benda kerja tiba-tiba tertarik masuk ke pisau dan merusak pisau/mencederai operator."
+          }
+        ],
+        "correctAnswer": "E",
+        "explanation": "Konsep Inti (PCK Pemesinan Frais & Keselamatan): Pada mesin konvensional tanpa ball-screw anti-backlash, climb milling berisiko menarik benda kerja mendadak mengikuti arah putaran pisau sehingga pisau patah atau benda terlempar. Penjelasan rasional tentang backlash dan arah gaya potong (E) menyatukan penguasaan konten teknik dan K3.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q016",
+        "number": 16,
+        "type": "single",
+        "section": "PCK Teknik Mesin 3 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Guru menerapkan Project-Based Learning (PjBL) pembuatan alat bantu (jig) pengeboran pelat secara berkelompok selama 4 minggu. Pada akhir minggu ke-2, hasil pemantauan menunjukkan dua kelompok masih salah memahami cara menentukan datum (bidang referensi) pada gambar jig sehingga posisi lubang berpotensi meleset. Tindakan asesmen formatif terbaik saat itu adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Memberikan umpan balik spesifik berbasis rubrik desain pada draf kedua kelompok, mengajukan pertanyaan pemantik mengenai titik referensi pencekaman, dan membimbing mereka merevisi gambar sebelum tahap fabrikasi dimulai."
+          },
+          {
+            "id": "B",
+            "text": "Menunggu hingga minggu ke-4 saat jig selesai dilas lalu memberi nilai rendah sebagai pelajaran."
+          },
+          {
+            "id": "C",
+            "text": "Langsung menggambar ulang seluruh desain jig untuk kedua kelompok agar jadwal tidak molor."
+          },
+          {
+            "id": "D",
+            "text": "Menghentikan proyek PjBL seluruh kelas dan menggantinya dengan tes pilihan ganda."
+          },
+          {
+            "id": "E",
+            "text": "Memberikan pujian umum 'Bagus, lanjutkan saja ke tahap pemotongan!' agar murid tetap bersemangat."
+          }
+        ],
+        "correctAnswer": "A",
+        "explanation": "Konsep Inti (Asesmen Formatif / Monitoring PjBL — P.6): Intervensi formatif di tengah proyek mencegah kesalahan fatal saat fabrikasi melalui umpan balik spesifik berbasis kriteria dan pertanyaan pemantik agar murid memperbaiki desainnya sendiri (A), bukan mengambil alih (C) atau membiarkan gagal di akhir (B).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q017",
+        "number": 17,
+        "type": "single",
+        "section": "PCK Teknik Mesin 3 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam pembelajaran membaca gambar kerja rangkaian mekanik (assembly drawing), beberapa murid kesulitan membayangkan bagaimana bagian poros, pasak (key), bantalan, dan rumah bantalan (housing) saling terpasang jika hanya melihat gambar potongan 2D. Strategi diferensiasi konten dan representasi visual yang paling tepat adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Meminta murid membaca ulang teks buku gambar teknik lebih keras di tempat duduknya."
+          },
+          {
+            "id": "B",
+            "text": "Menyediakan kombinasi gambar 2D standar ISO, model animasi bongkar-pasang (exploded view) 3D CAD yang bisa diputar, serta komponen rakitan fisik sederhana di bengkel agar murid dapat menghubungkan proyeksi 2D dengan bentuk nyatanya."
+          },
+          {
+            "id": "C",
+            "text": "Menghapus materi gambar rakitan 2D dan hanya mengajarkan mewarnai model 3D."
+          },
+          {
+            "id": "D",
+            "text": "Meminta murid yang kesulitan menyalin gambar rakitan milik teman yang sudah jadi."
+          },
+          {
+            "id": "E",
+            "text": "Memberikan nilai rendah pada tes awal tanpa menyediakan variasi media belajar."
+          }
+        ],
+        "correctAnswer": "B",
+        "explanation": "Konsep Inti (Diferensiasi Konten & Representasi Multipel — P.2, P.4): Memadukan gambar 2D ISO, exploded view 3D interaktif, dan rakitan fisik nyata (B) menjembatani kemampuan spasial yang beragam tanpa menurunkan standar penguasaan pembacaan gambar teknik 2D.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q018",
+        "number": 18,
+        "type": "single",
+        "section": "PCK Teknik Mesin 3 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Saat ujian praktik pengukuran presisi, seorang murid menyadari bahwa titik nol pada mikrometer luar 0–25 mm yang ia pakai bergeser +0,02 mm (tidak tepat di garis nol saat anvil dan spindle dirapatkan dengan ratchet). Murid bertanya kepada guru apa yang harus dilakukan. Jawaban konseptual metrologi yang paling tepat ditekankan guru adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Mengabaikan pergeseran 0,02 mm karena dianggap terlalu kecil untuk memengaruhi toleransi."
+          },
+          {
+            "id": "B",
+            "text": "Mengencangkan thimble sekuat tenaga dengan tangan agar jarum dipaksa kembali ke angka nol."
+          },
+          {
+            "id": "C",
+            "text": "Mengajarkan prosedur pemeriksaan kesalahan nol (zero error): membersihkan permukaan ukur terlebih dahulu, mengecek ulang dengan ratchet stop, lalu melakukan kalibrasi penyetelan nol sesuai prosedur (atau mencatat koreksi sistematis/mengganti alat terkalibrasi bersama toolman) agar data pengukuran tetap valid."
+          },
+          {
+            "id": "D",
+            "text": "Mengganti mikrometer dengan penggaris plastik supaya tidak perlu pengecekan nol."
+          },
+          {
+            "id": "E",
+            "text": "Menyuruh murid mengira-ngira sendiri ukuran benda kerja berdasarkan pengalaman."
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Konsep Inti (PCK Metrologi: Kalibrasi & Zero Error): Memaksa mengencangkan thimble (B) merusak ulir mikrometer dan memperburuk kesalahan. Mengajarkan pembersihan muka ukur, pengecekan ratchet stop, serta kalibrasi/koreksi zero error (C) membangun ketelitian dan integritas data pengukuran.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q019",
+        "number": 19,
+        "type": "single",
+        "section": "PCK Teknik Mesin 3 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Seorang guru Teknik Mesin menerapkan prinsip 'Assessment as Learning' pada akhir sesi praktikum CNC Milling. Manakah kegiatan berikut yang paling mencerminkan Assessment as Learning?"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Guru mengoreksi seluruh benda kerja murid di ruang guru tanpa mengembalikan rubriknya."
+          },
+          {
+            "id": "B",
+            "text": "Pengawas dinas pendidikan melaksanakan ujian sertifikasi eksternal di akhir tahun."
+          },
+          {
+            "id": "C",
+            "text": "Sekolah mengumumkan peringkat 1 sampai 10 nilai teori CNC di papan pengumuman."
+          },
+          {
+            "id": "D",
+            "text": "Murid memeriksa hasil pemesinan miliknya sendiri memakai lembar ceklis rubrik toleransi dan menuliskan evaluasi mandiri tentang bagian langkah kerja yang menyebabkan ketidaksesuaian ukuran beserta rencana perbaikan."
+          },
+          {
+            "id": "E",
+            "text": "Guru memasukkan nilai kehadiran bengkel ke sistem rapor elektronik."
+          }
+        ],
+        "correctAnswer": "D",
+        "explanation": "Konsep Inti (Assessment as Learning — P.6): Assessment as Learning melibatkan murid secara aktif menilai proses & hasilnya sendiri dengan panduan rubrik untuk refleksi dan pengaturan belajar mandiri (D). Opsi A, B, C, E termasuk Assessment of Learning / administratif.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q020",
+        "number": 20,
+        "type": "single",
+        "section": "PCK Teknik Mesin 3 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam kegiatan MGMP Teknik Mesin tingkat kabupaten, para guru menemukan masalah bersama bahwa banyak lulusan masih lemah dalam troubleshooting gangguan mesin bubut dan pembacaan simbol pengelasan saat PKL di industri. Kontribusi paling berdampak sesuai kompetensi sosial guru (S.3) adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Hadir di pertemuan MGMP hanya untuk menandatangani daftar hadir lalu pulang lebih awal."
+          },
+          {
+            "id": "B",
+            "text": "Menyimpan modul troubleshooting terbaik untuk sekolah sendiri agar unggul dalam lomba LKS."
+          },
+          {
+            "id": "C",
+            "text": "Mengeluhkan kurangnya fasilitas bengkel sekolah tanpa menyusun langkah perbaikan."
+          },
+          {
+            "id": "D",
+            "text": "Menyarankan agar program PKL ditiadakan saja supaya kelemahan murid tidak terlihat industri."
+          },
+          {
+            "id": "E",
+            "text": "Menginisiasi tim kerja lintas sekolah di MGMP bersama praktisi DUDI untuk menyusun bank studi kasus troubleshooting dan modul simbol las kontekstual, melakukan uji coba terbuka (lesson study), serta membagikannya ke seluruh anggota."
+          }
+        ],
+        "correctAnswer": "E",
+        "explanation": "Konsep Inti (Partisipasi Aktif Organisasi Profesi — S.3): Kompetensi S.3 menuntut kontribusi nyata dalam komunitas belajar/MGMP melalui kolaborasi penyusunan perangkat ajar, lesson study, dan diseminasi praktik baik bagi peningkatan mutu bersama (E).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q021",
+        "number": 21,
+        "type": "single",
+        "section": "PCK Teknik Mesin 3 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Ketika murid mempelajari materi 'Baja Paduan dan Diagram Fasa', seorang murid bertanya apakah baja tahan karat (stainless steel) sama sekali tidak bisa berkarat dalam kondisi apa pun. Respons guru yang paling akurat secara ilmiah dan mendidik sikap berpikir kritis adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menjelaskan bahwa stainless steel tahan korosi karena lapisan pasif kromium oksida (Cr₂O₃), namun tetap dapat mengalami korosi lokal (seperti pitting corrosion) pada lingkungan klorida/air laut tinggi atau jika lapisan pasifnya rusak, lalu mengajak murid membandingkan grade seperti SS 304 vs SS 316."
+          },
+          {
+            "id": "B",
+            "text": "Membenarkan bahwa stainless steel 100% anti-karat selamanya dalam kondisi kimia apa pun."
+          },
+          {
+            "id": "C",
+            "text": "Menyatakan bahwa semua logam selain emas pasti langsung hancur dalam sehari jika terkena air."
+          },
+          {
+            "id": "D",
+            "text": "Menghindari pertanyaan tersebut karena tidak masuk dalam soal pilihan ganda ujian."
+          },
+          {
+            "id": "E",
+            "text": "Meminta murid menghafalkan komposisi kimia 30 jenis baja tanpa menjelaskan mekanisme lapisan pasif."
+          }
+        ],
+        "correctAnswer": "A",
+        "explanation": "Konsep Inti (PCK Material Teknik & Literasi Sains): Ketahanan korosi stainless steel berasal dari lapisan pasif Cr₂O₃ (minimal ~10,5% Cr), tetapi tetap rentan terhadap klorida (pitting) kecuali pada paduan khusus seperti SS 316 yang mengandung molibdenum (A).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q022",
+        "number": 22,
+        "type": "single",
+        "section": "PCK Teknik Mesin 3 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pada praktik pembuatan benda kerja bertingkat di mesin bubut, guru melihat dua kelompok mengalami masalah yang persis sama: permukaan hasil bubutan bergetar dan meninggalkan pola garis kasar (chatter). Alih-alih langsung memutar setelan mesin untuk mereka, guru ingin melatih kemampuan analisis (C4) murid. Tindakan paling tepat adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Mengambil alih mesin kedua kelompok dan menyelesaikan pembubutan finishing untuk mereka."
+          },
+          {
+            "id": "B",
+            "text": "Meminta kedua kelompok memeriksa secara sistematis faktor kekakuan pencekaman (panjang overhang benda kerja/pahat), ketinggian ujung pahat terhadap senter, ketajaman sisi potong, dan parameter putaran/pemakanan, lalu menguji perubahan satu variabel secara terkendali."
+          },
+          {
+            "id": "C",
+            "text": "Menyuruh mereka mengganti seluruh mesin bubut karena dianggap mesinnya sudah tua."
+          },
+          {
+            "id": "D",
+            "text": "Memberi nilai langsung berdasarkan hasil permukaan kasar tanpa diskusi perbaikan."
+          },
+          {
+            "id": "E",
+            "text": "Menyuruh murid menyalin ulang definisi chatter dari internet tanpa mengecek mesinnya."
+          }
+        ],
+        "correctAnswer": "B",
+        "explanation": "Konsep Inti (Troubleshooting & Keterampilan Proses Teknis — PBL/Inkuiri): Membimbing murid memeriksa sumber getaran (overhang, center height, ketajaman pahat, parameter potong) dan menguji satu variabel secara terkendali (B) melatih penalaran kausal dan kemandirian pemecahan masalah.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q023",
+        "number": 23,
+        "type": "single",
+        "section": "PCK Teknik Mesin 3 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Seorang murid kelas X memiliki bakat luar biasa dalam desain produk mekanik 3D CAD dan sering membuat inovasi komponen di waktu luangnya, namun nilai pada mata pelajaran teori Mekanika Teknik masih pas-pasan. Beberapa teman menyarankannya berhenti mendesain 3D agar hanya fokus menghafal rumus ujian. Keputusan guru yang paling konsisten mendukung pengembangan potensi murid (K.3) adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Mendukung saran untuk menghentikan seluruh aktivitas desain 3D sampai nilai teori mencapai 95."
+          },
+          {
+            "id": "B",
+            "text": "Membiarkan murid mengabaikan pelajaran Mekanika Teknik selama ia berprestasi di desain 3D."
+          },
+          {
+            "id": "C",
+            "text": "Memfasilitasi bakat desain 3D murid melalui proyek/kompetisi sekaligus mengaitkannya secara langsung dengan analisis gaya dan kekuatan bahan (Mekanika Teknik) pada desain buatannya sendiri, serta membantunya menyusun jadwal belajar yang seimbang."
+          },
+          {
+            "id": "D",
+            "text": "Menyerahkan sepenuhnya keputusan kepada murid tanpa pendampingan akademik."
+          },
+          {
+            "id": "E",
+            "text": "Menyarankan murid pindah ke jurusan seni rupa karena dianggap tidak cocok di teknik mesin."
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Konsep Inti (Pengembangan Potensi Murid secara Holistik — K.3): Guru tidak mematikan bakat unik anak (A) maupun membiarkan capaian dasarnya terbengkalai (B), melainkan menjembatani minat 3D CAD untuk memperkuat pemahaman Mekanika Teknik secara kontekstual dan seimbang (C).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q024",
+        "number": 24,
+        "type": "single",
+        "section": "PCK Teknik Mesin 3 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam pembelajaran sistem penggerak roda gigi dan puli, guru menggunakan analogi 'sepeda gunung saat menanjak (gir belakang besar, gir depan kecil) vs jalan datar kencang' untuk menjelaskan hubungan rasio transmisi, kecepatan putar, dan torsi. Agar analogi ini tidak menimbulkan miskonsepsi lanjutan (Model Teaching With Analogies), langkah terpenting guru adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Mengganti semua istilah torsi dan rasio transmisi pada soal ujian dengan istilah kayuhan sepeda."
+          },
+          {
+            "id": "B",
+            "text": "Menggunakan analogi sepeda sepanjang semester tanpa pernah mengenalkan rumus rasio transmisi i = z₂/z₁ = n₁/n₂."
+          },
+          {
+            "id": "C",
+            "text": "Melarang murid bertanya tentang perbedaan rantai sepeda dan transmisi sabuk-V."
+          },
+          {
+            "id": "D",
+            "text": "Memetakan secara eksplisit persamaan konsep analogi (gaya kayuh & gir = torsi & rasio gigi) sekaligus menegaskan batasannya (misalnya efisiensi gesekan, arah putaran roda gigi bersinggungan langsung yang berlawanan vs rantai yang searah)."
+          },
+          {
+            "id": "E",
+            "text": "Menyatakan bahwa arah putar roda gigi bersinggungan selalu searah seperti rantai sepeda."
+          }
+        ],
+        "correctAnswer": "D",
+        "explanation": "Konsep Inti (Teaching With Analogies — Glynn & PF.5): Analogi efektif jika guru memetakan kesamaan (mapping) sekaligus batasan analogi (where the analogy breaks down), misalnya rantai memutar gir searah sedangkan dua roda gigi bersinggungan luar berputar berlawanan arah (D).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q025",
+        "number": 25,
+        "type": "single",
+        "section": "PCK Teknik Mesin 3 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Sekolah merencanakan renovasi tata letak bengkel pemesinan dan meminta masukan guru Teknik Mesin terkait ergonomi, keselamatan, serta efisiensi alur belajar (5R). Rekomendasi profesional yang paling tepat mencerminkan budaya keselamatan dan manajemen bengkel modern adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menempatkan mesin las tepat di sebelah tempat penyimpanan cairan mudah terbakar/oli agar hemat ruang."
+          },
+          {
+            "id": "B",
+            "text": "Menutup jalur evakuasi darurat dengan rak bahan baku baja agar mudah dijangkau."
+          },
+          {
+            "id": "C",
+            "text": "Membiarkan kabel daya mesin melintang bebas di jalur jalan kaki tanpa pelindung."
+          },
+          {
+            "id": "D",
+            "text": "Menghilangkan sekat pelindung percikan las agar guru mudah melihat seluruh ruangan sekaligus."
+          },
+          {
+            "id": "E",
+            "text": "Menetapkan marka jalur pejalan kaki dan zona aman mesin yang jelas, memisahkan area pengelasan bersekat/berventilasi dari bahan mudah terbakar, menempatkan APAR & kotak P3K di titik mudah diakses, serta menata papan bayangan alat (shadow board) sesuai prinsip 5R."
+          }
+        ],
+        "correctAnswer": "E",
+        "explanation": "Konsep Inti (Manajemen Bengkel K3 & 5R — PF.5): Tata letak bengkel aman memisahkan zona panas/las dari bahan mudah terbakar, menjaga jalur evakuasi & marka aman, menempatkan APAR/P3K strategis, dan menerapkan visual management 5R seperti shadow board (E).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q026",
+        "number": 26,
+        "type": "single",
+        "section": "PCK Teknik Mesin 3 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pada kelas inklusif Teknik Mesin, terdapat murid dengan hambatan kesulitan belajar spesifik (disleksia) yang kesulitan membaca teks jobsheet panjang dan padat, tetapi sangat terampil dan teliti saat praktik langsung pada mesin frais. Akomodasi pedagogis yang paling adil dan efektif sesuai prinsip inklusi (P.2) adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menyediakan jobsheet berformat ramah disleksia (langkah singkat bernomor, ikon/diagram visual jelas, kode warna tahapan, dan dukungan instruksi lisan singkat) sambil tetap menilai standar kompetensi praktik dan K3 yang setara."
+          },
+          {
+            "id": "B",
+            "text": "Mengharuskan murid tersebut membaca seluruh buku teks setebal 200 halaman tanpa adaptasi media."
+          },
+          {
+            "id": "C",
+            "text": "Menurunkan standar ketelitian ukuran benda kerja khusus bagi murid tersebut menjadi ±5 mm."
+          },
+          {
+            "id": "D",
+            "text": "Membebaskan murid dari kegiatan praktik bengkel dan hanya memberinya nilai minimal."
+          },
+          {
+            "id": "E",
+            "text": "Mengumumkan hambatan belajar murid tersebut kepada seluruh teman kelas agar dimaklumi."
+          }
+        ],
+        "correctAnswer": "A",
+        "explanation": "Konsep Inti (Pembelajaran Inklusif / Universal Design for Learning — P.2): Akomodasi aksesibilitas menyajikan instruksi multimodal (visual, ringkas, lisan) tanpa menurunkan standar mutu/K3 (A) dan tetap menjaga privasi serta martabat murid (E salah).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q027",
+        "number": 27,
+        "type": "single",
+        "section": "PCK Teknik Mesin 3 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Guru memberikan kuis keluar singkat (exit ticket) 3 menit sebelum praktik bubut tirus berakhir, berisi satu pertanyaan: 'Jika pergeseran eretan atas (compound rest) meleset 2° lebih besar dari perhitungan, bagaimana dampaknya terhadap sudut tirus benda kerja dan bagaimana cara mengeceknya?' Tujuan utama guru menggunakan exit ticket ini adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Sebagai nilai rapor akhir semester yang tidak bisa diperbaiki lagi."
+          },
+          {
+            "id": "B",
+            "text": "Memetakan secara cepat pemahaman konseptual dan miskonsepsi murid pada hari itu sebagai dasar penyesuaian pembelajaran pada pertemuan berikutnya."
+          },
+          {
+            "id": "C",
+            "text": "Menghukum murid yang ingin segera pulang sebelum jam pelajaran selesai."
+          },
+          {
+            "id": "D",
+            "text": "Menggantikan seluruh rubrik penilaian produk benda kerja bubut tirus."
+          },
+          {
+            "id": "E",
+            "text": "Mengetahui siapa murid yang tulisan tangannya paling rapi."
+          }
+        ],
+        "correctAnswer": "B",
+        "explanation": "Konsep Inti (Asesmen Formatif Cepat / Exit Ticket — P.6): Exit ticket adalah instrumen formatif singkat di akhir sesi untuk mendiagnosis miskonsepsi secara segera sehingga guru dapat merancang tindak lanjut/penguatan di pertemuan selanjutnya (B).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q028",
+        "number": 28,
+        "type": "single",
+        "section": "PCK Teknik Mesin 3 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam praktikum pengujian sambungan baut dan kunci torsi (torque wrench), guru menemukan murid mengencangkan baut menggunakan kunci torsi melebihi bunyi 'klik' (terus menarik gagang lagi setelah klik) dengan alasan 'biar makin kuat dan tidak lepas'. Penjelasan konseptual dan tindakan guru yang tepat adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Membiarkan kebiasaan tersebut karena baut yang makin kencang dianggap selalu lebih aman."
+          },
+          {
+            "id": "B",
+            "text": "Memarahi murid dan melarangnya menggunakan kunci torsi selamanya."
+          },
+          {
+            "id": "C",
+            "text": "Menjelaskan fungsi batas torsi spesifikasi dan risiko over-torquing (deformasi plastis, rusaknya ulir, hingga patahnya baut), mendemonstrasikan cara berhenti tepat saat bunyi klik + mengembalikan skala kunci torsi ke nilai minimum saat penyimpanan, lalu meminta murid mencoba ulang pada blok uji."
+          },
+          {
+            "id": "D",
+            "text": "Mengganti kunci torsi dengan pipa sambungan panjang pada kunci pas biasa."
+          },
+          {
+            "id": "E",
+            "text": "Meminta murid menyalin tabel ukuran baut metris tanpa latihan memakai kunci torsi."
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Konsep Inti (PCK Perkakas Presisi & Mekanika Bahan): Over-torquing melampaui batas elastis baut sehingga memicu kerusakan ulir/patah lelah; selain berhenti tepat saat klik, kunci torsi tipe klik wajib dikembalikan ke setelan minimum setelah dipakai agar pegas kalibrasinya awet (C).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q029",
+        "number": 29,
+        "type": "single",
+        "section": "PCK Teknik Mesin 3 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Seorang rekan guru baru di jurusan Teknik Mesin tampak kewalahan mengelola 32 murid di bengkel kerja bangku sehingga suasana sering gaduh dan alat ukur sering tercecer. Sebagai guru senior dengan kompetensi sosial dan kepribadian matang (S.2 & K.1), langkah kolaboratif yang paling tepat adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Mengkritik ketidakmampuan rekan tersebut di hadapan kepala sekolah dan guru lain."
+          },
+          {
+            "id": "B",
+            "text": "Membiarkan saja karena setiap guru harus merasakan sendiri sulitnya mengajar bengkel."
+          },
+          {
+            "id": "C",
+            "text": "Mengambil alih seluruh kelasnya secara diam-diam tanpa berdiskusi dengannya."
+          },
+          {
+            "id": "D",
+            "text": "Mengajaknya berdiskusi secara suportif dan setara, berbagi praktik baik manajemen alat 5R & pembagian peran kelompok, serta menawarkan co-teaching/observasi timbal balik (lesson study) untuk mencari solusi bersama."
+          },
+          {
+            "id": "E",
+            "text": "Menyampaikan kepada murid-muridnya bahwa guru baru tersebut belum berpengalaman."
+          }
+        ],
+        "correctAnswer": "D",
+        "explanation": "Konsep Inti (Kolaborasi Sejawat & Etika Profesi — S.2, K.1): Rekan sejawat diberdayakan melalui kemitraan yang suportif, berbagi praktik baik, dan refleksi kolaboratif (D), bukan mempermalukan (A, E) atau bersikap acuh (B).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q030",
+        "number": 30,
+        "type": "single",
+        "section": "PCK Teknik Mesin 3 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pada proyek pembuatan komponen dengan mesin CNC, sebuah kelompok mengalami kegagalan pada percobaan pertama karena salah memasukkan offset panjang pahat (tool length offset / H) sehingga pemotongan meleset 3 mm lebih dangkal. Alih-alih menyembunyikannya, kelompok tersebut mencatat kesalahan itu secara jujur dalam laporan dan menganalisis cara memperbaikinya. Respons penilaian guru yang paling mendidik adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Memberi nilai nol otomatis pada seluruh proyek karena sempat terjadi satu kesalahan di percobaan awal."
+          },
+          {
+            "id": "B",
+            "text": "Meminta kelompok menghapus catatan kesalahan dari laporan agar laporan terlihat sempurna saat akreditasi."
+          },
+          {
+            "id": "C",
+            "text": "Menyuruh kelompok menyalin data offset milik kelompok lain yang berhasil."
+          },
+          {
+            "id": "D",
+            "text": "Mengabaikan insiden tersebut tanpa memeriksa apakah kelompok sudah memahami konsep tool offset."
+          },
+          {
+            "id": "E",
+            "text": "Mengapresiasi kejujuran data ilmiah/teknis mereka, membimbing verifikasi ulang pengukuran tool length offset pada simulasi dan dry run, serta menghargai kualitas analisis troubleshooting dan hasil perbaikan pada rubrik penilaian."
+          }
+        ],
+        "correctAnswer": "E",
+        "explanation": "Konsep Inti (Integritas Data, Troubleshooting, & Asesmen Autentik — K.1, P.6): Kesalahan awal yang dianalisis secara jujur dan diperbaiki secara sistematis mencerminkan proses rekayasa autentik dan integritas (E), bukan sesuatu yang harus ditutupi (B) atau dihukum mati tanpa melihat proses belajar (A).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q031",
+        "number": 31,
+        "type": "single",
+        "section": "PCK Teknik Mesin 3 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam menerapkan pendekatan inkuiri terbimbing pada topik 'Pengaruh Media Pendingin terhadap Kekerasan Baja Karbon Sedang (AISI 1045)', urutan aktivitas belajar yang paling tepat (mengacu model 5E: Engage–Explore–Explain–Elaborate–Evaluate) adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Mengamati demonstrasi perbedaan bunyi/ketahanan gores baja hasil celup air vs pendinginan udara (Engage) → menguji/mengamati data kekerasan spesimen pada variasi media pendingin air, oli, dan udara (Explore) → mendiskusikan hubungan laju pendinginan dan struktur mikro (Explain) → menerapkannya pada pemilihan proses hardening roda gigi atau pegas (Elaborate) → evaluasi pemahaman berbasis kasus (Evaluate)."
+          },
+          {
+            "id": "B",
+            "text": "Ulangan akhir di awal pelajaran (Evaluate) → menghafal diagram CCT (Explain) → melihat gambar tungku (Engage)."
+          },
+          {
+            "id": "C",
+            "text": "Guru mendiktekan seluruh definisi perlakuan panas (Explain) → murid menyalin catatan → selesai."
+          },
+          {
+            "id": "D",
+            "text": "Murid memanaskan baja sendiri tanpa panduan suhu/K3 (Explore) → langsung dinilai tanpa diskusi konsep."
+          },
+          {
+            "id": "E",
+            "text": "Menonton video pabrik baja tanpa pertanyaan (Engage) → langsung diberi 40 soal hafalan istilah."
+          }
+        ],
+        "correctAnswer": "A",
+        "explanation": "Konsep Inti (Siklus Belajar 5E — Bybee): Urutan konstruktivis 5E menempatkan keterlibatan fenomena (Engage) dan eksplorasi data terkendali (Explore) sebelum formalisasi konsep (Explain), diikuti perluasan aplikasi teknik nyata (Elaborate) dan evaluasi (Evaluate) (A).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q032",
+        "number": 32,
+        "type": "single",
+        "section": "PCK Teknik Mesin 3 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Saat membahas 'Sistem Pemindah Tenaga dan Keselamatan Kerja Mesin', guru ingin menumbuhkan kepedulian murid terhadap efisiensi energi listrik di bengkel sekolah (literasi energi & Profil Pelajar Pancasila). Kegiatan proyek mini yang paling ilmiah dan aplikatif adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menempelkan poster 'Hemat Listrik' di dinding tanpa pernah menghitung konsumsi daya mesin."
+          },
+          {
+            "id": "B",
+            "text": "Membimbing murid mendata daya (kW) dan durasi idle/operasi seluruh mesin perkakas, kompresor udara, serta lampu bengkel selama sepekan, menghitung konsumsi energi (kWh) & kebocoran angin kompresor, lalu merumuskan SOP penghematan energi bengkel berbasis data."
+          },
+          {
+            "id": "C",
+            "text": "Mematikan lampu penerangan bengkel saat murid sedang mengoperasikan mesin bubut agar listrik irit."
+          },
+          {
+            "id": "D",
+            "text": "Menyerahkan pencatatan tagihan listrik sepenuhnya kepada petugas kebersihan sekolah."
+          },
+          {
+            "id": "E",
+            "text": "Mengadakan lomba pidato tentang energi terbarukan tanpa mengaitkannya dengan mesin bengkel."
+          }
+        ],
+        "correctAnswer": "B",
+        "explanation": "Konsep Inti (Audit Energi Bengkel & Literasi Sains-Teknik — PF.5, P.1): Mengukur data daya, waktu idle, dan kebocoran udara kompresor lalu menyusun rekomendasi berbasis data (B) menyatukan konsep daya/energi, efisiensi manufaktur, dan karakter peduli lingkungan tanpa mengorbankan K3 pencahayaan (C sangat berbahaya).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q033",
+        "number": 33,
+        "type": "single",
+        "section": "PCK Teknik Mesin 3 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam pembelajaran kerja bangku (mengikir rata dan siku), guru mendapati seorang murid selalu menghasilkan permukaan benda kerja cembung (tidak rata) meskipun ia sudah bekerja sangat keras. Hasil observasi guru menunjukkan posisi kaki kurang stabil dan tekanan tangan depan-belakang tidak berubah seimbang sepanjang langkah mengikir. Umpan balik dan koreksi psikomotorik yang paling tepat adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Mengatakan bahwa benda kerjanya gagal total dan memintanya mulai ulang dengan pelat baru tanpa petunjuk."
+          },
+          {
+            "id": "B",
+            "text": "Menyuruhnya menekan kikir sekuat tenaga hanya dengan tangan belakang agar lebih cepat rata."
+          },
+          {
+            "id": "C",
+            "text": "Mengapresiasi ketekunannya, menunjukkan letak kecembungan memakai pisau perata (straight edge/hairline square), mendemonstrasikan transisi distribusi tekanan tangan kiri-kanan sepanjang langkah dorong, lalu mendampinginya berlatih koreksi secara bertahap."
+          },
+          {
+            "id": "D",
+            "text": "Menggantikan mengikir dengan mesin frais agar murid tidak perlu menguasai kerja bangku."
+          },
+          {
+            "id": "E",
+            "text": "Meminta murid membaca ulang bab jenis-jenis gigi kikir selama satu jam."
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Konsep Inti (PCK Kerja Bangku & Umpan Balik Psikomotorik): Permukaan cembung saat mengikir terjadi karena ayunan tekanan tangan tidak konstan. Memperlihatkan bukti celah cahaya dengan hairline square dan melatih distribusi tekanan tangan secara bertahap (C) langsung menyasar akar masalah psikomotorik.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q034",
+        "number": 34,
+        "type": "single",
+        "section": "PCK Teknik Mesin 3 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Ketika hendak merancang tes praktik akhir semester (Assessment of Learning) untuk kompetensi 'Pemesinan Bubut Konvensional', guru ingin memastikan instrumen asesmennya memiliki validitas dan reliabilitas tinggi. Langkah paling krusial yang harus dilakukan guru adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Membuat gambar kerja ujian yang sangat berbeda dari seluruh capaian pembelajaran agar terlihat menantang."
+          },
+          {
+            "id": "B",
+            "text": "Menilai hasil benda kerja murid hanya dengan perkiraan pandangan mata tanpa alat ukur."
+          },
+          {
+            "id": "C",
+            "text": "Mengubah-ubah kriteria penilaian di tengah ujian berlangsung sesuai perasaan guru."
+          },
+          {
+            "id": "D",
+            "text": "Menyelaraskan gambar kerja & tugas ujian dengan kisi-kisi capaian pembelajaran, menyediakan rubrik analitik dengan rentang toleransi terukur serta kriteria K3 yang jelas, memastikan seluruh mesin/alat ukur layak dan terkalibrasi, serta mensosialisasikan kriteria penilaian sebelumnya."
+          },
+          {
+            "id": "E",
+            "text": "Menyamakan durasi dan hasil ukur tanpa mengecek apakah alat ukur tiap stasiun terkalibrasi."
+          }
+        ],
+        "correctAnswer": "D",
+        "explanation": "Konsep Inti (Validitas & Reliabilitas Asesmen Kinerja — P.6): Validitas dijaga lewat kesesuaian kisi-kisi CP, sedangkan reliabilitas & keadilan dijaga lewat rubrik analitik terukur, kalibrasi mesin/alat ukur, serta transparansi kriteria (D).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q035",
+        "number": 35,
+        "type": "single",
+        "section": "PCK Teknik Mesin 3 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pada pelajaran Gambar Teknik, guru mendapati beberapa murid menyalin langsung hasil perhitungan toleransi dan gambar dari internet tanpa memahami cara membacanya. Untuk membangun kesadaran belajar bermakna dan mencegah plagiarisme tugas, perubahan desain tugas yang paling efektif adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Memperbanyak jumlah soal menyalin definisi dari buku paket."
+          },
+          {
+            "id": "B",
+            "text": "Melarang murid mencari referensi gambar standar ISO secara daring."
+          },
+          {
+            "id": "C",
+            "text": "Menambah bobot hukuman tanpa mengubah bentuk tugas yang mudah disalin."
+          },
+          {
+            "id": "D",
+            "text": "Mengganti tugas menjadi ulangan lisan hafalan nama garis gambar."
+          },
+          {
+            "id": "E",
+            "text": "Merancang tugas kontekstual berbasis benda nyata di bengkel sekolah (mengukur komponen fisik lalu menggambarnya dengan variasi dimensi/toleransi unik per kelompok) disertai sesi tanya-jawab singkat verifikasi pemahaman gambar."
+          }
+        ],
+        "correctAnswer": "E",
+        "explanation": "Konsep Inti (Desain Tugas Autentik Anti-Plagiarisme — P.1, P.6): Tugas yang berakar pada pengukuran komponen fisik nyata dengan variasi spesifikasi unik dan verifikasi lisan singkat (E) mendorong autentisitas karya dan pemahaman mendalam dibanding tugas generik yang mudah disalin.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q036",
+        "number": 36,
+        "type": "single",
+        "section": "PCK Teknik Mesin 3 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam pembelajaran 'Sistem Pemeliharaan Total Productive Maintenance (TPM)', guru ingin murid memahami peran operator dalam perawatan mandiri (autonomous maintenance). Aktivitas belajar di bengkel yang paling tepat menanamkan konsep tersebut adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Membiasakan setiap murid melakukan inspeksi harian sebelum dan sesudah praktik menggunakan lembar checksheet mandiri (cek level oli, kebersihan jalur luncur/bedways, kekencangan pelindung, pembersihan beram, dan pelumasan ringan) serta melaporkan anomali dini kepada toolman/guru."
+          },
+          {
+            "id": "B",
+            "text": "Menyampaikan bahwa perawatan mesin adalah urusan teknisi semata sehingga operator tidak perlu memeriksa kondisi mesin."
+          },
+          {
+            "id": "C",
+            "text": "Menunggu mesin rusak total terlebih dahulu baru meminta murid mengamati proses perbaikannya."
+          },
+          {
+            "id": "D",
+            "text": "Meminta murid membongkar seluruh kotak roda gigi (gearbox) setiap selesai jam praktik."
+          },
+          {
+            "id": "E",
+            "text": "Memberikan catatan sejarah TPM di Jepang tanpa praktik inspeksi harian."
+          }
+        ],
+        "correctAnswer": "A",
+        "explanation": "Konsep Inti (PCK Perawatan Mesin — TPM / Autonomous Maintenance): Autonomous maintenance melatih operator melakukan inspeksi, pembersihan, pelumasan dasar, dan deteksi anomali dini secara rutin menggunakan checksheet (A), bukan menunggu rusak (C) atau membongkar gearbox tanpa prosedur (D).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q037",
+        "number": 37,
+        "type": "single",
+        "section": "PCK Teknik Mesin 3 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Seorang guru Teknik Mesin melaksanakan refleksi diri akhir tahun ajaran dan menyadari bahwa meskipun nilai teori kelas XI tinggi, beberapa murid mengeluhkan suara penjelasan guru di bengkel sering kalah bising oleh mesin lain dan demonstrasi kurang terlihat oleh murid di barisan belakang. Langkah perbaikan profesional yang paling tepat (K.2 & P.3) adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menyalahkan ukuran ruang bengkel dan tetap mengajar dengan cara yang sama."
+          },
+          {
+            "id": "B",
+            "text": "Mengatur zona briefing/demonstrasi yang kondusif saat mesin dimatikan sejenak (formasi setengah lingkaran), melengkapi penjelasan dengan kamera dokumentasi/layar tampilan dekat atau video pendek prosedur sebelum mesin menyala, serta mengecek umpan balik murid secara berkala."
+          },
+          {
+            "id": "C",
+            "text": "Menghapus sesi demonstrasi langsung dan menggantinya dengan mengirim file PDF saja."
+          },
+          {
+            "id": "D",
+            "text": "Mengharuskan murid yang di belakang bertanya sendiri kepada temannya di depan."
+          },
+          {
+            "id": "E",
+            "text": "Berteriak lebih keras sambil tetap menyalakan seluruh mesin di ruangan."
+          }
+        ],
+        "correctAnswer": "B",
+        "explanation": "Konsep Inti (Refleksi Diri Guru & Pengelolaan Lingkungan Belajar Bengkel — K.2, P.3): Refleksi yang ditindaklanjuti dengan perbaikan konkret—menghentikan mesin saat briefing, formasi setengah lingkaran, dukungan visual layar/video—meningkatkan aksesibilitas dan keselamatan komunikasi di bengkel (B).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q038",
+        "number": 38,
+        "type": "single",
+        "section": "PCK Teknik Mesin 3 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam pembelajaran proyek pembuatan komponen sederhana berbahan baja lunak, murid diminta menghitung kebutuhan bahan baku, biaya pemesinan, dan perkiraan waktu kerja. Keterampilan abad ke-21 dan literasi numerasi vokasi apa yang terutama sedang dikembangkan melalui kegiatan ini?"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Hafalan daftar harga baja di toko bangunan."
+          },
+          {
+            "id": "B",
+            "text": "Kecepatan mengetik angka pada kalkulator semata."
+          },
+          {
+            "id": "C",
+            "text": "Pemecahan masalah kontekstual, pengambilan keputusan efisien berbasis estimasi teknis-ekonomis (numerasi terapan), dan perencanaan proyek mandiri."
+          },
+          {
+            "id": "D",
+            "text": "Keterampilan mengoperasikan mesin tanpa perlu membaca gambar kerja."
+          },
+          {
+            "id": "E",
+            "text": "Kemampuan bekerja sendiri tanpa koordinasi tim."
+          }
+        ],
+        "correctAnswer": "C",
+        "explanation": "Konsep Inti (Numerasi Terapan & Keterampilan Abad 21 — P.1, PF.3): Mengestimasi bahan, waktu siklus, dan biaya produksi mengintegrasikan numerasi terapan dengan efisiensi rekayasa dan manajemen proyek nyata di industri manufaktur (C).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q039",
+        "number": 39,
+        "type": "single",
+        "section": "PCK Teknik Mesin 3 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Saat menghadapi jadwal praktik bengkel yang bertepatan dengan waktu ibadah wajib bagi sebagian peserta didik dari latar belakang agama tertentu, sikap profesional guru Teknik Mesin yang menjunjung keteladanan nilai keberagaman (K.1) sekaligus ketertiban keselamatan bengkel adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Melarang murid meninggalkan bengkel untuk beribadah karena mesin harus terus berjalan."
+          },
+          {
+            "id": "B",
+            "text": "Menyuruh murid tersebut pulang saja dan tidak usah mengikuti praktikum hari itu."
+          },
+          {
+            "id": "C",
+            "text": "Mengizinkan murid pergi mendadak sambil meninggalkan mesin bubut dalam keadaan berputar."
+          },
+          {
+            "id": "D",
+            "text": "Berkoordinasi sejak awal menyusun pengaturan jeda/rotasi sesi praktik yang mengakomodasi waktu beribadah secara bermartabat dengan memastikan prosedur penghentian dan pengamanan mesin dilakukan terlebih dahulu tanpa mengurangi hak penilaian murid."
+          },
+          {
+            "id": "E",
+            "text": "Meminta murid dari kelompok minoritas mencari waktu praktik sendiri di luar jam sekolah tanpa pendampingan."
+          }
+        ],
+        "correctAnswer": "D",
+        "explanation": "Konsep Inti (Toleransi Keberagaman & K3 Bengkel — K.1): Guru menghormati hak beribadah secara inklusif dan adil tanpa mengorbankan hak penilaian murid, sekaligus tetap menegakkan prosedur aman penghentian mesin sebelum jeda (D).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q040",
+        "number": 40,
+        "type": "single",
+        "section": "PCK Teknik Mesin 3 (Pilihan Ganda)",
+        "formatLabel": "PG",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Seorang murid kelas XII berulang kali mendapatkan hasil ukuran lubang hasil boring di mesin bubut yang miring/tirus padahal ia ingin membuat lubang silindris lurus. Guru ingin menggunakan momen ini untuk membangun kemampuan berpikir reflektif dan analitis murid. Langkah pembimbingan yang paling tepat adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Langsung menyatakan bahwa pahat bubut dalamnya rusak tanpa memeriksa pemasangan."
+          },
+          {
+            "id": "B",
+            "text": "Meminta murid membuang benda kerja tersebut dan menggantinya dengan tugas merangkum teori."
+          },
+          {
+            "id": "C",
+            "text": "Memberi nilai rendah tanpa menunjukkan letak kesalahan agar murid sadar sendiri."
+          },
+          {
+            "id": "D",
+            "text": "Menyetel ulang mesin diam-diam saat murid istirahat agar hasilnya lurus."
+          },
+          {
+            "id": "E",
+            "text": "Mengajak murid mengukur diameter di bagian depan dan belakang lubang untuk memetakan arah ketirusan, lalu bersama-sama mengevaluasi faktor penyebab (defleksi/overhang boring bar terlalu panjang, ketidaksentrisan benda kerja, atau kekakuan pencekaman) dan merancang langkah koreksi terukur."
+          }
+        ],
+        "correctAnswer": "E",
+        "explanation": "Konsep Inti (Pembelajaran Reflektif & Analisis Troubleshooting Pemesinan): Memetakan data pengukuran depan-belakang lubang lalu menginvestigasi defleksi boring bar, overhang, dan pencekaman (E) mengubah kesalahan praktik menjadi pengalaman belajar mendalam yang membangun nalar rekayasa.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q041",
+        "number": 41,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin 3 (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pada praktikum pemrograman CNC Milling, murid sering keliru membedakan penggunaan kompensasi radius pisau G41 (kiri) dan G42 (kanan) terhadap arah gerak pemakanan sehingga ukuran kantong (pocket) meleset sebesar diameter pisau. Strategi pembelajaran konseptual dan TPACK yang tepat adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Meminta murid membayangkan diri berjalan sepanjang lintasan program untuk menentukan posisi pisau di sebelah kiri (G41) atau kanan (G42) profil benda."
+          },
+          {
+            "id": "B",
+            "text": "Menunjukkan simulasi grafis toolpath CNC pada proyektor sehingga tampak perbedaan lintasan dengan G40, G41, dan G42 secara visual."
+          },
+          {
+            "id": "C",
+            "text": "Mengajak murid memverifikasi selisih ukuran hasil simulasi terhadap ukuran gambar kerja sebelum menjalankan mesin."
+          },
+          {
+            "id": "D",
+            "text": "Menghapus materi kompensasi radius pahat dan menyuruh murid mengira-ngira koordinat secara acak."
+          },
+          {
+            "id": "E",
+            "text": "Menghukum murid yang salah memakai G41/G42 dengan menghentikan seluruh praktik CNC selama satu semester."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Konsep Inti (PCK CNC Milling & Representasi Visual): Analogi posisi berjalan sepanjang arah lintasan (A), visualisasi simulasi toolpath G40/G41/G42 (B), dan verifikasi dimensi sebelum pemotongan (C) membangun pemahaman spasial yang akurat tanpa bahaya tabrakan.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q042",
+        "number": 42,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin 3 (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam pembelajaran pengelasan GTAW (TIG) pada pelat tipis baja tahan karat, praktik K3 dan pengendalian kualitas teknis yang wajib ditekankan guru kepada murid meliputi ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menggunakan topeng las dengan tingkat kegelapan lensa (shade) yang sesuai untuk melindungi mata dari radiasi sinar UV/IR intensitas tinggi."
+          },
+          {
+            "id": "B",
+            "text": "Memastikan ventilasi/exhaust pengisap asap las (fume extractor) aktif guna meminimalkan paparan asap kromium heksavalen."
+          },
+          {
+            "id": "C",
+            "text": "Mengenakan sarung tangan kulit las dan baju kerja tahan panas yang menutup seluruh kulit lengan tanpa bagian terbuka."
+          },
+          {
+            "id": "D",
+            "text": "Mengasah elektroda tungsten yang mengandung torium tanpa masker debu dan tanpa sistem pengisap debu gerinda."
+          },
+          {
+            "id": "E",
+            "text": "Memeriksa kebocoran selang gas argon dan memastikan tabung gas terikat rantai pengaman pada posisi tegak."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "E"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Konsep Inti (K3 Pengelasan GTAW/TIG): Proteksi mata UV/IR (A), exhaust asap las stainless steel (B), APD kulit tertutup (C), dan pengamanan tabung gas bertekanan (E) adalah prosedur wajib. Debu gerinda elektroda tungsten ber-torium bersifat berbahaya bila terhirup (D salah).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q043",
+        "number": 43,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin 3 (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Manakah praktik penerapan teori belajar kognitif Piaget dan Ausubel yang tepat dalam pembelajaran 'Diagram Tegangan–Regangan & Sifat Mekanis Logam'?"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Mengaktifkan pengetahuan awal murid tentang perbedaan patahnya karet, paku besi, dan kaca (Advance Organizer Ausubel) sebelum membaca kurva uji tarik."
+          },
+          {
+            "id": "B",
+            "text": "Menghadirkan anomali/konflik kognitif ketika murid mengira baja paling keras selalu paling kuat menahan benturan mendadak (disekuilibrium → akomodasi Piaget)."
+          },
+          {
+            "id": "C",
+            "text": "Meminta murid menghubungkan daerah elastis, titik luluh (yield point), dan daerah plastis pada grafik dengan proses pembengkokan pelat di bengkel."
+          },
+          {
+            "id": "D",
+            "text": "Menugaskan murid menghafalkan angka kekuatan tarik 25 jenis logam tanpa memahami arti titik luluh."
+          },
+          {
+            "id": "E",
+            "text": "Menyajikan grafik tanpa satuan sumbu tegangan dan regangan agar murid menebak sendiri."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Konsep Inti (Ausubel & Piaget pada Material Teknik): Advance organizer berbasis benda sehari-hari (A), konflik kognitif kekerasan vs ketangguhan (B), dan mengaitkan kurva uji tarik ke proses pembentukan pelat nyata (C) menciptakan belajar bermakna.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q044",
+        "number": 44,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin 3 (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam menerapkan model Pembelajaran Berbasis Masalah (PBL) pada topik 'Kerusakan Bantalan Gelinding (Rolling Bearing Failure)', langkah guru yang mencerminkan karakteristik autentik PBL adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menyajikan komponen bantalan rusak nyata (aus, pitting, atau berubah warna kebiruan akibat panas berlebih) sebagai pemicu masalah."
+          },
+          {
+            "id": "B",
+            "text": "Membimbing kelompok merumuskan dugaan penyebab (salah suaian pemasangan, pelumasan kurang/terkontaminasi, beban berlebih, atau misalignment)."
+          },
+          {
+            "id": "C",
+            "text": "Mengarahkan murid mencocokkan pola jejak aus dengan panduan diagnosis pabrikan bantalan (misalnya ISO 15243) untuk membangun argumen berbasis bukti."
+          },
+          {
+            "id": "D",
+            "text": "Memberikan kunci penyebab kerusakan di menit pertama sebelum murid memeriksa bantalannya."
+          },
+          {
+            "id": "E",
+            "text": "Meminta kelompok menyusun rekomendasi pencegahan berbasis perawatan preventif dan mempresentasikannya."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "E"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Konsep Inti (PBL Autentik pada Perawatan Mesin): Masalah nyata (A), perumusan hipotesis kausal (B), investigasi referensi standar teknis (C), dan presentasi solusi berbasis bukti (E) merupakan ciri utuh PBL.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q045",
+        "number": 45,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin 3 (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Guru ingin merancang pembelajaran berdiferensiasi berbasis kesiapan dan profil belajar pada materi 'Pembuatan Gambar Kerja 3D ke 2D (Drafting) dengan Software CAD'. Contoh strategi yang tepat antara lain ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menyediakan panduan video singkat, lembar alur langkah visual, serta referensi cetak ISO agar murid dapat memilih moda belajar yang paling membantunya."
+          },
+          {
+            "id": "B",
+            "text": "Memberikan komponen sederhana (blok bertingkat) sebagai jembatan awal bagi murid pemula, dan komponen berfitur lubang bertingkat/ulir/potongan bagi murid yang lebih siap."
+          },
+          {
+            "id": "C",
+            "text": "Menjaga standar capaian minimum kelengkapan etiket, skala, proyeksi, dan toleransi tetap sama bagi seluruh murid."
+          },
+          {
+            "id": "D",
+            "text": "Membebaskan murid pemula dari kewajiban mencantumkan ukuran utama pada gambar kerja."
+          },
+          {
+            "id": "E",
+            "text": "Melakukan pemantauan proses dan memindahkan murid ke tantangan lebih tinggi segera setelah kompetensi dasar dikuasai."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "E"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Konsep Inti (Diferensiasi Konten & Proses — Tomlinson / TaRL): Variasi moda sumber belajar (A), penjenjangan kompleksitas objek secara fleksibel (B, E), dengan standar mutu gambar tetap terjaga (C, bukan dihilangkan seperti D).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q046",
+        "number": 46,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin 3 (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Berdasarkan teori belajar sosial Albert Bandura, cara guru bengkel membangun efikasi diri (self-efficacy) murid yang rendah pada praktik pemesinan presisi adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Memberikan pengalaman keberhasilan bertahap (mastery experience) mulai dari pemotongan lurus sederhana hingga bertingkat dengan toleransi ketat."
+          },
+          {
+            "id": "B",
+            "text": "Menampilkan demonstrasi langkah kerja yang jelas, tenang, dan terstruktur serta memberi contoh rekan sebaya yang berhasil setelah berlatih (vicarious experience)."
+          },
+          {
+            "id": "C",
+            "text": "Memberikan persuasi verbal yang realistis dan berbasis bukti kemajuan ('Pembacaan mikrometermu hari ini sudah jauh lebih konsisten dibanding pekan lalu')."
+          },
+          {
+            "id": "D",
+            "text": "Menciptakan iklim bengkel yang tenang dan tidak menghakimi guna mengurangi kecemasan emosional murid."
+          },
+          {
+            "id": "E",
+            "text": "Membandingkan murid yang lambat secara sinis dengan juara LKS agar ia merasa malu dan terpacu."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Konsep Inti (4 Sumber Self-Efficacy Bandura): Mastery experience (A), vicarious experience/modeling (B), social/verbal persuasion yang konstruktif (C), dan pengelolaan kondisi emosional/fisiologis (D). Mempermalukan murid (E) justru menghancurkan self-efficacy.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q047",
+        "number": 47,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin 3 (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pada praktikum rangkaian elektro-pneumatik dasar, prosedur keselamatan dan pedagogi yang tepat sebelum menyalakan pasokan udara bertekanan (kompresor) dan sumber DC 24V meliputi ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Memeriksa kekencangan sambungan selang push-in fitting agar selang tidak terlepas dan mencambuk saat bertekanan."
+          },
+          {
+            "id": "B",
+            "text": "Memastikan katup pengatur tekanan (FRL — Filter, Regulator, Lubricator) berada pada tekanan kerja aman sesuai petunjuk trainer."
+          },
+          {
+            "id": "C",
+            "text": "Melakukan verifikasi diagram rangkaian secara visual maupun pada simulator (cold check) bersama guru sebelum tombol daya diaktifkan."
+          },
+          {
+            "id": "D",
+            "text": "Mengarahkan nosel udara bertekanan ke baju atau kulit teman untuk membersihkan debu dengan cepat."
+          },
+          {
+            "id": "E",
+            "text": "Memastikan tangan dan benda penghalang jauh dari lintasan gerakan batang piston silinder saat uji coba."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "E"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Konsep Inti (K3 Pneumatik & Verifikasi Rangkaian): Pemeriksaan sambungan selang (A), setelan FRL aman (B), verifikasi sebelum bertekanan (C), dan bebas penghalang pada langkah piston (E) adalah prosedur K3 standar. Menyemprotkan udara bertekanan ke tubuh (D) sangat berbahaya (risiko emboli udara/cedera mata).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q048",
+        "number": 48,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin 3 (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam menerapkan prinsip Understanding by Design (UbD) pada unit pembelajaran 'Proses Pengelasan Sambungan Tumpul (Butt Joint)', keselarasan (constructive alignment) antar-elemen modul ajar tampak apabila ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Tujuan pembelajaran menekankan kemampuan merencanakan parameter WPS, melaksanakan las posisi 1G aman K3, dan mengevaluasi cacat visual."
+          },
+          {
+            "id": "B",
+            "text": "Instrumen asesmen berupa rubrik kinerja las, uji inspeksi visual, dan lembar analisis penyebab cacat — bukan sekadar tes hafalan definisi."
+          },
+          {
+            "id": "C",
+            "text": "Aktivitas belajar dirancang bertahap dari simulasi penyetelan arus, latihan penyalaan busur, pengelasan pelat uji, hingga inspeksi peer review."
+          },
+          {
+            "id": "D",
+            "text": "Tujuan menuntut keterampilan praktik mengelas 1G, tetapi asesmen akhir hanya berupa 50 soal pilihan ganda teori tanpa praktik."
+          },
+          {
+            "id": "E",
+            "text": "Refleksi akhir mengaitkan hasil uji las murid kembali ke kriteria standar keberterimaan pada tujuan awal."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "E"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Konsep Inti (Constructive Alignment dalam UbD): Keselarasan tercapai bila tujuan kinerja (A), bukti asesmen kinerja (B), aktivitas latihan bertahap (C), dan refleksi berbasis kriteria (E) saling mengunci. Ketidakcocokan tujuan praktik dengan tes teori semata (D) melanggar alignment.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q049",
+        "number": 49,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin 3 (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Saat menyusun instrumen penilaian sikap kerja industri (work ethics & safety attitude) di bengkel Teknik Mesin, metode dan indikator yang valid meliputi ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Lembar observasi terstruktur dengan indikator teramati (kepatuhan memakai APD tanpa diingatkan, mengembalikan alat ke shadow board, mencatat data QC jujur)."
+          },
+          {
+            "id": "B",
+            "text": "Catatan anekdotal guru atas perilaku keselamatan kritis maupun inisiatif kerja sama yang muncul di bengkel."
+          },
+          {
+            "id": "C",
+            "text": "Penilaian diri dan refleksi murid mengenai kedisiplinan 5R serta tanggung jawab tim."
+          },
+          {
+            "id": "D",
+            "text": "Menilai sikap kerja hanya dari apakah murid selalu tersenyum di depan guru."
+          },
+          {
+            "id": "E",
+            "text": "Soal pilihan ganda yang menanyakan definisi kata 'disiplin' dan 'jujur' sebagai pengganti observasi bengkel."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Konsep Inti (Asesmen Sikap Kerja Vokasi — P.6): Sikap kerja industri diukur dari perilaku nyata yang teramati melalui lembar observasi berindikator (A), catatan anekdotal (B), dan refleksi diri (C), bukan kesan superfisial (D) atau hafalan definisi (E).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q050",
+        "number": 50,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin 3 (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam penerapan budaya kerja 5R (Ringkas, Rapi, Resik, Rawat, Rajin) di bengkel pemesinan SMK, contoh implementasi yang tepat pada setiap tahapnya adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Ringkas (Seiri): memilah dan menyingkirkan alat rusak, pahat patah, serta potongan bahan tak terpakai dari area kerja mesin."
+          },
+          {
+            "id": "B",
+            "text": "Rapi (Seiton): menata kunci cekam, jangka sorong, dan pahat pada tempat berlabel/shadow board sehingga mudah ditemukan dan dikembalikan."
+          },
+          {
+            "id": "C",
+            "text": "Resik (Seiso): membersihkan beram logam, tumpahan oli, dan debu pada bed mesin segera setelah selesai praktik sekaligus mengecek kebocoran."
+          },
+          {
+            "id": "D",
+            "text": "Rawat & Rajin (Seiketsu & Shitsuke): menetapkan standar checksheet 5R harian dan membiasakan audit kebersihan rutin oleh seluruh warga bengkel."
+          },
+          {
+            "id": "E",
+            "text": "Menyembunyikan seluruh alat yang berantakan ke dalam laci tertutup hanya ketika ada tamu akreditasi datang."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Konsep Inti (Budaya Kerja Industri 5R/5S — PF.5): Kelima pilar 5R (A–D) membentuk kebiasaan keselamatan dan efisiensi berkelanjutan. Menyembunyikan kekacauan saat inspeksi (E) melanggar prinsip Seiri dan Shitsuke.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q051",
+        "number": 51,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin 3 (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Seorang guru Teknik Mesin merencanakan Penelitian Tindakan Kelas (PTK) untuk mengatasi rendahnya ketepatan murid membaca gambar proyeksi potongan bertingkat. Ciri-ciri rancangan PTK yang sahih dan etis antara lain ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Diawali identifikasi masalah nyata dari data evaluasi kelas yang diampu guru sendiri."
+          },
+          {
+            "id": "B",
+            "text": "Memiliki siklus terencana (Perencanaan → Pelaksanaan Tindakan → Observasi → Refleksi) minimal dua siklus perbaikan."
+          },
+          {
+            "id": "C",
+            "text": "Melibatkan rekan sejawat (guru Teknik Mesin lain) sebagai kolaborator/observer agar pengamatan proses pembelajaran lebih objektif."
+          },
+          {
+            "id": "D",
+            "text": "Memanipulasi nilai siklus kedua agar terlihat naik drastis demi memenuhi target publikasi ilmiah."
+          },
+          {
+            "id": "E",
+            "text": "Menggunakan instrumen tes pemahaman gambar dan lembar observasi keterlibatan murid yang valid."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "E"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Konsep Inti (PTK & Integritas Riset Guru — PF.5, K.2): PTK berangkat dari masalah kelas sendiri (A), bersiklus (B), kolaboratif untuk objektivitas (C), dan memakai instrumen valid (E). Rekayasa data (D) adalah pelanggaran berat etika akademik.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q052",
+        "number": 52,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin 3 (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam pembelajaran kolaboratif kelompok bengkel yang anggotanya beragam latar belakang dan kemampuan, strategi guru agar tidak terjadi dominasi satu orang maupun 'penumpang gratis' (free rider) adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menetapkan peran spesifik yang dirotasi (operator mesin, inspektor QC/alat ukur, petugas K3 & pencatat parameter, koordinator 5R)."
+          },
+          {
+            "id": "B",
+            "text": "Menerapkan akuntabilitas ganda: ada target produk kelompok sekaligus asesmen unjuk kerja/verifikasi pemahaman masing-masing individu."
+          },
+          {
+            "id": "C",
+            "text": "Menyusun ukuran kelompok proporsional sesuai kapasitas mesin dan ruang kerja aman (misalnya 2–3 orang per stasiun mesin)."
+          },
+          {
+            "id": "D",
+            "text": "Memberikan nilai kelompok yang persis sama tanpa pernah mengecek keterlibatan tiap anggota."
+          },
+          {
+            "id": "E",
+            "text": "Melakukan refleksi singkat pembagian kontribusi bersama kelompok di akhir sesi."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "E"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Konsep Inti (Pembelajaran Kooperatif — Johnson & Johnson / P.3): Akuntabilitas individu + ketergantungan positif diwujudkan lewat rotasi peran (A), verifikasi individu (B), ukuran kelompok aman (C), dan evaluasi proses tim (E).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q053",
+        "number": 53,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin 3 (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Ketika mengajarkan topik 'Pemilihan Parameter Pemotongan pada Mesin Bubut dan Frais', miskonsepsi umum murid yang perlu diantisipasi dan diremediasi guru meliputi ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Anggapan bahwa kecepatan putar spindel (RPM) selalu sama untuk semua diameter benda kerja meskipun materialnya sama."
+          },
+          {
+            "id": "B",
+            "text": "Anggapan bahwa semakin dalam pemakanan (depth of cut) dan semakin besar gerak makan (feed), permukaan benda kerja otomatis semakin halus."
+          },
+          {
+            "id": "C",
+            "text": "Pemahaman bahwa pahat karbida (carbide) umumnya dapat dioperasikan pada kecepatan potong (Vc) lebih tinggi dibandingkan pahat HSS untuk material yang sama."
+          },
+          {
+            "id": "D",
+            "text": "Anggapan bahwa arah aliran cairan pendingin tidak perlu diarahkan ke zona pemotongan (ujung mata pahat)."
+          },
+          {
+            "id": "E",
+            "text": "Pemahaman bahwa diameter benda kerja lebih kecil memerlukan putaran spindel (RPM) lebih tinggi untuk mempertahankan kecepatan potong (Vc) yang sama."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "D"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Konsep Inti (Identifikasi Miskonsepsi PCK Pemesinan — PF.2): Pernyataan A, B, dan D adalah miskonsepsi yang keliru (RPM berbanding terbalik dengan diameter; feed/depth besar membuat permukaan lebih kasar; coolant harus menyasar zona potong). Sebaliknya, C dan E adalah konsep ilmiah/teknis yang BENAR sehingga tidak perlu diremediasi.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q054",
+        "number": 54,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin 3 (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam menerapkan komunikasi empatik dan kemitraan dengan orang tua/wali murid SMK Teknik Mesin (Kompetensi Sosial S.1 & S.2), praktik yang tepat adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Mengawali laporan perkembangan belajar dengan menyampaikan potensi/kekuatan murid sebelum mendiskusikan hambatan praktik yang perlu dukungan bersama."
+          },
+          {
+            "id": "B",
+            "text": "Menggunakan bahasa yang jelas, santun, dan mudah dipahami orang tua (menghindari jargon teknik rumit tanpa penjelasan)."
+          },
+          {
+            "id": "C",
+            "text": "Menyampaikan hasil evaluasi kedisiplinan atau kendala belajar individual murid melalui jalur komunikasi personal/privat."
+          },
+          {
+            "id": "D",
+            "text": "Menyalahkan pola asuh orang tua secara terbuka di grup WhatsApp kelas ketika nilai praktik anaknya rendah."
+          },
+          {
+            "id": "E",
+            "text": "Mengundang orang tua pada pameran produk Teaching Factory atau sosialisasi persiapan PKL untuk memperkuat dukungan keluarga."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "E"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Konsep Inti (Komunikasi Empatik & Kemitraan Orang Tua — S.1, S.2): Pendekatan berbasis kekuatan (A), bahasa komunikatif (B), menjaga privasi lewat jalur personal (C), dan melibatkan orang tua dalam momen positif sekolah (E) membangun kemitraan harmonis.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q055",
+        "number": 55,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin 3 (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pada praktikum pengukuran dimensi menggunakan jangka sorong (vernier caliper) ketelitian 0,05 mm dan 0,02 mm, sumber kesalahan pengukuran (measurement error) yang wajib dilatih pencegahannya kepada murid adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Kesalahan paralaks akibat posisi mata tidak tegak lurus terhadap garis skala nonius saat membaca."
+          },
+          {
+            "id": "B",
+            "text": "Kesalahan nol (zero error) atau kotoran/beram menempel pada permukaan rahang ukur saat merapatkan rahang."
+          },
+          {
+            "id": "C",
+            "text": "Tekanan penjepitan rahang yang berlebihan sehingga rahang melentur atau benda kerja lunak tertekan."
+          },
+          {
+            "id": "D",
+            "text": "Posisi rahang ukur miring (tidak tegak lurus terhadap sumbu diameter benda kerja)."
+          },
+          {
+            "id": "E",
+            "text": "Membersihkan benda kerja dan rahang ukur dengan kain bersih sebelum memulai pengukuran."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Konsep Inti (PCK Metrologi — Sumber Kesalahan Ukur): Paralaks (A), kotoran/zero error (B), gaya ukur berlebihan (C), dan posisi rahang miring (D) adalah sumber kesalahan pengukuran yang harus dicegah. Opsi E adalah prosedur pencegahan yang benar, bukan sumber kesalahan.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q056",
+        "number": 56,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin 3 (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Guru ingin merancang aktivitas 'Pembelajaran Berbasis Fenomena' pada mata pelajaran Mekanika Teknik & Elemen Mesin agar murid antusias sejak menit pertama. Fenomena nyata yang tepat dijadikan pemantik (anchoring phenomenon) antara lain ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Mengamati mengapa baut roda kendaraan besar dibuka menggunakan kunci berpegangan panjang atau pipa sambungan dibanding kunci pendek (konsep momen torsi)."
+          },
+          {
+            "id": "B",
+            "text": "Membandingkan bentuk penampang balok baja profil I (I-beam) pada rangka crane/jembatan dibanding batang pejal persegi dengan berat sama (momen inersia & kekuatan lentur)."
+          },
+          {
+            "id": "C",
+            "text": "Mengamati mengapa poros bertingkat dengan sudut tajam (tanpa radius fillet) jauh lebih cepat patah saat menerima beban putar (konsentrasi tegangan/fatigue)."
+          },
+          {
+            "id": "D",
+            "text": "Meminta murid menghafalkan urutan halaman daftar isi buku Mekanika Teknik selama 15 menit."
+          },
+          {
+            "id": "E",
+            "text": "Menunjukkan perbedaan arah putar rangkaian dua vs tiga roda gigi sederhana untuk memicu pertanyaan tentang roda gigi perantara (idler gear)."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "E"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Konsep Inti (Phenomenon-Based Learning dalam Teknik Mesin): Fenomena konkret kunci baut (A), profil I-beam (B), konsentrasi tegangan sudut tajam (C), dan idler gear (E) memicu rasa ingin tahu dan nalar rekayasa sebelum formalisasi rumus.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q057",
+        "number": 57,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin 3 (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam mengimplementasikan Kurikulum Merdeka dan Projek Penguatan Profil Pelajar Pancasila (P5) bertema Kebekerjaan di SMK Teknik Mesin, praktik yang bermakna dan autentik meliputi ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Mengajak murid memetakan budaya kerja industri (5R, K3, integritas mutu, komunikasi tim) melalui wawancara praktisi/alumni industri manufaktur."
+          },
+          {
+            "id": "B",
+            "text": "Melatih penyusunan portofolio karya proyek bengkel dan simulasi wawancara kerja teknis secara kolaboratif."
+          },
+          {
+            "id": "C",
+            "text": "Mendorong murid merefleksikan kekuatan diri, rencana pengembangan kompetensi, dan etika kerja profesional."
+          },
+          {
+            "id": "D",
+            "text": "Mengisi seluruh jam P5 hanya dengan menyalin makalah dari internet tanpa aktivitas kontekstual maupun refleksi."
+          },
+          {
+            "id": "E",
+            "text": "Mengintegrasikan pameran karya/gelar proyek bersama mitra DUDI dan orang tua sebagai selebrasi belajar."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "E"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Konsep Inti (P5 Tema Kebekerjaan SMK): Wawancara budaya kerja DUDI (A), portofolio & simulasi kerja (B), refleksi perencanaan karier (C), dan pameran karya bersama mitra (E) mengembangkan kesiapan kerja dan karakter secara utuh.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q058",
+        "number": 58,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin 3 (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pada praktikum perawatan sistem pneumatik dan kompresor bengkel, tindakan perawatan preventif yang tepat diajarkan kepada murid adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Membuang air kondensasi (draining) dari tangki kompresor dan mangkuk filter udara secara berkala untuk mencegah korosi dan kerusakan katup."
+          },
+          {
+            "id": "B",
+            "text": "Memeriksa level oli pada unit lubricator (FRL) dan kondisi oli kompresor sesuai jadwal checksheet."
+          },
+          {
+            "id": "C",
+            "text": "Mendeteksi kebocoran udara pada sambungan selang menggunakan larutan air sabun secara aman."
+          },
+          {
+            "id": "D",
+            "text": "Membuka katup pengaman (safety relief valve) lalu menyumbatnya rapat agar tekanan tangki bisa naik melebihi batas spesifikasi."
+          },
+          {
+            "id": "E",
+            "text": "Memeriksa ketegangan dan keausan sabuk penggerak kompresor dalam kondisi sumber daya listrik terisolasi (LOTO)."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "E"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Konsep Inti (Perawatan Preventif Kompresor & Pneumatik): Draining kondensat (A), cek oli FRL/kompresor (B), deteksi bocor dengan air sabun (C), dan cek sabuk saat LOTO (E) adalah prosedur aman. Menyumbat safety relief valve (D) berisiko ledakan tangki bertekanan!",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q059",
+        "number": 59,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin 3 (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Manakah praktik penggunaan media digital dan sumber belajar daring yang menunjukkan literasi digital kritis (P.4) pada jurusan Teknik Mesin?"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Memverifikasi tabel kecepatan potong (Vc) dari katalog resmi produsen pahat (seperti Sandvik, Mitsubishi, atau buku teks standar) daripada blog anonim tanpa referensi."
+          },
+          {
+            "id": "B",
+            "text": "Mencantumkan sumber rujukan standar (ISO, JIS, DIN, AWS, SNI) secara jujur saat menyusun jobsheet atau laporan proyek."
+          },
+          {
+            "id": "C",
+            "text": "Memanfaatkan simulator CNC/CAD/Pneumatik legal atau open-source untuk latihan pengujian rancangan sebelum eksekusi bengkel."
+          },
+          {
+            "id": "D",
+            "text": "Mengunduh dan mengklaim model CAD karya orang lain dari komunitas daring sebagai desain orisinal sendiri."
+          },
+          {
+            "id": "E",
+            "text": "Mengecek keabsahan satuan (metrik mm vs imperial inch) ketika mengambil referensi parameter pemesinan dari situs luar negeri."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "E"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Konsep Inti (Literasi Digital Kritis & Etika Akademik — P.4, K.1): Verifikasi otoritas sumber/katalog (A), sitasi standar jujur (B), penggunaan simulator aman (C), dan validasi satuan metrik-imperial (E) adalah keterampilan digital kritis; klaim karya orang lain (D) adalah plagiarisme.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q060",
+        "number": 60,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin 3 (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Seorang guru Teknik Mesin menerapkan asesmen formatif secara berkesinambungan selama 3 pertemuan praktik pembuatan poros eksentrik. Strategi asesmen formatif yang efektif meliputi ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Pengecekan awal gambar kerja & rencana langkah kerja (operation plan) sebelum murid memotong bahan baku."
+          },
+          {
+            "id": "B",
+            "text": "Observasi langsung saat murid menyetel pencekaman rahang-4 independen dengan dial indicator beserta umpan balik korektif segera."
+          },
+          {
+            "id": "C",
+            "text": "Penggunaan pertanyaan pemantik lisan saat istirahat singkat untuk memeriksa pemahaman alasan urutan pembubutan."
+          },
+          {
+            "id": "D",
+            "text": "Exit ticket di akhir pertemuan pertama untuk memetakan kesulitan terbesar kelas sebelum pertemuan kedua."
+          },
+          {
+            "id": "E",
+            "text": "Memasukkan setiap kesalahan latihan pertemuan pertama langsung sebagai hukuman nilai final rapor tanpa kesempatan perbaikan."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Konsep Inti (Asesmen Formatif Berkesinambungan — P.6): Cek rencana kerja (A), observasi + koreksi segera (B), tanya jawab konseptual (C), dan exit ticket (D) mendukung perbaikan belajar real-time, bukan menghukum kesalahan proses di awal sebagai nilai final (E).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q061",
+        "number": 61,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin 3 (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam menerapkan Hukum Efek (Law of Effect) Thorndike dan penguatan positif Skinner secara sehat di bengkel, hal-hal yang sebaiknya dilakukan guru adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Memberikan umpan balik penguatan segera ketika murid menunjukkan kepatuhan prosedur K3 atau peningkatan ketelitian pengukuran."
+          },
+          {
+            "id": "B",
+            "text": "Menghargai proses usaha dan kemajuan (progress-based praise), bukan hanya memuji murid yang sejak awal sudah pintar."
+          },
+          {
+            "id": "C",
+            "text": "Menghindari hukuman yang mempermalukan atau melukai martabat murid karena dapat memicu ketakutan terhadap mesin dan menghindari belajar."
+          },
+          {
+            "id": "D",
+            "text": "Mengaitkan keberhasilan praktik dengan konsekuensi positif nyata seperti kepercayaan mengerjakan tahap lanjut atau peran asisten QC."
+          },
+          {
+            "id": "E",
+            "text": "Menunggu hingga pembagian rapor tiga bulan kemudian baru memberi tahu murid apakah prosedur kerjanya benar atau salah."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Konsep Inti (Law of Effect & Penguatan Positif Konstruktif): Umpan balik segera (A), apresiasi kemajuan proses (B), menghindari hukuman punitif/mempermalukan (C), dan penghargaan tanggung jawab (D) memperkuat motivasi belajar intrinsik dan kebiasaan aman.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q062",
+        "number": 62,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin 3 (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pada topik 'Proses Pengecoran Logam dan Pembentukan Pelat (Sheet Metal)', prinsip pembelajaran kontekstual (Contextual Teaching and Learning / CTL) yang tepat diterapkan guru adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Mengaitkan konsep sudut tekuk (bend allowance) dan springback dengan proses pembuatan bodi panel, kotak perkakas, atau talang logam sehari-hari."
+          },
+          {
+            "id": "B",
+            "text": "Memfasilitasi inkuiri sederhana menggunakan pelat tipis aluminium/seng aman untuk mengukur perbedaan sudut tekuk aktual vs sudut cetakan akibat springback."
+          },
+          {
+            "id": "C",
+            "text": "Membangun komunitas belajar (learning community) melalui diskusi kelompok membandingkan rancangan bentangan (development drawing)."
+          },
+          {
+            "id": "D",
+            "text": "Mengajak murid melakukan refleksi hubungan antara sifat elastis material dan kompensasi sudut tekukan."
+          },
+          {
+            "id": "E",
+            "text": "Hanya mendiktekan definisi pengecoran pasir tanpa gambar, contoh produk, maupun keterkaitan dunia nyata."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Konsep Inti (7 Pilar CTL — Contextual Teaching and Learning): Keterkaitan konteks nyata (A), inkuiri & konstruktivisme (B), learning community (C), dan refleksi bermakna (D) mencerminkan pembelajaran kontekstual utuh.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q063",
+        "number": 63,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin 3 (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Ketika seorang murid menunjukkan gejala kelelahan berat atau pusing saat berada di bengkel pengelasan yang hangat, langkah tanggap cepat guru sesuai prinsip K3 dan kepedulian terhadap murid (K.3) adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Segera menghentikan pekerjaan las murid tersebut, mematikan mesin las, dan membawanya ke area sejuk berventilasi baik/UKS."
+          },
+          {
+            "id": "B",
+            "text": "Memastikan keselamatan murid lain yang masih berada di bengkel tetap terawasi atau menunda sementara operasi mesin berisiko bila guru mendampingi ke UKS."
+          },
+          {
+            "id": "C",
+            "text": "Memeriksa kondisi sirkulasi udara, exhaust asap las, dan ketersediaan air minum/jeda istirahat di bengkel."
+          },
+          {
+            "id": "D",
+            "text": "Menyuruhnya tetap menuntaskan sisa pelat las terlebih dahulu supaya target jam praktik tercapai."
+          },
+          {
+            "id": "E",
+            "text": "Berkomunikasi dengan tim UKS dan orang tua bila kondisi memerlukan tindak lanjut medis."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "E"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Konsep Inti (K3 Darurat & Keberpihakan pada Keselamatan Murid — K.3): Keselamatan dan kesehatan murid selalu di atas target praktik (D salah). Guru menghentikan operasi aman (A), menjaga pengawasan bengkel (B), mengevaluasi faktor lingkungan/ventilasi (C), serta berkoordinasi dengan UKS/orang tua (E).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q064",
+        "number": 64,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin 3 (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam menerapkan pembelajaran berbasis proyek (PjBL) di SMK Teknik Mesin agar benar-benar mengembangkan keterampilan berpikir tingkat tinggi dan kolaborasi, elemen desain proyek yang wajib ada adalah ..."
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Pertanyaan pemantik/tantangan rekayasa terbuka (driving question) yang relevan dengan kebutuhan nyata."
+          },
+          {
+            "id": "B",
+            "text": "Kemandirian suara dan pilihan murid (voice and choice) dalam merancang alternatif solusi mekanis sesuai batasan teknis."
+          },
+          {
+            "id": "C",
+            "text": "Proses kritik, uji coba, dan revisi berkelanjutan (critique and revision) berdasarkan umpan balik guru, teman, dan data pengukuran."
+          },
+          {
+            "id": "D",
+            "text": "Presentasi produk akhir kepada audiens autentik (guru, rekan, teknisi, atau mitra DUDI) disertai pertanggungjawaban teknis."
+          },
+          {
+            "id": "E",
+            "text": "Seluruh ukuran, desain, dan jawaban akhir sudah dibuatkan guru secara seragam sehingga murid tinggal menyalin tanpa berpikir."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Konsep Inti (Gold Standard PjBL — Buck Institute / P.1, P.5): Driving question autentik (A), voice & choice (B), siklus uji & revisi berbasis kritik (C), serta publikasi/presentasi produk (D) adalah elemen esensial PjBL.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q065",
+        "number": 65,
+        "type": "multiple",
+        "section": "PCK Teknik Mesin 3 (PGK MCMA)",
+        "formatLabel": "PGK MCMA",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Manakah keputusan guru yang mencerminkan integritas profesi, etika pengelolaan sarana bengkel, dan keteladanan moral (K.1 & K.3)?"
+          }
+        ],
+        "options": [
+          {
+            "id": "A",
+            "text": "Menggunakan bahan baku praktik dan dana operasional bengkel secara transparan dan akuntabel khusus untuk kepentingan belajar murid."
+          },
+          {
+            "id": "B",
+            "text": "Memberikan penilaian objektif sesuai bukti kinerja dan rubrik kepada seluruh murid tanpa membedakan latar belakang sosial ekonomi maupun kekerabatan."
+          },
+          {
+            "id": "C",
+            "text": "Menjadi teladan konsisten dengan selalu memakai APD lengkap (kacamata safety, sepatu safety, baju bengkel rapi) setiap kali memasuki area praktik."
+          },
+          {
+            "id": "D",
+            "text": "Mengakui secara jujur jika terjadi kekeliruan dalam soal atau perhitungan contoh di papan tulis dan segera memperbaikinya bersama murid."
+          },
+          {
+            "id": "E",
+            "text": "Meminta murid membayar iuran pribadi tak resmi agar nilai praktiknya dinaikkan menjadi tuntas."
+          }
+        ],
+        "correctAnswer": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "minSelections": 1,
+        "maxSelections": 5,
+        "instruction": "Pilih semua jawaban yang benar.",
+        "explanation": "Konsep Inti (Kode Etik & Keteladanan Guru — K.1, K.3): Akuntabilitas sarana (A), objektivitas penilaian (B), keteladanan nyata memakai APD (C), dan kejujuran intelektual (D) adalah wujud integritas guru; pungutan tak resmi demi nilai (E) adalah pelanggaran berat kode etik.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q066",
+        "number": 66,
+        "type": "category",
+        "section": "PCK Teknik Mesin 3 (PGK Kategori)",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam merancang pembelajaran praktik pembubutan poros bertingkat menggunakan prinsip Understanding by Design (UbD) dan diferensiasi (P.1 & P.2), perhatikan beberapa praktik guru berikut."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan SESUAI atau TIDAK SESUAI setiap praktik pembelajaran berikut dengan prinsip UbD dan diferensiasi!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Guru merumuskan rubrik kinerja dan batas toleransi produk terlebih dahulu sebelum menyusun urutan latihan harian di bengkel."
+          },
+          {
+            "id": "B",
+            "text": "Guru memberikan variasi dukungan proses (panduan ceklis bagi pemula dan tantangan optimasi parameter bagi murid mahir) menuju standar capaian kompetensi yang sama."
+          },
+          {
+            "id": "C",
+            "text": "Guru menurunkan standar keselamatan K3 mesin bubut khusus bagi kelompok pemula agar tidak merasa terbebani."
+          },
+          {
+            "id": "D",
+            "text": "Guru menggunakan hasil asesmen awal metrologi untuk mengelompokkan pendampingan secara fleksibel sesuai perkembangan murid."
+          }
+        ],
+        "categories": [
+          {
+            "id": "sesuai",
+            "text": "Sesuai"
+          },
+          {
+            "id": "tidak-sesuai",
+            "text": "Tidak Sesuai"
+          }
+        ],
+        "correctAnswer": {
+          "A": "sesuai",
+          "B": "sesuai",
+          "C": "tidak-sesuai",
+          "D": "sesuai"
+        },
+        "explanation": "A) Sesuai: Menentukan bukti asesmen sebelum aktivitas adalah tahap ke-2 UbD. B) Sesuai: Diferensiasi proses tetap menjaga tujuan kompetensi yang sama. C) Tidak Sesuai: Standar keselamatan K3 bersifat mutlak dan tidak pernah boleh diturunkan. D) Sesuai: Pengelompokan fleksibel berbasis asesmen awal selaras dengan TaRL dan diferensiasi.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q067",
+        "number": 67,
+        "type": "category",
+        "section": "PCK Teknik Mesin 3 (PGK Kategori)",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pada pembelajaran pengelasan SMAW dan GMAW di bengkel fabrikasi, guru membimbing murid menerapkan prosedur keselamatan kerja (K3) dan pengelolaan lingkungan bengkel."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan BENAR atau SALAH pernyataan K3 pengelasan berikut!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Pekerjaan pengelasan wajib dipisahkan dengan tirai/sekat pelindung (welding screen) agar percikan dan radiasi busur tidak mencederai mata murid lain di sekitar area."
+          },
+          {
+            "id": "B",
+            "text": "Menyalakan busur listrik pada pelat yang sebelumnya dibersihkan memakai pelarut mudah terbakar tanpa menunggu kering dan berventilasi aman diperbolehkan selama memakai sarung tangan."
+          },
+          {
+            "id": "C",
+            "text": "Tabung gas pelindung bertekanan (Argon/CO₂) harus selalu ditempatkan tegak dan diikat rantai pengaman pada dinding atau troli tabung."
+          },
+          {
+            "id": "D",
+            "text": "Kacamata bening biasa (clear safety glasses) sudah cukup untuk melihat langsung busur las listrik SMAW secara aman."
+          }
+        ],
+        "categories": [
+          {
+            "id": "benar",
+            "text": "Benar"
+          },
+          {
+            "id": "salah",
+            "text": "Salah"
+          }
+        ],
+        "correctAnswer": {
+          "A": "benar",
+          "B": "salah",
+          "C": "benar",
+          "D": "salah"
+        },
+        "explanation": "A) Benar: Tirai las melindungi lingkungan bengkel dari paparan radiasi UV/IR (arc eye) dan percikan api. B) Salah: Uap pelarut mudah terbakar dapat memicu ledakan/kebakaran saat terkena busur listrik. C) Benar: Pengikatan tabung mencegah jatuh yang dapat mematahkan katup bertekanan tinggi. D) Salah: Melihat busur las wajib memakai kaca filter gelap (welding shade lens, umumnya shade 10–12).",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q068",
+        "number": 68,
+        "type": "category",
+        "section": "PCK Teknik Mesin 3 (PGK Kategori)",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Seorang guru Teknik Mesin menerapkan berbagai konsep teori belajar PPG saat mengajar pemesinan dan metrologi di kelas X dan XI."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan TEPAT atau TIDAK TEPAT pasangan situasi bengkel dan teori belajar PPG berikut!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Murid baru mampu menyetel pahat senter dengan bantuan ceklis dan pertanyaan pemandu guru, lalu perlahan dilepas mandiri → Scaffolding dalam ZPD (Lev Vygotsky)."
+          },
+          {
+            "id": "B",
+            "text": "Guru mengawali bab Sistem Pelumasan dengan peta konsep hubungan gesekan, keausan, viskositas, dan umur bantalan untuk mengaitkan pengetahuan lama murid → Advance Organizer (David Ausubel)."
+          },
+          {
+            "id": "C",
+            "text": "Murid mempelajari proyeksi gambar teknik dari memegang balok 3D nyata → menggambar tampak di kertas → membaca simbol ISO → Tahap Enaktif–Ikonik–Simbolik (Jerome Bruner)."
+          },
+          {
+            "id": "D",
+            "text": "Guru memberi hukuman fisik push-up setiap kali murid salah membaca skala nonius agar refleksnya membaik → Pendekatan Humanistik (Carl Rogers)."
+          }
+        ],
+        "categories": [
+          {
+            "id": "tepat",
+            "text": "Tepat"
+          },
+          {
+            "id": "tidak-tepat",
+            "text": "Tidak Tepat"
+          }
+        ],
+        "correctAnswer": {
+          "A": "tepat",
+          "B": "tepat",
+          "C": "tepat",
+          "D": "tidak-tepat"
+        },
+        "explanation": "A) Tepat: ZPD & scaffolding Vygotsky. B) Tepat: Advance organizer Ausubel. C) Tepat: Tiga moda representasi Bruner. D) Tidak Tepat: Hukuman fisik bertentangan total dengan pendekatan humanistik Rogers yang menekankan empati, rasa aman, dan penghargaan martabat murid.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q069",
+        "number": 69,
+        "type": "category",
+        "section": "PCK Teknik Mesin 3 (PGK Kategori)",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam melaksanakan asesmen pembelajaran vokasi Teknik Mesin (P.6), guru membedakan peran asesmen diagnostik, formatif (Assessment for Learning), refleksi diri (Assessment as Learning), dan sumatif (Assessment of Learning)."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan BENAR atau SALAH pernyataan prinsip asesmen berikut!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Asesmen diagnostik awal membantu guru memetakan penguasaan prasyarat membaca alat ukur dan pemahaman K3 sebelum praktik mesin dimulai."
+          },
+          {
+            "id": "B",
+            "text": "Setiap kesalahan kecil pada latihan formatif pertama wajib langsung dihitung permanen mengurangi nilai rapor akhir tanpa kesempatan perbaikan."
+          },
+          {
+            "id": "C",
+            "text": "Membagikan dan membahas rubrik penilaian kinerja bersama murid sebelum praktik membantu murid memahami ekspektasi mutu dan mengarahkan kerja mandirinya."
+          },
+          {
+            "id": "D",
+            "text": "Hasil uji kompetensi sumatif tidak hanya berguna menentukan ketuntasan murid, tetapi juga menjadi data evaluasi bagi guru untuk memperbaiki rancangan mengajar semester depan."
+          }
+        ],
+        "categories": [
+          {
+            "id": "benar",
+            "text": "Benar"
+          },
+          {
+            "id": "salah",
+            "text": "Salah"
+          }
+        ],
+        "correctAnswer": {
+          "A": "benar",
+          "B": "salah",
+          "C": "benar",
+          "D": "benar"
+        },
+        "explanation": "A) Benar: Fungsi asesmen diagnostik adalah pemetaan kesiapan belajar awal. B) Salah: Asesmen formatif berfungsi memperbaiki proses belajar (assessment for learning), bukan menghukum permanen kesalahan latihan awal. C) Benar: Transparansi rubrik mendukung assessment as learning. D) Benar: Hasil sumatif juga menjadi umpan balik reflektif bagi guru.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q070",
+        "number": 70,
+        "type": "category",
+        "section": "PCK Teknik Mesin 3 (PGK Kategori)",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam pemanfaatan teknologi digital dan kecerdasan artifisial (AI generatif) pada pembelajaran CAD/CAM dan CNC (P.4 & PF.5), guru menetapkan pedoman etika dan literasi digital."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan ETIS atau TIDAK ETIS praktik pemanfaatan teknologi berikut!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Murid menggunakan AI untuk menjelaskan arti kode M03, M05, dan G71, lalu memverifikasinya pada buku manual kontroler mesin CNC bengkel."
+          },
+          {
+            "id": "B",
+            "text": "Murid meminta AI membuatkan laporan data hasil inspeksi pengukuran mikrometer fiktif karena lupa mengukur benda kerja di bengkel."
+          },
+          {
+            "id": "C",
+            "text": "Murid menguji G-code hasil latihannya pada perangkat lunak simulator grafis untuk mendeteksi potensi tabrakan pahat sebelum dry run di mesin nyata."
+          },
+          {
+            "id": "D",
+            "text": "Murid mengunduh file gambar 3D CAD milik orang lain dari internet, mengganti nama di etiket, dan mengakuinya sebagai karya rancangan pribadinya."
+          }
+        ],
+        "categories": [
+          {
+            "id": "etis",
+            "text": "Etis"
+          },
+          {
+            "id": "tidak-etis",
+            "text": "Tidak Etis"
+          }
+        ],
+        "correctAnswer": {
+          "A": "etis",
+          "B": "tidak-etis",
+          "C": "etis",
+          "D": "tidak-etis"
+        },
+        "explanation": "A) Etis: AI dipakai sebagai asisten belajar disertai verifikasi silang pada manual primer. B) Tidak Etis: Fabrikasi data pengukuran melanggar kejujuran ilmiah dan integritas QC. C) Etis: Simulasi mencegah kecelakaan dan memperdalam pemahaman teknis. D) Tidak Etis: Mengklaim desain orang lain adalah plagiarisme.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q071",
+        "number": 71,
+        "type": "category",
+        "section": "PCK Teknik Mesin 3 (PGK Kategori)",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pada praktikum metrologi industri dan pembacaan toleransi suaian ISO (PF.2), guru memeriksa pemahaman konseptual murid mengenai alat ukur dan suaian."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan BENAR atau SALAH pernyataan teknis metrologi dan suaian berikut!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Untuk memeriksa poros dengan toleransi Ø30 ±0,02 mm, mikrometer luar (resolusi 0,01 mm) jauh lebih sesuai dibandingkan mistar baja (resolusi 1 mm)."
+          },
+          {
+            "id": "B",
+            "text": "Pada sistem basis lubang (hole basis), huruf kapital H (misalnya H7) menunjukkan bahwa penyimpangan bawah lubang bernilai nol (ukuran minimum lubang tepat sama dengan ukuran nominal)."
+          },
+          {
+            "id": "C",
+            "text": "Suaian longgar (clearance fit) terjadi ketika ukuran maksimum poros selalu lebih besar daripada ukuran minimum lubang."
+          },
+          {
+            "id": "D",
+            "text": "Pengukuran diameter benda kerja pada mesin bubut hanya boleh dilakukan setelah putaran spindel berhenti total."
+          }
+        ],
+        "categories": [
+          {
+            "id": "benar",
+            "text": "Benar"
+          },
+          {
+            "id": "salah",
+            "text": "Salah"
+          }
+        ],
+        "correctAnswer": {
+          "A": "benar",
+          "B": "benar",
+          "C": "salah",
+          "D": "benar"
+        },
+        "explanation": "A) Benar: Resolusi alat ukur harus jauh lebih teliti dari rentang toleransi (aturan 1/10). B) Benar: Pada basis lubang H, EI (lower deviation) = 0. C) Salah: Jika poros selalu lebih besar dari lubang, itu adalah suaian paksa/sesak (interference fit), bukan suaian longgar. D) Benar: Syarat mutlak K3 pengukuran di mesin bubut.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q072",
+        "number": 72,
+        "type": "category",
+        "section": "PCK Teknik Mesin 3 (PGK Kategori)",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Guru menerapkan prinsip Pembelajaran Mendalam (Deep Learning: berkesadaran, bermakna, dan menggembirakan) di kelas dan bengkel Teknik Mesin (P.3)."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan SESUAI atau TIDAK SESUAI praktik guru berikut dengan prinsip Pembelajaran Mendalam!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Guru membimbing murid memantau sendiri kepatuhan K3, akurasi tiap tahap sayatan, dan merefleksikan perbaikan strateginya (Berkesadaran/Mindful)."
+          },
+          {
+            "id": "B",
+            "text": "Guru mengaitkan proyek pembuatan komponen mekanik dengan permasalahan nyata bengkel/UMKM sekitar sekolah (Bermakna/Meaningful)."
+          },
+          {
+            "id": "C",
+            "text": "Guru mengisi 40 menit jam praktik dengan permainan lelucon bebas yang tidak berhubungan dengan kompetensi mesin semata agar murid tertawa (Menggembirakan/Joyful)."
+          },
+          {
+            "id": "D",
+            "text": "Guru menciptakan iklim bengkel yang aman dari ejekan sehingga murid berani bertanya ketika ragu menyetel mesin sebelum terjadi kecelakaan (Menggembirakan & Berkesadaran)."
+          }
+        ],
+        "categories": [
+          {
+            "id": "sesuai",
+            "text": "Sesuai"
+          },
+          {
+            "id": "tidak-sesuai",
+            "text": "Tidak Sesuai"
+          }
+        ],
+        "correctAnswer": {
+          "A": "sesuai",
+          "B": "sesuai",
+          "C": "tidak-sesuai",
+          "D": "sesuai"
+        },
+        "explanation": "A) Sesuai: Regulasi diri & refleksi adalah inti mindful learning. B) Sesuai: Relevansi kontekstual membangun meaningful learning. C) Tidak Sesuai: Joyful learning adalah kegembiraan intelektual dalam belajar bermakna, bukan hiburan tanpa tujuan belajar. D) Sesuai: Keamanan psikologis mendukung keberanian bertanya dan keselamatan bengkel.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q073",
+        "number": 73,
+        "type": "category",
+        "section": "PCK Teknik Mesin 3 (PGK Kategori)",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam pengelolaan perawatan mesin perkakas dan penerapan Lockout/Tagout (LOTO) di bengkel sekolah (PF.5), perhatikan prosedur berikut."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan TEPAT atau TIDAK TEPAT prosedur perawatan dan LOTO berikut!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Memutus sakelar isolasi daya utama, memasang gembok LOTO pribadi beserta label petugas, dan menguji tombol START untuk memastikan energi nol sebelum memperbaiki transmisi mesin."
+          },
+          {
+            "id": "B",
+            "text": "Mengizinkan murid lain melepas gembok LOTO milik teknisi yang sedang istirahat agar mesin bisa segera dipakai praktik."
+          },
+          {
+            "id": "C",
+            "text": "Membersihkan beram tajam di sekitar meja mesin frais memakai kuas dan pengait beram, bukan tangan kosong."
+          },
+          {
+            "id": "D",
+            "text": "Menjalankan mesin bubut dengan pelindung roda gigi (gearbox cover) terbuka agar murid bisa langsung memegang roda gigi saat berputar."
+          }
+        ],
+        "categories": [
+          {
+            "id": "tepat",
+            "text": "Tepat"
+          },
+          {
+            "id": "tidak-tepat",
+            "text": "Tidak Tepat"
+          }
+        ],
+        "correctAnswer": {
+          "A": "tepat",
+          "B": "tidak-tepat",
+          "C": "tepat",
+          "D": "tidak-tepat"
+        },
+        "explanation": "A) Tepat: Urutan standar LOTO mencakup isolasi, penguncian/pelabelan, dan verifikasi energi nol. B) Tidak Tepat: Gembok LOTO hanya boleh dilepas oleh petugas pemasangnya setelah memastikan seluruh personel aman. C) Tepat: Beram logam sangat tajam dan panas sehingga wajib dibersihkan memakai kuas/chip hook. D) Tidak Tepat: Pelindung bagian berputar wajib tertutup saat mesin hidup.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q074",
+        "number": 74,
+        "type": "category",
+        "section": "PCK Teknik Mesin 3 (PGK Kategori)",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Seorang guru Teknik Mesin membangun budaya kolaborasi di ekosistem sekolah dan dunia kerja (Kompetensi Sosial S.2 & S.3)."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan TEPAT atau TIDAK TEPAT bentuk kolaborasi berikut!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Bekerja sama dengan teknisi/toolman bengkel menyusun jadwal kalibrasi alat ukur, pengecekan APAR, dan tata kelola peminjaman alat 5R."
+          },
+          {
+            "id": "B",
+            "text": "Berkolaborasi dengan guru BK dan wali kelas untuk mendampingi murid yang mengalami kecemasan berlebih saat mengoperasikan mesin perkakas."
+          },
+          {
+            "id": "C",
+            "text": "Menolak keterlibatan mitra DUDI dalam penyelarasan jobsheet dan rubrik UKK karena dianggap mencampuri otonomi guru."
+          },
+          {
+            "id": "D",
+            "text": "Berbagi modul ajar troubleshooting dan melakukan lesson study terbuka bersama rekan sejawat di forum MGMP Teknik Mesin."
+          }
+        ],
+        "categories": [
+          {
+            "id": "tepat",
+            "text": "Tepat"
+          },
+          {
+            "id": "tidak-tepat",
+            "text": "Tidak Tepat"
+          }
+        ],
+        "correctAnswer": {
+          "A": "tepat",
+          "B": "tepat",
+          "C": "tidak-tepat",
+          "D": "tepat"
+        },
+        "explanation": "A) Tepat: Sinergi dengan tenaga kependidikan/toolman memperkuat mutu & K3 bengkel. B) Tepat: Kolaborasi lintas peran internal mendukung kesehatan mental dan belajar murid. C) Tidak Tepat: DUDI adalah mitra strategis utama pendidikan vokasi (link and match). D) Tepat: Perwujudan aktif S.3 dalam komunitas profesi.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q075",
+        "number": 75,
+        "type": "category",
+        "section": "PCK Teknik Mesin 3 (PGK Kategori)",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pada pembelajaran 'Perlakuan Panas (Heat Treatment) dan Pemilihan Material Teknik', guru melatih pemahaman konseptual murid mengenai sifat logam."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan BENAR atau SALAH pernyataan konseptual material teknik berikut!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Proses hardening melalui pendinginan cepat (quenching) pada baja karbon sedang umumnya meningkatkan kekerasan, tetapi cenderung menurunkan keuletan sehingga sering diikuti proses tempering."
+          },
+          {
+            "id": "B",
+            "text": "Proses annealing (pelunakan dengan pendinginan lambat di dalam tungku) bertujuan menurunkan tegangan sisa dan memudahkan proses pemesinan (machinability)."
+          },
+          {
+            "id": "C",
+            "text": "Baja karbon rendah (seperti baja ST37 / AISI 1018) dapat dikeraskan secara ekstrem hanya dengan dipanaskan lalu dicelup air tanpa proses pengerasan permukaan (case hardening/karburisasi)."
+          },
+          {
+            "id": "D",
+            "text": "Pemilihan material komponen mesin perlu mempertimbangkan fungsi beban, lingkungan kerja (suhu/korosi), kemudahan pemesinan, serta biaya."
+          }
+        ],
+        "categories": [
+          {
+            "id": "benar",
+            "text": "Benar"
+          },
+          {
+            "id": "salah",
+            "text": "Salah"
+          }
+        ],
+        "correctAnswer": {
+          "A": "benar",
+          "B": "benar",
+          "C": "salah",
+          "D": "benar"
+        },
+        "explanation": "A) Benar: Quenching menghasilkan martensit keras-getas sehingga tempering diperlukan untuk mengembalikan ketangguhan. B) Benar: Annealing melunakkan baja dan menghilangkan tegangan sisa. C) Salah: Baja karbon rendah memiliki kadar karbon terlalu kecil (<0,25%) untuk membentuk martensit keras lewat quenching langsung; perlu karburisasi/case hardening. D) Benar: Prinsip rekayasa pemilihan material.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q076",
+        "number": 76,
+        "type": "category",
+        "section": "PCK Teknik Mesin 3 (PGK Kategori)",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam menjaga profesionalisme, integritas, dan etika komunikasi guru Teknik Mesin (Kompetensi Kepribadian K.1–K.2 & Sosial S.1), perhatikan perilaku guru berikut."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan ETIS atau TIDAK ETIS setiap perilaku guru berikut!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Menyampaikan pengumuman jadwal praktik dan kelengkapan APD di grup WhatsApp orang tua dengan bahasa santun, ringkas, dan pada jam kerja yang wajar."
+          },
+          {
+            "id": "B",
+            "text": "Mengirimkan daftar nama murid yang belum tuntas praktik disertai komentar merendahkan di grup WhatsApp umum orang tua agar orang tuanya malu."
+          },
+          {
+            "id": "C",
+            "text": "Menolak dengan santun permintaan pihak tertentu untuk menaikkan nilai praktik seorang murid yang belum memenuhi standar kompetensi, sambil menawarkan jadwal remedial terbuka."
+          },
+          {
+            "id": "D",
+            "text": "Mencantumkan sumber kredit secara jujur saat mengadaptasi jobsheet atau animasi pembelajaran karya guru lain dari platform berbagi."
+          }
+        ],
+        "categories": [
+          {
+            "id": "etis",
+            "text": "Etis"
+          },
+          {
+            "id": "tidak-etis",
+            "text": "Tidak Etis"
+          }
+        ],
+        "correctAnswer": {
+          "A": "etis",
+          "B": "tidak-etis",
+          "C": "etis",
+          "D": "etis"
+        },
+        "explanation": "A) Etis: Komunikasi publik terstruktur, santun, dan menghargai waktu. B) Tidak Etis: Mempermalukan murid/keluarga di ruang publik melanggar privasi dan martabat (S.1/K.1). C) Etis: Menjaga objektivitas & integritas penilaian sambil tetap berpihak pada kesempatan belajar murid. D) Etis: Menghargai hak cipta dan integritas akademik.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q077",
+        "number": 77,
+        "type": "category",
+        "section": "PCK Teknik Mesin 3 (PGK Kategori)",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pada pengelolaan proyek Teaching Factory (TeFa) dan Project-Based Learning (PjBL) di jurusan Teknik Mesin, perhatikan prinsip pelaksanaan berikut."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan SESUAI atau TIDAK SESUAI pernyataan pelaksanaan TeFa/PjBL berikut!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Murid dilibatkan secara aktif mulai dari membaca gambar pesanan, merencanakan langkah kerja, memproduksi komponen, hingga melakukan inspeksi mutu (QC)."
+          },
+          {
+            "id": "B",
+            "text": "Produk pesanan industri dikerjakan sepenuhnya oleh guru dan teknisi di luar jam pelajaran sementara murid hanya diminta menandatangani laporan kehadiran."
+          },
+          {
+            "id": "C",
+            "text": "Kesalahan dimensi pada sampel uji pertama dianalisis bersama kelompok untuk perbaikan proses sebelum produksi lanjutan."
+          },
+          {
+            "id": "D",
+            "text": "Pelaksanaan proyek menyertakan jadwal monitoring berkala, rubrik penilaian proses & produk, serta refleksi akhir pembelajaran."
+          }
+        ],
+        "categories": [
+          {
+            "id": "sesuai",
+            "text": "Sesuai"
+          },
+          {
+            "id": "tidak-sesuai",
+            "text": "Tidak Sesuai"
+          }
+        ],
+        "correctAnswer": {
+          "A": "sesuai",
+          "B": "tidak-sesuai",
+          "C": "sesuai",
+          "D": "sesuai"
+        },
+        "explanation": "A) Sesuai: Keterlibatan utuh murid dari perencanaan hingga QC adalah esensi TeFa. B) Tidak Sesuai: Menghilangkan esensi pembelajaran murid. C) Sesuai: Pengendalian mutu dan iterasi perbaikan berbasis bukti. D) Sesuai: Monitoring, rubrik holistik, dan refleksi menjamin mutu belajar PjBL/TeFa.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q078",
+        "number": 78,
+        "type": "category",
+        "section": "PCK Teknik Mesin 3 (PGK Kategori)",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Guru mengevaluasi rancangan umpan balik (feedback) yang diberikan kepada murid selama praktik pemesinan frais dan gambar teknik (P.6)."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan TEPAT atau TIDAK TEPAT contoh kalimat umpan balik guru berikut!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "'Dimensi panjang dan kesejajaran sisimu sudah masuk toleransi ±0,05 mm, bagus! Namun pada sudut alur masih ada burr tajam; coba periksa kehalusan tepi dan lakukan deburring memakai kikir halus.'"
+          },
+          {
+            "id": "B",
+            "text": "'Gambarmu salah total, perbaiki lagi sampai benar tanpa perlu bertanya.'"
+          },
+          {
+            "id": "C",
+            "text": "'Coba bandingkan arah proyeksi tampak samping pada gambarmu dengan simbol proyeksi Eropa di etiket; menurutmu tampak kanan seharusnya diletakkan di sebelah mana?'"
+          },
+          {
+            "id": "D",
+            "text": "'Kerja bagus sekali, pokoknya lanjutkan terus!' (padahal posisi pencekaman benda kerja di ragum tampak miring dan tidak aman)."
+          }
+        ],
+        "categories": [
+          {
+            "id": "tepat",
+            "text": "Tepat"
+          },
+          {
+            "id": "tidak-tepat",
+            "text": "Tidak Tepat"
+          }
+        ],
+        "correctAnswer": {
+          "A": "tepat",
+          "B": "tidak-tepat",
+          "C": "tepat",
+          "D": "tidak-tepat"
+        },
+        "explanation": "A) Tepat: Spesifik, mengapresiasi capaian, menunjuk kekurangan konkret, dan memberi langkah perbaikan jelas. B) Tidak Tepat: Terlalu umum, tidak informatif, dan mematahkan motivasi. C) Tepat: Umpan balik reflektif dengan pertanyaan pemantik. D) Tidak Tepat: Pujian kosong yang mengabaikan kesalahan K3 dan teknis fatal.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q079",
+        "number": 79,
+        "type": "category",
+        "section": "PCK Teknik Mesin 3 (PGK Kategori)",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Dalam penyelenggaraan bengkel Teknik Mesin yang inklusif dan berpihak pada keragaman murid (P.2 & K.3), perhatikan tindakan guru berikut."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan SESUAI atau TIDAK SESUAI tindakan guru dengan prinsip pembelajaran inklusif!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Menyediakan instruksi SOP bergambar besar, kode warna tahapan, dan demonstrasi jelas sehingga mudah diakses murid dengan hambatan membaca maupun hambatan pendengaran ringan."
+          },
+          {
+            "id": "B",
+            "text": "Memastikan murid perempuan dan laki-laki memperoleh rotasi kesempatan yang setara untuk menjadi operator mesin bubut, frais, las, maupun koordinator QC."
+          },
+          {
+            "id": "C",
+            "text": "Menempatkan murid dengan kecepatan belajar lebih lambat di pojok ruangan tanpa pernah diberi giliran mencoba mesin demi mengejar target waktu kelas."
+          },
+          {
+            "id": "D",
+            "text": "Mengidentifikasi kebutuhan dukungan individual melalui asesmen awal serta berkoordinasi dengan guru BK/wali kelas bila diperlukan akomodasi khusus."
+          }
+        ],
+        "categories": [
+          {
+            "id": "sesuai",
+            "text": "Sesuai"
+          },
+          {
+            "id": "tidak-sesuai",
+            "text": "Tidak Sesuai"
+          }
+        ],
+        "correctAnswer": {
+          "A": "sesuai",
+          "B": "sesuai",
+          "C": "tidak-sesuai",
+          "D": "sesuai"
+        },
+        "explanation": "A) Sesuai: Aksesibilitas instruksi multimodal (UDL). B) Sesuai: Kesetaraan gender dan akses pengalaman belajar. C) Tidak Sesuai: Praktik eksklusif yang melanggar hak belajar dan keadilan. D) Sesuai: Kolaborasi dukungan inklusif berbasis asesmen awal.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q080",
+        "number": 80,
+        "type": "category",
+        "section": "PCK Teknik Mesin 3 (PGK Kategori)",
+        "formatLabel": "PGK Kategori",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Guru mengevaluasi kualitas soal pilihan ganda HOTS literasi teknik yang disusun untuk ujian sumatif Teknik Mesin (P.6 & PF.4)."
+          },
+          {
+            "type": "text",
+            "text": "Tentukan BENAR atau SALAH ciri butir soal HOTS Teknik Mesin yang baik berikut!"
+          }
+        ],
+        "statements": [
+          {
+            "id": "A",
+            "text": "Memuat stimulus fungsional (seperti gambar kerja berdimensi, grafik tegangan-regangan, atau data hasil inspeksi cacat) yang harus dianalisis untuk menemukan jawaban."
+          },
+          {
+            "id": "B",
+            "text": "Dapat dijawab langsung hanya dengan menghafal satu definisi di buku teks tanpa perlu membaca data atau gambar stimulus yang disajikan."
+          },
+          {
+            "id": "C",
+            "text": "Menggunakan opsi pengecoh yang disusun dari miskonsepsi umum murid di bengkel sehingga mampu membedakan murid yang benar-benar paham dari yang menebak."
+          },
+          {
+            "id": "D",
+            "text": "Menggunakan simbol, satuan SI/ISO, dan istilah keteknikan yang baku serta kalimat pertanyaan yang jelas dan tidak multitafsir."
+          }
+        ],
+        "categories": [
+          {
+            "id": "benar",
+            "text": "Benar"
+          },
+          {
+            "id": "salah",
+            "text": "Salah"
+          }
+        ],
+        "correctAnswer": {
+          "A": "benar",
+          "B": "salah",
+          "C": "benar",
+          "D": "benar"
+        },
+        "explanation": "A) Benar: Stimulus HOTS harus fungsional dan menuntut penalaran. B) Salah: Jika stimulus hanya pajangan dan bisa dijawab dengan hafalan definisi, soal itu tergolong LOTS (C1). C) Benar: Pengecoh berbasis miskonsepsi meningkatkan daya beda soal. D) Benar: Kaidah bahasa dan standar notasi baku wajib dipenuhi.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q081",
+        "number": 81,
+        "type": "essay",
+        "section": "PCK Teknik Mesin 3 (Esai)",
+        "formatLabel": "Uraian",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Pada pembelajaran praktik pengelasan SMAW dan GMAW di kelas XI Teknik Mesin, guru menemukan dua masalah sekaligus: (1) sebagian besar murid masih meyakini miskonsepsi bahwa 'menambah arus las setinggi mungkin dan menaikkan laju aliran gas pelindung semaksimal mungkin selalu menghasilkan lasan paling kuat dan bersih', padahal di benda uji mereka banyak muncul cacat undercut, burn-through (tembus berlubang), dan porositas; (2) beberapa murid tampak minder dan enggan maju menyalakan busur las karena takut percikan bunga api dan khawatir ditertawakan temannya jika elektroda lengket (sticking).\n\nPertanyaan:\nBagaimana Anda merancang strategi pembelajaran remedial dan penguatan keterampilan pengelasan tersebut dengan mengintegrasikan konsep teknis pengelasan, K3 bengkel las, serta minimal tiga teori belajar PPG (misalnya Piaget, Kolb, Bandura, atau Humanistik) dan rancangan asesmennya?"
+          }
+        ],
+        "correctAnswer": "",
+        "explanation": "Contoh Jawaban Ideal:\n1. Diagnosis Masalah Teknis & Psikologis:\n- Masalah konseptual/teknis: miskonsepsi bahwa arus dan debit gas tertinggi selalu terbaik, padahal arus terlalu tinggi memicu undercut dan burn-through, sedangkan debit gas terlalu tinggi pada GMAW memicu aliran turbulen yang menyedot udara luar sehingga timbul porositas.\n- Masalah afektif/psikologis: rendahnya efikasi diri (self-efficacy) dan ketakutan terhadap percikan api serta ejekan teman.\n\n2. Integrasi Teori Belajar PPG:\n- Pendekatan Humanistik (Maslow & Rogers): Memprioritaskan keamanan fisik (cek menyeluruh APD: topeng las shade sesuai, sarung tangan kulit, apron, sepatu safety, tirai las, exhaust asap) dan keamanan psikologis (menegakkan norma bebas ejekan dan membingkai elektroda lengket sebagai tahap wajar pemula).\n- Teori Belajar Sosial Bandura (Modeling & Self-Efficacy): Guru mendemonstrasikan penyalaan busur, jarak busur (arc length), sudut elektroda, dan setelan WPS secara tenang (atensi–retensi), memberi latihan bertahap dari bead-on-plate pelat tebal ke sambungan agar tercipta pengalaman keberhasilan (mastery experience), serta memodelkan keberhasilan teman sebaya (vicarious experience).\n- Teori Piaget (Konflik Kognitif/Akomodasi) & Siklus Experiential Learning David Kolb:\n  (a) Concrete Experience: Kelompok menguji 3 variasi setelan (arus/debit gas terlalu rendah, optimal sesuai WPS, dan terlalu tinggi) pada pelat uji.\n  (b) Reflective Observation: Murid mengamati langsung bentuk rigi las, undercut, burn-through, dan porositas lalu mendiskusikan perbedaannya.\n  (c) Abstract Conceptualization: Terjadi akomodasi konsep bahwa kualitas las ditentukan keseimbangan parameter sesuai ketebalan pelat, jenis elektroda, dan aliran gas laminar pada WPS.\n  (d) Active Experimentation: Murid menerapkan setelan optimal hasil analisis pada benda uji baru dan memverifikasi hasilnya.\n\n3. Rancangan Asesmen Autentik:\n- Formatif selama proses (observasi postur, K3, umpan balik spesifik pada tiap rigi las).\n- Assessment as Learning (lembar inspeksi visual mandiri/peer review memakai mal las/welding gauge dan jurnal refleksi).\n- Sumatif kinerja berbasis rubrik analitik mencakup kepatuhan K3, ketepatan setelan parameter WPS, hasil inspeksi visual bebas cacat kritis, dan kemampuan menjelaskan alasan teknisnya.\n\nKata Kunci / Rubrik Penilaian:\nMiskonsepsi arus & turbulensi gas pelindung (undercut, burn-through, porositas, WPS) – K3 & APD las – Humanistik (keamanan psikologis) – Bandura (modeling, mastery/vicarious experience, self-efficacy) – Piaget (konflik kognitif/akomodasi) – Kolb (4 tahap experiential learning) – asesmen formatif, peer/self-assessment (welding gauge), dan rubrik kinerja analitik.",
+        "sourcePages": [
+          1
+        ],
+        "questionSourcePages": [
+          1
+        ],
+        "answerKeySourcePages": [
+          1
+        ],
+        "explanationSourcePages": [
+          1
+        ]
+      },
+      {
+        "id": "teknik-mesin-to-3-q082",
+        "number": 82,
+        "type": "essay",
+        "section": "PCK Teknik Mesin 3 (Esai)",
+        "formatLabel": "Uraian",
+        "parts": [
+          {
+            "type": "text",
+            "text": "Di sebuah SMK Teknik Mesin, kepala program meminta Anda merancang modul ajar proyek selama 4 minggu untuk kelas XII bertema 'Pembuatan Komponen Dudukan Bantalan (Pillow Block Housing Sederhana) Standar Industri' dengan pola Teaching Factory (TeFa). Di dalam kelas berisi 28 murid tersebut terdapat: 1 murid dengan hambatan pendengaran ringan, 6 murid dengan kesiapan sangat cepat yang sudah mahir CAD/CAM & mesin frais, 15 murid berkemampuan menengah, dan 6 murid yang masih kesulitan membaca gambar kerja potongan serta mengatur langkah kerja secara runtut. Bengkel hanya memiliki 4 unit mesin frais konvensional dan 2 unit mesin CNC Milling yang aktif.\n\nPertanyaan:\nRancanglah desain pembelajaran yang menyeluruh menggunakan kerangka Understanding by Design (UbD), pembelajaran berdiferensiasi inklusif, manajemen stasiun bengkel yang aman K3/5R, serta keterlibatan kolaboratif ekosistem sekolah/DUDI!"
+          }
+        ],
+        "correctAnswer": "",
+        "explanation": "Contoh Jawaban Ideal:\n1. Tahap 1 UbD — Tujuan Pembelajaran & Pemahaman Bermakna:\n- Menetapkan capaian utama: murid mampu membaca gambar kerja potongan komponen dudukan bantalan, merencanakan operation plan & parameter potong, memproduksi komponen sesuai toleransi lubang bantalan dengan kepatuhan penuh K3/5R, dan memverifikasi mutu (QC).\n\n2. Tahap 2 UbD — Bukti Asesmen Autentik (Disusun Sebelum Aktivitas):\n- Kinerja proses & produk menggunakan rubrik analitik (perencanaan gambar & parameter, kepatuhan K3/LOTO/5R, ketepatan proses frais/CNC, hasil pengukuran QC memakai dial bore gauge/mikrometer/jangka sorong, serta laporan refleksi troubleshooting).\n- Asesmen diagnostik awal (membaca gambar potongan & kesiapan K3), asesmen formatif di tiap milestone (verifikasi gambar/simulasi sebelum potong), dan Assessment as Learning (lembar QC mandiri & peer review).\n\n3. Tahap 3 UbD — Pengalaman Belajar Berdiferensiasi, Inklusif, & Teori Belajar (Vygotsky & Bruner):\n- Akomodasi Inklusif (murid tunarungu ringan): briefing di area tenang saat mesin mati dengan posisi menghadap langsung (kontak mata & artikulasi jelas), SOP & rambu K3 visual bergambar, lampu indikator peringatan darurat visual, serta pasangan kerja suportif.\n- Diferensiasi & Scaffolding (Vygotsky/TaRL & Bruner): 6 murid yang kesulitan gambar potongan dibimbing dengan model fisik potong & tampilan 3D exploded view (enaktif → ikonik → simbolik) serta ceklis langkah bertahap; 15 murid menengah mendapat umpan balik pada verifikasi datum & parameter potong; 6 murid mahir diberi pengayaan validasi program CAM/CNC, optimasi waktu siklus, dan peran koordinator inspeksi QC (MKO).\n\n4. Manajemen Bengkel K3/5R (Station Rotation 4 Stasiun × 7 Murid, berpasangan aman):\n- Stasiun 1: Analisis Gambar Kerja, CAD/CAM & Simulasi Collision.\n- Stasiun 2: Pemesinan Frais Konvensional (4 unit mesin, pengawasan K3 ketat & rotasi peran operator/pengukur).\n- Stasiun 3: Pemesinan CNC Milling (2 unit, wajib dry run & single block).\n- Stasiun 4: Inspeksi Mutu (QC), Deburring, Perawatan Harian TPM, & Audit 5R.\n\n5. Kolaborasi Ekosistem Sekolah & DUDI:\n- Toolman/teknisi (kalibrasi alat ukur, kesiapan mesin, pengelolaan limbah coolant/beram B3), guru BK/wali kelas (dukungan inklusi), dan mitra DUDI (validasi gambar kerja standar industri, guru tamu QC, serta umpan balik produk akhir).\n\nKata Kunci / Rubrik Penilaian:\nUbD (3 tahap backward design: tujuan, bukti rubrik, rencana belajar) – inklusi tunarungu ringan (visual SOP, kontak mata, lampu indikator) – diferensiasi konten/proses/pengayaan (Vygotsky/TaRL/Bruner) – manajemen bengkel station rotation (4 frais + 2 CNC) – K3, dry run, 5R, TPM – kolaborasi toolman/BK/DUDI – asesmen diagnostik, formatif, QC, dan refleksi.",
         "sourcePages": [
           1
         ],
